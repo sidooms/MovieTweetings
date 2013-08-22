@@ -306,6 +306,7 @@
 0039589::Lured (1947)::Crime|Film-Noir|Mystery|Thriller
 0039631::Monsieur Verdoux (1947)::Comedy|Crime|Drama
 0039677::Odd Man Out (1947)::Crime|Drama|Film-Noir|Romance|Thriller
+0039689::Out of the Past (1947)::Drama|Film-Noir|Thriller
 0039694::The Paradine Case (1947)::Crime|Drama|Romance|Thriller
 0039761::Repeat Performance (1947)::Drama|Film-Noir|Mystery
 0039822::Le silence de la mer (1949)::Drama|Romance|War
@@ -339,6 +340,7 @@
 0041423::El gran calavera (1949)::Comedy
 0041546::Kind Hearts and Coronets (1949)::Comedy|Crime
 0041587::A Letter to Three Wives (1949)::Drama|Romance
+0041652::Miss Grant Takes Richmond (1949)::Comedy
 0041699::Nora inu (1949)::Crime|Drama|Film-Noir|Thriller
 0041716::On the Town (1949)::Comedy|Musical|Romance
 0041718::One Last Fling (1949)::Comedy|Romance
@@ -459,6 +461,7 @@
 0047478::Shichinin no samurai (1954)::Action|Adventure|Drama
 0047522::A Star Is Born (1954)::Drama|Musical|Romance
 0047528::La strada (1954)::Drama
+0047542::Suddenly (1954)::Crime|Drama|Film-Noir|Romance|Thriller
 0047573::Them! (1954)::Horror|Sci-Fi
 0047577::This Island Earth (1955)::Horror|Sci-Fi
 0047669::West of Zanzibar (1954)::Adventure
@@ -897,12 +900,14 @@
 0062229::Le samouraï (1967)::Crime|Drama|Mystery|Thriller
 0062271::Signore & signori (1966)::Comedy
 0062430::Valley of the Dolls (1967)::Drama|Music|Romance
+0062467::Wait Until Dark (1967)::Crime|Drama|Horror|Thriller
 0062512::You Only Live Twice (1967)::Action|Adventure|Crime|Thriller
 0062622::2001: A Space Odyssey (1968)::Adventure|Mystery|Sci-Fi
 0062687::Astérix et Cléopâtre (1968)::Animation|Adventure|Comedy|Family|History
 0062688::Attack on the Iron Coast (1968)::Action|Drama|War
 0062690::O Ritual dos Sádicos (1970)::Drama|Horror
 0062711::Barbarella (1968)::Action|Adventure|Comedy|Fantasy|Sci-Fi
+0062741::The Blood of Fu Manchu (1968)::Adventure|Crime|Horror|Sci-Fi
 0062765::Bullitt (1968)::Action|Mystery|Thriller
 0062803::Chitty Chitty Bang Bang (1968)::Comedy|Family|Fantasy|Musical|Sci-Fi
 0062804::Chronik der Anna Magdalena Bach (1968)::Biography|History|Music
@@ -1369,6 +1374,7 @@
 0076929::Wizards (1977)::Animation|Adventure|Fantasy|Sci-Fi
 0077132::Ai no borei (1978)::Drama|Horror|Romance|Thriller
 0077235::Big Wednesday (1978)::Comedy|Drama|Sport
+0077247::The Incredible Torture Show (1976)::Horror
 0077269::The Boys from Brazil (1978)::Drama|Sci-Fi|Thriller
 0077272::Brass Target (1978)::Action|Drama|Mystery|Thriller
 0077288::La cage aux folles (1978)::Comedy
@@ -2388,6 +2394,7 @@
 0100502::RoboCop 2 (1990)::Action|Crime|Drama|Sci-Fi|Thriller
 0100507::Rocky V (1990)::Drama|Sport
 0100508::Rodrigo D: No futuro (1990)::Crime|Drama|Music
+0100514::The Rookie (1990)::Action|Comedy|Crime|Drama|Thriller
 0100602::A Shock to the System (1990)::Comedy|Crime|Thriller
 0100606::A Show of Force (1990)::Drama|Thriller
 0100624::Sink or Swim (1990)::Documentary
@@ -2723,6 +2730,7 @@
 0109303::Blown Away (1994)::Action|Thriller
 0109340::The Browning Version (1994)::Drama
 0109348::Bullets Over Broadway (1994)::Comedy|Drama
+0109357::C Blok (1994)::Drama
 0109368::Camilla (1994)::Drama
 0109369::Camp Nowhere (1994)::Family|Adventure|Comedy
 0109410::ChickenHawk (1994)::Documentary|Crime
@@ -4426,6 +4434,7 @@
 0309593::Final Destination 2 (2003)::Horror|Mystery
 0309622::The Gatekeeper (2002)::Drama
 0309698::Identity (2003)::Mystery|Thriller
+0309912::Nicholas Nickleby (2002)::Drama|Romance
 0309986::Paper Soldiers (2002)::Action|Comedy|Crime
 0309987::The Dreamers (2003)::Drama|Romance
 0310000::Pido nunmuldo eobshi (2002)::Drama|Action
@@ -4906,6 +4915,7 @@
 0380623::The Perfect Man (2005)::Comedy|Family|Romance
 0380817::Winter Passing (2005)::Comedy|Drama
 0381061::Casino Royale (2006)::Action|Crime|Thriller
+0381129::De la calle (1988)::Drama
 0381270::Ils se marièrent et eurent beaucoup d'enfants (2004)::Comedy|Drama|Music
 0381442::Narco (2004)::Comedy
 0381601::Slipstream (2005)::Sci-Fi
@@ -4967,6 +4977,7 @@
 0387131::The Constant Gardener (2005)::Drama|Mystery|Thriller
 0387357::The Locals (2003)::Horror|Thriller
 0387412::Metallica: Some Kind of Monster (2004)::Documentary|Music
+0387514::Prime (2005)::Comedy|Drama|Romance
 0387564::Saw (2004)::Crime|Horror|Mystery
 0387575::Seed of Chucky (2004)::Comedy|Horror|Thriller
 0387808::Idiocracy (2006)::Adventure|Comedy|Sci-Fi|Thriller
@@ -5317,6 +5328,7 @@
 0433386::The Grudge 2 (2006)::Horror|Mystery
 0433387::Harsh Times (2005)::Crime|Drama|Thriller
 0433400::Just Friends (2005)::Comedy|Romance
+0433416::The Namesake (2006)::Drama
 0433442::The Return (2006)::Mystery|Thriller
 0434124::Kinky Boots (2005)::Comedy|Drama|Music
 0434139::The Last Kiss (2006)::Comedy|Drama|Romance
@@ -5388,6 +5400,7 @@
 0444112::Fauteuils d'orchestre (2006)::Comedy|Drama|Romance
 0444182::Indigènes (2006)::Drama|War
 0444505::Torrente 3: El protector (2005)::Comedy|Crime
+0444519::Un ticket pour l'espace (2006)::Comedy|Sci-Fi
 0444653::Keeping Mum (2005)::Comedy|Crime|Drama|Mystery
 0444682::The Reaping (2007)::Horror|Thriller
 0444778::Mah nakorn (2004)::Comedy|Fantasy|Romance
@@ -6535,6 +6548,7 @@
 1068646::Entre les murs (2008)::Drama
 1068649::Il y a longtemps que je t'aime (2008)::Drama
 1068669::Telstar: The Joe Meek Story (2008)::Biography|Drama|Music
+1068678::Veronika Decides to Die (2009)::Drama
 1068680::Yes Man (2008)::Comedy|Romance
 1068956::Khuda Kay Liye (2007)::Crime|Drama|Thriller
 1069238::Okuribito (2008)::Drama|Music
@@ -7621,6 +7635,7 @@
 1499658::Horrible Bosses (2011)::Comedy|Crime
 1499666::Kimssi pyoryugi (2009)::Comedy|Drama|Romance
 1500512::Private Romeo (2011)::Drama
+1502402::Darkening Sky (2010)::Horror|Thriller
 1502404::Drive Angry (2011)::Action|Crime|Fantasy|Thriller
 1502417::Assassins Run (2013)::Action|Crime|Thriller
 1502420::Swinging with the Finkels (2011)::Comedy|Romance
@@ -7729,10 +7744,12 @@
 1536410::Faces in the Crowd (2011)::Crime|Drama|Mystery|Thriller
 1536437::Rushlights (2013)::Crime|Romance|Thriller
 1536440::Stuck Between Stations (2011)::Comedy|Drama|Romance
+1538403::The Mortal Instruments: City of Bones (2013)::Action|Adventure|Drama|Fantasy|Mystery|Romance
 1540005::CLONED: The Recreator Chronicles (2012)::Drama|Sci-Fi|Thriller
 1540074::There Once was an Island: Te Henua e Nnoho (2010)::Documentary
 1540128::Playing for Keeps (2012)::Comedy|Romance
 1540133::The Guard (2011)::Comedy|Crime|Thriller
+1540741::A Single Shot (2013)::Crime|Drama|Thriller
 1540761::Amphibious 3D (2010)::Horror
 1540767::Apartment 1303 3D (2012)::Horror
 1541160::Flypaper (2011)::Comedy|Crime
@@ -7903,6 +7920,7 @@
 1596365::The Woman in Black (2012)::Drama|Horror|Thriller
 1596771::Febbre da fieno (2010)::Romance
 1597522::Astérix et Obélix: Au service de Sa Majesté (2012)::Adventure|Comedy|Family
+1598172::Goat (2013)::Action|Crime
 1598496::Fyra år till (2010)::Comedy|Drama
 1598778::Contagion (2011)::Drama|Sci-Fi|Thriller
 1598822::New Year's Eve (2011)::Comedy|Romance
@@ -8821,6 +8839,7 @@
 1927073::La misura del confine (2011)::Drama
 1927172::True Love (2012)::Thriller
 1928123::Before Dawn (2012)::Horror
+1928189::I più grandi di tutti (2011)::Comedy
 1928330::Bad Ass (2012)::Action|Drama
 1928335::Kill 'em All (2012)::Action|Crime|Thriller
 1929308::Magic Magic (2013)::Thriller
@@ -8950,6 +8969,7 @@
 2004271::King's Faith (2013)::Drama
 2004382::The Ballad of Mott the Hoople (2011)::Documentary|Biography|Music
 2005156::BearCity 2: The Proposal (2012)::Comedy
+2005363::Tekken: Blood Vengeance (2011)::Animation|Action|Sci-Fi
 2005374::The Frozen Ground (2013)::Thriller
 2006040::A Fantastic Fear of Everything (2012)::Comedy
 2006721::Divorce Invitation (2012)::Comedy|Romance
@@ -9455,6 +9475,7 @@
 2247109::Verraaiers (2013)::Drama
 2248566::Alone Up There (2012)::Documentary|Comedy
 2248944::Dos más dos (2012)::Comedy
+2249712::Araf (2012)::Drama
 2250170::Mr. Idol (2011)::Drama
 2250234::SAGA - Curse of the Shadow (2013)::Action|Fantasy
 2250282::Tulpa (2012)::Thriller
@@ -9603,6 +9624,7 @@
 2336960::Inch'Allah (2012)::Drama
 2337765::9:03 (2012)::Short|Drama|Mystery|Thriller
 2337981::Geon-chook-hak-gae-ron (2012)::Romance
+2338044::Chicama (2013)::Drama
 2338173::Radioman (2012)::Documentary
 2338394::Kiss My A$$ with Denis Leary (2012)::Short|Comedy
 2339351::Alyah (2012)::Drama
@@ -10023,6 +10045,7 @@
 2910520::A Wedding Invitation (2013)::Romance
 2912578::Ankur Arora Murder Case (2013)::Drama|Thriller
 2915232::Shotgun Garfunkel (2013)::
+2916526::Miralda the Sacred Stomach (2013)::Documentary
 2917728::Athanasios (2013)::Short|Drama|History|War
 2922382::Neram (2013)::Drama|Romance|Thriller
 2923076::Re-Generator (2013)::Action|Sci-Fi
