@@ -1,6 +1,7 @@
 0002844::Fantômas - À l'ombre de la guillotine (1913)::Crime|Drama
 0004936::The Bank (1915)::Comedy|Short
 0004972::The Birth of a Nation (1915)::Drama|History|Romance|War
+0005078::The Cheat (1915)::Drama
 0007264::The Rink (1916)::Comedy|Short
 0007880::Easy Street (1917)::Short|Comedy
 0008133::The Immigrant (1917)::Short|Comedy|Drama|Romance
@@ -8,6 +9,7 @@
 0011267::Headin' Home (1920)::Biography|Comedy|Drama|Sport
 0011508::Neighbors (1920)::Short|Comedy|Romance
 0011541::One Week (1920)::Short|Comedy
+0011607::Prästänkan (1920)::Comedy|Drama|Horror
 0011717::The Son of Tarzan (1920)::Action|Adventure
 0012349::The Kid (1921)::Comedy|Drama|Family
 0012364::Körkarlen (1921)::Drama|Fantasy|Horror
@@ -997,6 +999,7 @@
 0065761::Il gatto a nove code (1971)::Mystery|Thriller
 0065780::Gimme Shelter (1970)::Documentary|Music
 0065832::Hercules in New York (1969)::Adventure|Family|Fantasy
+0065836::Hi, Mom! (1970)::Comedy
 0065848::L'homme orchestre (1970)::Comedy|Musical
 0065916::Joe (1970)::Drama|Thriller
 0065938::Kelly's Heroes (1970)::Action|Adventure|Comedy|War
@@ -1038,6 +1041,7 @@
 0067140::Giù la testa (1971)::Adventure|Western
 0067185::Harold and Maude (1971)::Comedy|Drama
 0067217::The Hospital (1971)::Comedy|Drama
+0067275::Mad Dogs & Englishmen (1971)::Documentary|Music
 0067277::Johnny Got His Gun (1971)::Drama|War
 0067309::Klute (1971)::Mystery|Thriller
 0067328::The Last Picture Show (1971)::Drama
@@ -1073,6 +1077,7 @@
 0068152::$ (1971)::Crime|Comedy|Drama
 0068182::Aguirre, der Zorn Gottes (1972)::Adventure|Drama|History
 0068205::L'amour l'après-midi (1972)::Drama|Romance
+0068230::Asylum (1972)::Horror|Mystery
 0068278::Die bitteren Tränen der Petra von Kant (1972)::Drama
 0068282::Black Mama, White Mama (1973)::Drama|Thriller|Crime
 0068285::Bless This House (1972)::Comedy
@@ -1110,6 +1115,7 @@
 0069113::The Poseidon Adventure (1972)::Action|Adventure
 0069121::Prime Cut (1972)::Action|Crime|Drama|Thriller
 0069191::Roma (1972)::Comedy|Drama
+0069235::Lo scopone scientifico (1972)::Comedy
 0069280::Slaughterhouse-Five (1972)::Comedy|Drama|Fantasy|Sci-Fi|War
 0069281::Sleuth (1972)::Mystery|Thriller
 0069289::Snoopy Come Home (1972)::Animation|Adventure|Comedy|Drama|Family|Music
@@ -1844,6 +1850,7 @@
 0089175::Fright Night (1985)::Comedy|Horror|Thriller
 0089200::Ghoulies (1985)::Comedy|Fantasy|Horror
 0089218::The Goonies (1985)::Adventure|Comedy|Family
+0089222::Gotcha! (1985)::Action|Comedy|Mystery|Romance
 0089265::The Heavenly Kid (1985)::Comedy|Fantasy|Romance
 0089276::La historia oficial (1985)::Drama|History|War
 0089280::Hobgoblins (1988)::Comedy|Horror|Sci-Fi
@@ -1916,6 +1923,7 @@
 0090570::84 Charing Cross Road (1987)::Biography|Drama|Romance
 0090583::About Last Night... (1986)::Comedy|Drama|Romance
 0090605::Aliens (1986)::Action|Adventure|Sci-Fi|Thriller
+0090633::An American Tail (1986)::Animation|Comedy|Drama|Family|History|Musical
 0090655::April Fool's Day (1986)::Comedy|Horror|Mystery
 0090670::At Close Range (1986)::Crime|Drama|Romance
 0090728::Big Trouble in Little China (1986)::Action|Adventure|Comedy|Fantasy|Horror
@@ -2205,6 +2213,7 @@
 0096487::Young Guns (1988)::Action|Crime|Drama|Thriller|Western
 0096511::Zombi 3 (1988)::Horror|Action
 0096734::The 'Burbs (1989)::Comedy|Horror|Thriller
+0096744::84C MoPic (1989)::Drama|War
 0096754::The Abyss (1989)::Adventure|Drama|Sci-Fi|Thriller
 0096764::The Adventures of Baron Munchausen (1988)::Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi
 0096794::Always (1989)::Fantasy|Romance|Drama
@@ -2723,6 +2732,7 @@
 0109068::Airheads (1994)::Comedy|Music|Crime
 0109117::Andaz Apna Apna (1994)::Comedy
 0109127::Angels in the Outfield (1994)::Comedy|Family|Fantasy|Sport
+0109144::A.P.E.X. (1994)::Action|Sci-Fi
 0109190::Baby's Day Out (1994)::Adventure|Comedy|Crime|Drama|Family
 0109219::Barcelona (1994)::Comedy|Drama|Romance
 0109254::Beverly Hills Cop III (1994)::Action|Comedy|Crime|Thriller
@@ -4827,6 +4837,7 @@
 0369878::AFR (2007)::Documentary|Drama
 0370032::Ultraviolet (2006)::Action|Sci-Fi
 0370263::AVP: Alien vs. Predator (2004)::Action|Adventure|Sci-Fi
+0370477::De dominee (2004)::Biography|Crime|Drama|Thriller
 0370986::Mysterious Skin (2004)::Drama
 0371246::Spanglish (2004)::Comedy|Drama|Romance
 0371257::Stay (2005)::Drama|Mystery|Thriller
@@ -4935,6 +4946,7 @@
 0382810::Little Fish (2005)::Crime|Drama|Romance|Thriller
 0382932::Ratatouille (2007)::Animation|Comedy|Family|Fantasy
 0382966::See This Movie (2004)::Comedy
+0382992::Stealth (2005)::Action|Adventure|Sci-Fi|Thriller
 0383010::The Three Stooges (2012)::Comedy
 0383028::Synecdoche, New York (2008)::Drama
 0383060::Zoom (2006)::Action|Adventure|Family|Sci-Fi
@@ -4957,6 +4969,7 @@
 0385307::Miss Congeniality 2: Armed and Fabulous (2005)::Action|Comedy|Crime
 0385560::Boo (2005)::Horror
 0385568::Bullet Boy (2004)::Drama
+0385700::Final Fantasy VII: Advent Children (2005)::Animation|Action|Sci-Fi|Thriller
 0385705::The Football Factory (2004)::Crime|Drama
 0385726::Glory Road (2006)::Comedy|Drama|Sport
 0385752::The Golden Compass (2007)::Adventure|Family|Fantasy|Sci-Fi
@@ -5024,6 +5037,7 @@
 0395479::Boundin' (2003)::Animation|Short|Family
 0395495::Catch and Release (2006)::Comedy|Drama|Romance
 0395584::The Devil's Rejects (2005)::Horror
+0395585::House of 9 (2005)::Drama|Horror|Mystery|Thriller
 0395699::The Pacifier (2005)::Action|Comedy|Drama|Family|Thriller
 0395972::North Country (2005)::Drama
 0396171::Perfume: The Story of a Murderer (2006)::Drama|Fantasy
@@ -5738,6 +5752,7 @@
 0484740::Love in the Time of Cholera (2007)::Drama|Romance
 0484877::The Pleasure of Your Company (2006)::Comedy|Romance
 0485241::Je vais bien, ne t'en fais pas (2006)::Drama
+0485323::Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono (2005)::Animation|Action|Adventure|Drama
 0485510::Hacivat Karagöz neden öldürüldü? (2006)::Comedy|Drama
 0485601::The Secret of Kells (2009)::Animation|Family|Fantasy
 0485851::The Air I Breathe (2007)::Crime|Drama|Thriller
@@ -6383,6 +6398,7 @@
 0993842::Hanna (2011)::Action|Adventure|Thriller
 0995031::Bhool Bhulaiyaa (2007)::Comedy|Horror|Mystery|Thriller
 0995039::Ghost Town (2008)::Comedy|Fantasy|Romance
+0995740::No Smoking (2007)::Drama|Thriller
 0995851::In Her Skin (2009)::Drama|Thriller
 0996605::Les chansons d'amour (2007)::Drama|Musical|Romance
 0996966::Not Quite Hollywood: The Wild, Untold Story of Ozploitation! (2008)::Documentary
@@ -7310,6 +7326,7 @@
 1361313::The Extra Man (2010)::Comedy
 1361349::Nanga Parbat (2010)::Biography|Drama
 1361835::Das letzte Schweigen (2010)::Crime|Drama|Thriller
+1361843::Van Diemen's Land (2009)::Biography|Drama|History
 1362058::Cockneys vs Zombies (2012)::Comedy|Horror
 1364487::Postia pappi Jaakobille (2009)::Drama
 1366344::The Sitter (2011)::Comedy
@@ -7957,6 +7974,7 @@
 1606378::A Good Day to Die Hard (2013)::Action|Crime|Thriller
 1606384::Mai wei (2011)::Action|Drama|History|War
 1606389::The Vow (2012)::Drama|Romance
+1606390::All Things Fall Apart (2011)::Drama|Sport
 1606392::Win Win (2011)::Comedy|Drama|Sport
 1606829::The Other Dream Team (2012)::Documentary|Sport
 1607583::Shut Up and Kiss Me (2010)::Comedy|Romance
@@ -9458,6 +9476,7 @@
 2240312::Hold Your Breath (2012)::Horror
 2240764::Bad Boy Street (2012)::Drama
 2240784::Planet Ocean (2012)::Documentary
+2241403::Outpost: Rise of the Spetsnaz (2013)::Action|Horror
 2241475::G.B.H. (2012)::Crime
 2241605::Tesis sobre un homicidio (2013)::Thriller
 2241691::Au bout du conte (2013)::Comedy
@@ -9637,6 +9656,7 @@
 2343601::Knuckleball! (2012)::Documentary
 2344672::Kadal (2013)::Drama|Romance
 2344678::Himmatwala (2013)::Action|Comedy
+2345567::Haunter (2013)::Horror|Mystery|Thriller
 2347124::A Tale of Two Pastries (2012)::Short|Comedy
 2347497::Silent Night (2012)::Horror|Mystery|Thriller
 2347569::Frances Ha (2012)::Comedy
@@ -9861,6 +9881,7 @@
 2551580::The Billionaires' Tea Party (2011)::Documentary
 2552498::Jack the Giant Killer (2013)::Action
 2553376::Tokumei Sentai Gôbasutâzu Tai Kaizoku Sentai Gôkaijâ Za Mûbî (2013)::Action
+2553800::¡Cuatro! (2012)::Documentary
 2553908::Cinco de Mayo: La batalla (2013)::War
 2554270::Ta-weo (2012)::Action|Drama
 2558518::We Are Family (2012)::Short|Comedy|Family
