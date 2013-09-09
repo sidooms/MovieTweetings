@@ -84,6 +84,7 @@
 0022834::Downstairs (1932)::Drama
 0022913::Freaks (1932)::Drama|Horror|Thriller
 0022958::Grand Hotel (1932)::Drama|Romance
+0022981::Haunted Gold (1932)::Mystery|Western
 0023158::Love Me Tonight (1932)::Comedy|Musical|Romance
 0023194::The Mask of Fu Manchu (1932)::Adventure|Horror|Sci-Fi
 0023238::The Most Dangerous Game (1932)::Adventure|Mystery|Thriller
@@ -99,12 +100,14 @@
 0023649::Vampyr (1932)::Horror
 0023685::The Wet Parade (1932)::Drama|History|Romance
 0023694::White Zombie (1932)::Horror
+0023775::Baby Face (1933)::Drama|Romance
 0023817::Blondie Johnson (1933)::Crime|Drama
 0023876::Cavalcade (1933)::Drama|Romance|War
 0023902::El compadre Mendoza (1934)::Drama|War
 0023937::Dekigokoro (1933)::Drama
 0023969::Duck Soup (1933)::Comedy|Musical
 0024092::Havana Widows (1933)::Comedy
+0024124::His Private Secretary (1933)::Comedy|Romance
 0024166::I'm No Angel (1933)::Comedy|Musical|Romance
 0024184::The Invisible Man (1933)::Drama|Horror|Sci-Fi|Thriller
 0024188::Island of Lost Souls (1932)::Adventure|Horror|Romance|Sci-Fi
@@ -142,6 +145,7 @@
 0027125::Top Hat (1935)::Comedy|Musical|Romance
 0027133::Traveling Saleslady (1935)::Comedy|Romance
 0027331::Banjo on My Knee (1936)::Comedy|Drama|Romance
+0027462::Conflict (1936)::Drama|Romance
 0027652::Fury (1936)::Crime|Drama|Film-Noir|Romance|Thriller
 0027686::Gold Diggers of 1937 (1936)::Comedy|Musical|Romance
 0027698::The Great Ziegfeld (1936)::Biography|Drama|Musical|Romance
@@ -225,6 +229,7 @@
 0033836::The Little Foxes (1941)::Drama|Romance
 0033867::Maisie Was a Lady (1941)::Comedy|Drama
 0033870::The Maltese Falcon (1941)::Crime|Drama|Film-Noir|Mystery
+0033871::A Man Betrayed (1941)::Crime|Drama|Mystery|Romance
 0033874::The Man Who Came to Dinner (1942)::Comedy|Romance
 0033922::Mr. & Mrs. Smith (1941)::Comedy|Romance
 0033945::Never Give a Sucker an Even Break (1941)::Comedy|Musical
@@ -311,6 +316,7 @@
 0037536::The Bells of St. Mary's (1945)::Drama|Family
 0037549::The Body Snatcher (1945)::Horror|Thriller
 0037558::Brief Encounter (1945)::Romance|Drama
+0037627::Dakota (1945)::Comedy|Western
 0037638::Detour (1945)::Crime|Drama|Film-Noir|Mystery
 0037690::The Falcon in San Francisco (1945)::Crime|Mystery
 0037865::Leave Her to Heaven (1945)::Drama|Thriller
@@ -858,6 +864,7 @@
 0058006::Deus e o Diabo na Terra do Sol (1964)::Adventure|Crime|Drama|Western
 0058022::Dobro pozhalovat, ili postoronnim vkhod vospreshchyon (1964)::Family|Comedy
 0058083::Fail-Safe (1964)::Adventure|Drama|Thriller|War
+0058092::Father Goose (1964)::Adventure|Comedy|Romance|War
 0058138::Gertrud (1964)::Drama
 0058150::Goldfinger (1964)::Action|Adventure|Crime|Thriller
 0058182::A Hard Day's Night (1964)::Comedy|Musical
@@ -983,6 +990,7 @@
 0061418::Bonnie and Clyde (1967)::Biography|Crime|Drama
 0061429::El chuncho, quien sabe? (1966)::Western
 0061452::Casino Royale (1967)::Action|Adventure|Comedy|Thriller
+0061495::La collectionneuse (1967)::Drama|Comedy|Romance
 0061512::Cool Hand Luke (1967)::Crime|Drama
 0061550::Daikyojû Gappa (1967)::Comedy|Horror|Sci-Fi
 0061578::The Dirty Dozen (1967)::Action|Drama|War
@@ -1143,6 +1151,7 @@
 0066565::Beloe solntse pustyni (1970)::Action|Adventure|Comedy|Drama|Romance|War
 0066579::Women in Love (1969)::Drama|Romance
 0066580::Woodstock (1970)::Documentary|History|Music
+0066601::Zabriskie Point (1970)::Drama|Romance
 0066612::Vamos a matar, compañeros (1970)::Western|Comedy
 0066730::10 Rillington Place (1971)::Biography|Crime|Drama|Thriller
 0066763::Anand (1971)::Drama
@@ -1245,6 +1254,7 @@
 0068863::Lisa e il diavolo (1974)::Fantasy|Horror|Mystery|Thriller
 0068935::Meng long guo jiang (1972)::Action|Comedy|Crime|Drama|Thriller
 0068981::Mutiny on the Buses (1972)::Comedy
+0069018::La noche de los mil gatos (1972)::Horror
 0069089::Pink Flamingos (1972)::Comedy|Crime|Horror
 0069097::Play It Again, Sam (1972)::Comedy|Romance
 0069113::The Poseidon Adventure (1972)::Action|Adventure
@@ -1775,6 +1785,7 @@
 0082783::My Dinner with Andre (1981)::Biography|Drama
 0082869::Outland (1981)::Action|Crime|Sci-Fi|Thriller
 0082912::Pixote: A Lei do Mais Fraco (1981)::Crime|Drama
+0082924::Poliziotto superpiù (1980)::Action|Sci-Fi|Comedy|Fantasy
 0082933::Possession (1981)::Drama|Horror
 0082934::The Postman Always Rings Twice (1981)::Crime|Drama|Thriller|Romance
 0082945::Prince of the City (1981)::Crime|Drama|Thriller
@@ -1807,6 +1818,7 @@
 0083580::L'as des as (1982)::Adventure|Comedy|Sport
 0083590::The Atomic Cafe (1982)::Documentary|Horror
 0083624::Basket Case (1982)::Comedy|Horror
+0083642::The Best Little Whorehouse in Texas (1982)::Comedy|Musical
 0083658::Blade Runner (1982)::Drama|Sci-Fi|Thriller
 0083722::Cat People (1982)::Drama|Fantasy|Horror|Romance|Thriller
 0083755::The Concrete Jungle (1982)::Drama|Thriller|Crime
@@ -2154,6 +2166,7 @@
 0090927::The Delta Force (1986)::Action|Adventure|Drama|Thriller|War
 0090966::Down and Out in Beverly Hills (1986)::Comedy
 0090967::Down by Law (1986)::Comedy|Crime|Drama
+0090982::Duvar (1983)::Drama
 0091019::Every Time We Say Goodbye (1986)::Drama|Romance|War
 0091024::Extremities (1986)::Drama|Thriller
 0091042::Ferris Bueller's Day Off (1986)::Comedy|Drama
@@ -2603,6 +2616,7 @@
 0099729::Hamoun (1990)::Drama
 0099731::The Handmaid's Tale (1990)::Drama|Romance|Sci-Fi|Thriller
 0099740::Hardware (1990)::Sci-Fi|Thriller
+0099750::Heart Condition (1990)::Action|Comedy|Drama|Fantasy
 0099762::Henry & June (1990)::Biography|Drama
 0099763::Henry: Portrait of a Serial Killer (1986)::Biography|Crime|Drama|Horror|Thriller
 0099768::Hidden Agenda (1990)::Drama
@@ -3469,6 +3483,7 @@
 0118750::Booty Call (1997)::Comedy|Romance
 0118755::The Borrowers (1997)::Comedy|Family|Fantasy
 0118760::The Boxer (1997)::Drama|Sport
+0118767::Brat (1997)::Crime|Drama
 0118768::The Brave (1997)::Drama
 0118771::Breakdown (1997)::Crime|Mystery|Thriller
 0118789::Buffalo '66 (1998)::Comedy|Crime|Drama|Romance
@@ -3798,6 +3813,7 @@
 0131543::Portrait in Terror (1965)::Crime|Horror|Mystery|Thriller
 0131566::Rogue Trader (1999)::Crime|Drama|History|Thriller
 0131646::Wing Commander (1999)::Action|Adventure|Sci-Fi
+0131704::The Adventures of Rocky & Bullwinkle (2000)::Animation|Adventure|Comedy|Family|Fantasy
 0131857::BASEketball (1998)::Comedy|Sport
 0132245::Driven (2001)::Action|Drama|Sport
 0132347::Mystery Men (1999)::Action|Comedy|Fantasy|Sci-Fi
@@ -3840,6 +3856,7 @@
 0139239::Go (1999)::Comedy|Crime|Thriller
 0139362::High Art (1998)::Drama|Romance
 0139388::It Had to Be You (2000)::Comedy|Romance
+0139398::Kaajal (1965)::Family|Musical|Romance|Drama
 0139414::Lake Placid (1999)::Action|Comedy|Horror|Thriller
 0139462::Message in a Bottle (1999)::Drama|Romance
 0139465::The Minion (1998)::Action|Fantasy|Horror
@@ -3912,6 +3929,8 @@
 0151691::My Name Is Joe (1998)::Drama|Romance
 0151738::Never Been Kissed (1999)::Comedy|Drama|Romance
 0151804::Office Space (1999)::Comedy|Crime
+0151839::Ontario: Land of Lakes (1949)::Documentary|Short
+0152256::Saagar (1985)::Drama|Romance
 0152930::Taxi (1998)::Action|Comedy|Crime
 0154420::Festen (1998)::Drama
 0154506::Following (1998)::Crime|Drama|Mystery|Thriller
@@ -3993,6 +4012,7 @@
 0165832::Interstate 60: Episodes of the Road (2002)::Adventure|Comedy|Drama|Fantasy|Mystery|Sci-Fi|Thriller
 0165854::The Limey (1999)::Crime|Drama|Mystery|Thriller
 0165859::Liberty Heights (1999)::Drama|Music|Romance
+0165904::Riesutu duona (1979)::
 0165929::Romeo Must Die (2000)::Action|Crime|Thriller
 0165982::Sinbad: Legend of the Seven Seas (2003)::Adventure|Fantasy|Animation|Family
 0165998::Long zai jiang hu (1998)::Action|Crime|Drama
@@ -4205,6 +4225,7 @@
 0212346::Miss Congeniality (2000)::Action|Comedy|Crime
 0212712::2046 (2004)::Drama|Fantasy|Romance|Sci-Fi
 0212720::Artificial Intelligence: AI (2001)::Adventure|Drama|Sci-Fi
+0212758::Amalfi Way (1955)::Documentary|Short
 0212830::Bruiser (2000)::Thriller|Horror
 0212936::Erskineville Kings (1999)::Drama
 0212985::Hannibal (2001)::Crime|Drama|Thriller
@@ -4441,6 +4462,7 @@
 0253754::Star Trek: Nemesis (2002)::Action|Adventure|Sci-Fi|Thriller
 0253779::Süt kardesler (1976)::Comedy
 0253790::Tarzan Rifki (1986)::
+0253798::Out Cold (2001)::Comedy|Sport
 0253827::The Martins (2001)::Comedy
 0253828::Tosun Pasa (1976)::Comedy|History
 0253867::The Sweetest Thing (2002)::Comedy|Romance
@@ -5238,6 +5260,7 @@
 0373051::Journey to the Center of the Earth (2008)::Action|Adventure|Family|Fantasy|Sci-Fi
 0373074::Kung fu (2004)::Action|Comedy|Crime|Fantasy
 0373283::Saints and Soldiers (2003)::Action|War|Drama|Adventure
+0373389::Tibet: Cry of the Snow Lion (2002)::Documentary|History
 0373445::The Wendell Baker Story (2005)::Comedy|Drama|Romance
 0373469::Kiss Kiss Bang Bang (2005)::Action|Comedy|Crime|Mystery|Thriller
 0373733::Boys (2003)::Comedy|Drama
@@ -5330,6 +5353,7 @@
 0382189::My Summer of Love (2004)::Drama|Romance|Thriller
 0382271::Rosario Tijeras (2005)::Crime|Drama|Romance
 0382330::Så som i himmelen (2004)::Comedy|Drama|Music|Romance
+0382383::Yuva (2004)::Action|Adventure|Crime|Drama
 0382625::The Da Vinci Code (2006)::Mystery|Thriller
 0382628::Dark Water (2005)::Drama|Horror|Thriller
 0382810::Little Fish (2005)::Crime|Drama|Romance|Thriller
@@ -5972,6 +5996,7 @@
 0458425::McLibel (2005)::Documentary
 0458455::Die Päpstin (2009)::Drama|Romance
 0458525::X-Men Origins: Wolverine (2009)::Action|Adventure|Sci-Fi|Thriller
+0459666::Zui hao de shi guang (2005)::Drama|Romance
 0460740::Cashback (2006)::Comedy|Drama|Romance
 0460745::Chaos Theory (2008)::Comedy|Drama|Romance
 0460780::In the Name of the King: A Dungeon Siege Tale (2006)::Action|Adventure|Drama|Fantasy
@@ -6114,6 +6139,7 @@
 0477347::Night at the Museum (2006)::Action|Adventure|Comedy|Family|Fantasy
 0477348::No Country for Old Men (2007)::Crime|Drama|Thriller
 0477585::Café Transit (2005)::Drama
+0477731::Sang sattawat (2006)::Drama
 0477877::Sommer vorm Balkon (2005)::Drama
 0478049::The U.S. vs. John Lennon (2006)::Documentary|Biography|Music
 0478087::21 (2008)::Crime|Drama
@@ -6172,6 +6198,7 @@
 0484562::The Seeker: The Dark Is Rising (2007)::Adventure|Drama|Fantasy|Thriller
 0484740::Love in the Time of Cholera (2007)::Drama|Romance
 0484877::The Pleasure of Your Company (2006)::Comedy|Romance
+0485061::uwantme2killhim? (2013)::Drama|Thriller
 0485241::Je vais bien, ne t'en fais pas (2006)::Drama
 0485323::Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono (2005)::Animation|Action|Adventure|Drama
 0485510::Hacivat Karagöz neden öldürüldü? (2006)::Comedy|Drama
@@ -6467,6 +6494,7 @@
 0811066::Shootout at Lokhandwala (2007)::Action|Crime|Drama
 0811080::Speed Racer (2008)::Action|Family|Sport
 0811137::The Do-Deca-Pentathlon (2012)::Comedy
+0812366::Pudor (2007)::Drama
 0813547::Die Fälscher (2007)::Crime|Drama|War
 0814022::Bangkok Dangerous (2008)::Action|Crime|Thriller
 0814075::Deliver Us from Evil (2006)::Documentary|Crime
@@ -6738,6 +6766,7 @@
 0929425::Gomorra (2008)::Crime|Drama
 0929632::Precious (2009)::Drama
 0930071::Last Stop for Paul (2006)::Comedy
+0930083::Noroi (2005)::Horror
 0930085::Olè (2006)::Comedy
 0935075::Rabbit Hole (2010)::Drama
 0936501::Taken (2008)::Action|Crime|Thriller
@@ -7497,6 +7526,7 @@
 1231583::Due Date (2010)::Comedy|Drama
 1231586::A Good Old Fashioned Orgy (2011)::Comedy
 1231587::Hot Tub Time Machine (2010)::Adventure|Comedy|Sci-Fi
+1232106::Mubangbi-dosi (2008)::Action|Crime
 1232200::That's My Boy (2012)::Comedy
 1232207::Capitalism: A Love Story (2009)::Documentary
 1232775::Drones (2010)::Comedy
@@ -7521,6 +7551,7 @@
 1234719::Red Dawn (2012)::Action
 1235124::Dorian Gray (2009)::Drama|Fantasy|Thriller
 1235166::Un prophète (2009)::Crime|Drama
+1235170::The Future (2011)::Comedy|Drama|Sci-Fi
 1235189::Wild Target (2009)::Comedy|Crime
 1235522::Broken City (2013)::Crime|Drama|Thriller
 1235796::Ondine (2009)::Drama|Romance
@@ -7635,6 +7666,7 @@
 1281374::Don McKay (2009)::Drama|Thriller|Mystery
 1282139::Devrim arabalari (2008)::Drama
 1282140::Easy A (2010)::Comedy|Romance
+1284028::Love the Beast (2009)::Documentary|Sport
 1284575::Bad Teacher (2011)::Comedy
 1285016::The Social Network (2010)::Biography|Drama
 1285240::Dans ton sommeil (2010)::Horror|Thriller
@@ -7979,6 +8011,7 @@
 1424797::J'ai tué ma mère (2009)::Biography|Drama
 1425253::Shadow (2009)::Horror
 1425933::Skeletons (2010)::Comedy|Fantasy
+1426320::BearCity (2010)::Comedy
 1426329::Lovelace (2013)::Biography|Drama
 1426352::Amer (2009)::Horror|Thriller
 1426378::Kasi az gorbehaye irani khabar nadareh (2009)::Drama|Music
@@ -9217,6 +9250,7 @@
 1835980::Glück (2012)::Drama
 1836808::Great Expectations (2012)::Drama
 1836826::Noor (2012)::Drama
+1836869::Nobody Can Cool (2013)::Thriller
 1836912::Shaitan (2011)::Action|Crime|Drama|Thriller
 1836944::The Baytown Outlaws (2012)::Action|Comedy|Crime
 1836987::Trishna (2011)::Drama
@@ -9740,6 +9774,7 @@
 2073128::To the Arctic 3D (2012)::Documentary
 2073516::Against the Grain (2013)::Drama|Romance
 2075259::Someone I Used to Know (2012)::Drama
+2075280::Phobia (2013)::Horror
 2075292::Red tears - kôrui (2011)::Action|Horror
 2075340::The Invisible Men (2012)::Documentary|Drama
 2075352::The Substance: Albert Hofmann's LSD (2011)::Documentary
@@ -10021,6 +10056,7 @@
 2187115::Pozitia copilului (2013)::Drama
 2188655::Alle for to (2013)::Comedy|Crime
 2188717::Dead Souls (2012)::Horror
+2188913::Harodim (2012)::Thriller
 2190193::Back to the Sea (2012)::Animation|Comedy
 2190367::O som ao redor (2012)::Drama|Thriller
 2191394::ATM: Er Rak Error (2012)::Comedy|Romance
@@ -10344,6 +10380,7 @@
 2357377::The Berlin File (2013)::Action|Drama|Thriller
 2357453::Underground: The Julian Assange Story (2012)::Biography|Drama
 2357461::Miele (2013)::Drama
+2357489::Zanjeer (2013)::
 2357820::Looking Back on Love: Making Black and White America (2011)::Documentary
 2358412::David (2013)::Crime|Drama|Romance
 2358592::Lucia (2013)::Drama|Thriller
@@ -10415,6 +10452,7 @@
 2387443::Dinotasia (2012)::Documentary|Animation
 2387806::Heute bin ich blond (2013)::Comedy|Drama
 2387820::Pinky Moge Wali (2012)::Comedy
+2388254::Las cosas como son (2012)::Drama
 2388637::Ain't Them Bodies Saints (2013)::Drama
 2388725::Paperman (2012)::Animation|Short|Comedy|Romance
 2388805::Verliefd op Ibiza (2013)::Comedy|Romance
