@@ -1091,6 +1091,7 @@
 0061814::The Incident (1967)::Crime|Drama
 0061850::Journey to the Center of Time (1967)::Sci-Fi
 0061852::The Jungle Book (1967)::Animation|Adventure|Family|Musical
+0061931::Mad Monster Party? (1967)::Animation|Comedy|Family|Fantasy|Horror|Musical
 0061934::Made in Italy (1965)::Comedy
 0061955::La mariée était en noir (1968)::Crime|Drama|Mystery
 0061996::Mouchette (1967)::Drama
@@ -1508,6 +1509,7 @@
 0072926::The Eiger Sanction (1975)::Action|Adventure|Romance|Thriller
 0072951::Escape to Witch Mountain (1975)::Fantasy|Family|Adventure|Sci-Fi
 0072962::Vérités et mensonges (1973)::Documentary
+0072991::Shao Lin wu zu (1974)::Action|Drama
 0072993::Flame (1975)::Musical|Drama
 0073018::French Connection II (1975)::Action|Crime|Drama|Thriller
 0073026::Funny Lady (1975)::Musical|Comedy|Drama|Romance
@@ -2116,6 +2118,7 @@
 0086972::Ator 2 - L'invincibile Orion (1984)::Action|Adventure|Fantasy
 0086979::Blood Simple. (1984)::Crime|Thriller
 0086984::Body Double (1984)::Crime|Drama|Mystery|Thriller
+0086993::The Bounty (1984)::Action|Adventure|Drama|History
 0086994::Boy Meets Girl (1984)::Drama|Romance
 0086998::Breakin' (1984)::Comedy|Drama|Musical|Romance
 0086999::Breakin' 2: Electric Boogaloo (1984)::Drama|Musical
@@ -2920,6 +2923,7 @@
 0102250::L.A. Story (1991)::Comedy|Drama|Fantasy|Romance
 0102266::The Last Boy Scout (1991)::Action|Comedy|Crime|Mystery|Thriller
 0102293::Lik Wong (1991)::Comedy|Horror|Sci-Fi|Thriller
+0102369::Madar (1991)::Drama
 0102370::Madonna: Truth or Dare (1991)::Documentary|Music
 0102388::The Man in the Moon (1991)::Drama|Romance
 0102392::Manipulation (1991)::Animation|Short|Comedy|Fantasy
@@ -3867,6 +3871,7 @@
 0120390::Turbulence (1997)::Action|Thriller
 0120391::24 7: Twenty Four Seven (1997)::Comedy|Drama|Romance|Sport
 0120399::U Turn (1997)::Crime|Drama|Thriller
+0120408::Unagi (1997)::Drama
 0120434::Vegas Vacation (1997)::Comedy
 0120449::La vie rêvée des anges (1998)::Drama
 0120458::Virus (1999)::Action|Horror|Thriller|Sci-Fi
@@ -4020,6 +4025,7 @@
 0127536::Elizabeth (1998)::Biography|Drama
 0127722::Another Day in Paradise (1998)::Crime|Drama|Thriller
 0127723::Can't Hardly Wait (1998)::Comedy|Romance
+0128137::The Confession (1999)::Drama|Thriller
 0128221::Fracchia contro Dracula (1985)::Comedy|Horror
 0128278::Instinct (1999)::Drama|Thriller
 0128332::Masumiyet (1997)::Drama
@@ -4301,6 +4307,7 @@
 0172396::The End of the Affair (1999)::Drama|Romance
 0172493::Girl, Interrupted (1999)::Biography|Drama
 0172495::Gladiator (2000)::Action|Adventure|Drama
+0172726::Light It Up (1999)::Drama
 0173080::Pyaar Kiya To Darna Kya (1998)::
 0173716::Cecil B. DeMented (2000)::Comedy|Crime|Thriller
 0173840::Final Fantasy: The Spirits Within (2001)::Animation|Action|Adventure|Fantasy|Sci-Fi|Thriller
@@ -4856,6 +4863,7 @@
 0270560::Our Lips Are Sealed (2000)::Comedy|Crime|Family
 0270846::Superbabies: Baby Geniuses 2 (2004)::Comedy|Family
 0271027::Kiss of the Dragon (2001)::Action|Crime|Thriller
+0271219::Tadpole (2000)::Comedy|Drama|Romance
 0271263::Eight Crazy Nights (2002)::Animation|Comedy|Drama|Musical
 0271367::Eight Legged Freaks (2002)::Action|Comedy|Horror|Sci-Fi|Thriller
 0271668::National Security (2003)::Action|Comedy|Crime|Thriller
@@ -7999,6 +8007,7 @@
 1252289::Four Single Fathers (2009)::Comedy
 1252596::Ajab Prem Ki Ghazab Kahani (2009)::Comedy|Romance
 1253864::Immortals (2011)::Action|Drama|Fantasy
+1254696::Splinterheads (2009)::Comedy
 1255953::Incendies (2010)::Drama|Mystery|War
 1258197::Exam (2009)::Mystery|Thriller
 1258972::The Man with the Iron Fists (2012)::Action
@@ -8205,6 +8214,7 @@
 1325004::The Twilight Saga: Eclipse (2010)::Adventure|Drama|Fantasy|Romance
 1325014::The People vs. George Lucas (2010)::Documentary|Comedy
 1325558::Entrevista con la tierra (2008)::Short
+1325743::Five Star Day (2010)::Drama|Romance
 1326283::Jane's Journey (2010)::Biography|Documentary
 1326733::The Art of the Steal (2009)::Documentary
 1326856::Samo: The Art and Influence of Jean-Michel Basquiat (2008)::Documentary
@@ -9196,6 +9206,7 @@
 1659343::Universal Soldier: Day of Reckoning (2012)::Action|Sci-Fi|Thriller
 1660302::À perdre la raison (2012)::Drama
 1661420::Polisse (2011)::Crime|Drama
+1662293::Nothing Left to Fear (2013)::Horror
 1662557::Yongseoneun Eupda (2010)::Horror|Thriller
 1663140::Flood Stains (2010)::Sci-Fi
 1663143::Fun Size (2012)::Comedy
@@ -9762,10 +9773,12 @@
 1836912::Shaitan (2011)::Action|Crime|Drama|Thriller
 1836944::The Baytown Outlaws (2012)::Action|Comedy|Crime
 1836987::Trishna (2011)::Drama
+1837703::The Fifth Estate (2013)::Biography|Drama
 1838475::Tomorrow You're Gone (2012)::Thriller
 1838520::Emanuel and the Truth about Fishes (2013)::Drama|Thriller
 1838544::Gone (2012)::Drama|Mystery|Thriller
 1838571::Juan de los Muertos (2011)::Comedy|Horror
+1838603::Mr. Morgan's Last Love (2013)::Comedy|Drama
 1838618::Paranormal Xperience 3D (2011)::Horror|Thriller
 1838722::Truth or Dare (2012)::Horror|Thriller
 1839492::Ruby Sparks (2012)::Comedy|Fantasy|Romance
@@ -9834,6 +9847,7 @@
 1855417::Vdrebezgi (2011)::Comedy|Crime
 1856014::Hamilton: I nationens intresse (2012)::Action|Drama|Thriller
 1856021::Kleine Morde (2012)::Crime|Drama
+1856047::Hamilton: Men inte om det gäller din dotter (2012)::Action|Drama|Thriller
 1857724::Hidden Colors (2011)::Documentary
 1857797::Naked Soldier (2012)::Action|Drama
 1857913::Bai she chuan shuo (2011)::Action|Fantasy
@@ -10462,6 +10476,7 @@
 2119474::Maximum Conviction (2012)::Action|Adventure|Thriller
 2120057::Expiration (2011)::Horror|Thriller
 2120152::The Invisible War (2012)::Documentary|Crime|Drama|History
+2120779::Jason Becker: Not Dead Yet (2012)::Documentary|Biography|Music
 2121377::The Rise & Fall of a White Collar Hooligan (2012)::Crime
 2122424::Nailbiter (2013)::Horror
 2123230::Djeca (2012)::Drama
@@ -10908,6 +10923,7 @@
 2329758::Honor Flight (2012)::Documentary|History|War
 2330322::The Conspiracy (2012)::Horror|Thriller
 2330866::Dodookdeul (2012)::Action|Crime
+2331143::Soshite chichi ni naru (2013)::Drama
 2332518::Até que a Sorte nos Separe (2012)::Comedy
 2332522::Leviathan (2012)::Documentary
 2332579::Crystal Fairy (2013)::Adventure|Comedy
@@ -10920,6 +10936,7 @@
 2334649::Fruitvale Station (2013)::Biography|Drama
 2334873::Blue Jasmine (2013)::Drama
 2334879::White House Down (2013)::Action|Drama|Thriller
+2334896::The Dirties (2013)::Drama
 2336259::Dépression et des potes (2012)::Comedy
 2336373::Moron 5 and the Crying Lady (2012)::Comedy
 2336960::Inch'Allah (2012)::Drama
@@ -11303,6 +11320,7 @@
 2625030::New World (2013)::Thriller
 2626926::Pardé (2013)::
 2630134::Barbie in the Pink Shoes (2013)::Animation|Family
+2633598::Rise of the Zombie (2013)::Drama|Horror|Thriller
 2634414::Ragin Cajun Redneck Gators (2013)::Sci-Fi
 2635006::The Retrieval (2013)::Drama|History|Western
 2635622::The Attacks of 26/11 (2013)::Drama
@@ -11532,6 +11550,7 @@
 3034728::Left Right Left (2013)::Drama
 3037260::The Good Road (2013)::Drama
 3039378::Zombi kanikuly 3D (2013)::Comedy|Horror
+3042926::Atharintiki Daaredi (2013)::Comedy|Drama
 3044882::Nasha (2013)::Drama|Romance|Thriller
 3054776::Tales from the Dark 1 (2013)::Horror
 3055016::Lock Box (2013)::Short|Drama
