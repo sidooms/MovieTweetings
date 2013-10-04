@@ -38,6 +38,7 @@
 0015648::Bronenosets Potyomkin (1925)::Drama|History
 0015864::The Gold Rush (1925)::Adventure|Comedy|Family|Romance|Western
 0015881::Greed (1924)::Drama
+0016172::Oh, Doctor! (1925)::Comedy
 0016332::Seven Chances (1925)::Comedy|Family|Romance
 0016847::Faust - Eine deutsche Volkssage (1926)::Drama|Fantasy|Horror
 0017075::The Lodger: A Story of the London Fog (1927)::Crime|Drama|Mystery|Thriller
@@ -242,6 +243,7 @@
 0033149::They Drive by Night (1940)::Crime|Drama|Thriller
 0033152::The Thief of Bagdad (1940)::Adventure|Family|Fantasy
 0033234::Wagon Train (1940)::Comedy|Drama|History|Romance|Western
+0033317::Adventures of Captain Marvel (1941)::Action|Adventure|Fantasy|Sci-Fi
 0033373::Ball of Fire (1941)::Comedy|Romance
 0033467::Citizen Kane (1941)::Drama|Mystery
 0033517::A Date with the Falcon (1942)::Crime|Drama|Mystery|Romance
@@ -1157,6 +1159,7 @@
 0063035::The Green Berets (1968)::Action|Drama|War
 0063049::Head (1968)::Comedy|Musical|Fantasy
 0063056::Hell in the Pacific (1968)::Drama|War
+0063058::Hell's Belles (1969)::Action|Drama
 0063060::Hellfighters (1968)::Action|Adventure|Drama|Romance
 0063121::Ice Station Zebra (1968)::Action|Drama|Thriller
 0063172::Kaijû sôshingeki (1968)::Action|Horror|Sci-Fi|Thriller
@@ -1189,6 +1192,7 @@
 0063823::Yellow Submarine (1968)::Animation|Adventure|Comedy|Fantasy|Musical
 0064040::L'armée des ombres (1969)::Drama|War
 0064045::The Assassination Bureau (1969)::Action|Adventure|Comedy|Crime|Thriller
+0064055::The Babysitter (1969)::Drama|Thriller
 0064072::Battle of Britain (1969)::Action|Drama|History|War
 0064110::The Bridge at Remagen (1969)::Action|Drama|War
 0064115::Butch Cassidy and the Sundance Kid (1969)::Adventure|Biography|Crime|Western
@@ -1248,6 +1252,7 @@
 0065687::Elvis: That's the Way It Is (1970)::Documentary|Music
 0065724::Five Easy Pieces (1970)::Drama
 0065738::Frankenstein Must Be Destroyed (1969)::Horror|Drama|Sci-Fi
+0065750::La furia del Hombre Lobo (1972)::Horror
 0065761::Il gatto a nove code (1971)::Mystery|Thriller
 0065780::Gimme Shelter (1970)::Documentary|Music
 0065832::Hercules in New York (1969)::Adventure|Family|Fantasy
@@ -1263,6 +1268,7 @@
 0066065::Medea (1969)::Drama|Fantasy
 0066109::The Music Lovers (1970)::Biography|Drama|Music
 0066122::Deep End (1970)::Comedy|Drama|Romance
+0066126::The Losers (1970)::War|Action|Drama
 0066181::On a Clear Day You Can See Forever (1970)::Comedy|Drama|Fantasy|Musical|Romance
 0066206::Patton (1970)::Biography|Drama|History|War
 0066214::Performance (1970)::Crime|Drama|Music
@@ -1370,6 +1376,7 @@
 0068576::Fear Is the Key (1972)::Action|Crime|Drama|Thriller
 0068611::Frenzy (1972)::Crime|Thriller
 0068612::Fritz the Cat (1972)::Animation|Comedy
+0068615::Frogs (1972)::Horror|Mystery|Sci-Fi|Thriller
 0068638::The Getaway (1972)::Action|Crime|Thriller
 0068646::The Godfather (1972)::Crime|Drama
 0068699::High Plains Drifter (1973)::Western
@@ -1486,6 +1493,7 @@
 0071408::Deranged (1974)::Crime|Horror|Thriller
 0071411::Dersu Uzala (1975)::Adventure|Biography|Drama
 0071412::The Marseille Contract (1974)::Drama|Thriller
+0071424::Dirty Mary Crazy Larry (1974)::Crime|Drama|Romance|Thriller
 0071431::Non si deve profanare il sonno dei morti (1974)::Horror|Sci-Fi
 0071442::Identikit (1974)::Drama
 0071455::Earthquake (1974)::Action|Drama|Thriller
@@ -1889,6 +1897,7 @@
 0081398::Raging Bull (1980)::Biography|Drama|Sport
 0081455::Scanners (1981)::Horror|Sci-Fi
 0081470::The Sea Wolves (1980)::Action|War
+0081480::Seems Like Old Times (1980)::Comedy|Romance
 0081505::The Shining (1980)::Horror|Mystery
 0081534::Somewhere in Time (1980)::Drama|Fantasy|Romance|Sci-Fi
 0081554::Stardust Memories (1980)::Comedy|Drama
@@ -2001,6 +2010,7 @@
 0083580::L'as des as (1982)::Adventure|Comedy|Sport
 0083590::The Atomic Cafe (1982)::Documentary|Horror
 0083624::Basket Case (1982)::Comedy|Horror
+0083628::The Beach Girls (1982)::Comedy
 0083642::The Best Little Whorehouse in Texas (1982)::Comedy|Musical
 0083658::Blade Runner (1982)::Drama|Sci-Fi|Thriller
 0083722::Cat People (1982)::Drama|Fantasy|Horror|Romance|Thriller
@@ -2032,6 +2042,7 @@
 0084237::The Last Unicorn (1982)::Family|Animation|Fantasy
 0084315::Les maîtres du temps (1982)::Animation|Drama|Mystery|Sci-Fi
 0084329::A Midsummer Night's Sex Comedy (1982)::Comedy|Fantasy|Romance
+0084335::Missing (1982)::Drama|History|Mystery|Thriller
 0084345::Moy drug Ivan Lapshin (1986)::Drama
 0084354::Moonlighting (1982)::Drama
 0084359::Mother Lode (1982)::Adventure
@@ -2357,6 +2368,7 @@
 0090756::Blue Velvet (1986)::Crime|Mystery|Thriller
 0090771::Breeders (1986)::Horror|Sci-Fi
 0090798::Caravaggio (1986)::Biography|Drama|History
+0090812::Chameli Ki Shaadi (1986)::Comedy|Drama|Romance
 0090830::Children of a Lesser God (1986)::Drama|Romance
 0090837::Chopping Mall (1986)::Action|Comedy|Horror|Sci-Fi
 0090848::The Clan of the Cave Bear (1986)::Adventure|Drama|Fantasy|Sci-Fi
@@ -2453,6 +2465,7 @@
 0092214::Wildcats (1986)::Comedy|Sport
 0092226::Wise Guys (1986)::Comedy|Crime
 0092240::The Wraith (1986)::Action|Horror|Thriller|Sci-Fi|Romance
+0092263::Ying hung boon sik (1986)::Action|Crime|Drama|Thriller
 0092298::Zone Troopers (1985)::War|Sci-Fi
 0092493::'Crocodile' Dundee II (1988)::Action|Adventure|Comedy
 0092494::*batteries not included (1987)::Family|Fantasy|Sci-Fi|Comedy
@@ -5252,6 +5265,7 @@
 0318034::Russkiy kovcheg (2002)::Drama|Fantasy|History|Mystery
 0318081::A Sound of Thunder (2005)::Action|Adventure|Sci-Fi|Thriller
 0318202::Être et avoir (2002)::Documentary|Family
+0318292::Amar te duele (2002)::Drama|Romance
 0318374::The Cooler (2003)::Drama|Romance
 0318411::The Magdalene Sisters (2002)::Drama
 0318412::Magdusa ka! (1986)::Drama
@@ -5940,6 +5954,7 @@
 0405507::Murder (2004)::Drama|Thriller
 0405508::Rang De Basanti (2006)::Drama|History
 0405676::All the King's Men (2006)::Drama|Thriller
+0405821::Casshern (2004)::Action|Sci-Fi
 0405861::The Deal (2005)::Crime|Drama|Thriller
 0405866::La demoiselle d'honneur (2004)::Thriller|Drama|Romance
 0406098::Stestí (2005)::Drama
@@ -7366,6 +7381,7 @@
 0995031::Bhool Bhulaiyaa (2007)::Comedy|Horror|Mystery|Thriller
 0995039::Ghost Town (2008)::Comedy|Fantasy|Romance
 0995740::No Smoking (2007)::Drama|Thriller
+0995752::Tashan (2008)::Action|Comedy|Crime|Drama|Romance
 0995845::The Courier (2012)::Action|Crime|Thriller
 0995851::In Her Skin (2009)::Drama|Thriller
 0996605::Les chansons d'amour (2007)::Drama|Musical|Romance
@@ -7605,6 +7621,7 @@
 1087578::Aruitemo aruitemo (2008)::Drama
 1087890::Frygtelig lykkelig (2008)::Drama|Mystery
 1090647::Coyote (2007)::Comedy|Crime|Drama
+1091172::Bob Funk (2009)::Comedy
 1091722::Adventureland (2009)::Comedy|Drama|Romance
 1092016::Meu Nome Não É Johnny (2008)::Biography|Crime|Drama
 1092019::TBS (2008)::Crime|Thriller
@@ -7855,6 +7872,7 @@
 1183252::Chocolate (2008)::Action|Drama
 1183276::La horde (2009)::Action|Horror|Thriller
 1183665::Cracks (2009)::Drama|Thriller
+1183908::New Town Killers (2008)::Drama
 1183911::Mr. Nice (2010)::Biography|Comedy|Drama
 1183919::Marley (2012)::Documentary|Biography|Music
 1183921::The Vicious Kind (2009)::Comedy|Drama
@@ -9602,6 +9620,7 @@
 1736636::Poupoupidou (2011)::Comedy|Crime|Mystery
 1737090::Amber Lake (2011)::Drama|Thriller
 1737256::The Island (2011)::Drama|Romance
+1737268::Yanoosak (2010)::Comedy
 1737680::Pulp (2013)::Comedy
 1738366::The Dynamiter (2011)::Drama
 1738387::The River Murders (2011)::Thriller
@@ -9782,6 +9801,7 @@
 1797504::Tengo ganas de ti (2012)::Drama|Romance
 1798188::Kokuriko-zaka kara (2011)::Animation|Drama|Family
 1798291::This Is Martin Bonner (2013)::Drama
+1799537::God Don't Make the Laws (2011)::Drama
 1799585::Two Jacks (2012)::Comedy|Drama
 1800266::Brooklyn Castle (2012)::Documentary
 1800379::Something Real and Good (2013)::Drama
@@ -10067,6 +10087,7 @@
 1893195::A.C.A.B.: All Cops Are Bastards (2012)::Action|Crime|Drama
 1893256::Hummingbird (2013)::Action|Thriller
 1893326::Scatter My Ashes at Bergdorf's (2013)::Documentary
+1894476::How I Live Now (2013)::Action|Drama|Thriller|War
 1894616::Awaken (2012)::Drama|Romance|Sci-Fi
 1895334::Dimanche (2011)::Animation|Short
 1899142::Combustión (2013)::Action
@@ -10512,6 +10533,7 @@
 2085002::Äta sova dö (2012)::Drama
 2085741::About Face: Supermodels Then and Now (2012)::Documentary|Biography|Comedy
 2085888::Only the Young (2012)::Documentary|Comedy|Romance
+2085893::P-047 (2011)::Drama
 2085894::Padang besar (2011)::Drama
 2085910::Room 237 (2012)::Documentary
 2085930::Starship Troopers: Invasion (2012)::Animation|Action|Sci-Fi
@@ -11168,6 +11190,7 @@
 2371834::Paradies: Hoffnung (2013)::Drama
 2373878::Assistance mortelle (2013)::Documentary
 2374002::Minte-ma frumos (2012)::Comedy|Romance
+2374196::Solo (2013)::Mystery|Thriller
 2375037::Full Circle (2013)::Action|Comedy
 2375093::Last Hours in Suburbia (2012)::Crime|Mystery|Thriller
 2375379::One Piece Film Z (2012)::Animation|Action|Adventure
@@ -11310,6 +11333,7 @@
 2444946::Girl Rising (2013)::Documentary
 2445148::El Teniente Amado (2013)::Drama
 2446502::Zombie Hunter (2013)::Action|Thriller
+2447934::Bianca come il latte, rossa come il sangue (2013)::Drama
 2448584::Baramgwa hamjje sarajida (2012)::Action|Comedy|History
 2450186::V/H/S/2 (2013)::Horror|Thriller
 2454970::La casa Emak Bakia (2012)::Drama
@@ -11363,6 +11387,7 @@
 2510268::Blood of Redemption (2013)::Action|Crime|Drama|Thriller
 2510576::All'ombra della croce (2012)::Documentary
 2510874::Yamla Pagla Deewana 2 (2013)::Action|Comedy|Drama
+2511670::La jalousie (2013)::Drama
 2512862::I Yam What I Yam... L'invenzione (2012)::Short|Drama|Fantasy
 2513616::Springsteen & I (2013)::Documentary
 2514592::Fango (2012)::
@@ -11691,6 +11716,7 @@
 3000284::Honey Bee (2013)::Comedy
 3003088::Punching (2013)::Short|Action|Comedy|Drama
 3003668::Ji Zhan (2013)::Action|Drama
+3005560::In Bob We Trust (2013)::Documentary
 3005920::5 Sundarikal (2013)::Family|Romance
 3008180::Coming Home (2013)::Documentary|Drama
 3010462::DEFCON: The Documentary (2013)::Documentary
@@ -11708,6 +11734,7 @@
 3044882::Nasha (2013)::Drama|Romance|Thriller
 3054776::Tales from the Dark 1 (2013)::Horror
 3055016::Lock Box (2013)::Short|Drama
+3056608::KL Gangster 2 (2013)::Crime
 3059880::The Tree Widow (2013)::Drama
 3061202::Neelakasham Pachakadal Chuvanna Bhoomi (2013)::Drama
 3063448::It's A Kind of Magic Turtle (2013)::Short|Romance
