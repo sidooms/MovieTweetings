@@ -404,6 +404,7 @@
 0039826::Sinbad, the Sailor (1947)::Romance|Adventure
 0039834::Skepp till India land (1947)::Drama
 0040068::Bud Abbott Lou Costello Meet Frankenstein (1948)::Comedy|Horror|Sci-Fi
+0040160::The Big Clock (1948)::Crime|Drama|Mystery|Thriller
 0040202::Call Northside 777 (1948)::Crime|Drama|Film-Noir|History|Mystery
 0040242::Command Decision (1948)::War|Drama
 0040271::A Date with Judy (1948)::Comedy|Musical|Romance
@@ -456,6 +457,7 @@
 0041996::Twelve O'Clock High (1949)::Action|Drama|War
 0042004::Under Capricorn (1949)::Crime|Drama|Romance
 0042041::White Heat (1949)::Crime|Drama|Thriller
+0042176::711 Ocean Drive (1950)::Crime|Drama|Film-Noir|Thriller
 0042179::Abbott and Costello in the Foreign Legion (1950)::Adventure|Comedy
 0042192::All About Eve (1950)::Drama
 0042208::The Asphalt Jungle (1950)::Crime|Film-Noir|Drama
@@ -715,6 +717,7 @@
 0051365::Ansiktet (1958)::Drama
 0051378::Ascenseur pour l'échafaud (1958)::Crime|Drama|Thriller
 0051383::Auntie Mame (1958)::Comedy|Drama
+0051406::Bell Book and Candle (1958)::Comedy|Romance|Fantasy
 0051411::The Big Country (1958)::Drama|Romance|Western
 0051418::The Blob (1958)::Sci-Fi|Thriller
 0051423::Blue Murder at St. Trinian's (1957)::Comedy
@@ -1142,6 +1145,7 @@
 0062430::Valley of the Dolls (1967)::Drama|Music|Romance
 0062467::Wait Until Dark (1967)::Crime|Drama|Horror|Thriller
 0062472::The War Wagon (1967)::Western
+0062480::Week End (1967)::Comedy|Drama
 0062512::You Only Live Twice (1967)::Action|Adventure|Crime|Thriller
 0062622::2001: A Space Odyssey (1968)::Adventure|Mystery|Sci-Fi
 0062687::Astérix et Cléopâtre (1968)::Animation|Adventure|Comedy|Family|History
@@ -1402,6 +1406,7 @@
 0069293::Solyaris (1972)::Drama|Mystery|Sci-Fi
 0069303::Sounder (1972)::Drama|Family
 0069332::Super Fly (1972)::Action|Crime|Drama
+0069334::Swayamvaram (1973)::
 0069372::The Thing with Two Heads (1972)::Comedy|Horror|Sci-Fi
 0069375::Three on a Meathook (1973)::Horror
 0069427::Twins of Evil (1971)::Horror
@@ -1527,11 +1532,13 @@
 0071910::Il portiere di notte (1974)::Drama
 0072007::La polizia chiede aiuto (1974)::Mystery|Thriller
 0072080::Le retour du grand blond (1974)::Comedy
+0072228::The Super Cops (1974)::Action|Comedy|Crime|Drama|Thriller
 0072235::Sweet Movie (1974)::Comedy|Drama
 0072251::The Taking of Pelham One Two Three (1974)::Crime|Drama|Thriller
 0072263::Ein Unbekannter rechnet ab (1974)::Crime|Mystery|Drama
 0072271::The Texas Chain Saw Massacre (1974)::Horror
 0072274::Thieves Like Us (1974)::Crime|Drama|Romance
+0072284::Three the Hard Way (1974)::Action|Thriller
 0072288::Thunderbolt and Lightfoot (1974)::Comedy|Crime|Drama
 0072308::Wolkenkrabber in Vlammen (1974)::Action|Thriller
 0072353::Les valseuses (1974)::Comedy|Drama
@@ -1850,6 +1857,7 @@
 0080391::Attack of the Killer Tomatoes! (1978)::Comedy|Horror|Sci-Fi|Musical
 0080402::The Awakening (1980)::Horror|Thriller
 0080408::Bad Timing (1980)::Drama|Mystery|Thriller
+0080421::Battle Beyond the Stars (1980)::Action|Adventure|Comedy|Sci-Fi
 0080436::The Big Brawl (1980)::Action|Comedy
 0080437::The Big Red One (1980)::Action|Drama|War
 0080439::Il bisbetico domato (1980)::Comedy
@@ -2005,6 +2013,7 @@
 0083530::Airplane II: The Sequel (1982)::Comedy|Romance|Sci-Fi
 0083541::Alley Cat (1984)::Action
 0083543::Alsino y el cóndor (1983)::Drama|War
+0083550::Amityville II: The Possession (1982)::Drama|Horror|Thriller
 0083557::Android (1982)::Sci-Fi
 0083564::Annie (1982)::Comedy|Drama|Family|Musical
 0083580::L'as des as (1982)::Adventure|Comedy|Sport
@@ -2983,6 +2992,7 @@
 0102070::Hudson Hawk (1991)::Action|Adventure|Comedy
 0102071::Hum (1991)::Action|Crime|Drama|Family
 0102138::JFK (1991)::Drama|History|Thriller
+0102175::Jungle Fever (1991)::Drama|Romance
 0102178::K2 (1991)::Adventure|Drama
 0102181::Kafka (1991)::Comedy|Drama|Mystery|Sci-Fi|Thriller
 0102202::Kickboxer 2: The Road Back (1991)::Action|Sport|Thriller
@@ -3716,6 +3726,7 @@
 0117260::Original Gangstas (1996)::Action|Crime|Drama|Thriller
 0117283::The Pallbearer (1996)::Comedy|Romance
 0117318::The People vs. Larry Flynt (1996)::Biography|Drama
+0117331::The Phantom (1996)::Action|Adventure|Comedy
 0117333::Phenomenon (1996)::Drama|Fantasy|Romance|Sci-Fi
 0117359::Ponette (1996)::Drama
 0117381::Primal Fear (1996)::Crime|Drama|Mystery|Thriller
@@ -3766,6 +3777,7 @@
 0118556::Addicted to Love (1997)::Comedy|Romance
 0118571::Air Force One (1997)::Action|Adventure|Drama|Thriller
 0118583::Alien: Resurrection (1997)::Action|Sci-Fi|Thriller
+0118604::An American Werewolf in Paris (1997)::Horror|Romance|Thriller|Comedy
 0118615::Anaconda (1997)::Adventure|Thriller
 0118617::Anastasia (1997)::Animation|Adventure|Drama|Family|Fantasy|Musical
 0118636::Apt Pupil (1998)::Drama|Thriller
@@ -3887,6 +3899,7 @@
 0119695::Money Talks (1997)::Action|Comedy|Crime|Thriller
 0119698::Mononoke-hime (1997)::Animation|Adventure|Fantasy
 0119707::Mortal Kombat: Annihilation (1997)::Action|Adventure|Fantasy|Sci-Fi|Thriller
+0119709::Most Wanted (1997)::Action|Thriller
 0119715::Mousehunt (1997)::Comedy|Family
 0119731::Murder at 1600 (1997)::Action|Crime|Drama|Mystery|Thriller
 0119738::My Best Friend's Wedding (1997)::Comedy|Romance
@@ -5944,6 +5957,7 @@
 0404802::The Notorious Bettie Page (2005)::Biography|Drama
 0404978::Gambit (2012)::Comedy|Crime
 0405022::House of Boys (2009)::Drama|Musical|Romance
+0405061::Gin gwai 2 (2004)::Drama|Fantasy|Horror|Thriller
 0405094::Das Leben der Anderen (2006)::Drama|Thriller
 0405159::Million Dollar Baby (2004)::Drama|Sport
 0405266::Raincoat (2004)::Drama|Romance
@@ -5965,6 +5979,7 @@
 0406759::The Eye (2008)::Drama|Horror|Thriller
 0406816::The Guardian (2006)::Action|Adventure|Drama
 0406967::Manjupoloru Penkutti (2004)::Comedy|Drama|Romance
+0407121::Pooh's Heffalump Movie (2005)::Animation|Family|Fantasy|Mystery
 0407265::Transamerica (2005)::Adventure|Comedy|Drama
 0407304::War of the Worlds (2005)::Action|Adventure|Drama|Sci-Fi|Thriller
 0407536::The Aryan Couple (2004)::Drama|War
@@ -6623,6 +6638,7 @@
 0479952::Madagascar: Escape 2 Africa (2008)::Animation|Action|Adventure|Comedy|Family
 0479968::One Missed Call (2008)::Horror|Mystery
 0479997::Season of the Witch (2011)::Action|Adventure|Fantasy
+0480011::Straightheads (2007)::Thriller
 0480025::This Is England (2006)::Crime|Drama
 0480239::Atlas Shrugged: Part I (2011)::Drama|Mystery|Sci-Fi
 0480242::Dan in Real Life (2007)::Comedy|Drama|Romance
@@ -7203,6 +7219,7 @@
 0902955::Barda (2007)::Crime|Drama
 0903624::The Hobbit: An Unexpected Journey (2012)::Adventure|Fantasy
 0903627::Julia (2008)::Crime|Drama|Thriller
+0903665::Yuniol (2007)::Drama
 0904068::Sarang-ttawin piryo-eopseo (2006)::Romance
 0905372::The Thing (2011)::Horror|Mystery|Sci-Fi|Thriller
 0906108::Why Did I Get Married? (2007)::Comedy|Drama
@@ -7237,6 +7254,7 @@
 0923811::Evangerion shin gekijôban: Jo (2007)::Animation|Action|Sci-Fi
 0923870::Red Without Blue (2007)::Documentary
 0924129::Crossing Over (2009)::Drama
+0924134::The Year of Getting to Know Us (2008)::Comedy|Drama
 0926084::Harry Potter and the Deathly Hallows: Part 1 (2010)::Adventure|Drama|Fantasy|Mystery
 0926110::Missionary Man (2007)::Action|Drama|Thriller|Western
 0926129::Prom Night (2008)::Horror|Mystery|Thriller
@@ -8040,6 +8058,7 @@
 1229822::Jane Eyre (2011)::Drama|Romance
 1229827::Jonas Brothers: The 3D Concert Experience (2009)::Documentary|Music
 1230164::Return of the Ghostbusters (2007)::Comedy|Sci-Fi
+1230194::De storm (2009)::Drama
 1230204::Sammy's avonturen: De geheime doorgang (2010)::Animation|Adventure|Family
 1230211::Perkins' 14 (2009)::Horror|Thriller
 1230215::Not Fade Away (2012)::Drama
@@ -8475,6 +8494,7 @@
 1389127::Texas Killing Fields (2011)::Crime|Drama|History|Thriller
 1389137::We Bought a Zoo (2011)::Drama|Family
 1390398::Bless Me, Ultima (2013)::Drama|War
+1390535::The Final (2010)::Drama|Horror|Thriller
 1390539::The Lost Medallion: The Adventures of Billy Stone (2013)::Adventure
 1391034::And Soon the Darkness (2010)::Crime|Horror|Mystery|Thriller
 1391116::Resistance (2011)::Drama|Thriller|War
@@ -8797,6 +8817,7 @@
 1503769::Collapse (2009)::Documentary
 1503773::El vuelco del cangrejo (2009)::Drama
 1503774::Genius Within: The Inner Life of Glenn Gould (2009)::Documentary|Biography|Music
+1503780::Stained (2010)::Thriller
 1504319::Road to Nowhere (2010)::Romance|Thriller
 1504320::The King's Speech (2010)::Biography|Drama|History
 1504403::Husk (2011)::Drama|Horror|Thriller
@@ -9074,6 +9095,7 @@
 1588342::Snabba cash II (2012)::Action|Crime|Drama|Thriller
 1588356::Hamoni (2010)::Drama
 1588398::Sleeping Beauty (2011)::Drama|Romance
+1588875::Kak ya provel etim letom (2010)::Action|Drama
 1588886::Greystone Park (2012)::Horror
 1588895::Loong Boonmee raleuk chat (2010)::Drama|Fantasy
 1589427::Ev (2010)::Drama|Thriller
@@ -9776,6 +9798,7 @@
 1787759::Madea's Big Happy Family (2011)::Comedy|Drama
 1787777::Page One: Inside the New York Times (2011)::Documentary
 1787797::Sing Your Song (2011)::Documentary|Biography|Music
+1787828::To Get Her (2011)::Drama|Mystery|Thriller
 1787837::We Were Here (2011)::Documentary
 1787988::Talaash (2012)::Crime|Drama|Mystery|Thriller
 1788383::House of the Rising Sun (2011)::Action|Crime|Drama|Thriller
@@ -10169,6 +10192,7 @@
 1930294::Black Rock (2012)::Horror|Thriller
 1930344::Give Me the Banjo (2011)::Documentary
 1930355::Hitting the Wall (2011)::Drama|Romance|Sport
+1930458::Red Line (2013)::Thriller
 1930546::Arthur Newman (2012)::Comedy|Drama
 1931388::Beware of Mr. Baker (2012)::Documentary
 1931435::The Big Wedding (2013)::Comedy
@@ -11548,6 +11572,7 @@
 2679530::Natholi Oru Cheriya Meenalla (2013)::Comedy
 2690346::Angels (2013)::Short|Crime|Horror|Thriller
 2691498::Hoe Duur was de Suiker (2013)::Drama
+2691722::Het Vonnis (2013)::Drama
 2692904::Locke (2013)::Drama|Thriller
 2693702::3x3D (2013)::Comedy|Drama
 2693862::Man Up (2012)::Short|Comedy|Drama
@@ -11713,6 +11738,7 @@
 2991282::From the Future with Love (2013)::Short
 2993250::Donner Party: The Musical (2013)::Short|Comedy|History|Musical
 2994448::Kissing Hank's Ass (2013)::Short|Comedy
+2997766::De nieuwe wildernis (2013)::Documentary
 3000284::Honey Bee (2013)::Comedy
 3003088::Punching (2013)::Short|Action|Comedy|Drama
 3003668::Ji Zhan (2013)::Action|Drama
