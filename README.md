@@ -1,10 +1,10 @@
 #MovieTweetings
 ##A Movie Rating Dataset Collected From Twitter
 
-MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and will be presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the corresponding paper if you make use of this dataset.
+MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and has been presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the corresponding paper if you make use of this dataset. The presented slides can be found on [slideshare] (http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter).
 
     @conference{Dooms13crowdrec,
-    author = {Simon Dooms, Toon De Pessemier and Luc Martens},
+    author = {Dooms, Simon and De Pessemier, Toon and Martens, Luc},
     title = {MovieTweetings: a Movie Rating Dataset Collected From Twitter},
     booktitle = {Workshop on Crowdsourcing and Human Computation for Recommender Systems, CrowdRec at RecSys 2013},
     year = {2013}
