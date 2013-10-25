@@ -135,6 +135,7 @@
 0023902::El compadre Mendoza (1934)::Drama|War
 0023937::Dekigokoro (1933)::Drama
 0023969::Duck Soup (1933)::Comedy|Musical
+0024034::42nd Street (1933)::Comedy|Musical|Romance
 0024069::Gold Diggers of 1933 (1933)::Comedy|Drama|Musical
 0024092::Havana Widows (1933)::Comedy
 0024120::Hijôsen no onna (1933)::Crime|Drama|Romance
@@ -1000,6 +1001,7 @@
 0057091::Il gattopardo (1963)::Drama|History
 0057115::The Great Escape (1963)::Adventure|Drama|History|Thriller|War
 0057129::The Haunting (1963)::Horror
+0057163::Hud (1963)::Drama
 0057171::Ieri, oggi, domani (1963)::Comedy|Romance
 0057193::It's a Mad Mad Mad Mad World (1963)::Action|Adventure|Comedy|Crime
 0057197::Jason and the Argonauts (1963)::Adventure|Family|Fantasy
@@ -2093,7 +2095,7 @@
 0082971::Raiders of the Lost Ark (1981)::Action|Adventure
 0082979::Reds (1981)::Biography|Drama|History|Romance
 0082986::Reporters (1981)::Documentary
-0082988::Requiem (1982)::
+0082988::Requiem (1982)::Drama
 0083015::S.O.B. (1981)::Comedy
 0083033::Saturday the 14th (1981)::Comedy|Fantasy|Horror|Sci-Fi
 0083081::Silsila (1981)::Drama|Musical|Romance
@@ -3620,6 +3622,7 @@
 0112438::The Babysitter (1995)::Drama|Thriller
 0112442::Bad Boys (1995)::Action|Comedy|Crime|Drama|Thriller
 0112445::Badkonake sefid (1995)::Drama|Family
+0112453::Balto (1995)::Animation|Adventure|Drama|Family|History
 0112461::The Basketball Diaries (1995)::Biography|Crime|Drama|Sport
 0112462::Batman Forever (1995)::Action|Adventure|Crime|Fantasy|Thriller
 0112471::Before Sunrise (1995)::Drama|Romance
@@ -6357,6 +6360,7 @@
 0420541::Ce qu'il reste de nous (2004)::Documentary
 0420548::El perro (2004)::Drama
 0420609::Infamous (2006)::Biography|Crime|Drama
+0420627::17 sui de tian kong (2004)::Comedy|Romance
 0420757::Man About Town (2006)::Comedy|Drama
 0420901::Shooting Dogs (2005)::Drama|History
 0421054::Domino (2005)::Action|Biography|Crime|Drama|Thriller
@@ -7168,6 +7172,7 @@
 0795370::Le deuxième souffle (2007)::Crime|Drama|Mystery|Thriller
 0795371::Dirty Laundry (2006)::Drama|Comedy
 0795421::Mamma Mia! (2008)::Comedy|Musical|Romance
+0795434::Namastey London (2007)::Comedy|Drama|Romance
 0795441::Oorlogswinter (2008)::Drama|History|War
 0795461::Scary Movie 5 (2013)::Comedy
 0795493::Cassandra's Dream (2007)::Crime|Drama|Romance|Thriller
@@ -7765,6 +7770,7 @@
 1031280::Splinter (2008)::Horror|Thriller
 1032751::The Warrior's Way (2010)::Action|Fantasy|Western
 1032755::RocknRolla (2008)::Action|Crime|Thriller
+1032763::Inseparable (2011)::Drama|Thriller
 1032815::I Love You, Beth Cooper (2009)::Comedy|Romance
 1032819::Powder Blue (2009)::Drama
 1032821::Tyson (2008)::Documentary|Sport
@@ -9183,6 +9189,7 @@
 1514048::Loving the Bad Man (2010)::Drama
 1515059::Family Affair (2010)::Documentary|Family
 1515091::Sherlock Holmes: A Game of Shadows (2011)::Action|Adventure|Crime|Mystery|Thriller
+1515195::Being in the World (2010)::Documentary
 1515199::Fertile Ground (2011)::Horror
 1515207::Sus (2010)::Drama
 1515863::Lost Memories (2009)::Short|Drama
@@ -9487,6 +9494,7 @@
 1599348::Safe House (2012)::Action|Crime|Mystery|Thriller
 1599975::La princesse de Montpensier (2010)::Action|Drama|History|Romance
 1600195::Abduction (2011)::Action|Drama|Mystery|Thriller
+1600207::The Eye of the Storm (2011)::Drama
 1600428::No et moi (2010)::Drama
 1600524::Les amours imaginaires (2010)::Drama
 1601227::Sønner av Norge (2011)::Drama
@@ -9669,6 +9677,7 @@
 1650056::The Cup (2011)::Drama
 1650062::Super 8 (2011)::Mystery|Sci-Fi|Thriller
 1650393::C.O.G. (2013)::Comedy|Drama
+1650404::Draquila - L'Italia che trema (2010)::Documentary
 1650407::Få meg på, for faen (2011)::Comedy
 1650433::Sura (2010)::Action
 1650453::Kiseki (2011)::Drama
@@ -9987,6 +9996,7 @@
 1729674::Gone Missing (2013)::Adventure|Crime|Drama|Thriller
 1730687::Darling Companion (2012)::Drama
 1730689::Des vents contraires (2011)::Drama|Mystery
+1731141::Ender's Game (2013)::Action|Adventure|Sci-Fi
 1731697::The Lords of Salem (2012)::Horror|Thriller
 1731990::Försvunnen (2011)::Thriller
 1731998::ID:A (2011)::Thriller
@@ -10097,6 +10107,7 @@
 1758830::This Is 40 (2012)::Comedy
 1760967::Ill Manors (2012)::Crime|Drama
 1760984::Mubeopja (2010)::Crime|Mystery|Thriller
+1762300::One Life (2011)::Documentary
 1763264::No One Lives (2012)::Horror|Thriller
 1763280::Septien (2011)::Comedy|Drama|Mystery
 1763303::The First Time (2012)::Comedy|Drama|Romance
@@ -10539,6 +10550,7 @@
 1915581::Magic Mike (2012)::Comedy|Drama
 1916749::The Time Being (2012)::Mystery
 1918727::California Solo (2012)::Drama
+1918758::Dale Archdale (2011)::Short|Comedy
 1918806::Entrance (2012)::Drama|Horror|Thriller
 1918927::Luv Ka the End (2011)::Comedy|Drama
 1918965::Murder 2 (2011)::Action|Crime|Drama|Thriller
@@ -11247,6 +11259,7 @@
 2193091::Half the Sky (2012)::Documentary
 2193145::Maharana Pratap: The First Freedom Fighter (2012)::Action|War
 2193214::The Red Valentine (2012)::Short|Drama|History|Mystery
+2193215::The Counselor (2013)::Crime|Drama|Thriller
 2193364::Main Hoon Shahid Afridi (2013)::Action|Drama|Sport
 2193418::Hammer of the Gods (2013)::Action
 2193676::Krivina (2012)::Drama|History|War
@@ -11835,6 +11848,7 @@
 2462750::Roa (2013)::Drama
 2464018::Minha Mãe é uma Peça (2013)::Comedy
 2464870::AutoDrive (2012)::Short|Sci-Fi|Thriller
+2466684::Isteni mûszak (2013)::Comedy|Drama
 2466786::Namyeong-dong 1985 (2012)::Drama
 2467480::Il principe abusivo (2013)::Comedy
 2468774::Nae-ga sal-in-beom-i-da (2012)::Action|Thriller
@@ -11921,6 +11935,7 @@
 2553800::¡Cuatro! (2012)::Documentary
 2553908::Cinco de Mayo: La batalla (2013)::War
 2554270::Ta-weo (2012)::Action|Drama
+2554646::Dummy Jim (2013)::Documentary|Biography
 2556770::Salvi (2012)::Short|Drama
 2558518::We Are Family (2012)::Short|Comedy|Family
 2558632::Baking Boys (2012)::Short|Comedy|Drama
@@ -11943,6 +11958,7 @@
 2576450::Besharam (2013)::Comedy|Romance
 2576522::Nugu-ui ttal-do anin Haewon (2013)::Drama
 2577150::Drogówka (2013)::Comedy|Crime|Drama
+2577990::Valentine Road (2013)::Documentary
 2578290::The Stuart Hall Project (2013)::Documentary|Biography|History
 2579732::Efterklang: The Ghost of Piramida (2012)::Documentary
 2579836::Ooga Booga (2013)::Comedy|Horror
@@ -12166,6 +12182,7 @@
 2865258::The Secret to Dating (2013)::Short|Comedy
 2866028::The Wedding Cake House: Truth Behind the Myths (2013)::Short
 2866346::¿Quien manda? (2013)::Comedy
+2866360::Coherence (2013)::
 2867096::Mi rifaccio vivo (2013)::Comedy
 2872256::Udhayam NH4 (2013)::Action|Thriller
 2875926::My Sweet Pepper Land (2013)::Drama
