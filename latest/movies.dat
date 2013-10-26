@@ -287,6 +287,7 @@
 0033870::The Maltese Falcon (1941)::Crime|Drama|Film-Noir|Mystery
 0033871::A Man Betrayed (1941)::Crime|Drama|Mystery|Romance
 0033874::The Man Who Came to Dinner (1942)::Comedy|Romance
+0033879::Man Made Monster (1941)::Drama|Horror|Sci-Fi|Thriller
 0033891::Meet John Doe (1941)::Comedy|Drama|Romance
 0033922::Mr. & Mrs. Smith (1941)::Comedy|Romance
 0033945::Never Give a Sucker an Even Break (1941)::Comedy|Musical
@@ -528,6 +529,7 @@
 0043274::Alice in Wonderland (1951)::Animation|Adventure|Family|Fantasy|Musical
 0043278::An American in Paris (1951)::Musical|Romance
 0043303::L'auberge rouge (1951)::Comedy|Crime
+0043335::Best of the Badmen (1951)::Western
 0043338::Ace in the Hole (1951)::Drama|Film-Noir
 0043379::Captain Horatio Hornblower R.N. (1951)::Action|Adventure|Drama|War
 0043425::Comin' Round the Mountain (1951)::Comedy|Musical
@@ -893,6 +895,7 @@
 0054387::The Time Machine (1960)::Adventure|Fantasy|Romance|Sci-Fi|Thriller
 0054389::Tirez sur le pianiste (1960)::Crime|Drama|Thriller
 0054407::Le trou (1960)::Crime|Drama|Thriller
+0054415::12 to the Moon (1960)::Sci-Fi
 0054443::Village of the Damned (1960)::Horror|Mystery|Sci-Fi
 0054462::The Wasp Woman (1959)::Horror|Sci-Fi
 0054483::The World of Suzie Wong (1960)::Drama|Romance
@@ -1592,6 +1595,7 @@
 0071455::Earthquake (1974)::Action|Drama|Thriller
 0071508::Flesh for Frankenstein (1973)::Horror|Sci-Fi
 0071512::Xue di zi (1975)::Action|Drama
+0071517::Foxy Brown (1974)::Action|Comedy|Crime|Drama|Thriller
 0071519::Frankenstein and the Monster from Hell (1973)::Horror
 0071524::The Front Page (1974)::Comedy|Drama|Romance
 0071562::The Godfather: Part II (1974)::Crime|Drama
@@ -1727,6 +1731,7 @@
 0074860::Marathon Man (1976)::Thriller
 0074880::Max Havelaar of de koffieveilingen der Nederlandsche handelsmaatschappij (1976)::Drama
 0074896::The Message (1977)::Adventure|Biography|Drama|History
+0074899::Midway (1976)::Action|Drama|History|War
 0074906::The Missouri Breaks (1976)::Drama|Western
 0074910::Moi, Pierre Rivière, ayant égorgé ma mère, ma soeur et mon frère... (1976)::Crime|Drama
 0074937::Murder by Death (1976)::Comedy|Mystery|Thriller|Crime
@@ -2051,6 +2056,7 @@
 0082348::Excalibur (1981)::Adventure|Drama|Fantasy
 0082351::Eye of the Needle (1981)::Romance|Thriller|War
 0082352::Eyes of a Stranger (1981)::Horror|Thriller
+0082353::Eyewitness (1981)::Thriller
 0082377::The Final Conflict (1981)::Horror|Thriller
 0082378::Final Exam (1981)::Horror|Thriller
 0082398::For Your Eyes Only (1981)::Action|Adventure|Crime|Thriller
@@ -2454,6 +2460,7 @@
 0090073::Stick (1985)::Action|Crime|Drama|Thriller
 0090094::The Stuff (1985)::Horror|Comedy|Sci-Fi|Mystery
 0090095::Subway (1985)::Comedy|Crime|Drama
+0090098::Summer Rental (1985)::Adventure|Comedy|Romance
 0090103::The Sure Thing (1985)::Comedy|Drama|Romance
 0090142::Teen Wolf (1985)::Comedy|Fantasy|Romance
 0090180::To Live and Die in L.A. (1985)::Action|Crime|Drama|Thriller
@@ -3644,6 +3651,7 @@
 0112641::Casino (1995)::Biography|Crime|Drama
 0112642::Casper (1995)::Comedy|Family|Fantasy
 0112651::The Celluloid Closet (1995)::Documentary|History
+0112679::Circle of Friends (1995)::Drama|Romance
 0112682::La cité des enfants perdus (1995)::Adventure|Fantasy|Sci-Fi
 0112690::Clockwork Mice (1995)::Drama
 0112691::Wallace and Gromit in A Close Shave (1995)::Animation|Short|Comedy|Crime|Family
@@ -4095,6 +4103,7 @@
 0119843::Oscar and Lucinda (1997)::Drama|Romance
 0119861::Pardes (1997)::Musical|Romance|Action|Drama
 0119874::The Peacemaker (1997)::Action|Thriller
+0119879::Perdita Durango (1997)::Action|Crime|Horror|Romance
 0119891::Phantoms (1998)::Horror|Sci-Fi|Thriller
 0119896::Picture Perfect (1997)::Comedy|Drama|Romance
 0119905::The Players Club (1998)::Comedy|Drama
@@ -4197,6 +4206,7 @@
 0120735::Lock, Stock and Two Smoking Barrels (1998)::Crime|Thriller
 0120737::The Lord of the Rings: The Fellowship of the Ring (2001)::Action|Adventure|Drama|Fantasy
 0120738::Lost in Space (1998)::Action|Adventure|Sci-Fi|Thriller
+0120741::Jane Austen's Mafia! (1998)::Comedy|Crime
 0120744::The Man in the Iron Mask (1998)::Action|Adventure
 0120746::The Mask of Zorro (1998)::Action|Adventure|Romance|Western
 0120747::Martha - Meet Frank, Daniel and Laurence (1998)::Comedy|Romance
@@ -5974,6 +5984,7 @@
 0378194::Kill Bill: Vol. 2 (2004)::Action|Crime|Thriller
 0378284::Machuca (2004)::Biography|Drama
 0378407::My Date with Drew (2004)::Documentary
+0378867::Testosterone (2003)::Comedy|Drama
 0378897::Politiki kouzina (2003)::Comedy|Drama
 0378906::Travellers and Magicians (2003)::Drama|Adventure
 0378947::Melinda and Melinda (2004)::Comedy|Drama
@@ -6873,6 +6884,7 @@
 0477585::Café Transit (2005)::Drama
 0477731::Sang sattawat (2006)::Drama
 0477877::Sommer vorm Balkon (2005)::Drama
+0477916::Viva Cuba (2005)::Comedy|Drama
 0478024::Saat po long (2005)::Action|Crime|Drama|Thriller
 0478049::The U.S. vs. John Lennon (2006)::Documentary|Biography|Music
 0478087::21 (2008)::Crime|Drama
@@ -7538,6 +7550,7 @@
 0923870::Red Without Blue (2007)::Documentary
 0924129::Crossing Over (2009)::Drama
 0924134::The Year of Getting to Know Us (2008)::Comedy|Drama
+0926063::Dance of the Dead (2008)::Comedy|Horror
 0926084::Harry Potter and the Deathly Hallows: Part 1 (2010)::Adventure|Drama|Fantasy|Mystery
 0926110::Missionary Man (2007)::Action|Drama|Thriller|Western
 0926129::Prom Night (2008)::Horror|Mystery|Thriller
@@ -7795,6 +7808,7 @@
 1037156::Stone of Destiny (2008)::Adventure|Comedy|Crime|Drama
 1037218::Flashbacks of a Fool (2008)::Drama
 1037222::Robosapien: Rebooted (2013)::Adventure|Drama|Family|Sci-Fi
+1037223::Everyday (2012)::Drama
 1037705::The Book of Eli (2010)::Action|Adventure|Drama|Thriller
 1037850::Bu neng shuo de. mi mi (2007)::Drama|Fantasy|Music|Romance
 1038045::Mein Kampf (2009)::Biography|Comedy
@@ -8348,6 +8362,7 @@
 1226271::The Damned United (2009)::Biography|Comedy|Drama|Sport
 1226273::Edge of Darkness (2010)::Crime|Drama|Mystery|Thriller
 1226681::Pontypool (2008)::Horror|Sci-Fi|Thriller
+1226734::1234 (2008)::Drama
 1226753::The Debt (2010)::Drama|Thriller
 1226774::In the Loop (2009)::Comedy
 1227378::Fat, Sick & Nearly Dead (2010)::Documentary
@@ -8371,6 +8386,7 @@
 1230215::Not Fade Away (2012)::Drama
 1230385::Hwanghae (2010)::Crime|Drama|Thriller
 1230414::It's Complicated (2009)::Comedy|Romance
+1230448::Billu (2009)::Comedy|Drama
 1231277::S. Darko (2009)::Crime|Mystery|Sci-Fi|Thriller
 1231583::Due Date (2010)::Comedy|Drama
 1231586::A Good Old Fashioned Orgy (2011)::Comedy
@@ -8819,6 +8835,7 @@
 1390535::The Final (2010)::Drama|Horror|Thriller
 1390539::The Lost Medallion: The Adventures of Billy Stone (2013)::Adventure
 1391034::And Soon the Darkness (2010)::Crime|Horror|Mystery|Thriller
+1391092::Marwencol (2010)::Documentary|Biography|Fantasy
 1391116::Resistance (2011)::Drama|Thriller|War
 1391137::Why Did I Get Married Too? (2010)::Comedy|Romance
 1391142::Änglavakt (2010)::Drama
@@ -9065,6 +9082,7 @@
 1465533::Columbus Circle (2012)::Crime|Mystery|Thriller
 1466072::William S. Burroughs: A Man Within (2010)::Documentary
 1467273::La prima cosa bella (2010)::Comedy|Drama
+1467290::Retornos (2010)::Thriller
 1468381::Undocumented (2010)::Horror
 1468387::What If... (2010)::Drama|Fantasy
 1468700::40 (2009)::Drama
@@ -11002,6 +11020,7 @@
 2094762::And Now a Word from Our Sponsor (2013)::Comedy|Drama
 2094854::Inkaar (2013)::Drama|Romance
 2094877::Les saveurs du Palais (2012)::Biography|Comedy
+2094890::Mother of George (2013)::Drama
 2095684::L (2012)::Comedy|Drama
 2096393::Big Boy (2011)::Drama
 2097307::Hit and Run (2012)::Action|Comedy|Romance
@@ -11230,6 +11249,7 @@
 2184339::The Purge (2013)::Horror|Sci-Fi|Thriller
 2185694::Llandudno Happy Valley and Minstrel Show (1898)::Documentary|Short
 2186562::Die Vampirschwestern (2012)::Adventure|Comedy|Drama|Family|Fantasy
+2186685::Alice Walker: Beauty in Truth (2013)::Documentary|Biography|History
 2186715::Cold War (2012)::Action|Crime|Mystery
 2186753::El cielo en tu Mirada (2012)::Romance
 2186766::All Stars (2013)::Comedy
@@ -11407,6 +11427,7 @@
 2258337::Eega (2012)::Comedy|Drama|Fantasy
 2258565::Samoubiytsy (2012)::Comedy
 2258858::Wadjda (2012)::Drama
+2259306::BB King: The Life of Riley (2012)::Documentary
 2259360::Caught in the Web (2012)::Drama
 2261409::Made in Cleveland (2013)::Comedy
 2261434::Viaggio sola (2013)::Drama
@@ -12134,6 +12155,7 @@
 2794596::El-Cin (2013)::Drama|Fantasy|Horror
 2794888::Under the Caravan (2013)::Short
 2795078::Gasland Part II (2013)::Documentary
+2796318::Mickey Virus (2013)::Comedy|Thriller
 2797242::Bombay Talkies (2013)::Drama
 2798680::Knight of the Dead (2013)::Action|Fantasy|Horror
 2800784::Satsujin Douga Site (2010)::Drama|Horror|Thriller
@@ -12262,6 +12284,7 @@
 3019542::A Wonderful Moment (2013)::Drama
 3021806::Time Please (2013)::Romance
 3021840::Arrowhead: Signal (2012)::Short|Sci-Fi
+3025712::The Spy: Undercover Operation (2013)::Action|Comedy
 3030752::De Rolling por Colombia (2013)::Comedy
 3031022::Ekstra (2013)::Drama
 3034728::Left Right Left (2013)::Drama
@@ -12306,6 +12329,7 @@
 3116248::Mysterious & Ways (2013)::Short|Comedy
 3118696::Club Sándwich (2013)::Comedy
 3120002::Crazy for You (2013)::Short|Horror
+3121096::Farsh wa ghata (2013)::Biography|Drama
 3121604::Duniyadari (2013)::Drama
 3124456::Memories (2013)::Mystery|Thriller
 3129282::War Chod Na Yaar (2013)::Comedy|War
@@ -12323,6 +12347,7 @@
 3181128::Mac & Jack (2013)::Short|Comedy
 3181962::The Last Shepherd (2013)::Adventure|Comedy|Fantasy
 3188690::The Making of a Queen (2013)::Biography
+3194532::Gorko! (2013)::Comedy
 3196598::Sex: My British Job (2013)::Documentary
 3198244::Momzillas (2013)::Comedy
 3198468::North 24 Kaatham (2013)::Family
