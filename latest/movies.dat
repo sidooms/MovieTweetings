@@ -747,6 +747,7 @@
 0050212::The Bridge on the River Kwai (1957)::Adventure|Drama|History|War
 0050237::Celui qui doit mourir (1957)::Drama
 0050252::China Gate (1957)::Action|War|Drama
+0050296::Decision at Sundown (1957)::Drama|Western
 0050356::The Enemy Below (1957)::Action|Adventure|Drama|Thriller|War
 0050371::A Face in the Crowd (1957)::Drama
 0050397::Fire Down Below (1957)::Adventure|Drama
@@ -1317,6 +1318,7 @@
 0064940::Fellini - Satyricon (1969)::Drama|Fantasy
 0064949::Scream and Scream Again (1970)::Horror|Sci-Fi|Crime|Mystery|Thriller
 0064975::Shinjû: Ten no Amijima (1969)::Drama
+0065012::Some Will, Some Won't (1970)::Comedy
 0065036::Stereo (1969)::Sci-Fi
 0065063::Take the Money and Run (1969)::Comedy|Crime
 0065073::Taste the Blood of Dracula (1970)::Drama|Fantasy|Horror|Thriller
@@ -2841,6 +2843,7 @@
 0096054::School Daze (1988)::Comedy|Drama|Musical
 0096061::Scrooged (1988)::Comedy|Drama|Fantasy
 0096071::The Serpent and the Rainbow (1988)::Horror|Thriller
+0096073::The Seventh Sign (1988)::Drama|Fantasy|Horror|Thriller
 0096087::Shakedown (1988)::Action|Crime|Drama
 0096098::Shoot to Kill (1988)::Action|Adventure|Crime|Drama|Thriller
 0096101::Short Circuit 2 (1988)::Comedy|Drama|Family|Sci-Fi
@@ -3728,6 +3731,7 @@
 0113451::Jade (1995)::Action|Crime|Drama|Thriller
 0113464::Jeffrey (1995)::Comedy|Drama
 0113481::Johnny Mnemonic (1995)::Action|Sci-Fi
+0113490::The Journey of August King (1995)::Drama
 0113492::Judge Dredd (1995)::Action|Crime|Sci-Fi|Thriller
 0113497::Jumanji (1995)::Adventure|Family|Fantasy|Thriller
 0113501::Just Cause (1995)::Crime|Drama|Mystery|Thriller
@@ -3881,6 +3885,7 @@
 0116483::Happy Gilmore (1996)::Comedy|Romance|Sport
 0116514::Hellraiser: Bloodline (1996)::Horror|Sci-Fi
 0116571::House Arrest (1996)::Comedy|Family
+0116581::Le huitième jour (1996)::Comedy|Drama
 0116583::The Hunchback of Notre Dame (1996)::Animation|Drama|Family|Musical|Romance
 0116621::In Love and War (1996)::Biography|Drama|Romance|War
 0116629::Independence Day (1996)::Action|Adventure|Sci-Fi|Thriller
@@ -4220,6 +4225,7 @@
 0120693::Half Baked (1998)::Comedy|Crime
 0120694::Halloween H20: 20 Years Later (1998)::Drama|Horror|Thriller
 0120696::Hard Rain (1998)::Action|Crime|Thriller|Drama
+0120710::In Dreams (1999)::Drama|Fantasy|Thriller
 0120716::Jakob the Liar (1999)::Comedy|Drama|War
 0120724::Knock Off (1998)::Action|Comedy|Thriller
 0120728::The Last Days of Disco (1998)::Comedy|Drama|Music|Romance
@@ -4858,6 +4864,7 @@
 0218967::The Family Man (2000)::Comedy|Drama|Romance
 0219105::John Henry (2000)::Short|Animation|Musical|Family|Drama
 0219374::Unconditional Love (2002)::Drama|Comedy|Musical|Thriller
+0219405::Waydowntown (2000)::Comedy
 0219653::Dracula 2000 (2000)::Horror|Thriller
 0219699::The Gift (2000)::Crime|Drama|Fantasy|Mystery|Thriller
 0219854::The Kid (2000)::Comedy|Family|Fantasy
@@ -5868,6 +5875,7 @@
 0365125::A Dirty Shame (2004)::Comedy
 0365376::Janghwa, Hongryeon (2003)::Drama|Horror|Mystery|Thriller
 0365485::The Matador (2005)::Comedy|Crime|Drama|Thriller
+0365513::Monster Man (2003)::Adventure|Comedy|Horror
 0365675::Der rote Baron (2008)::Action|Adventure|Biography|Drama|Romance|War
 0365686::Revolver (2005)::Crime|Drama|Mystery|Thriller
 0365737::Syriana (2005)::Drama|Thriller
@@ -6185,6 +6193,7 @@
 0397101::The Skeleton Key (2005)::Drama|Horror|Mystery|Thriller
 0397103::Smile (2005)::Adventure|Drama
 0397313::Eight Below (2006)::Adventure|Drama|Family
+0397401::Drop Dead Sexy (2005)::Comedy|Crime
 0397535::Memoirs of a Geisha (2005)::Drama|Romance
 0397619::Samaria (2004)::Drama
 0397892::Bolt (2008)::Animation|Adventure|Comedy|Family
@@ -7182,6 +7191,7 @@
 0782700::När mörkret faller (2006)::Drama
 0782839::Al final del espectro (2006)::Drama|Horror|Mystery|Thriller
 0783233::Atonement (2007)::Drama|Mystery|Romance|War
+0783238::The Dead Girl (2006)::Drama|Mystery|Thriller
 0783515::The Education of Charlie Banks (2007)::Drama
 0783521::First Flight (2006)::Animation|Short
 0783532::Jerusalema (2008)::Action|Crime|Drama
@@ -7425,6 +7435,7 @@
 0854678::Taxi to the Dark Side (2007)::Documentary|Crime|War
 0855852::Kâbê (2008)::Drama
 0856288::À l'intérieur (2007)::Horror|Thriller
+0856800::Liberté '56 (2007)::Drama|History
 0857190::The Sweeney (2012)::Action|Crime|Drama
 0857191::The Visitor (2007)::Crime|Drama|Music|Romance
 0857265::Sleuth (2007)::Drama|Mystery|Thriller
@@ -8275,6 +8286,7 @@
 1187064::Triangle (2009)::Horror|Mystery|Thriller
 1188113::Peacock (2010)::Drama|Thriller
 1188729::Pandorum (2009)::Action|Horror|Sci-Fi|Thriller
+1188986::El cónsul de Sodoma (2009)::Biography|Drama
 1188990::Fritt vilt II (2008)::Drama|Horror|Mystery|Romance|Thriller
 1188992::Haarautuvan rakkauden talo (2009)::Comedy|Drama
 1188996::My Name Is Khan (2010)::Drama|Romance|Thriller
@@ -9437,6 +9449,7 @@
 1568338::Man on a Ledge (2012)::Action|Crime|Thriller
 1568341::Some Guy Who Kills People (2011)::Comedy|Horror|Thriller
 1568346::The Girl with the Dragon Tattoo (2011)::Crime|Drama|Mystery|Thriller
+1568798::15 Till Midnight (2010)::Drama|Mystery|Sci-Fi
 1568799::All the Wrong Reasons (2013)::Comedy|Drama
 1568863::Memory Lane (2010)::
 1568911::War Horse (2011)::Drama|War
@@ -9669,6 +9682,7 @@
 1634122::Johnny English Reborn (2011)::Adventure|Comedy
 1634136::Violet & Daisy (2011)::Action|Comedy|Crime|Drama|Thriller
 1634286::Grassroots (2012)::Comedy|Drama
+1634524::Órói (2010)::Drama
 1634833::Overdos (2010)::Documentary|News
 1636780::Gekijouban Gintama: Shin'yaku benizakura hen (2010)::Animation|Action|Comedy|History|Sci-Fi
 1636826::Project X (2012)::Comedy
@@ -11778,6 +11792,7 @@
 2381989::Skytten (2013)::Crime|Drama|Thriller
 2382396::Joe (2013)::Drama
 2383068::The Sacrament (2013)::Horror|Thriller
+2384328::Sarah préfère la course (2013)::Drama|Romance|Sport
 2385101::Uroki garmonii (2013)::Drama
 2385104::D-Day (2013)::Action|Thriller
 2385138::Bian jing feng yun (2012)::Crime
@@ -12083,6 +12098,7 @@
 2622420::24 Hour Love (2013)::Drama
 2623460::Kanna Laddu Thinna Aasaiya (2013)::Comedy
 2625030::New World (2013)::Thriller
+2625598::Living on One Dollar (2013)::Documentary|Adventure|Drama
 2626926::Pardé (2013)::
 2628316::Green Street 3: Never Back Down (2013)::Action
 2630134::Barbie in the Pink Shoes (2013)::Animation|Family
@@ -12269,6 +12285,7 @@
 2884186::El verano de los peces voladores (2013)::Comedy|Drama
 2887012::Aberration (2013)::Horror
 2891226::Ceramic Tango (2013)::Short|Drama|Fantasy
+2900624::All Hallows' Eve (2013)::Horror
 2901548::The Rooftop (2013)::Action|Comedy|Drama|Musical|Thriller
 2901736::Ilo Ilo (2013)::Drama
 2902646::Bangun lagi dong lupus (2013)::Comedy|Drama|Romance
