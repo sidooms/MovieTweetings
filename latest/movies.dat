@@ -413,6 +413,7 @@
 0038577::Green for Danger (1946)::Crime|Mystery|Thriller
 0038615::The Hoodlum Saint (1946)::Drama|Music
 0038650::It's a Wonderful Life (1946)::Drama|Family|Fantasy
+0038669::The Killers (1946)::Crime|Drama|Film-Noir|Mystery
 0038727::Margie (1946)::Comedy
 0038733::A Matter of Life and Death (1946)::Drama|Fantasy|Romance|War
 0038777::A Night in Casablanca (1946)::Comedy
@@ -900,6 +901,7 @@
 0054331::Spartacus (1960)::Action|Adventure|Biography|Drama|History
 0054333::Ein Toter hing im Netz (1960)::Horror|Sci-Fi
 0054357::Swiss Family Robinson (1960)::Adventure|Family
+0054371::Die 1000 Augen des Dr. Mabuse (1960)::Crime|Mystery|Thriller
 0054377::Le testament d'Orphée, ou ne me demandez pas pourquoi! (1960)::Biography|Drama
 0054387::The Time Machine (1960)::Adventure|Fantasy|Romance|Sci-Fi|Thriller
 0054389::Tirez sur le pianiste (1960)::Crime|Drama|Thriller
@@ -1372,6 +1374,7 @@
 0066181::On a Clear Day You Can See Forever (1970)::Comedy|Drama|Fantasy|Musical|Romance
 0066206::Patton (1970)::Biography|Drama|History|War
 0066214::Performance (1970)::Crime|Drama|Music
+0066227::Pippi Långstrump på de sju haven (1970)::Adventure|Family
 0066265::På rymmen med Pippi Långstrump (1970)::Family
 0066279::The Railway Children (1970)::Family|Drama
 0066301::Rio Lobo (1970)::Adventure|Western|Romance|War
@@ -1911,6 +1914,7 @@
 0078784::Ett anständigt liv (1979)::Documentary
 0078788::Apocalypse Now (1979)::Drama|War
 0078841::Being There (1979)::Drama|Comedy
+0078856::Beyond the Poseidon Adventure (1979)::Action|Adventure|Drama|Thriller
 0078869::The Black Hole (1979)::Action|Adventure|Family|Sci-Fi
 0078872::The Black Stallion (1979)::Adventure|Family|Sport
 0078875::Die Blechtrommel (1979)::Drama|War
@@ -2373,10 +2377,12 @@
 0087995::Repo Man (1984)::Comedy|Crime|Sci-Fi
 0088000::Revenge of the Nerds (1984)::Comedy
 0088011::Romancing the Stone (1984)::Action|Adventure|Comedy|Romance
+0088015::Ronja Rövardotter (1984)::Adventure|Family|Drama|Fantasy
 0088024::Runaway (1984)::Action|Crime|Sci-Fi|Thriller
 0088028::SF Shinseiki Lensman (1984)::Sci-Fi|Action|Animation|Adventure|Comedy|Drama
 0088044::Savage Streets (1984)::Action|Crime
 0088074::Secret Honor (1984)::Drama
+0088117::Silent Night, Deadly Night (1984)::Horror|Thriller
 0088128::Sixteen Candles (1984)::Comedy|Romance
 0088146::A Soldier's Story (1984)::Drama|Mystery|War
 0088161::Splash (1984)::Comedy|Fantasy|Romance
@@ -2611,6 +2617,7 @@
 0092086::¡Three Amigos! (1986)::Adventure|Comedy|Western
 0092099::Top Gun (1986)::Action|Drama|Romance
 0092106::The Transformers: The Movie (1986)::Animation|Action|Adventure|Family|Sci-Fi
+0092112::Trick or Treat (1986)::Comedy|Horror|Music
 0092147::Vamp (1986)::Comedy|Horror
 0092214::Wildcats (1986)::Comedy|Sport
 0092226::Wise Guys (1986)::Comedy|Crime
@@ -2740,6 +2747,7 @@
 0094336::Withnail & I (1987)::Comedy|Drama
 0094347::The Year My Voice Broke (1987)::Drama|Romance
 0094588::Gatorbait II: Cajun Justice (1988)::Action
+0094593::18 Again! (1988)::Comedy|Fantasy
 0094597::976-EVIL (1988)::Horror
 0094602::Above the Law (1988)::Action|Crime|Drama|Thriller
 0094606::The Accidental Tourist (1988)::Drama|Romance
@@ -3196,6 +3204,7 @@
 0102703::Prayer of the Rollerboys (1990)::Action|Drama
 0102713::The Prince of Tides (1991)::Drama
 0102719::Problem Child 2 (1991)::Comedy|Family
+0102744::Quigley Down Under (1990)::Adventure|Drama|Romance|Western
 0102768::Regarding Henry (1991)::Drama
 0102798::Robin Hood: Prince of Thieves (1991)::Action|Adventure|Drama|Romance
 0102800::Robot Jox (1989)::Action|Sci-Fi
@@ -5159,6 +5168,7 @@
 0264935::Murder by Numbers (2002)::Crime|Drama|Thriller
 0265029::America's Sweethearts (2001)::Comedy|Romance
 0265086::Black Hawk Down (2001)::Drama|History|War
+0265087::Black Knight (2001)::Adventure|Comedy|Fantasy
 0265104::The Breed (2001)::Action|Adventure|Horror|Sci-Fi
 0265148::Main Prem Ki Diwani Hoon (2003)::Musical|Drama|Romance
 0265208::The Girl Next Door (2004)::Comedy|Drama|Romance
@@ -5897,6 +5907,7 @@
 0366777::Millions (2004)::Comedy|Crime|Drama|Family|Fantasy
 0366780::MirrorMask (2005)::Adventure|Drama|Family|Fantasy
 0366900::Piazza delle cinque lune (2003)::Drama|Thriller
+0366905::Pippi Långstrump (1969)::Adventure|Family
 0366996::The Saddest Music in the World (2003)::Comedy|Musical
 0367000::Saint Ange (2004)::Drama|Fantasy|Horror|Mystery
 0367027::Shortbus (2006)::Comedy|Drama|Romance
@@ -7163,6 +7174,7 @@
 0772168::Grace Is Gone (2007)::Drama
 0772181::Krabat (2008)::Drama|Fantasy|Thriller
 0772193::Primeval (2007)::Action|Adventure|Horror|Thriller
+0772906::Ma saison super 8 (2005)::
 0775489::L'illusionniste (2010)::Animation|Drama|Fantasy
 0775529::The Savages (2007)::Comedy|Drama
 0775539::Stomp the Yard (2007)::Drama|Music|Romance
@@ -7744,6 +7756,7 @@
 0995039::Ghost Town (2008)::Comedy|Fantasy|Romance
 0995740::No Smoking (2007)::Drama|Thriller
 0995752::Tashan (2008)::Action|Comedy|Crime|Drama|Romance
+0995829::XXY (2007)::Drama
 0995845::The Courier (2012)::Action|Crime|Thriller
 0995851::In Her Skin (2009)::Drama|Thriller
 0996605::Les chansons d'amour (2007)::Drama|Musical|Romance
@@ -8350,6 +8363,7 @@
 1205489::Gran Torino (2008)::Drama
 1205535::The Rebound (2009)::Comedy|Romance
 1205558::Hick (2011)::Comedy|Drama
+1206086::Rain Fall (2009)::Action|Crime|Drama|Thriller
 1206285::Camino (2008)::Drama
 1207648::Confessions of a Porn Addict (2008)::Comedy
 1207926::Bomber (2009)::Comedy|Drama
@@ -8463,6 +8477,7 @@
 1233488::Peon-chi le-i-di (2007)::Action|Drama|Sport
 1233576::Reykjavík Rotterdam (2008)::Thriller
 1234250::Mehbooba (2008)::Drama|Romance
+1234430::Between Something & Nothing (2008)::Drama
 1234548::The Men Who Stare at Goats (2009)::Comedy|War
 1234654::Greenberg (2010)::Comedy|Drama|Romance
 1234719::Red Dawn (2012)::Action
@@ -9665,6 +9680,7 @@
 1629377::Secuestrados (2010)::Horror|Thriller
 1629391::Tere Bin Laden (2010)::Comedy|Drama
 1629443::Foster (2011)::Comedy|Drama|Family
+1629705::Blackthorn (2011)::Western
 1629757::Chasing Mavericks (2012)::Drama|Sport
 1630027::Almanya - Willkommen in Deutschland (2011)::Comedy|Drama
 1630036::Courageous (2011)::Drama
@@ -10400,6 +10416,7 @@
 1833887::The Bates Haunting (2012)::Thriller
 1834234::Sushi: The Global Catch (2012)::Documentary|History|News
 1834303::Tenchi meisatsu (2012)::Drama
+1834824::Gölgeler ve suretler (2010)::Drama
 1834872::Press (2010)::Drama|History
 1835955::Errors of the Human Body (2012)::Drama|Thriller
 1835980::Glück (2012)::Drama
@@ -10783,6 +10800,7 @@
 1980986::Housefull 2 (2012)::Comedy|Romance
 1981080::Tai Chi 0 (2012)::Action|Drama
 1981107::The Young and Prodigious T.S. Spivet (2013)::Adventure|Drama|Family
+1981115::Thor: The Dark World (2013)::Action|Adventure|Fantasy
 1981140::Wasteland (2012)::Crime|Drama|Thriller
 1981142::Westwind (2011)::Comedy|Drama|Romance
 1981677::Pitch Perfect (2012)::Comedy|Music|Romance
@@ -11613,6 +11631,7 @@
 2314886::Breakout (2013)::Action|Thriller
 2315152::Neuk-dae-so-nyeon (2012)::Fantasy|Romance
 2316465::Big Easy Express (2012)::Documentary|Musical
+2317225::The Machine (2013)::Sci-Fi|Thriller
 2317337::Vicky Donor (2012)::Comedy|Romance
 2317379::Wo Ai Xiang Gang: Xi Shang Jia Xi (2012)::Comedy
 2318527::Hell Baby (2013)::Comedy|Horror
@@ -11825,6 +11844,7 @@
 2395970::Rewind This! (2013)::Documentary|History
 2396224::It's Such a Beautiful Day (2012)::Animation|Comedy|Drama|Fantasy|Sci-Fi
 2396421::Crystal Lake Memories: The Complete History of Friday the 13th (2013)::Documentary
+2396429::Deddo sushi (2012)::Action|Comedy|Horror
 2396566::Twenty Feet from Stardom (2013)::Documentary
 2396667::Sleep (2012)::Short|Drama|Family
 2396701::The Haunting of Whaley House (2012)::Horror
@@ -12168,6 +12188,7 @@
 2700330::The Two Escobars (2010)::Documentary
 2706264::Rangrezz (2013)::
 2709764::Psycho-metry (2013)::Drama|Mystery|Thriller
+2711672::Only in New York (2013)::Comedy|Drama|Romance
 2713324::5 cm (2012)::Drama
 2717558::On the Job (2013)::Action|Crime|Drama|Thriller
 2718538::Líbánky (2013)::Drama
@@ -12426,6 +12447,7 @@
 3196598::Sex: My British Job (2013)::Documentary
 3198244::Momzillas (2013)::Comedy
 3198468::North 24 Kaatham (2013)::Family
+3198726::Vay basima gelenler (2013)::Comedy
 3203890::Pulling Strings (2013)::Comedy|Romance
 3203910::Raja Rani (2013)::Romance
 3215356::Vanakkam Chennai (2013)::Comedy|Romance
