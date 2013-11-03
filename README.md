@@ -58,5 +58,8 @@ The ratings contained in the tweets are scaled from 0 to 10, as is the norm on t
 
 ##Publications using this dataset
 - [MovieTweetings: a Movie Rating Dataset Collected From Twitter](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf)
+- [Probabilistic Neighborhood Selection
+in Collaborative Filtering Systems
+] (http://people.stern.nyu.edu/padamopo/Probabilistic%20Neighborhood%20Selection%20in%20Collaborative%20Filtering%20Systems%20-%20Working%20Paper.pdf)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
