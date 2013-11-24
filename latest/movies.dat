@@ -1,3 +1,4 @@
+0000091::Le manoir du diable (1896)::Short|Horror
 0000628::The Adventures of Dollie (1908)::Action|Short
 0001223::Frankenstein (1910)::Short|Horror|Sci-Fi
 0002844::Fantômas - À l'ombre de la guillotine (1913)::Crime|Drama
@@ -109,6 +110,7 @@
 0021814::Dracula (1931)::Horror
 0021884::Frankenstein (1931)::Horror|Sci-Fi
 0022048::Shukujo to hige (1931)::Comedy|Romance
+0022058::Laughing Gravy (1931)::Short|Comedy
 0022080::Limite (1931)::Drama|Romance
 0022100::M (1931)::Crime|Drama|Film-Noir|Thriller
 0022125::Marius (1931)::Comedy|Drama|Romance
@@ -192,6 +194,7 @@
 0026029::The 39 Steps (1935)::Crime|Mystery|Thriller
 0026138::Bride of Frankenstein (1935)::Horror|Sci-Fi
 0026202::Cheer Up (1936)::Musical
+0026362::The Fixer Uppers (1935)::Short|Comedy
 0026721::Miss Pacific Fleet (1935)::Comedy|Romance
 0026743::Maria Marten, or The Murder in the Red Barn (1935)::Crime|Drama
 0026752::Mutiny on the Bounty (1935)::Adventure|Drama|History
@@ -372,6 +375,7 @@
 0035855::The Falcon and the Co-eds (1943)::Crime|Mystery|Drama
 0035856::The Falcon in Danger (1943)::Crime|Mystery
 0035884::Five Graves to Cairo (1943)::Thriller|War
+0035899::Frankenstein Meets the Wolf Man (1943)::Fantasy|Horror|Sci-Fi
 0035957::Guadalcanal Diary (1943)::Drama|War
 0036027::I Walked with a Zombie (1943)::Horror
 0036037::Immortal Sergeant (1943)::Drama|War
@@ -381,6 +385,7 @@
 0036154::Meshes of the Afternoon (1943)::Short
 0036189::Mystery of the 13th Guest (1943)::Crime|Mystery
 0036217::The North Star (1943)::Drama|Musical|Romance|War
+0036233::Old Mother Riley Detective (1943)::Comedy
 0036261::Phantom of the Opera (1943)::Drama|Horror|Music|Romance|Thriller
 0036342::Shadow of a Doubt (1943)::Thriller
 0036349::Sherlock Holmes in Washington (1943)::Crime|Thriller|Mystery
@@ -414,6 +419,7 @@
 0037179::A Place of One's Own (1945)::Drama|Mystery|Thriller
 0037318::Strangers in the Night (1944)::Crime|Drama|Mystery
 0037382::To Have and Have Not (1944)::Adventure|Romance|Thriller|War
+0037415::The Uninvited (1944)::Fantasy|Horror|Mystery|Romance
 0037469::The Woman in the Window (1944)::Crime|Drama|Film-Noir|Mystery|Thriller
 0037494::Adventure (1945)::Drama|Romance|Comedy
 0037514::Anchors Aweigh (1945)::Comedy|Fantasy|Musical|Romance
@@ -423,6 +429,7 @@
 0037627::Dakota (1945)::Comedy|Western
 0037630::Les dames du Bois de Boulogne (1945)::Drama|Romance
 0037638::Detour (1945)::Crime|Drama|Film-Noir|Mystery
+0037674::Les enfants du paradis (1945)::Drama|Romance
 0037690::The Falcon in San Francisco (1945)::Crime|Mystery
 0037800::'I Know Where I'm Going!' (1945)::Drama|Romance
 0037865::Leave Her to Heaven (1945)::Drama|Thriller
@@ -555,6 +562,7 @@
 0042393::Destination Moon (1950)::Adventure|Drama|Sci-Fi
 0042436::Les enfants terribles (1950)::Drama
 0042530::Deadly Is the Female (1950)::Crime|Drama|Film-Noir|Romance|Thriller
+0042541::The Happiest Days of Your Life (1950)::Comedy
 0042546::Harvey (1950)::Comedy|Drama
 0042593::In a Lonely Place (1950)::Drama|Film-Noir|Mystery|Romance|Thriller
 0042634::Key to the City (1950)::Comedy|Romance
@@ -639,6 +647,7 @@
 0045469::Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953)::Comedy|Horror|Mystery|Sci-Fi
 0045518::Arrowhead (1953)::Drama|Romance|Western
 0045537::The Band Wagon (1953)::Comedy|Musical|Romance
+0045546::The Beast from 20,000 Fathoms (1953)::Adventure|Horror|Sci-Fi
 0045555::The Big Heat (1953)::Crime|Drama|Film-Noir|Thriller
 0045591::Calamity Jane (1953)::Comedy|Musical|Western
 0045592::Call Me Madam (1953)::Comedy|Musical|Romance
@@ -653,6 +662,8 @@
 0045888::House of Wax (1953)::Horror
 0045891::How to Marry a Millionaire (1953)::Comedy|Drama|Romance
 0045907::La ilusión viaja en tranvía (1954)::Comedy|Adventure|Drama
+0045917::Invaders from Mars (1953)::Horror|Sci-Fi
+0045920::It Came from Outer Space (1953)::Horror|Sci-Fi|Thriller
 0045943::Julius Caesar (1953)::Drama|History
 0046022::Madame de... (1953)::Drama|Romance
 0046040::Man on a Tightrope (1953)::Drama
@@ -925,6 +936,7 @@
 0053285::Sleeping Beauty (1959)::Animation|Family|Fantasy|Musical|Romance
 0053291::Some Like It Hot (1959)::Comedy
 0053318::Suddenly, Last Summer (1959)::Drama|Mystery|Thriller
+0053363::The Tingler (1959)::Horror|Sci-Fi
 0053390::Ukikusa (1959)::Drama
 0053403::La vache et le prisonnier (1959)::Comedy
 0053459::Les yeux sans visage (1960)::Horror
@@ -1313,6 +1325,7 @@
 0061996::Mouchette (1967)::Drama
 0062029::The Naked Runner (1967)::Drama|Thriller
 0062055::The Nude Restaurant (1967)::
+0062133::The Plank (1967)::Comedy
 0062136::Playtime (1967)::Comedy
 0062138::Point Blank (1967)::Crime|Drama|Thriller
 0062168::Quatermass and the Pit (1967)::Sci-Fi|Horror
@@ -1980,6 +1993,7 @@
 0077450::Dominique (1979)::Horror|Mystery|Thriller
 0077452::Dona Flor e Seus Dois Maridos (1976)::Comedy
 0077474::The Driver (1978)::Action|Crime|Drama|Thriller
+0077523::Every Which Way But Loose (1978)::Action|Comedy
 0077524::The Evil (1978)::Horror|Thriller
 0077530::Eyes of Laura Mars (1978)::Horror|Mystery|Thriller
 0077549::Fingers (1978)::Crime|Drama|Music
@@ -2061,6 +2075,7 @@
 0079417::Kramer vs. Kramer (1979)::Drama
 0079428::The Lady Vanishes (1979)::Action|Comedy|Mystery|Romance|Thriller
 0079470::Life of Brian (1979)::Comedy
+0079477::A Little Romance (1979)::Comedy|Romance
 0079489::Love at First Bite (1979)::Horror|Comedy|Romance
 0079501::Mad Max (1979)::Action|Adventure|Thriller
 0079522::Manhattan (1979)::Comedy|Drama|Romance
@@ -2920,6 +2935,7 @@
 0094862::Child's Play (1988)::Horror|Mystery|Thriller
 0094888::Cobra Verde (1987)::Adventure|Drama
 0094889::Cocktail (1988)::Drama|Romance
+0094890::Cocoon: The Return (1988)::Adventure|Comedy|Mystery|Romance|Sci-Fi
 0094894::Colors (1988)::Action|Crime|Drama|Romance
 0094898::Coming to America (1988)::Comedy|Drama|Romance
 0094907::Consuming Passions (1988)::Comedy
@@ -3346,6 +3362,7 @@
 0102388::The Man in the Moon (1991)::Drama|Romance
 0102392::Manipulation (1991)::Animation|Short|Comedy|Fantasy
 0102411::The Marrying Man (1991)::Comedy|Music|Romance
+0102432::Men of Respect (1990)::Drama|Crime|Thriller
 0102439::To meteoro vima tou pelargou (1991)::Drama|Romance
 0102492::My Girl (1991)::Drama|Family|Romance
 0102494::My Own Private Idaho (1991)::Drama|Romance
@@ -3705,6 +3722,7 @@
 0109707::Ed Wood (1994)::Biography|Comedy|Drama
 0109723::Embrace of the Vampire (1995)::Horror|Thriller
 0109739::Ernest Goes to School (1994)::Comedy|Drama|Family|Sport
+0109813::The Flintstones (1994)::Comedy|Family|Fantasy
 0109830::Forrest Gump (1994)::Drama|Romance
 0109831::Four Weddings and a Funeral (1994)::Comedy|Drama|Romance
 0109836::Frankenstein (1994)::Drama|Horror|Romance|Sci-Fi
@@ -3777,6 +3795,7 @@
 0110917::Una pura formalità (1994)::Crime|Thriller
 0110932::Quiz Show (1994)::Drama|History
 0110939::Radioland Murders (1994)::Comedy|Crime|Drama|Musical|Mystery|Romance
+0110944::Rapa Nui (1994)::Action|Adventure|Drama|History|Romance
 0110950::Reality Bites (1994)::Comedy|Drama|Romance
 0110955::The Ref (1994)::Comedy|Crime|Drama
 0110971::Renaissance Man (1994)::Comedy|Drama
@@ -3996,6 +4015,7 @@
 0114898::Waterworld (1995)::Action|Adventure|Sci-Fi|Thriller
 0114906::Welcome to the Dollhouse (1995)::Comedy|Drama
 0114924::While You Were Sleeping (1995)::Comedy|Drama|Romance
+0115433::101 Dalmatians (1996)::Family|Comedy|Adventure
 0115438::2 Days in the Valley (1996)::Comedy|Crime
 0115571::The Arrival (1996)::Sci-Fi|Thriller|Mystery|Action
 0115580::The Associate (1996)::Comedy
@@ -4337,6 +4357,7 @@
 0119951::Private Parts (1997)::Biography|Comedy|Drama
 0119978::The Rainmaker (1997)::Crime|Drama|Thriller
 0119994::Red Corner (1997)::Crime|Drama|Thriller
+0120004::The Relic (1997)::Horror|Mystery|Thriller
 0120008::The Replacement Killers (1998)::Action|Crime|Drama|Thriller
 0120028::Robinson in Space (1997)::Documentary
 0120032::Romy and Michele's High School Reunion (1997)::Comedy
@@ -4348,6 +4369,7 @@
 0120102::Seven Years in Tibet (1997)::Adventure|Biography|Drama|History|War
 0120112::She's So Lovely (1997)::Drama
 0120113::2by4 (1998)::Drama
+0120125::Sibirskiy tsiryulnik (1998)::Comedy|Drama|Romance
 0120142::The Sixth Man (1997)::Comedy|Drama|Fantasy|Romance|Sport
 0120148::Sliding Doors (1998)::Comedy|Drama|Fantasy|Romance|Sci-Fi
 0120157::Soldier (1998)::Action|Drama|Sci-Fi
@@ -4397,6 +4419,7 @@
 0120591::Armageddon (1998)::Action|Adventure|Sci-Fi|Thriller
 0120595::Babe: Pig in the City (1998)::Adventure|Comedy|Drama|Family|Fantasy
 0120596::The Bachelor (1999)::Romance|Comedy
+0120598::Barney's Great Adventure (1998)::Adventure|Family
 0120601::Being John Malkovich (1999)::Comedy|Drama|Fantasy
 0120609::The Big Hit (1998)::Action|Comedy|Crime|Thriller
 0120611::Blade (1998)::Action|Horror
@@ -5001,6 +5024,7 @@
 0205271::Dr. T and the Women (2000)::Comedy|Drama|Romance
 0205445::Tamanna (1998)::Drama
 0205461::Thomas and the Magic Railroad (2000)::Family|Fantasy
+0205873::The Dish (2000)::Comedy|Drama
 0205903::Eight (1998)::Short
 0205924::Fantozzi 2000 - La clonazione (1999)::Comedy
 0206113::Madison (2005)::Drama|Sport
@@ -5034,6 +5058,7 @@
 0210945::Remember the Titans (2000)::Biography|Drama|Sport
 0210952::Ritual (2000)::Drama
 0211443::Jason X (2001)::Horror|Sci-Fi|Thriller
+0211465::Knockaround Guys (2001)::Crime|Drama|Thriller
 0211661::Terror Tract (2000)::Comedy|Thriller|Horror
 0211718::Vengo (2000)::Musical|Drama
 0211915::Le fabuleux destin d'Amélie Poulain (2001)::Comedy|Romance
@@ -7316,6 +7341,7 @@
 0486551::Beerfest (2006)::Comedy
 0486576::4: Rise of the Silver Surfer (2007)::Action|Fantasy|Sci-Fi|Thriller
 0486583::Fred Claus (2007)::Comedy|Family|Fantasy
+0486585::Fuck (2005)::Documentary
 0486615::London Dreams (2009)::Musical
 0486640::Postal (2007)::Action|Comedy|Thriller
 0486655::Stardust (2007)::Adventure|Family|Fantasy|Romance
@@ -8079,6 +8105,7 @@
 0995845::The Courier (2012)::Action|Crime|Thriller
 0995851::In Her Skin (2009)::Drama|Thriller
 0996605::Les chansons d'amour (2007)::Drama|Musical|Romance
+0996934::Farm House (2008)::Horror|Mystery|Thriller
 0996966::Not Quite Hollywood: The Wild, Untold Story of Ozploitation! (2008)::Documentary
 0996978::Sup fun oi (2007)::Romance
 0997035::Bibliothèque Pascal (2010)::Drama
@@ -8870,6 +8897,7 @@
 1245492::This Is the End (2013)::Action|Comedy
 1245526::Red (2010)::Action|Comedy|Crime|Thriller
 1247640::Banlieue 13 - Ultimatum (2009)::Action|Crime|Sci-Fi|Thriller
+1247644::Breaking Upwards (2009)::Romance
 1247657::Friendship! (2010)::Comedy
 1247667::High School (2010)::Comedy
 1247683::Norman (2010)::Comedy|Drama
@@ -9788,6 +9816,7 @@
 1551630::Pawn (2013)::Crime|Thriller
 1551641::Winnie (2011)::Biography|Drama|History
 1552184::Honeymooner (2010)::Comedy
+1553066::Monica & David (2009)::Documentary
 1554091::A Better Life (2011)::Drama
 1554414::The Dish & the Spoon (2011)::Comedy|Drama|Romance
 1554523::Shan zha shu zhi lian (2010)::Drama|Romance
@@ -9888,6 +9917,7 @@
 1581839::Zombie Undead (2010)::Horror
 1582196::Big Fat Gypsy Gangster (2011)::Comedy|Crime
 1582213::Lizzie (2013)::Thriller
+1582244::Présumé coupable (2011)::Drama
 1582248::Puncture (2011)::Drama
 1582271::The Good Doctor (2011)::Drama|Thriller
 1582465::A Birder's Guide to Everything (2013)::Comedy
@@ -10759,6 +10789,7 @@
 1817236::Podslon (2010)::Comedy|Drama
 1817273::The Place Beyond the Pines (2012)::Crime|Drama
 1817276::A Resurrection (2013)::Horror
+1817286::38 témoins (2012)::Drama
 1817676::Girl in Progress (2012)::Comedy|Drama
 1819513::Dreams of a Life (2011)::Documentary|Biography|Drama
 1819601::Miss Dial (2013)::Comedy
@@ -11297,6 +11328,7 @@
 2011995::Pinky Swear (2011)::Short|Drama
 2012011::Scenic Route (2013)::Drama|Thriller
 2013293::Kaze tachinu (2013)::Animation|Biography|Drama|History|Romance
+2014202::Dawn Rider (2012)::Western
 2014248::In Search of the Perfect Human Diet (2012)::Documentary|History
 2014338::Side by Side (2012)::Documentary
 2014346::Somebody Up There Likes Me (2012)::Comedy
@@ -11507,6 +11539,7 @@
 2086830::Dwae-ji-ui wang (2011)::Animation|Drama
 2087720::Community (2012)::Horror
 2087850::Les infidèles (2012)::Comedy
+2088714::Call Me Kuchu (2012)::Documentary|Drama
 2088735::Curfew (2012)::Short|Drama
 2088869::Percentage (2013)::Crime
 2088893::Shell (2012)::Drama
@@ -12689,6 +12722,7 @@
 2693954::The Spat (2013)::Short|Comedy|Horror
 2697518::Hell No (2013)::Short|Comedy|Horror
 2699832::Za Marksa... (2012)::Drama
+2699840::John Day (2013)::Drama
 2700330::The Two Escobars (2010)::Documentary
 2706264::Rangrezz (2013)::
 2709764::Psycho-metry (2013)::Drama|Mystery|Thriller
@@ -12915,6 +12949,7 @@
 3054776::Tales from the Dark 1 (2013)::Horror
 3055016::Lock Box (2013)::Short|Drama
 3056608::KL Gangster 2 (2013)::Crime
+3059106::Satya 2 (2013)::Crime
 3059880::The Tree Widow (2013)::Drama
 3061202::Neelakasham Pachakadal Chuvanna Bhoomi (2013)::Drama
 3063448::It's A Kind of Magic Turtle (2013)::Short|Romance
@@ -12941,12 +12976,14 @@
 3093988::Drukkersbloed (2012)::Short|Mystery
 3094914::Bakit hindi ka crush ng crush mo? (2013)::Drama
 3095252::Shell Shocked (2013)::Short|Horror
+3101474::InRealLife (2013)::Documentary|News
 3102826::Let It Out! (2013)::Documentary|Short
 3102906::Când se lasa seara peste Bucuresti sau metabolism (2013)::Drama
 3103326::Manakamana (2013)::Documentary
 3103784::Shiren to Ragi (2013)::Romance
 3105008::Tales from the Dark 2 (2013)::Horror
 3106846::Gabrielle (2013)::Drama|Music|Romance
+3107246::Irandam Ulagam (2013)::Fantasy|Romance
 3108864::From One Second to the Next (2013)::Documentary|Short
 3109374::Monroe & Mr. Wolf (2013)::Short|Drama
 3112744::Once Upon a Mime (2013)::Short|Musical
@@ -12994,6 +13031,7 @@
 3257072::Mahi Va Gorbeh (2013)::Drama
 3264046::Silo (2013)::Short|Drama
 3269074::Darband (2013)::Drama
+3283792::Erkek tarafi testosteron (2013)::Comedy|Drama
 3304942::Invocation (2013)::Animation|Short|Horror
 3314574::Moments (2013)::Short|Drama
 3319702::Base 05 (2013)::Short|Drama|Sci-Fi
