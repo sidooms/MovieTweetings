@@ -283,6 +283,7 @@
 0031867::The Roaring Twenties (1939)::Crime|Drama|Thriller
 0031885::La règle du jeu (1939)::Comedy|Drama
 0031971::Stagecoach (1939)::Adventure|Western
+0032045::Torchy Runs for Mayor (1939)::Action|Adventure|Comedy|Crime|Mystery|Romance
 0032138::The Wizard of Oz (1939)::Adventure|Family|Fantasy|Musical
 0032143::The Women (1939)::Comedy|Drama
 0032145::Wuthering Heights (1939)::Drama|Romance
@@ -537,6 +538,7 @@
 0041158::The Barkleys of Broadway (1949)::Comedy|Musical
 0041162::Batman and Robin (1949)::Action|Adventure|Crime|Drama|Sci-Fi
 0041175::The Big Cat (1949)::Action|Adventure|Drama|Romance|Western
+0041178::The Big Steal (1949)::Comedy|Crime|Film-Noir|Romance|Thriller
 0041238::Challenge to Lassie (1949)::Drama|Family
 0041245::The Chiltern Hundreds (1949)::Comedy|Romance
 0041300::The Doctor and the Girl (1949)::Drama|Romance
@@ -1666,6 +1668,7 @@
 0069768::Battle for the Planet of the Apes (1973)::Action|Sci-Fi
 0069786::Billy Two Hats (1974)::Romance|Western
 0069792::Black Caesar (1973)::Action|Crime|Drama|Thriller
+0069822::Breezy (1973)::Drama|Romance
 0069834::Cahill U.S. Marshal (1973)::Drama|Western
 0069841::Cannibal Girls (1973)::Comedy|Horror
 0069847::Carry on Abroad (1972)::Comedy
@@ -2327,6 +2330,7 @@
 0083642::The Best Little Whorehouse in Texas (1982)::Comedy|Musical
 0083658::Blade Runner (1982)::Drama|Sci-Fi|Thriller
 0083722::Cat People (1982)::Drama|Fantasy|Horror|Romance|Thriller
+0083739::Class of 1984 (1982)::Crime|Drama|Thriller
 0083745::Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (1982)::Comedy|Drama
 0083755::The Concrete Jungle (1982)::Drama|Thriller|Crime
 0083767::Creepshow (1982)::Comedy|Horror
@@ -2512,6 +2516,7 @@
 0087078::Conan the Destroyer (1984)::Action|Fantasy|Adventure
 0087089::The Cotton Club (1984)::Crime|Drama|Music
 0087100::Crimes of Passion (1984)::Drama|Romance|Thriller
+0087130::Def-Con 4 (1985)::Action|Sci-Fi
 0087133::Delitto al Blue Gay (1984)::Drama|Comedy|Crime
 0087175::Dreamscape (1984)::Adventure|Sci-Fi|Thriller|Horror
 0087182::Dune (1984)::Action|Adventure|Fantasy|Sci-Fi
@@ -2837,6 +2842,7 @@
 0092666::Blind Date (1987)::Comedy|Romance
 0092675::Bloodsport (1988)::Action|Biography|Drama|Sport
 0092695::The Brave Little Toaster (1987)::Animation|Adventure|Comedy|Family|Fantasy|Musical
+0092699::Broadcast News (1987)::Comedy|Drama|Romance
 0092718::Can't Buy Me Love (1987)::Comedy|Drama|Romance
 0092745::Chelovek s bulvara Kaputsinov (1987)::Comedy|Musical|Romance|Western
 0092783::Cop (1988)::Crime|Drama|Mystery|Thriller
@@ -2858,6 +2864,7 @@
 0093010::Fatal Attraction (1987)::Drama|Thriller
 0093036::Flowers in the Attic (1987)::Drama|Mystery|Thriller
 0093044::The Fourth Protocol (1987)::Action|Thriller
+0093051::From the Hip (1987)::Comedy|Drama
 0093058::Full Metal Jacket (1987)::Drama|War
 0093072::The Garbage Pail Kids Movie (1987)::Adventure|Musical|Comedy|Family|Sci-Fi
 0093075::The Gate (1987)::Fantasy|Horror
@@ -3273,6 +3280,7 @@
 0099994::Leatherface: Texas Chainsaw Massacre III (1990)::Horror|Thriller
 0100024::Life Is Sweet (1990)::Comedy|Drama
 0100029::Lionheart (1990)::Action|Drama|Sport
+0100031::Lisa (1990)::Drama|Horror|Romance|Thriller
 0100046::The Long Walk Home (1990)::Drama|History
 0100054::Lord of the Flies (1990)::Adventure|Drama|Thriller
 0100095::Maine Pyar Kiya (1989)::Family|Musical|Romance
@@ -3521,6 +3529,7 @@
 0104756::Lorenzo's Oil (1992)::Drama
 0104779::Bitter Moon (1992)::Drama|Romance|Thriller
 0104797::Malcolm X (1992)::Biography|Drama|History
+0104802::The Mambo Kings (1992)::Drama|Music
 0104815::El mariachi (1992)::Action|Crime|Drama|Thriller
 0104868::The Mighty Ducks (1992)::Action|Comedy|Drama|Family|Sport
 0104879::Miracle Beach (1992)::Comedy|Romance
@@ -6010,6 +6019,7 @@
 0330247::Défense d'aimer (2002)::Drama
 0330373::Harry Potter and the Goblet of Fire (2005)::Adventure|Family|Fantasy|Mystery
 0330793::The Punisher (2004)::Action|Crime|Drama|Thriller
+0331175::Any Way the Wind Blows (2003)::Comedy|Drama
 0331468::Cold Creek Manor (2003)::Drama|Mystery|Thriller
 0331632::Scooby-Doo 2: Monsters Unleashed (2004)::Action|Adventure|Comedy|Family|Fantasy|Mystery
 0331811::11:14 (2003)::Comedy|Crime|Drama
@@ -6778,6 +6788,7 @@
 0418279::Transformers (2007)::Action|Adventure|Sci-Fi|Thriller
 0418362::Mujhse Shaadi Karogi (2004)::Comedy|Romance
 0418455::Adams æbler (2005)::Comedy|Crime|Drama
+0418460::Aitraaz (2004)::Drama|Thriller
 0418586::The Cake Eaters (2007)::Comedy|Drama|Romance
 0418647::Dreamer: Inspired by a True Story (2005)::Drama|Family|Sport
 0418689::Flags of Our Fathers (2006)::Drama|History|War
@@ -8174,6 +8185,7 @@
 0978759::Frozen River (2008)::Crime|Drama
 0978762::Mary and Max (2009)::Animation|Comedy|Drama
 0978764::Sucker Punch (2011)::Action|Fantasy|Thriller
+0979913::Life Mein Kabhie Kabhiee (2007)::Drama
 0980970::The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)::Adventure|Family|Fantasy
 0981042::Like Dandelion Dust (2009)::Drama
 0981072::The Lucky Ones (2008)::Comedy|Drama|War
@@ -9051,6 +9063,7 @@
 1260502::Kôkaku kidôtai 2.0 (2008)::Animation|Action|Crime|Drama|Sci-Fi
 1260567::Dark House (2009)::Horror|Thriller
 1260581::Red Riding: In the Year of Our Lord 1980 (2009)::Crime|Drama|Mystery|Thriller
+1261393::El estudiante (2009)::Drama
 1261862::Icarus (2010)::Action|Drama|Thriller
 1261900::Lovecraft: Fear of the Unknown (2008)::Documentary
 1261910::Mazie laupitaji (2009)::Comedy|Crime|Drama|Family
@@ -12544,6 +12557,7 @@
 2401846::The Lock In (2012)::Musical
 2401964::If Only Everyone (2012)::Drama|War
 2402105::Dom Hemingway (2013)::Comedy|Crime|Drama
+2402179::Seduced and Abandoned (2013)::Documentary
 2402186::Meu Pé de Laranja Lima (2012)::Drama
 2402200::That Guy... Who Was in That Thing (2012)::Documentary
 2402565::Ci vediamo domani (2013)::Comedy|Family
@@ -12591,6 +12605,7 @@
 2417650::30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo (2013)::Comedy
 2417854::Lucky Bastard (2013)::Drama
 2418372::Abus de faiblesse (2013)::Drama
+2418440::Tres bodas de más (2013)::Comedy
 2418536::Summer Campbell (2013)::Short|Comedy|Romance
 2418558::Rubinrot (2013)::Fantasy|Sci-Fi
 2419506::Kedi Billa Killadi Ranga (2013)::Comedy|Romance
@@ -12742,6 +12757,7 @@
 2543202::The Impaler (2013)::Action|Horror|Thriller
 2543446::The Flying Lesson (2013)::Short|Action|Drama
 2543930::Worm (2013)::Drama
+2545088::American Promise (2013)::Documentary
 2545118::Blackfish (2013)::Documentary|Drama
 2549540::Gekijoban Pocket Monster Best Wishes! Kyurem vs Seikenshi Keldeo (2012)::Animation|Adventure|Family|Fantasy
 2550884::Lokpal (2013)::Thriller
@@ -13159,6 +13175,7 @@
 3064532::The Animal Project (2013)::Comedy|Drama|Romance
 3064684::If I Die Tomorrow (2013)::Short|Action|Drama|Family
 3066270::Sole a catinelle (2013)::Comedy
+3068960::Ded 005 (2013)::Comedy
 3070690::Rellik (2013)::Short|Horror|Thriller
 3070922::The Rally 2: Breaking the Curse (2013)::Drama
 3070936::Shrek the Musical (2013)::Musical
@@ -13198,6 +13215,7 @@
 3120002::Crazy for You (2013)::Short|Horror
 3121096::Farsh wa ghata (2013)::Biography|Drama
 3121604::Duniyadari (2013)::Drama
+3124398::Privychka rasstavatsya (2013)::Comedy|Drama
 3124456::Memories (2013)::Mystery|Thriller
 3129282::War Chod Na Yaar (2013)::Comedy|War
 3137552::Hank: 5 Years from the Brink (2013)::Documentary|Biography|News
