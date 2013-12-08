@@ -828,6 +828,7 @@
 0050083::12 Angry Men (1957)::Drama
 0050086::3:10 to Yuma (1957)::Drama|Thriller|Western
 0050095::The Abominable Snowman (1957)::Adventure|Horror|Sci-Fi
+0050100::The Admirable Crichton (1957)::Comedy
 0050105::An Affair to Remember (1957)::Drama|Romance
 0050111::Ali Baba Bunny (1957)::Family|Animation|Short|Comedy
 0050147::Attack of the Crab Monsters (1957)::Horror|Sci-Fi
@@ -847,6 +848,7 @@
 0050519::L'homme à l'imperméable (1957)::Comedy|Mystery
 0050530::I Was a Teenage Werewolf (1957)::Horror|Sci-Fi
 0050556::Jailhouse Rock (1957)::Drama|Music|Musical
+0050585::Kanal (1957)::Drama|War
 0050598::A King in New York (1957)::Comedy|Drama
 0050613::Kumonosu-jô (1957)::Drama
 0050634::Letyat zhuravli (1957)::Drama|Romance|War
@@ -895,6 +897,7 @@
 0051759::I Was Monty's Double (1958)::Drama|History|War
 0051773::Indiscreet (1958)::Comedy|Romance
 0051792::Jalsaghar (1958)::Drama|Music
+0051808::Kakushi-toride no san-akunin (1958)::Adventure|Drama
 0051818::King Creole (1958)::Crime|Drama|Musical
 0051845::The Last Hurrah (1958)::Drama
 0051848::The Law and Jake Wade (1958)::Western
@@ -2661,6 +2664,7 @@
 0089670::European Vacation (1985)::Adventure|Comedy|Family|Romance
 0089686::A Nightmare on Elm Street Part 2: Freddy's Revenge (1985)::Horror
 0089695::No Retreat, No Surrender (1986)::Action|Drama
+0089731::One Magic Christmas (1985)::Family|Fantasy
 0089733::Opasno dlya zhizni! (1985)::Comedy
 0089748::Otac na sluzbenom putu (1985)::Drama
 0089755::Out of Africa (1985)::Adventure|Biography|Drama|Romance
@@ -4403,6 +4407,7 @@
 0119535::A Life Less Ordinary (1997)::Comedy|Crime|Fantasy|Romance
 0119558::Lolita (1997)::Drama|Romance
 0119567::The Lost World: Jurassic Park (1997)::Action|Adventure|Fantasy|Sci-Fi|Thriller
+0119572::Love Jones (1997)::Drama|Romance
 0119574::Love and Death on Long Island (1997)::Comedy|Drama
 0119577::Love Is the Devil: Study for a Portrait of Francis Bacon (1998)::Biography|Drama
 0119590::Ma vie en rose (1997)::Drama
@@ -6694,6 +6699,7 @@
 0405861::The Deal (2005)::Crime|Drama|Thriller
 0405866::La demoiselle d'honneur (2004)::Thriller|Drama|Romance
 0406098::Stestí (2005)::Drama
+0406158::The Prize Winner of Defiance, Ohio (2005)::Biography|Drama
 0406222::Skrítek (2005)::Comedy
 0406375::Zathura: A Space Adventure (2005)::Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
 0406650::The Chumscrubber (2005)::Comedy|Drama
@@ -6979,6 +6985,7 @@
 0434139::The Last Kiss (2006)::Comedy|Drama|Romance
 0434304::Reinas (2005)::Comedy|Romance
 0434409::V for Vendetta (2005)::Action|Fantasy|Thriller
+0435623::Conversations with Other Women (2005)::Comedy|Drama|Romance
 0435625::The Descent (2005)::Adventure|Horror
 0435653::The Gravedancers (2006)::Horror|Thriller
 0435670::The Invisible (2007)::Crime|Drama|Fantasy|Mystery|Thriller
@@ -8477,6 +8484,7 @@
 1075749::Reykjavik Whale Watching Massacre (2009)::Horror
 1077091::Musallat (2007)::Crime|Horror|Thriller
 1077258::Planet Terror (2007)::Action|Horror|Sci-Fi
+1077262::Ajami (2009)::Crime|Drama
 1077274::Cheon-nyeon-yeo-woo-yeo-woo-bi (2007)::Animation|Fantasy
 1077368::Dark Shadows (2012)::Comedy|Fantasy
 1078188::Boy A (2007)::Drama
@@ -8733,6 +8741,7 @@
 1167660::OSS 117: Rio ne répond plus (2009)::Adventure|Comedy
 1167675::Sint (2010)::Horror
 1169133::Anytown (2009)::Crime|Drama|Thriller
+1170358::The Hobbit: The Desolation of Smaug (2013)::Adventure|Drama|Fantasy
 1171222::Baggage Claim (2013)::Comedy
 1171721::Son ders (2008)::Comedy|Drama
 1172203::Sita Sings the Blues (2008)::Animation|Comedy|Fantasy|Musical
@@ -9764,6 +9773,7 @@
 1483507::Shirley Adams (2009)::Drama
 1483753::Till det som är vackert (2009)::Drama
 1483756::The Trouble with Bliss (2011)::Comedy|Drama
+1483778::La reine des pommes (2009)::Comedy|Drama|Musical
 1483797::Redline (2009)::Animation|Action|Sci-Fi|Sport
 1483801::Sounds and Silence (2009)::Drama
 1483831::Lebanon (2009)::Drama|War
@@ -10456,6 +10466,7 @@
 1668209::Que pena tu vida (2010)::Comedy|Drama|Romance
 1668212::Sudor frío (2010)::Horror|Thriller
 1669794::Au cul du loup (2011)::Drama
+1669798::Légitime défense (2011)::Crime|Drama|Mystery|Thriller
 1670345::Now You See Me (2013)::Thriller
 1670627::Buna! Ce faci? (2010)::Comedy|Romance
 1670646::Habibi Rasak Kharban (2011)::Drama|Romance|War
@@ -10957,6 +10968,7 @@
 1813327::Gianni e le donne (2011)::Comedy
 1813609::Silver Falls (2013)::Horror|Thriller
 1814621::Admission (2013)::Comedy
+1814643::Banana (2010)::Animation|Short|Comedy|Sci-Fi
 1814665::Countdown (2011)::Action
 1814790::Me Again (2012)::Comedy|Drama
 1814836::Project Nim (2011)::Documentary
@@ -11027,7 +11039,9 @@
 1828995::La délicatesse (2011)::Comedy|Romance
 1829012::Passion (2012)::Drama|Mystery|Thriller
 1829735::Sick Boy (2012)::Thriller
+1830633::Home Makeover (2010)::Animation|Short|Comedy|Family
 1830713::Big Ass Spider (2013)::Sci-Fi
+1830748::Orientation Day (2010)::Animation|Short|Comedy|Family|Sci-Fi
 1830761::Pescador (2011)::Drama
 1830792::Romeos (2011)::Drama
 1831711::Mono con Gallinas (2013)::Drama
@@ -11462,6 +11476,7 @@
 1988781::Seven Below (2012)::Thriller|Horror
 1988837::When Louis Met... Max Clifford (2002)::Documentary
 1989475::Chained (2012)::Horror|Thriller
+1989485::Dead Before Dawn 3D (2012)::Adventure|Comedy|Horror
 1989593::Red Hook Summer (2012)::Drama
 1989712::Da-reun na-ra-e-seo (2012)::Drama
 1990181::Brake (2012)::Crime|Thriller
@@ -11823,6 +11838,7 @@
 2113007::Michael Jackson: The Life of an Icon (2011)::Documentary
 2113075::The Inevitable Defeat of Mister and Pete (2013)::Drama
 2113766::Silent City (2012)::Drama|Fantasy
+2113768::Smrt coveka na Balkanu (2012)::Comedy|Drama
 2113792::The Demented (2013)::Drama|Horror|Sci-Fi|Thriller
 2113809::The Wee Man (2013)::Drama
 2113820::Walesa. Czlowiek z nadziei (2013)::Biography|Drama
@@ -12467,6 +12483,7 @@
 2363219::Het Bombardement (2012)::Drama|History|War
 2363439::The Frozen (2012)::Horror|Thriller
 2363513::Wish Us Luck (2012)::Documentary|Adventure|Comedy
+2363564::Barcelona, nit d'estiu (2013)::Comedy
 2364228::Vestigios del Paraíso (2012)::Documentary|Drama|Sport
 2364659::The Fall of the Essex Boys (2012)::Crime
 2364729::La soif du monde (2012)::Documentary
@@ -12488,6 +12505,7 @@
 2368920::Ni guang fei xiang (2012)::Drama
 2369047::Les chevaux de Dieu (2012)::Drama
 2369127::Mystery (2012)::Thriller
+2369154::R... Rajkumar (2013)::
 2369205::Pioneer (2013)::Thriller
 2369396::Bounty Killer (2013)::Action
 2369497::Trois mondes (2012)::Drama
@@ -12548,6 +12566,7 @@
 2388637::Ain't Them Bodies Saints (2013)::Drama
 2388725::Paperman (2012)::Animation|Short|Comedy|Romance
 2388805::Verliefd op Ibiza (2013)::Comedy|Romance
+2388819::Yozgat Blues (2013)::Comedy|Drama
 2388821::Zipi y Zape y el club de la canica (2013)::Adventure|Comedy|Family
 2389182::Cheap Thrills (2013)::Thriller
 2389974::Aatma (2013)::Drama|Horror
@@ -12852,6 +12871,7 @@
 2592910::CM101MMXI Fundamentals (2013)::Comedy
 2593100::Elveda Katya (2012)::Drama
 2594950::Mayor (2013)::Action|Crime|Drama
+2595872::Feo de día, lindo de noche (2012)::Comedy
 2599106::Jan Dara pathommabot (2012)::Drama
 2599786::Summer Vacation (2012)::Short|Drama|Romance
 2601044::Planet RE:think (2012)::Documentary|News
@@ -13227,6 +13247,7 @@
 3084836::My Nhan Ke (2013)::Action
 3088362::Los Flamencos (2013)::Adventure|Comedy
 3089388::Tim's Vermeer (2013)::Documentary
+3089920::Jatt Boys Putt Jattan De (2013)::Action|Comedy|Romance
 3091254::Soul (2013)::Horror
 3093988::Drukkersbloed (2012)::Short|Mystery
 3094914::Bakit hindi ka crush ng crush mo? (2013)::Drama
@@ -13305,3 +13326,4 @@
 3330372::Alaba Zintzoa (2013)::Thriller
 3351452::Prachathipa'Thai (2013)::Documentary
 3374966::La Mafia Uccide solo d'Estate (2013)::Comedy|Crime|Romance
+3384034::Tropico (2013)::Short|Drama
