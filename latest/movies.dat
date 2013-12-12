@@ -749,6 +749,7 @@
 0047573::Them! (1954)::Horror|Sci-Fi
 0047577::This Island Earth (1955)::Horror|Sci-Fi
 0047669::West of Zanzibar (1954)::Adventure
+0047673::White Christmas (1954)::Comedy|Musical|Romance
 0047677::The Wild One (1953)::Drama
 0047794::Abbott and Costello Meet the Keystone Kops (1955)::Comedy
 0047795::Abbott and Costello Meet the Mummy (1955)::Action|Adventure|Comedy|Horror
@@ -1260,6 +1261,7 @@
 0059742::The Sound of Music (1965)::Biography|Drama|Family|Musical|Romance
 0059749::The Spy Who Came in from the Cold (1965)::Drama
 0059781::Tajimara (1965)::Drama
+0059793::That Darn Cat! (1965)::Comedy|Thriller
 0059797::Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes (1965)::Adventure|Comedy
 0059800::Thunderball (1965)::Action|Crime|Thriller
 0059821::The Tomb of Ligeia (1964)::Drama|Horror|Thriller
@@ -1449,6 +1451,7 @@
 0064276::Easy Rider (1969)::Drama
 0064285::L'enfant sauvage (1970)::Drama
 0064294::La horse (1970)::Crime|Thriller
+0064310::Eye of the Cat (1969)::Horror
 0064382::Goodbye, Mr. Chips (1969)::Drama|Musical|Romance
 0064418::Hello, Dolly! (1969)::Romance|Comedy|Musical|Family
 0064423::Heureux qui comme Ulysse... (1970)::Comedy
@@ -1514,6 +1517,8 @@
 0065832::Hercules in New York (1969)::Adventure|Family|Fantasy
 0065836::Hi, Mom! (1970)::Comedy
 0065848::L'homme orchestre (1970)::Comedy|Musical
+0065856::House of Dark Shadows (1970)::Drama|Horror|Romance
+0065889::Indagine su un cittadino al di sopra di ogni sospetto (1970)::Crime|Drama
 0065904::The Party at Kitty and Stud's (1970)::Adult|Drama
 0065916::Joe (1970)::Drama|Thriller
 0065938::Kelly's Heroes (1970)::Action|Adventure|Comedy|War
@@ -3844,6 +3849,7 @@
 0110081::Huozhe (1994)::Drama|War
 0110093::I Love Trouble (1994)::Action|Comedy|Romance
 0110116::Immortal Beloved (1994)::Biography|Drama|Music|Romance
+0110137::The Inkwell (1994)::Romance|Comedy|Drama
 0110146::Intersection (1994)::Drama|Romance
 0110148::Interview with the Vampire: The Vampire Chronicles (1994)::Horror|Romance
 0110157::Iron Will (1994)::Adventure
@@ -3882,6 +3888,7 @@
 0110675::No Contest (1995)::Action
 0110678::No Escape (1994)::Action|Drama|Sci-Fi|Thriller
 0110719::Okno v Parizh (1994)::Comedy|Drama|Fantasy|Sci-Fi
+0110725::On Deadly Ground (1994)::Action|Adventure|Thriller
 0110729::Once Were Warriors (1994)::Crime|Drama
 0110737::Only You (1994)::Comedy|Romance
 0110759::PCU (1994)::Comedy
@@ -5858,6 +5865,7 @@
 0303243::Xingfu shiguang (2000)::Drama|Comedy
 0303326::Derrida (2002)::Documentary
 0303356::Biggie and Tupac (2002)::Documentary|Biography|Crime|Music
+0303714::Barbershop (2002)::Comedy|Drama
 0303785::Bollywood/Hollywood (2002)::Romance|Comedy|Drama|Musical
 0303816::Cabin Fever (2002)::Horror
 0303933::Drumline (2002)::Comedy|Drama|Romance|Music
@@ -6003,6 +6011,7 @@
 0323630::Pon (2002)::Drama|Horror|Mystery|Sci-Fi|Thriller
 0323642::Piglet's Big Movie (2003)::Animation|Adventure|Family|Mystery
 0323872::Salmer fra kjøkkenet (2003)::Comedy|Drama
+0323939::Shade (2003)::Crime|Thriller
 0323944::Shattered Glass (2003)::Drama|History
 0323998::Smala Sussie (2003)::Comedy|Crime|Mystery
 0324127::Suspect Zero (2004)::Crime|Thriller
@@ -6719,6 +6728,7 @@
 0405296::A Scanner Darkly (2006)::Animation|Crime|Drama|Sci-Fi
 0405325::Sky High (2005)::Adventure|Comedy|Family|Sci-Fi
 0405336::Southland Tales (2006)::Comedy|Drama|Sci-Fi|Thriller
+0405393::Rudo y Cursi (2008)::Comedy|Drama|Sport
 0405422::The 40 Year Old Virgin (2005)::Comedy|Romance
 0405507::Murder (2004)::Drama|Thriller
 0405508::Rang De Basanti (2006)::Drama|History
@@ -7614,6 +7624,7 @@
 0499291::Ah nerede (1975)::Comedy|Romance
 0499375::Guru (2007)::Biography|Drama|Musical|Romance
 0499448::The Chronicles of Narnia: Prince Caspian (2008)::Action|Adventure|Family|Fantasy
+0499455::Day Night Day Night (2006)::Crime|Drama|Thriller
 0499537::Offside (2006)::Comedy|Drama|Sport
 0499549::Avatar (2009)::Action|Adventure|Fantasy|Sci-Fi
 0499554::Reno 911!: Miami (2007)::Comedy|Crime
@@ -8559,6 +8570,7 @@
 1087474::Shark in Venice (2008)::Horror
 1087527::Trucker (2008)::Drama
 1087578::Aruitemo aruitemo (2008)::Drama
+1087856::Hello (2008)::Drama|Romance
 1087890::Frygtelig lykkelig (2008)::Drama|Mystery
 1090647::Coyote (2007)::Comedy|Crime|Drama
 1090674::Opposite Day (2009)::Comedy|Family
@@ -10898,6 +10910,7 @@
 1769363::The Giant Mechanical Man (2012)::Comedy|Drama|Romance
 1770672::Djinn (2013)::Horror|Thriller
 1770734::Shadow Dancer (2012)::Drama|Thriller
+1772230::Xin hai ge ming (2011)::Action|Adventure|Drama|History|War
 1772240::Apollo 18 (2011)::Horror|Sci-Fi|Thriller
 1772250::La cara oculta (2011)::Thriller
 1772270::Foxfire (2012)::Drama
@@ -12235,6 +12248,7 @@
 2241605::Tesis sobre un homicidio (2013)::Thriller
 2241691::Au bout du conte (2013)::Comedy
 2243275::El Santos VS la Tetona Mendoza (2012)::Animation
+2243299::Final Cut: Hölgyeim és uraim (2012)::Comedy|Drama|Romance
 2243389::Los amantes pasajeros (2013)::Comedy
 2243393::Love Never Dies (2012)::Drama|Music|Musical|Romance
 2243469::Papá, soy una zombi (2011)::Animation|Comedy|Fantasy|Horror
@@ -12937,6 +12951,7 @@
 2608178::Anti-PainKillers (2013)::Short|Drama|Thriller
 2608224::Kelebegin rüyasi (2013)::Drama
 2608316::Da Thadiya (2012)::Drama
+2608726::Powder Room (2013)::Comedy
 2608732::TPB AFK: The Pirate Bay Away from Keyboard (2013)::Documentary
 2608998::Jag etter vind (2013)::Drama
 2609222::Quai d'Orsay (2013)::
@@ -13187,6 +13202,7 @@
 2904616::Meryem (2013)::Drama
 2908228::My Little Pony: Equestria Girls (2013)::Animation|Family|Fantasy
 2910520::A Wedding Invitation (2013)::Romance
+2910966::Defending Santa (2013)::Family|Fantasy
 2911326::Happy B-Day (2013)::Short|Comedy|Horror
 2911398::The Developer (2013)::Short|Fantasy|Sci-Fi|Thriller
 2912144::Dast-Neveshtehaa Nemisoosand (2013)::Drama
@@ -13285,6 +13301,7 @@
 3056608::KL Gangster 2 (2013)::Crime
 3059106::Satya 2 (2013)::Crime
 3059880::The Tree Widow (2013)::Drama
+3060850::Night of the Sea Monkey: A Disturbing Tale (2013)::Short|Horror
 3061202::Neelakasham Pachakadal Chuvanna Bhoomi (2013)::Drama
 3063448::It's A Kind of Magic Turtle (2013)::Short|Romance
 3063516::Bad Grandpa (2013)::Comedy
@@ -13387,6 +13404,7 @@
 3319702::Base 05 (2013)::Short|Drama|Sci-Fi
 3329246::Pizza II: Villa (2013)::Horror|Thriller
 3330372::Alaba Zintzoa (2013)::Thriller
+3340900::Temporary Road - Una: Vita Di Franco Battiato (2013)::Documentary
 3351452::Prachathipa'Thai (2013)::Documentary
 3374966::La Mafia Uccide solo d'Estate (2013)::Comedy|Crime|Romance
 3384034::Tropico (2013)::Short|Drama
