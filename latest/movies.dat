@@ -94,6 +94,7 @@
 0020686::The Big House (1930)::Drama|Thriller
 0020693::Billy the Kid (1930)::Biography|Drama|Romance|Western
 0020697::Der blaue Engel (1930)::Drama|Music
+0020698::Blotto (1930)::Short|Comedy
 0020768::City Girl (1930)::Drama|Romance
 0020902::Free and Easy (1930)::Comedy|Musical
 0020980::Hogaraka ni ayume (1930)::Romance|Crime|Drama
@@ -1281,6 +1282,7 @@
 0059885::Von Ryan's Express (1965)::Action|Adventure|War
 0059887::Voyage to the Prehistoric Planet (1965)::Sci-Fi
 0059936::Yûkoku (1966)::Drama|Short
+0060074::Agent for H.A.R.M. (1966)::Adventure|Action|Drama|Sci-Fi
 0060086::Alfie (1966)::Comedy|Drama
 0060094::The Alphabet Murders (1965)::Crime|Mystery|Comedy
 0060107::Andrey Rublyov (1966)::Biography|Drama|History
@@ -1589,6 +1591,7 @@
 0066963::Dad's Army (1971)::Comedy|War
 0066988::Detenuto in attesa di giudizio (1971)::Comedy|Drama
 0066989::Les deux Anglaises et le continent (1971)::Romance|Drama
+0066993::The Devils (1971)::Drama|History
 0066995::Diamonds Are Forever (1971)::Action|Adventure|Crime|Thriller
 0066999::Dirty Harry (1971)::Action|Crime|Thriller
 0067065::Escape from the Planet of the Apes (1971)::Action|Sci-Fi
@@ -2235,6 +2238,7 @@
 0080855::Heaven's Gate (1980)::Drama|History|Romance|Western
 0080889::Hopscotch (1980)::Adventure|Comedy
 0080904::Humanoids from the Deep (1980)::Horror|Sci-Fi
+0080913::The Idolmaker (1980)::Biography|Drama|Music|Romance
 0080923::Inferno (1980)::Horror
 0080934::The Island (1980)::Action|Adventure|Drama|Horror|Mystery|Thriller
 0080948::The Jazz Singer (1980)::Drama|Music|Romance
@@ -2434,6 +2438,7 @@
 0084516::Poltergeist (1982)::Horror
 0084522::Porky's (1982)::Comedy
 0084549::Przypadek (1987)::Drama
+0084555::Le père Noël est une ordure (1982)::Comedy
 0084556::Q (1982)::Drama|Fantasy|Horror|Mystery|Thriller
 0084577::Reassemblage: From the Firelight to the Screen (1983)::Documentary|Short
 0084602::Rocky III (1982)::Drama|Sport
@@ -2610,6 +2615,7 @@
 0087644::Love Streams (1984)::Comedy|Drama
 0087727::Missing in Action (1984)::Action|Adventure|Drama|Thriller|War
 0087747::Moscow on the Hudson (1984)::Comedy|Drama|Romance
+0087755::The Muppets Take Manhattan (1984)::Comedy|Family|Musical|Romance
 0087781::The Natural (1984)::Drama|Sport
 0087800::A Nightmare on Elm Street (1984)::Horror
 0087803::Nineteen Eighty-Four (1984)::Drama|Romance|Sci-Fi|Thriller
@@ -5750,6 +5756,7 @@
 0282120::The Wild Thornberrys Movie (2002)::Adventure|Animation|Family|Comedy|Fantasy
 0282209::Darkness Falls (2003)::Horror|Thriller
 0282599::Siworae (2000)::Drama|Fantasy|Romance
+0282687::Life or Something Like It (2002)::Comedy|Romance
 0282698::Love Liza (2002)::Comedy|Drama
 0282744::Mike Bassett: England Manager (2001)::Comedy|Sport
 0283003::Spun (2002)::Comedy|Crime|Drama
@@ -5808,6 +5815,7 @@
 0288330::Zelary (2003)::Romance|Drama
 0288477::Ghost Ship (2002)::Horror|Mystery|Thriller
 0289043::28 Days Later... (2002)::Horror|Sci-Fi|Thriller
+0289408::The Powerpuff Girls (2002)::Animation|Action|Adventure|Comedy|Drama|Family|Fantasy|Sci-Fi
 0289432::Santa Maradona (2001)::Comedy
 0289765::Red Dragon (2002)::Thriller
 0289848::Analyze That (2002)::Comedy|Crime
@@ -6820,6 +6828,7 @@
 0407851::Hana to Arisu (2004)::Drama|Comedy
 0407887::The Departed (2006)::Crime|Thriller
 0407998::The Mistress of Spices (2005)::Drama|Romance
+0408017::Mustafa hakkinda hersey (2004)::Thriller|Drama
 0408236::Sweeney Todd: The Demon Barber of Fleet Street (2007)::Drama|Horror|Musical|Thriller
 0408306::Munich (2005)::Drama|History|Thriller
 0408318::Voksne mennesker (2005)::Comedy|Drama|Romance
@@ -7374,6 +7383,7 @@
 0463027::Descent (2007)::Drama|Thriller
 0463034::You, Me and Dupree (2006)::Comedy|Romance
 0463345::La mujer de mi hermano (2005)::Drama
+0463381::Transylvania (2006)::Drama
 0463854::28 Weeks Later (2007)::Horror|Sci-Fi|Thriller
 0463903::Be with Me (2005)::Drama|Romance
 0463960::The Devil You Know (2013)::Mystery|Thriller
@@ -8721,6 +8731,7 @@
 1114740::Paul Blart: Mall Cop (2009)::Action|Comedy|Crime
 1116184::Jackass 3D (2010)::Documentary|Action|Comedy
 1117385::Felon (2008)::Crime|Drama
+1117394::Transcendent Man (2009)::Documentary
 1117668::King of Paper Chasin' (2011)::Crime|Drama|Music|Thriller
 1118665::Kafuka: Inaka isha (2007)::Animation|Short
 1118687::Plague Town (2008)::Horror|Thriller
@@ -11304,6 +11315,7 @@
 1854513::Blancanieves (2012)::Drama
 1854564::Percy Jackson: Sea of Monsters (2013)::Adventure|Family|Fantasy
 1854582::The Helpers (2012)::Horror
+1855152::Charge (2011)::Documentary|Sport
 1855199::End of Watch (2012)::Crime|Drama|Thriller
 1855236::Just Like a Woman (2012)::Drama
 1855325::Resident Evil: Retribution (2012)::Action|Horror|Sci-Fi|Thriller
@@ -11997,6 +12009,7 @@
 2112124::Chennai Express (2013)::Action|Comedy|Romance
 2112131::Dabangg 2 (2012)::Action|Comedy|Drama|Musical|Romance
 2112148::Fecha de Caducidad (2012)::Drama|Thriller
+2112152::For No Good Reason (2012)::Documentary|Biography|History|Music
 2112204::Mobile Home (2012)::Comedy|Drama
 2112206::Monica Z (2013)::Drama
 2112210::My Awkward Sexual Adventure (2012)::Comedy
@@ -12453,6 +12466,7 @@
 2287675::Cockpit (2012)::Comedy
 2287715::Ego (2013)::Drama
 2288005::Sammy's avonturen 2 (2012)::Animation|Adventure|Family
+2289538::Elle s'en va (2013)::
 2290065::100 Bloody Acres (2012)::Comedy|Horror
 2290113::Along the Roadside (2013)::Comedy|Music|Romance
 2290151::Big Star: Nothing Can Hurt Me (2012)::Documentary
@@ -12882,6 +12896,7 @@
 2444092::The Jungle (2013)::Thriller
 2444946::Girl Rising (2013)::Documentary
 2445148::El Teniente Amado (2013)::Drama
+2445556::B-Side (2013)::Comedy|Romance
 2446502::Zombie Hunter (2013)::Action|Thriller
 2447750::The Paw Project (2013)::Documentary|History|News
 2447934::Bianca come il latte, rossa come il sangue (2013)::Drama
@@ -13485,6 +13500,7 @@
 3153806::Masterpiece: Frank Miller's The Dark Knight Returns (2013)::Documentary|Biography|History
 3155604::Geograf globus propil (2013)::Drama
 3159812::Monster High: 13 Wishes (2013)::
+3166476::Zone Pro Site (2013)::Comedy
 3169780::Mediastan (2013)::Documentary
 3172520::Sacro GRA (2013)::Documentary
 3175478::Love Syndrome rak ngo ngo (2013)::Romance
