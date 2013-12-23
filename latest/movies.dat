@@ -84,8 +84,10 @@
 0019729::The Broadway Melody (1929)::Musical|Romance
 0019760::Chelovek s kino-apparatom (1929)::Documentary
 0019901::Frau im Mond (1929)::Comedy|Drama|Romance|Sci-Fi
+0019999::The Hoose-Gow (1929)::Comedy|Short
 0020475::Tagebuch einer Verlorenen (1929)::Drama
 0020487::That's My Wife (1929)::Comedy|Short
+0020489::They Go Boom! (1929)::Comedy|Short
 0020530::Un chien andalou (1929)::Short|Fantasy
 0020531::Unaccustomed As We Are (1929)::Comedy|Short
 0020581::Where East Is East (1929)::Drama
@@ -119,6 +121,7 @@
 0022080::Limite (1931)::Drama|Romance
 0022100::M (1931)::Crime|Drama|Film-Noir|Thriller
 0022125::Marius (1931)::Comedy|Drama|Romance
+0022251::Pardon Us (1931)::Comedy|Crime|Drama|Musical
 0022279::Private Lives (1931)::Comedy|Drama
 0022395::The Skin Game (1931)::Drama
 0022403::Smart Money (1931)::Crime|Drama
@@ -498,6 +501,7 @@
 0039169::The Bachelor and the Bobby-Soxer (1947)::Comedy|Romance
 0039192::Black Narcissus (1947)::Drama
 0039211::Born to Kill (1947)::Crime|Drama|Film-Noir
+0039266::Christmas Eve (1947)::Comedy|Drama
 0039294::Daisy Kenyon (1947)::Drama|Romance
 0039305::Dead Reckoning (1947)::Drama|Film-Noir|Mystery|Thriller
 0039306::Dear Murderer (1947)::Crime|Drama
@@ -1933,6 +1937,7 @@
 0074119::All the President's Men (1976)::Drama|History|Mystery|Thriller
 0074130::The Amazing Dobermans (1976)::Family|Comedy|Crime
 0074156::Assault on Precinct 13 (1976)::Action|Horror|Thriller
+0074157::At the Earth's Core (1976)::Sci-Fi|Adventure|Fantasy
 0074174::The Bad News Bears (1976)::Comedy|Family|Sport
 0074235::Bound for Glory (1976)::Biography|Drama|Music
 0074256::Bugsy Malone (1976)::Comedy|Crime|Family|Musical
@@ -2186,6 +2191,7 @@
 0079679::Osenniy marafon (1979)::Comedy|Drama|Romance
 0079714::Phantasm (1979)::Horror|Sci-Fi
 0079732::Poitín (1978)::Drama
+0079738::Porridge (1979)::Comedy|Crime
 0079766::Quadrophenia (1979)::Crime|Drama|Music
 0079817::Rocky II (1979)::Drama|Sport
 0079820::Le roi et l'oiseau (1980)::Animation|Family|Fantasy|Romance
@@ -2507,6 +2513,7 @@
 0085693::House of the Long Shadows (1983)::Comedy|Horror|Mystery|Thriller
 0085701::The Hunger (1983)::Fantasy|Horror|Romance|Thriller
 0085706::I Am the Cheese (1983)::Drama
+0085743::Jaane Bhi Do Yaaro (1983)::Comedy|Drama
 0085750::Jaws 3-D (1983)::Action|Horror|Thriller
 0085769::Kako sam sistematski unisten od idiota (1983)::Comedy|Drama
 0085776::Katha (1983)::Comedy|Drama
@@ -3049,6 +3056,7 @@
 0094631::Alien Nation (1988)::Action|Crime|Sci-Fi
 0094641::Amanece, que no es poco (1989)::Comedy
 0094663::Another Woman (1988)::Drama
+0094675::Ariel (1988)::Drama
 0094678::Arthur 2: On the Rocks (1988)::Comedy|Romance
 0094716::The Beast of War (1988)::Drama|History|War
 0094721::Beetle Juice (1988)::Comedy|Fantasy
@@ -3238,6 +3246,7 @@
 0097457::Great Balls of Fire! (1989)::Biography|Drama|Music
 0097458::Gross Anatomy (1989)::Drama
 0097474::Halloween 5 (1989)::Horror|Thriller
+0097481::Harlem Nights (1989)::Comedy|Crime|Drama|Romance
 0097493::Heathers (1988)::Comedy|Drama
 0097523::Honey, I Shrunk the Kids (1989)::Adventure|Comedy|Family|Sci-Fi
 0097550::I Bought a Vampire Motorcycle (1990)::Comedy|Horror
@@ -3951,6 +3960,7 @@
 0110759::PCU (1994)::Comedy
 0110771::The Paper (1994)::Comedy|Drama
 0110823::Phantasm III: Lord of the Dead (1994)::Action|Horror|Sci-Fi
+0110832::Pidä huivista kiinni, Tatjana (1994)::Comedy
 0110851::Plughead Rewired: Circuitry Man II (1994)::Adventure|Sci-Fi
 0110857::Police Academy: Mission to Moscow (1994)::Comedy|Crime
 0110877::Il postino (1994)::Biography|Comedy|Drama|Romance
@@ -5083,6 +5093,7 @@
 0180073::Quills (2000)::Biography|Drama
 0180093::Requiem for a Dream (2000)::Drama
 0180177::A Smell of Honey, a Swallow of Brine (1966)::Drama
+0180691::Father Christmas (1991)::Family|Short|Animation
 0180708::Funny Valentines (1999)::Drama
 0180734::Hard Ball (2001)::Drama|Sport
 0181151::What Planet Are You From? (2000)::Comedy|Sci-Fi
@@ -6077,6 +6088,7 @@
 0319262::The Day After Tomorrow (2004)::Action|Adventure|Drama|Sci-Fi|Thriller
 0319343::Elf (2003)::Comedy|Family|Fantasy|Romance
 0319531::I'll Sleep When I'm Dead (2003)::Crime|Drama|Mystery|Thriller
+0319576::Irupatthi Naalu Mani Neram (1984)::
 0319769::Los lunes al sol (2002)::Comedy|Drama
 0319829::Masked and Anonymous (2003)::Comedy|Drama|Music
 0319836::Matir moina (2002)::Drama|History
@@ -6390,6 +6402,7 @@
 0363163::Der Untergang (2004)::Biography|Drama|History|War
 0363226::Zatôichi (2003)::Action|Comedy|Crime|Drama|Music
 0363269::Once Upon a Wedding (2005)::Comedy|Romance
+0363276::Madhouse (2004)::Horror|Thriller
 0363282::New York Minute (2004)::Comedy
 0363547::Dawn of the Dead (2004)::Action|Horror|Sci-Fi|Thriller
 0363589::Elephant (2003)::Crime|Drama|Thriller
@@ -7292,6 +7305,7 @@
 0452643::Love and Other Disasters (2006)::Comedy|Romance
 0452660::One Last Thing... (2005)::Comedy|Drama
 0452664::Os Penetras (2012)::Comedy
+0452681::The Santa Clause 3: The Escape Clause (2006)::Adventure|Comedy|Family
 0452694::The Time Traveler's Wife (2009)::Drama|Fantasy|Romance|Sci-Fi
 0452702::Vacancy (2007)::Horror|Thriller
 0452706::Who Made the Potatoe Salad? (2006)::Comedy|Romance
@@ -7711,6 +7725,7 @@
 0494823::Sekerpare kiz (1983)::Comedy
 0494834::Silk (2007)::Drama|Romance
 0494864::Tenderness (2009)::Crime|Drama|Thriller
+0495241::Saw (2003)::Short|Crime|Horror|Thriller
 0495596::Gedo senki (2006)::Animation|Adventure|Fantasy
 0496350::The Marsh (2006)::Horror|Thriller
 0496436::White Noise 2: The Light (2007)::Drama|Horror|Thriller
@@ -12688,6 +12703,7 @@
 2354205::McCullin (2012)::Documentary
 2354215::La marque des anges - Miserere (2013)::Thriller
 2354572::Grasp the Nettle (2013)::Documentary|Adventure|History|News
+2355540::Cutie and the Boxer (2013)::Documentary
 2355823::Sag Salim (2012)::Comedy
 2355859::Som en Zorro (2012)::Short|Drama
 2356180::Bhaag Milkha Bhaag (2013)::Biography|Drama|History|Sport
@@ -13059,6 +13075,7 @@
 2536436::App (2013)::Thriller
 2537176::I Spit on Your Grave 2 (2013)::Crime|Horror|Thriller
 2539482::No sé si cortarme las venas o dejármelas largas (2013)::Comedy
+2542368::Soof (2013)::Comedy
 2542406::Paradesi (2013)::Drama
 2543202::The Impaler (2013)::Action|Horror|Thriller
 2543446::The Flying Lesson (2013)::Short|Action|Drama
@@ -13087,6 +13104,7 @@
 2558632::Baking Boys (2012)::Short|Comedy|Drama
 2560440::Før snøen faller (2013)::Drama
 2561812::Jack Attack (2013)::Short|Fantasy|Horror
+2563104::The Eurovision Song Contest (2013)::Family|Music
 2563548::3 A.M. 3D (2012)::Horror
 2564144::Naduvula Konjam Pakkatha Kaanom (2012)::Comedy
 2566216::Local Commercial (2012)::Short|Comedy
@@ -13468,6 +13486,7 @@
 3008180::Coming Home (2013)::Documentary|Drama
 3010462::DEFCON: The Documentary (2013)::Documentary
 3013214::Dr. Easy (2013)::Short
+3013528::The Harry Hill Movie (2013)::Comedy
 3015110::Christmas in the City (2013)::Family
 3016266::L'armée du salut (2013)::Drama
 3018700::The Flying Man (2013)::Short|Action|Fantasy|Mystery
@@ -13554,6 +13573,7 @@
 3145768::Tanda putera (2013)::Drama|History
 3147290::Little Favour (2013)::Short|Action|Thriller
 3148468::L'arbitro (2013)::Comedy
+3149484::Ne me quitte pas (2013)::Documentary|Comedy|Drama
 3153168::Radio Silence (2013)::Short|Drama
 3153806::Masterpiece: Frank Miller's The Dark Knight Returns (2013)::Documentary|Biography|History
 3155604::Geograf globus propil (2013)::Drama
