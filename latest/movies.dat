@@ -1000,6 +1000,7 @@
 0052948::Journey to the Center of the Earth (1959)::Adventure|Family|Fantasy|Romance|Sci-Fi
 0052969::The Killer Shrews (1959)::Horror|Sci-Fi
 0053084::The Mouse That Roared (1959)::Comedy|War
+0053085::The Mummy (1959)::Adventure|Fantasy|Horror
 0053106::Neotpravlennoye pismo (1959)::Drama|Romance
 0053114::Ningen no jôken (1959)::Drama|History|War
 0053115::Ningen no jôken (1959)::Drama|History|War
@@ -1101,6 +1102,7 @@
 0055032::Jules et Jim (1962)::Drama|Romance
 0055047::King of Kings (1961)::Biography|Drama|History
 0055082::Léon Morin, prêtre (1961)::Drama|Romance
+0055184::The Misfits (1961)::Drama
 0055198::Mosura (1961)::Action|Adventure|Drama|Family|Fantasy|Mystery|Sci-Fi
 0055200::Mr. Sardonicus (1961)::Drama|Horror|Mystery
 0055205::Murder She Said (1961)::Comedy|Crime|Drama|Mystery
@@ -2056,6 +2058,7 @@
 0075686::Annie Hall (1977)::Comedy|Drama|Romance
 0075704::Audrey Rose (1977)::Drama|Fantasy|Horror|Thriller
 0075718::The Bad News Bears in Breaking Training (1977)::Comedy|Sport
+0075740::La belva col mitra (1977)::Crime|Drama|Thriller
 0075783::Breaker! Breaker! (1977)::Action|Adventure|Crime
 0075784::A Bridge Too Far (1977)::Drama|History|War
 0075788::Bruce Lee, the Legend (1977)::Documentary
@@ -2104,6 +2107,7 @@
 0076637::Rolling Thunder (1977)::Action|Drama|Crime|Thriller
 0076666::Saturday Night Fever (1977)::Drama|Music
 0076683::The Sentinel (1977)::Horror|Thriller
+0076696::Shatranj Ke Khilari (1977)::Comedy|Drama|History
 0076704::Shock Waves (1977)::Horror|Mystery|Sci-Fi
 0076722::Skytten (1977)::Crime|Thriller
 0076723::Slap Shot (1977)::Comedy|Drama|Sport
@@ -2814,6 +2818,7 @@
 0089945::Rustlers' Rhapsody (1985)::Comedy|Western
 0089961::Santa Claus (1985)::Adventure|Family|Fantasy
 0090021::Silver Bullet (1985)::Adventure|Drama|Horror|Mystery|Thriller
+0090055::Speriamo che sia femmina (1986)::Comedy|Drama
 0090056::Spies Like Us (1985)::Adventure|Comedy
 0090060::St. Elmo's Fire (1985)::Drama|Romance
 0090073::Stick (1985)::Action|Crime|Drama|Thriller
@@ -3900,6 +3905,7 @@
 0108394::Trois couleurs: Bleu (1993)::Drama|Music|Mystery|Romance
 0108399::True Romance (1993)::Crime|Thriller
 0108451::Untamed Heart (1993)::Drama|Romance|Comedy
+0108471::Vale Abraão (1993)::Drama
 0108473::The Vanishing (1993)::Drama|Mystery|Thriller
 0108484::Veturimiehet heiluttaa (1992)::Drama
 0108515::The War Room (1993)::Documentary|History
@@ -4476,6 +4482,7 @@
 0118698::Bent (1997)::Drama|History|Romance|War
 0118702::Best Men (1997)::Action|Comedy|Crime|Drama|Thriller
 0118705::A Better Place (1997)::Drama
+0118708::Beverly Hills Ninja (1997)::Action|Comedy
 0118715::The Big Lebowski (1998)::Comedy|Crime
 0118744::Hush (1998)::Drama|Thriller
 0118747::Blues Brothers 2000 (1998)::Action|Comedy|Crime|Music
@@ -4906,6 +4913,7 @@
 0138403::The Dirk Diggler Story (1988)::Short|Biography|Drama
 0138510::Idle Hands (1999)::Comedy|Horror|Thriller
 0138524::Intolerable Cruelty (2003)::Comedy|Crime|Romance
+0138545::The Juniper Tree (1990)::Drama|Fantasy
 0138563::Kurt & Courtney (1998)::Documentary|Biography|Music
 0138704::Pi (1998)::Drama|Sci-Fi|Thriller
 0138749::The Road to El Dorado (2000)::Animation|Adventure|Comedy|Family|Romance
@@ -5384,6 +5392,7 @@
 0214657::Ee Kannikoodi (1990)::Mystery|Thriller
 0214728::Gong yuan 2000 AD (2000)::Action|Thriller
 0215129::Road Trip (2000)::Adventure|Comedy
+0215517::Angoor (1982)::Comedy
 0215750::Enemy at the Gates (2001)::Drama|History|Thriller|War
 0215841::Hijack Stories (2000)::Crime|Drama
 0216067::Parichay (1972)::Drama|Family|Musical
@@ -5883,6 +5892,7 @@
 0281686::Bubba Ho-Tep (2002)::Comedy|Drama|Fantasy|Horror|Mystery
 0281718::Chingoo (2001)::Crime|Drama
 0281724::Cinemania (2002)::Documentary
+0281820::The Good Thief (2002)::Crime|Drama|Thriller
 0282120::The Wild Thornberrys Movie (2002)::Adventure|Animation|Family|Comedy|Fantasy
 0282209::Darkness Falls (2003)::Horror|Thriller
 0282599::Siworae (2000)::Drama|Fantasy|Romance
@@ -6134,6 +6144,7 @@
 0313911::Agent Cody Banks (2003)::Action|Adventure|Comedy|Crime|Family|Romance|Thriller
 0314067::Filantropica (2002)::Comedy|Drama
 0314111::Gojira tai Mekagojira (2002)::Action|Sci-Fi|Thriller
+0314197::Imagining Argentina (2003)::Drama|Romance|Thriller
 0314331::Love Actually (2003)::Comedy|Drama|Romance
 0314353::Tears of the Sun (2003)::Action|Drama|Thriller|War
 0314412::My Life Without Me (2003)::Drama|Romance
@@ -6230,6 +6241,7 @@
 0325980::Pirates of the Caribbean: The Curse of the Black Pearl (2003)::Action|Adventure|Fantasy
 0326306::The Trials of Henry Kissinger (2002)::Documentary
 0326429::Das Wunder von Bern (2003)::Comedy|Drama|Sport
+0326450::Zvezda (2002)::Action|Adventure|Drama
 0326805::Chori Chori (2003)::Comedy|Romance|Musical|Drama
 0326806::Civil Brand (2002)::Drama|Thriller|Crime
 0326856::Envy (2004)::Comedy
@@ -6799,6 +6811,7 @@
 0387514::Prime (2005)::Comedy|Drama|Romance
 0387564::Saw (2004)::Crime|Horror|Mystery
 0387575::Seed of Chucky (2004)::Comedy|Horror|Thriller
+0387596::Silmido (2003)::Action|Drama
 0387808::Idiocracy (2006)::Adventure|Comedy|Sci-Fi|Thriller
 0387877::The Black Dahlia (2006)::Crime|Drama|Mystery|Thriller
 0387898::Caché (2005)::Drama|Mystery|Thriller
@@ -7065,6 +7078,7 @@
 0417148::Snakes on a Plane (2006)::Action|Thriller
 0417189::Le temps qui reste (2005)::Drama
 0417217::Two for the Money (2005)::Drama|Sport|Thriller
+0417225::Idlewild (2006)::Crime|Drama|Musical
 0417397::9 rota (2005)::Action|Drama|History|War
 0417658::Factotum (2005)::Comedy|Drama|Romance
 0417686::Forest of the Damned (2005)::Horror
@@ -9702,6 +9716,7 @@
 1337137::South of the Border (2009)::Documentary
 1337366::Nokas (2010)::Action|Biography|Crime|Drama|Thriller
 1337686::The Prometheus Project (2010)::Horror|Sci-Fi
+1339111::Know Your Mushrooms (2008)::Documentary
 1339161::Der Räuber (2010)::Biography|Crime|Drama|Sport
 1339651::Frans Hals: Snapshots uit het verleden (2008)::Documentary
 1340107::Hævnen (2010)::Drama
@@ -11358,6 +11373,7 @@
 1808666::What Have You Done Today Mervyn Day? (2005)::Documentary
 1808691::Ya Sonra? (2011)::Comedy|Drama|Romance
 1809231::Arme Riddere (2011)::Action|Comedy|Crime
+1809287::Irvine Welsh's Ecstasy (2011)::Drama|Romance
 1810543::Baby Shower (2011)::Horror
 1810697::Meeting Evil (2012)::Crime|Drama|Mystery|Thriller
 1810798::L'hiver dernier (2011)::Drama
@@ -12190,6 +12206,7 @@
 2088962::À coeur ouvert (2012)::Drama
 2088976::We Are Skateboarders (2012)::Documentary|Sport
 2089750::Nativity 2: Danger in the Manger! (2012)::Comedy
+2090463::Big Boys Gone Bananas!* (2011)::Documentary|Biography|Drama
 2090488::Down and Dangerous (2013)::Crime|Thriller
 2090497::Fill de Caín (2013)::Thriller
 2091398::The Revisionaries (2012)::Documentary|History|News
@@ -12769,6 +12786,7 @@
 2299842::Pieta (2012)::Drama
 2301155::Shootout at Wadala (2013)::Action|Crime
 2301291::Zhen Tou (2012)::Comedy|Drama
+2301592::La danza de la realidad (2013)::Biography
 2302527::Aya Seyahat (2009)::Documentary
 2302755::Olympus Has Fallen (2013)::Action|Thriller
 2302969::We Are the Freaks (2013)::Comedy
@@ -12877,6 +12895,7 @@
 2342810::Cine Holliúdy (2013)::Comedy|Family|Romance
 2343266::No Place on Earth (2012)::Documentary|War
 2343371::Amiche da morire (2013)::Comedy
+2343475::Nightmare - Painajainen merellä (2012)::Thriller
 2343601::Knuckleball! (2012)::Documentary
 2344672::Kadal (2013)::Drama|Romance
 2344678::Himmatwala (2013)::Action|Comedy
@@ -12940,6 +12959,7 @@
 2362036::Daylight (2013)::Horror|Mystery|Thriller
 2362744::O Uivo da Gaita (2013)::Drama|Romance
 2362778::Saheb Biwi Aur Gangster Returns (2013)::Action|Crime|Drama|Thriller
+2363115::Bula Quo! (2013)::Action|Adventure|Comedy
 2363178::Hotell (2013)::Drama
 2363219::Het Bombardement (2012)::Drama|History|War
 2363439::The Frozen (2012)::Horror|Thriller
@@ -13172,6 +13192,7 @@
 2444946::Girl Rising (2013)::Documentary
 2445148::El Teniente Amado (2013)::Drama
 2445556::B-Side (2013)::Comedy|Romance
+2446192::Bronies: The Extremely Unexpected Adult Fans of My Little Pony (2012)::Documentary
 2446502::Zombie Hunter (2013)::Action|Thriller
 2447750::The Paw Project (2013)::Documentary|History|News
 2447934::Bianca come il latte, rossa come il sangue (2013)::Drama
@@ -13355,6 +13376,7 @@
 2594950::Mayor (2013)::Action|Crime|Drama
 2595872::Feo de día, lindo de noche (2012)::Comedy
 2599106::Jan Dara pathommabot (2012)::Drama
+2599716::Jing Cha Gu Shi 2013 (2013)::Action|Crime|Drama
 2599786::Summer Vacation (2012)::Short|Drama|Romance
 2601044::Planet RE:think (2012)::Documentary|News
 2603308::Countdown (2012)::Horror|Thriller
@@ -13865,3 +13887,4 @@
 3386560::Ciudadano Kramer (2013)::Comedy
 3389706::Proximity (2013)::Short|Action|Sci-Fi
 3417422::Dhrishyam (2013)::Drama|Family|Thriller
+3418604::The Sinking of Van Der Wijck (2013)::Drama|Romance
