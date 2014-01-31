@@ -487,6 +487,7 @@
 0038238::The Way to the Stars (1945)::Drama|Romance|War
 0038279::13 Rue Madeleine (1947)::Action|Adventure|Drama|Thriller|War
 0038289::I See a Dark Stranger (1946)::Drama|Thriller|War
+0038300::Angel on My Shoulder (1946)::Comedy|Fantasy|Romance
 0038348::La belle et la bête (1946)::Drama|Fantasy|Romance
 0038355::The Big Sleep (1946)::Crime|Film-Noir|Mystery|Thriller
 0038363::Blithe Spirit (1945)::Comedy|Fantasy
@@ -1920,6 +1921,7 @@
 0070842::Turks fruit (1973)::Drama|Romance
 0070849::Ultimo tango a Parigi (1972)::Drama|Romance
 0070869::Una vela para el diablo (1973)::Horror
+0070895::Walking Tall (1973)::Crime|Drama|Thriller
 0070903::The Way We Were (1973)::Drama|Romance
 0070909::Westworld (1973)::Action|Sci-Fi|Western
 0070917::The Wicker Man (1973)::Horror|Musical|Mystery|Thriller
@@ -2150,6 +2152,7 @@
 0075820::Cauchemares (1977)::Horror
 0075824::Cet obscur objet du désir (1977)::Comedy|Drama|Romance
 0075838::The Child (1977)::Horror
+0075857::Claws (1977)::Horror|Thriller
 0075860::Close Encounters of the Third Kind (1977)::Adventure|Drama|Sci-Fi
 0075913::Day of the Animals (1977)::Horror|Sci-Fi|Thriller
 0075922::Death Weekend (1976)::Horror|Thriller
@@ -4852,6 +4855,7 @@
 0120458::Virus (1999)::Action|Horror|Thriller|Sci-Fi
 0120461::Volcano (1997)::Action|Drama|Sci-Fi|Thriller
 0120472::Waco: The Rules of Engagement (1997)::Documentary|History
+0120478::Star Kid (1997)::Adventure|Sci-Fi|Family
 0120483::The Man Who Knew Too Little (1997)::Action|Comedy|Crime|Thriller
 0120484::The Waterboy (1998)::Comedy|Sport
 0120510::Wide Awake (1998)::Comedy|Drama|Family
@@ -7017,6 +7021,7 @@
 0384537::Silent Hill (2006)::Adventure|Horror
 0384639::Uno (2004)::Drama
 0384680::The Weather Man (2005)::Comedy|Drama
+0384686::The White Countess (2005)::Drama|History|Romance
 0384708::Çamur (2003)::
 0384793::Accepted (2006)::Comedy
 0384806::The Amityville Horror (2005)::Drama|Horror|Mystery|Thriller
@@ -7822,6 +7827,7 @@
 0463345::La mujer de mi hermano (2005)::Drama
 0463381::Transylvania (2006)::Drama
 0463854::28 Weeks Later (2007)::Horror|Sci-Fi|Thriller
+0463872::Astérix aux jeux olympiques (2008)::Adventure|Comedy|Family
 0463903::Be with Me (2005)::Drama|Romance
 0463960::The Devil You Know (2013)::Mystery|Thriller
 0463985::The Fast and the Furious: Tokyo Drift (2006)::Action|Crime|Drama|Thriller
@@ -8000,6 +8006,7 @@
 0480249::I Am Legend (2007)::Drama|Sci-Fi|Thriller
 0480251::Ira & Abby (2006)::Comedy|Romance
 0480255::The Losers (2010)::Action|Crime|Drama|Mystery|Thriller
+0480269::Interview (2007)::Drama
 0480271::Van Wilder 2: The Rise of Taj (2006)::Comedy|Romance
 0480669::Los cronocrímenes (2007)::Drama|Mystery|Sci-Fi|Thriller
 0480687::Hall Pass (2011)::Comedy|Romance
@@ -9695,6 +9702,7 @@
 1234548::The Men Who Stare at Goats (2009)::Comedy|War
 1234654::Greenberg (2010)::Comedy|Drama|Romance
 1234719::Red Dawn (2012)::Action
+1234721::RoboCop (2014)::Action|Crime|Sci-Fi
 1235124::Dorian Gray (2009)::Drama|Fantasy|Thriller
 1235142::Last Ride (2009)::Drama
 1235166::Un prophète (2009)::Crime|Drama
@@ -10996,9 +11004,11 @@
 1617145::Mørke sjeler (2010)::Horror|Thriller
 1617178::Rózyczka (2010)::Drama|History|Romance
 1617620::A Horrible Way to Die (2010)::Horror|Thriller
+1618399::The Waiting Room (2012)::Documentary
 1618432::I'm in Love with a Church Girl (2013)::Drama
 1618445::The We and the I (2012)::Drama
 1619277::Conception (2011)::Comedy|Romance
+1620446::Day & Night (2010)::Animation|Short
 1620449::Konferenz der Tiere (2010)::Animation|Comedy|Family
 1620604::Somos lo que hay (2010)::Drama|Horror
 1620785::How Much Does Your Building Weigh, Mr Foster? (2010)::Documentary|Biography
@@ -13900,6 +13910,7 @@
 2625054::Summits of My Life: A Fine Line (2012)::Sport
 2625598::Living on One Dollar (2013)::Documentary|Adventure|Drama
 2626926::Pardé (2013)::
+2627702::The 55th Annual Grammy Awards (2013)::
 2628316::Green Street 3: Never Back Down (2013)::Action
 2630134::Barbie in the Pink Shoes (2013)::Animation|Family
 2630300::To Jennifer (2013)::Comedy|Drama|Horror
@@ -14127,6 +14138,7 @@
 2875926::My Sweet Pepper Land (2013)::Drama
 2877108::Soodhu Kavvum (2013)::Comedy|Thriller
 2877542::The C Gate (2013)::Short|Drama|Thriller|War
+2878574::El Rayo (2013)::Adventure|Biography|Drama
 2879770::Bha Ji in Problem (2013)::Comedy
 2880060::Interest (2013)::Short|Crime|Drama|Thriller
 2881698::Skinwalker Ranch (2013)::Horror|Sci-Fi|Thriller
@@ -14353,6 +14365,7 @@
 3177332::Horror Story (2013)::Horror
 3181128::Mac & Jack (2013)::Short|Comedy
 3181962::The Last Shepherd (2013)::Adventure|Comedy|Fantasy
+3183630::O Menino e o Mundo (2013)::Animation
 3184096::Attila (2013)::Action
 3187076::Razredni sovraznik (2013)::Drama
 3188690::The Making of a Queen (2013)::Biography
@@ -14374,17 +14387,19 @@
 3225422::El Derechazo (2013)::Comedy
 3225558::American Weightlifting (2013)::Documentary|Biography|History|Sport
 3229768::Colpi di fortuna (2013)::Comedy
-3241906::Kroab Pich (2013)::
+3241906::Kroab Pich (2013)::Adventure|Comedy|Thriller
 3245074::Stai lontana da me (2013)::Comedy
 3249158::Las horas muertas (2013)::Romance
 3253650::Mikra Anglia (2013)::Drama|Romance
 3254706::Aspirante vedovo (2013)::Comedy
 3257072::Mahi Va Gorbeh (2013)::Drama
+3262722::The 71st Annual Golden Globe Awards (2014)::Reality-TV
 3263598::Our Universe 3D (2013)::Documentary
 3263614::Kumiko, the Treasure Hunter (2014)::Drama
 3264046::Silo (2013)::Short|Drama
 3268458::The Internet's Own Boy: The Story of Aaron Swartz (2014)::Documentary|Biography|Crime
 3269074::Darband (2013)::Drama
+3277622::Jannal Oram (2013)::Comedy|Drama
 3281394::11 A.M. (2013)::Sci-Fi|Thriller
 3283792::Erkek tarafi testosteron (2013)::Comedy|Drama
 3296204::Un boss in salotto (2014)::Comedy
