@@ -479,6 +479,7 @@
 0037469::The Woman in the Window (1944)::Crime|Drama|Film-Noir|Mystery|Thriller
 0037494::Adventure (1945)::Drama|Romance|Comedy
 0037514::Anchors Aweigh (1945)::Comedy|Fantasy|Musical|Romance
+0037515::And Then There Were None (1945)::Crime|Drama|Mystery
 0037536::The Bells of St. Mary's (1945)::Drama|Family
 0037549::The Body Snatcher (1945)::Horror|Thriller
 0037558::Brief Encounter (1945)::Romance|Drama
@@ -2117,6 +2118,7 @@
 0073882::Warlock Moon (1973)::Horror|Thriller
 0073918::The Yakuza (1974)::Action|Crime|Drama|Thriller
 0073925::Zavallilar (1975)::Drama
+0074080::'Gator Bait (1974)::Action|Drama|Thriller
 0074084::Novecento (1976)::Drama|History
 0074102::Ai no korîda (1976)::Drama|History|Romance
 0074103::L'aile ou la cuisse (1976)::Comedy
@@ -3173,6 +3175,7 @@
 0092493::'Crocodile' Dundee II (1988)::Action|Adventure|Comedy
 0092494::*batteries not included (1987)::Family|Fantasy|Sci-Fi|Comedy
 0092513::Adventures in Babysitting (1987)::Action|Adventure|Comedy|Family|Thriller
+0092546::Amazon Women on the Moon (1987)::Comedy|Sci-Fi
 0092549::Miami Connection (1987)::Action|Crime
 0092563::Angel Heart (1987)::Mystery|Thriller
 0092576::Deliria (1987)::Horror
@@ -5643,6 +5646,7 @@
 0203019::Men of Honor (2000)::Biography|Drama
 0203119::Sexy Beast (2000)::Crime|Drama
 0203166::Tillsammans (2000)::Comedy|Drama|Romance
+0203225::Yom mor... yom helw (1988)::Family
 0203230::You Can Count on Me (2000)::Drama
 0203540::Greenfingers (2000)::Comedy|Crime|Romance
 0203632::Der Krieger und die Kaiserin (2000)::Drama|Mystery|Romance
@@ -6125,6 +6129,7 @@
 0266987::Spy Game (2001)::Action|Crime|Thriller
 0267129::Yamakasi - Les samouraïs des temps modernes (2001)::Action|Drama|Crime
 0267248::Abandon (2002)::Drama|Music|Mystery|Romance|Thriller
+0267287::Avalon (2001)::Action|Drama|Fantasy
 0267351::Canim kardesim (1973)::Drama
 0267626::K-19: The Widowmaker (2002)::Drama|History|Thriller|War
 0267804::The One (2001)::Action|Sci-Fi|Thriller
@@ -6910,6 +6915,7 @@
 0363269::Once Upon a Wedding (2005)::Comedy|Romance
 0363276::Madhouse (2004)::Horror|Thriller
 0363282::New York Minute (2004)::Comedy
+0363510::Chavez: Inside the Coup (2003)::Documentary
 0363547::Dawn of the Dead (2004)::Action|Horror|Sci-Fi|Thriller
 0363589::Elephant (2003)::Crime|Drama|Thriller
 0363666::Hatya (1988)::Action|Crime|Drama|Romance|Thriller
@@ -8081,6 +8087,7 @@
 0472043::Apocalypto (2006)::Action|Adventure|Drama
 0472062::Charlie Wilson's War (2007)::Biography|Comedy|Drama|History
 0472071::Death Defying Acts (2007)::Drama|Romance|Thriller
+0472118::Kill Your Darlings (2006)::Comedy|Drama
 0472156::The Half Life of Timofey Berezin (2006)::Drama
 0472160::Penelope (2006)::Comedy|Fantasy|Romance
 0472181::The Smurfs (2011)::Animation|Adventure|Comedy|Family|Fantasy
@@ -9999,6 +10006,7 @@
 1253864::Immortals (2011)::Action|Drama|Fantasy
 1254696::Splinterheads (2009)::Comedy
 1255953::Incendies (2010)::Drama|Mystery|War
+1258120::L'armée du crime (2009)::Drama|History|War
 1258197::Exam (2009)::Mystery|Thriller
 1258972::The Man with the Iron Fists (2012)::Action
 1259014::L'instinct de mort (2008)::Action|Biography|Crime|Drama|Thriller
@@ -10841,6 +10849,7 @@
 1511329::Bo (2010)::Drama
 1512201::Gui tu lie che (2009)::Documentary|Drama
 1512235::Super (2010)::Action|Comedy|Drama
+1512240::The Convincer (2011)::Comedy|Crime|Drama
 1512685::Los ojos de Julia (2010)::Horror|Mystery|Thriller
 1512779::Edie & Thea: A Very Long Engagement (2009)::Documentary|Drama|Family
 1512894::Kiskanmak (2009)::Drama
@@ -13165,6 +13174,7 @@
 2171993::Daai deoi bou (2012)::Action|Crime|Thriller
 2172061::Små citroner gula (2013)::Romance
 2172071::Student of the Year (2012)::Comedy|Romance
+2172934::3 Days to Kill (2014)::Action|Crime|Drama
 2172935::Metallica: Through the Never (2013)::Action|Music|Musical
 2172985::The Art of the Steal (2013)::Comedy
 2173024::Yeon-ga-si (2012)::Drama|Thriller
@@ -13738,6 +13748,7 @@
 2359417::Two Years at Sea (2011)::Documentary
 2359427::Linsanity (2013)::Documentary
 2359810::Raanjhanaa (2013)::Romance
+2360114::Sêrâ-fuku mokushiroku (2011)::Horror
 2360394::Sherlock Holmes Baffled (2010)::Short|Comedy|History
 2361272::Ne-beu-en-ding-seu-to-ri (2012)::Comedy|Romance
 2361483::The Deadly Game (2011)::Drama|Family|Thriller
@@ -13808,7 +13819,7 @@
 2375779::Wrong Turn 5: Bloodlines (2012)::Horror|Thriller
 2376024::Venus and Serena (2012)::Documentary
 2377938::Special Chabbis (2013)::Crime|Drama|Thriller
-2378162::I Hugged the Berlin Patient (2013)::
+2378162::I Hugged the Berlin Patient (2013)::Documentary|Biography|Drama
 2378177::8-Pallo (2013)::Crime|Drama
 2378191::Fairytale (2012)::Horror|Thriller
 2378281::No se Aceptan Devoluciones (2013)::Comedy|Drama
@@ -13842,6 +13853,7 @@
 2387433::Dark Skies (2013)::Horror|Sci-Fi|Thriller
 2387443::Dinotasia (2012)::Documentary|Animation
 2387513::Libertador (2013)::Drama
+2387543::Profile of a Killer (2012)::Thriller
 2387559::Delivery Man (2013)::Comedy
 2387627::Zinda Bhaag (2013)::Drama
 2387806::Heute bin ich blond (2013)::Comedy|Drama
@@ -14360,6 +14372,7 @@
 2709764::Psycho-metry (2013)::Drama|Mystery|Thriller
 2711672::Only in New York (2013)::Comedy|Drama|Romance
 2713324::5 cm (2012)::Drama
+2714900::Finding Vivian Maier (2013)::Documentary
 2717558::On the Job (2013)::Action|Crime|Drama|Thriller
 2718492::Ida (2013)::Drama
 2718538::Líbánky (2013)::Drama
@@ -14579,6 +14592,7 @@
 2969458::Mi-seu-teo Go (2013)::Action|Comedy|Drama
 2969506::Go-ryeong-hwa-ga-jok (2013)::Comedy|Drama
 2969656::Gam-si-ja-deul (2013)::Action|Crime
+2971994::Szerelempatak (2013)::
 2972828::Rol (2013)::Drama|History
 2973408::David Bowie: Five Years (2013)::Documentary
 2973516::Deo Web-toon: Ye-go Sal-in (2013)::Crime|Horror|Thriller
@@ -14618,6 +14632,7 @@
 3008014::Gwansang (2013)::Drama|History
 3008180::Coming Home (2013)::Documentary|Drama
 3010462::DEFCON: The Documentary (2013)::Documentary
+3010660::Stromberg - Der Film (2014)::Comedy
 3013214::Dr. Easy (2013)::Short
 3013528::The Harry Hill Movie (2013)::Comedy
 3015110::Christmas in the City (2013)::Family
