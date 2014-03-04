@@ -83,6 +83,7 @@
 0019254::La passion de Jeanne d'Arc (1928)::Biography|Drama|History
 0019376::Should Married Men Go Home? (1928)::Comedy|Short
 0019421::Steamboat Bill, Jr. (1928)::Action|Comedy|Drama|Family|Romance
+0019422::Steamboat Willie (1928)::Animation|Family|Comedy
 0019429::Street Angel (1928)::Drama
 0019585::The Wind (1928)::Drama|Romance|Western
 0019607::You're Darn Tootin' (1928)::Short|Comedy|Music
@@ -740,6 +741,7 @@
 0044916::Monkey Business (1952)::Comedy|Sci-Fi
 0044926::Moulin Rouge (1952)::Biography|Drama|Music|Romance
 0044937::My Cousin Rachel (1952)::Mystery|Romance|Drama
+0044953::The Naked Spur (1953)::Thriller|Western
 0044958::Neighbours (1952)::Animation|Short|Comedy
 0045034::Le plaisir (1952)::Comedy|Drama
 0045037::Pluto's Christmas Tree (1952)::Animation|Short|Comedy|Family|Fantasy
@@ -998,6 +1000,7 @@
 0051016::The Story of Mankind (1957)::Drama|Fantasy|Sci-Fi
 0051036::Sweet Smell of Success (1957)::Drama|Film-Noir
 0051077::The Three Faces of Eve (1957)::Drama|Mystery
+0051093::Tôkyô boshoku (1957)::Drama
 0051198::The Wings of Eagles (1957)::Biography|Drama|War
 0051201::Witness for the Prosecution (1957)::Drama|Mystery
 0051207::The Wrong Man (1956)::Crime|Drama
@@ -2471,6 +2474,7 @@
 0080439::Il bisbetico domato (1980)::Comedy
 0080453::The Blue Lagoon (1980)::Adventure|Drama|Romance
 0080455::The Blues Brothers (1980)::Action|Adventure|Comedy|Music|Musical
+0080474::Brubaker (1980)::Drama
 0080479::Shinkansen daibakuha (1975)::Crime|Drama|Thriller
 0080485::Caboblanco (1980)::Adventure|Drama|Romance
 0080487::Caddyshack (1980)::Comedy|Sport
@@ -2730,6 +2734,7 @@
 0084633::Savannah Smiles (1982)::Comedy|Family
 0084649::The Secret of NIMH (1982)::Animation|Drama|Family|Fantasy|Sci-Fi
 0084654::Die Sehnsucht der Veronika Voss (1982)::Drama
+0084658::The Sender (1982)::Horror|Thriller
 0084667::Shakti (1982)::Action|Adventure|Crime|Drama|Family
 0084701::The Snowman (1982)::Animation|Short|Adventure|Family|Fantasy
 0084704::The Soldier (1982)::Action
@@ -7665,6 +7670,7 @@
 0423169::Sherrybaby (2006)::Drama
 0423176::Shijie (2004)::Drama
 0423294::Surf's Up (2007)::Animation|Comedy|Family|Sport
+0423310::The Syrian Bride (2004)::Comedy|Drama
 0423409::A Cock and Bull Story (2005)::Comedy|Drama
 0423474::Venus & Vegas (2010)::Action|Comedy|Crime
 0423514::Waterborne (2005)::Drama
@@ -7742,6 +7748,7 @@
 0429591::Aquamarine (2006)::Comedy|Family|Fantasy|Romance
 0429609::Así del precipicio (2006)::Drama
 0429715::The Business (2005)::Crime|Drama|Thriller
+0429898::Cuore sacro (2005)::Drama
 0430051::Elementarteilchen (2006)::Drama|Romance
 0430063::Ethan Mao (2004)::Drama|Thriller
 0430105::Four Brothers (2005)::Action|Crime|Drama|Mystery|Thriller
@@ -10501,9 +10508,11 @@
 1374985::Alois Nebel (2011)::Animation|Drama
 1374992::Upside Down (2012)::Drama|Fantasy|Romance|Sci-Fi
 1375666::Inception (2010)::Action|Adventure|Mystery|Sci-Fi|Thriller
+1375669::Simon och ekarna (2011)::Drama
 1375670::Grown Ups (2010)::Comedy
 1375789::Race 2 (2013)::Action|Thriller|Crime|Drama
 1376168::Comedown (2012)::Horror
+1376213::The Adventurer: The Curse of the Midas Box (2013)::Adventure|Family|Fantasy
 1376233::Rid of Me (2011)::Comedy
 1376239::The Six Degrees of Helter Skelter (2009)::Documentary|Crime
 1377575::Signs (2008)::Short|Romance
@@ -11091,6 +11100,7 @@
 1541613::Anadolu'nun kayip sarkilari (2010)::Documentary|Musical
 1541874::Love (2011)::Drama|Sci-Fi
 1542344::127 Hours (2010)::Adventure|Biography|Drama|Thriller
+1542486::Treacle Jr. (2010)::Drama
 1542488::Video Girl (2011)::Drama
 1542852::Carancho (2010)::Crime|Drama|Romance
 1543573::No Justice (2009)::Short|Drama
@@ -12899,6 +12909,7 @@
 2055800::Vücut (2011)::Drama
 2056520::Arcadia (2012)::Drama
 2056740::The Lesser Blessed (2012)::Drama
+2057449::Occupation: Fighter (2011)::Documentary|Sport
 2057455::Planet of Snail (2011)::Documentary|Drama
 2057966::Impunity (2010)::Documentary
 2058107::The Railway Man (2013)::Biography|Drama
@@ -13842,6 +13853,7 @@
 2347569::Frances Ha (2012)::Comedy
 2348394::Home Sweet Home (2013)::Horror|Thriller
 2349298::Las Mariposas de Sadourní (2012)::Drama
+2349460::Grace Unplugged (2013)::Drama|Music
 2350432::Free Angela and All Political Prisoners (2012)::Documentary
 2350496::Dabba (2013)::Drama
 2350608::Revolution (2012)::Documentary|Adventure|Family|News
@@ -14219,6 +14231,7 @@
 2481198::Sunshine on Leith (2013)::Musical
 2481238::Pokazatelnyy protsess: Istoriya Pussy Riot (2013)::Documentary|Music|News
 2483050::Mai Stati Uniti (2013)::Comedy
+2483260::The Pirate Fairy (2014)::Animation|Fantasy
 2483516::Housos vs. Authority (2012)::Comedy
 2485620::Naruto Shippuden the Movie: The Will of Fire (2009)::
 2486682::Al Midan (2013)::Documentary|Comedy|Drama|History|News
@@ -14241,6 +14254,7 @@
 2500374::Railway Redemption (2012)::Documentary|Short
 2504022::Narco Cultura (2013)::Documentary|News
 2504404::Wolf (2013)::Crime|Drama|Thriller
+2504580::Soulmate (2013)::Mystery
 2505346::Bad Karma (2013)::Short|Comedy
 2505938::Good Ol' Freda (2013)::Documentary|Biography|History|Music
 2507128::Year of the Living Dead (2013)::Documentary
@@ -14409,6 +14423,7 @@
 2617676::Thalaivaa (2013)::Action|Drama|Thriller
 2617828::Freier Fall (2013)::Drama
 2618428::Single Agents (2013)::Short
+2618574::Matei Copil Miner (2013)::Drama|Family
 2620736::Jug Face (2013)::Horror|Thriller
 2620952::Player (2013)::Comedy
 2621000::Jolly LLB (2013)::Comedy
@@ -14603,6 +14618,7 @@
 2794888::Under the Caravan (2013)::Short
 2795078::Gasland Part II (2013)::Documentary
 2796318::Mickey Virus (2013)::Comedy|Thriller
+2796782::The Oscars (2014)::Reality-TV
 2797242::Bombay Talkies (2013)::Drama
 2798680::Knight of the Dead (2013)::Action|Fantasy|Horror
 2800784::Satsujin Douga Site (2010)::Drama|Horror|Thriller
@@ -14875,6 +14891,7 @@
 3102906::Când se lasa seara peste Bucuresti sau metabolism (2013)::Drama
 3103318::Costa da Morte (2013)::Documentary|Drama|Family
 3103326::Manakamana (2013)::Documentary
+3103454::Trespassing Bergman (2013)::Documentary
 3103576::L'amour est un crime parfait (2013)::Drama|Thriller
 3103784::Shiren to Ragi (2013)::Romance
 3104304::Ice Soldiers (2013)::Action|Sci-Fi
