@@ -22,6 +22,7 @@
 0011541::One Week (1920)::Short|Comedy
 0011607::Prästänkan (1920)::Comedy|Drama|Horror
 0011717::The Son of Tarzan (1920)::Action|Adventure
+0012278::The 'High Sign' (1921)::Short|Comedy
 0012349::The Kid (1921)::Comedy|Drama|Family
 0012364::Körkarlen (1921)::Drama|Fantasy|Horror
 0012651::Schloß Vogeloed (1921)::Crime|Drama|Horror|Mystery
@@ -342,8 +343,10 @@
 0032484::Foreign Correspondent (1940)::Mystery|Romance|Thriller|War
 0032551::The Grapes of Wrath (1940)::Drama
 0032553::The Great Dictator (1940)::Comedy|Drama|War
+0032554::The Great McGinty (1940)::Comedy
 0032559::The Green Hornet Strikes Again! (1940)::Action|Adventure|Crime
 0032599::His Girl Friday (1940)::Comedy|Drama|Romance
+0032676::Knute Rockne All American (1940)::Biography|Drama|Sport
 0032762::The Mark of Zorro (1940)::Action|Adventure|Romance|Western
 0032828::My Little Chickadee (1940)::Comedy|Western
 0032842::Night Train to Munich (1940)::Thriller|War
@@ -1350,6 +1353,7 @@
 0058213::Hush...Hush, Sweet Charlotte (1964)::Drama|Horror|Thriller
 0058230::The Incredible Mr. Limpet (1964)::Animation|Comedy|Family|War|Fantasy
 0058279::Kaidan (1964)::Fantasy|Horror
+0058305::The Luck of Ginger Coffey (1964)::Drama
 0058307::I lunghi capelli della morte (1964)::Horror
 0058324::Man's Favorite Sport? (1964)::Comedy|Romance
 0058329::Marnie (1964)::Drama|Mystery|Romance|Thriller
@@ -1597,6 +1601,7 @@
 0063060::Hellfighters (1968)::Action|Adventure|Drama|Romance
 0063091::The Horse in the Gray Flannel Suit (1968)::Family|Comedy|Drama
 0063121::Ice Station Zebra (1968)::Action|Drama|Thriller
+0063149::Jag är nyfiken - en film i blått (1968)::Drama
 0063172::Kaijû sôshingeki (1968)::Action|Horror|Sci-Fi|Thriller
 0063198::Kôshikei (1968)::Comedy|Crime
 0063218::Lebenszeichen (1968)::Drama
@@ -2011,6 +2016,7 @@
 0071222::Black Christmas (1974)::Horror|Mystery
 0071227::The Black 6 (1973)::Action|Drama
 0071230::Blazing Saddles (1974)::Comedy|Western
+0071233::Blood for Dracula (1974)::Horror
 0071249::Bring Me the Head of Alfredo Garcia (1974)::Action|Crime|Drama|Thriller|Western
 0071269::California Split (1974)::Comedy|Drama
 0071315::Chinatown (1974)::Crime|Drama|Mystery
@@ -3401,6 +3407,7 @@
 0094907::Consuming Passions (1988)::Comedy
 0094919::Critters 2 (1988)::Comedy|Horror|Sci-Fi|Thriller
 0094921::Crossing Delancey (1988)::Comedy|Romance
+0094924::Evil Angels (1988)::Drama
 0094947::Dangerous Liaisons (1988)::Drama|Romance
 0094961::Dead Heat (1988)::Action|Comedy|Horror|Sci-Fi
 0094963::The Dead Pool (1988)::Action|Crime|Thriller
@@ -4117,6 +4124,7 @@
 0107045::Grief (1993)::Comedy
 0107048::Groundhog Day (1993)::Comedy|Drama|Fantasy|Romance
 0107050::Grumpy Old Men (1993)::Comedy|Drama
+0107057::Guilty as Sin (1993)::Crime|Drama|Thriller
 0107076::Hard Target (1993)::Action|Thriller
 0107079::Sugar Hill (1993)::Thriller|Drama
 0107086::Hated: GG Allin & the Murder Junkies (1993)::Documentary|Biography|Music
@@ -5036,6 +5044,7 @@
 0120510::Wide Awake (1998)::Comedy|Drama|Family
 0120512::Wild America (1997)::Action|Adventure|Comedy
 0120520::The Wings of the Dove (1997)::Drama|Romance
+0120524::Wishmaster (1997)::Fantasy|Horror
 0120530::Wong Fei Hung: Chi sai wik hung see (1997)::Action|Adventure|History|Western
 0120533::Celebrity (1998)::Comedy|Drama
 0120536::The Wrong Guy (1997)::Comedy|Romance|Thriller
@@ -5836,6 +5845,7 @@
 0219822::Human Nature (2001)::Comedy|Drama
 0219854::The Kid (2000)::Comedy|Family|Fantasy
 0219952::Lucky Numbers (2000)::Comedy|Crime
+0219964::Outer Space (2000)::Animation|Short|Horror
 0219965::Bandits (2001)::Comedy|Crime|Drama|Romance
 0220099::The Tigger Movie (2000)::Animation|Comedy|Drama|Family
 0220506::Halloween: Resurrection (2002)::Horror|Thriller
@@ -6351,6 +6361,7 @@
 0283503::Brooklyn Rules (2007)::Crime|Drama
 0283509::No Man's Land (2001)::Drama|War
 0283530::The Emperor's Club (2002)::Drama
+0283534::The Parole Officer (2001)::Comedy|Crime
 0283632::They (2002)::Horror|Mystery|Thriller
 0283742::Inspiración (2001)::Comedy|Romance
 0283832::8 femmes (2002)::Musical|Comedy|Crime|Mystery
@@ -11550,6 +11561,7 @@
 1651328::Notre jour viendra (2010)::Drama
 1653002::Dysfunctional Friends (2012)::Comedy|Drama
 1653015::Jogwa (2009)::Drama
+1653064::Serena and the Ratts (2012)::Action|Drama|Sci-Fi
 1653653::Corações Sujos (2011)::Drama|History|Thriller
 1653690::Ong Bak 3 (2010)::Action
 1653700::The Veteran (2011)::Action|Thriller
@@ -13190,6 +13202,7 @@
 2124074::28 Hotel Rooms (2012)::Drama
 2124803::How to Survive a Plague (2012)::Documentary|History|News
 2124818::Janapar (2012)::Documentary|Adventure|Romance
+2124901::Rogue Assassin (2012)::Action
 2124908::Shut Up and Play the Hits (2012)::Documentary|Music
 2125423::5 Broken Cameras (2011)::Documentary
 2125425::A Cadeira do Pai (2012)::Drama
@@ -13915,6 +13928,7 @@
 2363178::Hotell (2013)::Drama
 2363219::Het Bombardement (2012)::Drama|History|War
 2363439::The Frozen (2012)::Horror|Thriller
+2363471::The Summit (2012)::Documentary|Adventure
 2363513::Wish Us Luck (2012)::Documentary|Adventure|Comedy
 2363564::Barcelona, nit d'estiu (2013)::Comedy
 2364006::The Food Guide to Love (2013)::Comedy|Romance
@@ -14025,6 +14039,7 @@
 2390237::Cuban Fury (2014)::Comedy
 2390253::EunGyo (2012)::Drama|Romance
 2390281::Max (2012)::Comedy
+2390327::Stalker (2012)::Thriller
 2390361::Enough Said (2013)::Comedy
 2390562::SaroyanLand (2013)::Documentary|Biography|Drama
 2390962::The Unknown Known (2013)::Documentary
@@ -14312,6 +14327,7 @@
 2543202::The Impaler (2013)::Action|Horror|Thriller
 2543446::The Flying Lesson (2013)::Short|Action|Drama
 2543930::Worm (2013)::Drama
+2544734::Bullet (2014)::Action
 2545088::American Promise (2013)::Documentary
 2545118::Blackfish (2013)::Documentary|Drama
 2549540::Gekijoban Pocket Monster Best Wishes! Kyurem vs Seikenshi Keldeo (2012)::Animation|Adventure|Family|Fantasy
@@ -14937,6 +14953,7 @@
 3154404::Con il fiato sospeso (2013)::Short|Drama
 3155604::Geograf globus propil (2013)::Drama
 3159812::Monster High: 13 Wishes (2013)::
+3159984::Sev Beni (2013)::Comedy|Drama|Romance
 3165608::Justin Bieber's Believe (2013)::Documentary
 3166476::Zone Pro Site (2013)::Comedy
 3169780::Mediastan (2013)::Documentary
