@@ -245,6 +245,7 @@
 0027462::Conflict (1936)::Drama|Romance
 0027478::Le crime de Monsieur Lange (1936)::Comedy|Crime|Drama
 0027481::The Crimes of Stephen Hawke (1936)::Crime|Drama|Thriller
+0027532::Dodsworth (1936)::Drama|Romance
 0027652::Fury (1936)::Crime|Drama|Film-Noir|Romance|Thriller
 0027686::Gold Diggers of 1937 (1936)::Comedy|Musical|Romance
 0027698::The Great Ziegfeld (1936)::Biography|Drama|Musical|Romance
@@ -400,6 +401,7 @@
 0034583::Casablanca (1942)::Drama|Romance|War
 0034587::Cat People (1942)::Horror|Mystery|Thriller
 0034591::Chichi ariki (1942)::Drama
+0034711::Eyes in the Night (1942)::Crime|Mystery
 0034716::The Falcon Takes Over (1942)::Crime|Mystery
 0034717::The Falcon's Brother (1942)::Crime|Drama|Mystery
 0034734::The First of the Few (1942)::Biography|Drama|War
@@ -1321,6 +1323,7 @@
 0057413::The Pink Panther (1963)::Comedy|Crime
 0057422::Pouic-Pouic (1963)::Comedy
 0057427::Le procès (1962)::Crime|Drama|Fantasy|Mystery|Thriller
+0057449::The Raven (1963)::Comedy|Fantasy|Horror
 0057480::Scum of the Earth (1963)::Drama|Thriller
 0057490::The Servant (1963)::Drama
 0057495::Shock Corridor (1963)::Drama|Mystery
@@ -2152,6 +2155,7 @@
 0073747::The Stepford Wives (1975)::Horror|Mystery|Sci-Fi|Thriller
 0073766::The Sunshine Boys (1975)::Comedy
 0073802::Three Days of the Condor (1975)::Drama|Mystery|Romance|Thriller
+0073812::Tommy (1975)::Fantasy|Musical
 0073858::Die verlorene Ehre der Katharina Blum (1975)::Crime|Drama
 0073882::Warlock Moon (1973)::Horror|Thriller
 0073918::The Yakuza (1974)::Action|Crime|Drama|Thriller
@@ -3257,6 +3261,7 @@
 0092745::Chelovek s bulvara Kaputsinov (1987)::Comedy|Musical|Romance|Western
 0092783::Cop (1988)::Crime|Drama|Mystery|Thriller
 0092796::Creepshow 2 (1987)::Comedy|Horror|Thriller
+0092802::Cross My Heart (1987)::Comedy|Romance
 0092812::Cyclone (1987)::Action|Sci-Fi|Drama
 0092834::Date with an Angel (1987)::Comedy|Fantasy|Romance
 0092843::The Dead (1987)::Drama
@@ -3711,6 +3716,7 @@
 0099654::Ghost Dad (1990)::Comedy|Family|Fantasy
 0099674::The Godfather: Part III (1990)::Crime|Drama|Mystery|Thriller
 0099685::Goodfellas (1990)::Biography|Crime|Drama|Thriller
+0099696::Cavallette (1990)::Animation|Short|Comedy|History|War
 0099700::Gremlins 2: The New Batch (1990)::Comedy|Fantasy|Horror
 0099703::The Grifters (1990)::Crime|Drama|Thriller
 0099726::Hamlet (1990)::Drama|Romance
@@ -4788,6 +4794,7 @@
 0117765::Striptease (1996)::Crime|Drama|Thriller
 0117768::The Stupids (1996)::Comedy|Adventure
 0117774::The Substitute (1996)::Action|Crime|Drama|Thriller
+0117781::The Sunchaser (1996)::Crime|Drama
 0117784::Sunset Park (1996)::Drama|Sport
 0117786::Yat goh ho yan (1997)::Action|Comedy|Crime
 0117791::Surviving Picasso (1996)::Biography|Drama|Romance
@@ -5739,6 +5746,7 @@
 0203540::Greenfingers (2000)::Comedy|Crime|Romance
 0203632::Der Krieger und die Kaiserin (2000)::Drama|Mystery|Romance
 0203755::One Night at McCool's (2001)::Comedy|Crime
+0203908::Il signor Rossi cerca la felicità (1976)::Animation|Adventure
 0204055::Wilde mossels (2000)::Drama
 0204175::Boys and Girls (2000)::Comedy|Romance|Drama
 0204313::Exorcist: The Beginning (2004)::Horror|Mystery|Thriller
@@ -6367,6 +6375,7 @@
 0283026::Swimfan (2002)::Thriller|Drama
 0283054::Thunderpants (2002)::Comedy|Family|Sci-Fi
 0283084::Tuck Everlasting (2002)::Drama|Romance|Family|Fantasy
+0283107::Le vacanze del signor Rossi (1976)::Animation|Adventure
 0283111::Van Wilder (2002)::Comedy|Romance
 0283139::White Oleander (2002)::Drama
 0283283::Qian xi man po (2001)::Drama|Romance
@@ -7566,6 +7575,7 @@
 0412308::Being Cyrus (2005)::Comedy|Drama|Thriller
 0412536::Brideshead Revisited (2008)::Drama|Romance
 0412798::Half Light (2006)::Drama|Horror|Mystery|Thriller
+0412922::Little Manhattan (2005)::Comedy|Family|Romance
 0413099::Evan Almighty (2007)::Comedy|Family|Fantasy
 0413239::Dead Calling (2006)::Thriller
 0413267::Shrek the Third (2007)::Animation|Adventure|Comedy|Family|Fantasy
@@ -10555,6 +10565,7 @@
 1376213::The Adventurer: The Curse of the Midas Box (2013)::Adventure|Family|Fantasy
 1376233::Rid of Me (2011)::Comedy
 1376239::The Six Degrees of Helter Skelter (2009)::Documentary|Crime
+1376713::Love Eternal (2013)::Drama|Mystery
 1377575::Signs (2008)::Short|Romance
 1379092::Oil City Confidential (2009)::Documentary|Music
 1379176::Devstvennost (2008)::Documentary|Drama
@@ -10611,6 +10622,7 @@
 1397280::Taken 2 (2012)::Action|Crime|Thriller
 1397495::Andrés no quiere dormir la siesta (2009)::Drama
 1397498::Kong Zi (2010)::Biography|Drama|History
+1397511::RiP: A Remix Manifesto (2009)::Documentary|Music
 1397514::Journey 2: The Mysterious Island (2012)::Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
 1398028::Locked In (2010)::Drama|Thriller
 1398029::Das Lied in mir (2010)::Drama
@@ -12954,6 +12966,7 @@
 2056740::The Lesser Blessed (2012)::Drama
 2057449::Occupation: Fighter (2011)::Documentary|Sport
 2057455::Planet of Snail (2011)::Documentary|Drama
+2057931::Der Verdingbub (2011)::Drama
 2057966::Impunity (2010)::Documentary
 2058107::The Railway Man (2013)::Biography|Drama
 2058645::Losses (2011)::Short|Action
@@ -14358,6 +14371,7 @@
 2539482::No sé si cortarme las venas o dejármelas largas (2013)::Comedy
 2542368::Soof (2013)::Comedy
 2542406::Paradesi (2013)::Drama
+2542616::Miss Zombie (2013)::Horror
 2543202::The Impaler (2013)::Action|Horror|Thriller
 2543446::The Flying Lesson (2013)::Short|Action|Drama
 2543930::Worm (2013)::Drama
@@ -14403,6 +14417,7 @@
 2570920::Mobster (2013)::Action|Crime|Drama
 2571140::Boss (2013)::Action|Drama
 2571610::Love in the End (2013)::Drama|Romance
+2571782::As the Palaces Burn (2014)::Documentary|Music
 2572160::Bingo (2013)::Comedy
 2572632::Vendetta (2013)::Action
 2573024::Rhod Gilbert: The Man with the Flaming Battenberg Tattoo (2012)::Comedy
@@ -14595,6 +14610,7 @@
 2717558::On the Job (2013)::Action|Crime|Drama|Thriller
 2718492::Ida (2013)::Drama
 2718538::Líbánky (2013)::Drama
+2719094::Papusza (2013)::Biography
 2721712::La herida (2013)::Drama
 2722442::Small Town (2013)::Drama
 2723138::Zyvie Belarus (2013)::Drama
@@ -14976,6 +14992,7 @@
 3138602::Warning (2013)::Thriller
 3142958::Su ve Ates (2013)::Drama|Romance
 3144098::Dong-chang-saeng (2013)::Action|Drama
+3144678::The Journey (2013)::Comedy|Drama|Family
 3145026::Prison Terminal: The Last Days of Private Jack Hall (2013)::
 3145768::Tanda putera (2013)::Drama|History
 3146360::Belle et Sébastien (2013)::Adventure
@@ -15101,6 +15118,7 @@
 3414954::As the Light Goes Out (2014)::Action|Drama
 3417422::Dhrishyam (2013)::Drama|Family|Thriller
 3418604::The Sinking of Van Der Wijck (2013)::Drama|Romance
+3425034::Allacciate le cinture (2014)::Comedy|Drama
 3426262::Pannaiyarum Padminiyum (2014)::Comedy
 3426300::Madha Yaanai Koottam (2013)::
 3427556::Babes Behind Bars (2013)::Documentary
