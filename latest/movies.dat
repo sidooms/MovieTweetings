@@ -314,6 +314,7 @@
 0031022::The Adventures of Sherlock Holmes (1939)::Crime|Mystery|Thriller
 0031054::Arrest Bulldog Drummond (1939)::Adventure|Sci-Fi
 0031055::The Arsenal Stadium Mystery (1939)::Comedy|Crime|Sport|Thriller
+0031060::At the Circus (1939)::Comedy|Musical
 0031088::Beau Geste (1939)::Action|Adventure|Drama|War
 0031143::The Cat and the Canary (1939)::Comedy|Horror|Mystery|Thriller
 0031229::The Devil's Daughter (1939)::Horror
@@ -1551,6 +1552,7 @@
 0060827::Persona (1966)::Drama
 0060865::Circus of Fear (1966)::Mystery|Thriller|Horror
 0060880::The Quiller Memorandum (1966)::Drama|Mystery|Thriller
+0060884::The Rare Breed (1966)::Drama|Romance|Western
 0060893::The Reptile (1966)::Horror
 0060908::Le roi de coeur (1966)::Drama|Comedy|War
 0060934::The Sand Pebbles (1966)::Adventure|Drama|Romance|War
@@ -2301,6 +2303,7 @@
 0075164::Satan's Slave (1976)::Horror
 0075168::Savana violenta (1976)::Documentary|Horror
 0075177::Sebastiane (1976)::Drama|History|Thriller
+0075194::The Seven-Per-Cent Solution (1976)::Adventure|Crime|Drama
 0075213::The Shootist (1976)::Drama|Western
 0075223::Silver Streak (1976)::Action|Comedy|Crime|Romance|Thriller
 0075244::The Song Remains the Same (1976)::Documentary|Music
@@ -2705,6 +2708,7 @@
 0082495::Halloween II (1981)::Horror|Thriller
 0082497::The Hand (1981)::Drama|Horror|Thriller
 0082508::Heartland (1979)::Western|Drama
+0082509::Heavy Metal (1981)::Animation|Adventure|Fantasy
 0082511::Hell Night (1981)::Horror|Thriller
 0082517::History of the World: Part I (1981)::Comedy|History|Musical
 0082518::Hoge hakken, echte liefde (1981)::Comedy
@@ -4093,6 +4097,7 @@
 0103786::Beethoven (1992)::Comedy|Drama|Family
 0103793::Benny's Video (1992)::Crime|Drama
 0103805::Beyond the Law (1993)::Biography|Crime|Drama|Thriller
+0103850::Bob Roberts (1992)::Comedy
 0103855::The Bodyguard (1992)::Drama|Music|Romance|Thriller
 0103859::Boomerang (1992)::Comedy|Drama|Romance
 0103873::Braindead (1992)::Comedy|Horror
@@ -8155,6 +8160,7 @@
 0445054::Les 7 jours du talion (2010)::Horror|Thriller
 0445336::Du levande (2007)::Comedy|Drama|Music
 0445396::Geuddae geusaramdeul (2005)::Comedy|Crime|Drama
+0445506::Kong que (2005)::Drama
 0445620::Paradise Now (2005)::Crime|Drama|Thriller|War
 0445760::Tian bian yi duo yun (2005)::Comedy|Drama|Musical|Sci-Fi
 0445922::Across the Universe (2007)::Drama|Musical|Romance
@@ -8947,6 +8953,7 @@
 0805570::The Midnight Meat Train (2008)::Horror|Mystery|Thriller
 0805576::Mýrin (2006)::Crime|Drama|Thriller
 0806027::Blood: The Last Vampire (2009)::Action|Horror|Thriller
+0806147::Extreme Movie (2008)::Comedy
 0806165::The Ramen Girl (2008)::Comedy|Drama|Romance
 0806203::Carriers (2009)::Drama|Horror|Sci-Fi|Thriller
 0806686::Yella (2007)::Drama|Romance|Thriller
@@ -10821,6 +10828,7 @@
 1368440::Branded (2012)::Drama|Fantasy|Mystery
 1368491::Contracorriente (2009)::Drama|Romance
 1368858::The Forger (2012)::Drama
+1369647::Christmas Angel (2009)::Comedy|Drama|Romance
 1369706::The Ward (2010)::Horror|Thriller
 1370429::99 (2009)::Comedy|Crime|Drama
 1370889::Talhotblond: (2009)::Documentary|Thriller
@@ -11627,6 +11635,7 @@
 1588342::Snabba cash II (2012)::Action|Crime|Drama|Thriller
 1588356::Hamoni (2010)::Drama
 1588358::Hermano (2010)::Drama|Family|Sport
+1588362::Isle of Dogs (2011)::Action|Crime|Thriller
 1588398::Sleeping Beauty (2011)::Drama|Romance
 1588875::Kak ya provel etim letom (2010)::Action|Drama
 1588886::Greystone Park (2012)::Horror
@@ -12969,6 +12978,7 @@
 1930546::Arthur Newman (2012)::Comedy|Drama
 1931388::Beware of Mr. Baker (2012)::Documentary
 1931435::The Big Wedding (2013)::Comedy
+1931466::Knife Fight (2012)::Drama
 1931470::La guerre est déclarée (2011)::Drama
 1931533::Seven Psychopaths (2012)::Comedy|Crime
 1931551::The 25th Reich (2012)::Action|Adventure|Fantasy|Sci-Fi
@@ -14152,6 +14162,7 @@
 2315558::I lossens time (2013)::Drama
 2316411::Enemy (2013)::Thriller
 2316465::Big Easy Express (2012)::Documentary|Musical
+2316801::La belle et la bête (2014)::Fantasy|Romance
 2317225::The Machine (2013)::Sci-Fi|Thriller
 2317337::Vicky Donor (2012)::Comedy|Romance
 2317379::Wo Ai Xiang Gang: Xi Shang Jia Xi (2012)::Comedy
@@ -14609,6 +14620,7 @@
 2444946::Girl Rising (2013)::Documentary
 2445148::El Teniente Amado (2013)::Drama
 2445556::B-Side (2013)::Comedy|Romance
+2445698::Entre Nós (2013)::Drama
 2446192::Bronies: The Extremely Unexpected Adult Fans of My Little Pony (2012)::Documentary
 2446502::Zombie Hunter (2013)::Action|Thriller
 2447750::The Paw Project (2013)::Documentary|History|News
@@ -15390,6 +15402,7 @@
 3129282::War Chod Na Yaar (2013)::Comedy|War
 3129484::Master of the Universe (2013)::Documentary
 3132086::Giraffada (2013)::Drama
+3134066::Power Rangers Megaforce: Ultimate Team Power (2013)::
 3137552::Hank: 5 Years from the Brink (2013)::Documentary|Biography|News
 3138104::The Hungover Games (2014)::Comedy
 3138602::Warning (2013)::Thriller
@@ -15571,6 +15584,8 @@
 3541744::Irregardless (2014)::Short|Comedy
 3542190::Duality (2014)::Short|Drama
 3552336::Old Habits (2013)::Short|Comedy|Drama
+3554858::Inam (2014)::War
+3558190::Vishudhan (2013)::Crime|Drama
 3558196::W. - Witse de film (2014)::Crime
 3565264::Thegidi (2014)::Drama
 3569652::Cuckoo (2014)::
