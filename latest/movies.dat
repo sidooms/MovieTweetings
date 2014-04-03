@@ -2185,6 +2185,7 @@
 0072730::A Boy and His Dog (1975)::Comedy|Drama|Sci-Fi|Thriller
 0072732::Brannigan (1975)::Action|Comedy|Crime
 0072735::Breakheart Pass (1975)::Mystery|Western
+0072750::Bug (1975)::Sci-Fi|Horror|Mystery
 0072777::Chhoti Si Baat (1975)::Comedy|Romance
 0072820::Cooley High (1975)::Comedy|Drama|Romance
 0072856::Death Race 2000 (1975)::Action|Sci-Fi|Sport
@@ -2530,6 +2531,7 @@
 0079477::A Little Romance (1979)::Comedy|Romance
 0079489::Love at First Bite (1979)::Horror|Comedy|Romance
 0079501::Mad Max (1979)::Action|Adventure|Thriller
+0079514::Malibu High (1979)::Crime|Drama
 0079522::Manhattan (1979)::Comedy|Drama|Romance
 0079540::Meatballs (1979)::Comedy
 0079550::Meteor (1979)::Action|Drama|Sci-Fi|Thriller
@@ -2874,6 +2876,7 @@
 0084934::Yol (1982)::Drama|Romance
 0084945::Zapped! (1982)::Comedy|Sci-Fi
 0085121::10 to Midnight (1983)::Crime|Drama|Thriller
+0085156::American Nightmare (1983)::Horror|Crime|Thriller
 0085210::Bad Boys (1983)::Crime|Drama|Thriller
 0085211::Bai ga jai (1981)::Action|Comedy
 0085213::Le bal (1983)::History|Musical
@@ -4084,6 +4087,7 @@
 0103060::Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)::Action|Adventure|Comedy|Family|Sci-Fi
 0103064::Terminator 2: Judgment Day (1991)::Action|Sci-Fi|Thriller
 0103074::Thelma & Louise (1991)::Adventure|Crime|Drama
+0103077::There's Nothing Out There (1991)::Comedy|Horror|Sci-Fi
 0103105::Toto le héros (1991)::Comedy|Drama|Fantasy
 0103112::Toy Soldiers (1991)::Action|Drama|Thriller
 0103176::Urga (1991)::Drama
@@ -4154,6 +4158,7 @@
 0104452::HouseSitter (1992)::Comedy|Romance
 0104454::Howards End (1992)::Drama|Romance
 0104466::Husbands and Wives (1992)::Drama|Romance
+0104507::Indochine (1992)::Drama|Romance
 0104511::Innocent Blood (1992)::Comedy|Crime|Horror|Thriller
 0104522::Into the West (1992)::Family|Adventure
 0104537::The JFK Assassination: The Jim Garrison Tapes (1992)::Documentary
@@ -4666,6 +4671,7 @@
 0113117::French Kiss (1995)::Comedy|Drama|Romance
 0113118::Friday (1995)::Comedy|Drama
 0113161::Get Shorty (1995)::Comedy|Crime|Thriller
+0113187::Gojira vs. Desutoroiâ (1995)::Action|Horror|Sci-Fi
 0113189::GoldenEye (1995)::Action|Crime|Thriller
 0113198::A Goofy Movie (1995)::Animation|Adventure|Comedy|Family|Musical|Romance
 0113211::The Grass Harp (1995)::Drama|Comedy
@@ -5019,6 +5025,7 @@
 0118747::Blues Brothers 2000 (1998)::Action|Comedy|Crime|Music
 0118749::Boogie Nights (1997)::Drama
 0118750::Booty Call (1997)::Comedy|Romance
+0118751::Border (1997)::Action|War
 0118755::The Borrowers (1997)::Comedy|Family|Fantasy
 0118760::The Boxer (1997)::Drama|Sport
 0118767::Brat (1997)::Crime|Drama
@@ -7770,6 +7777,7 @@
 0408306::Munich (2005)::Drama|History|Thriller
 0408318::Voksne mennesker (2005)::Comedy|Drama|Romance
 0408345::Firewall (2006)::Crime|Thriller
+0408524::Bad News Bears (2005)::Comedy|Family|Sport
 0408664::Dare mo shiranai (2004)::Drama
 0408777::Die fetten Jahre sind vorbei (2004)::Action|Comedy|Crime|Drama|Romance
 0408790::Flightplan (2005)::Drama|Mystery|Thriller
@@ -7894,6 +7902,7 @@
 0419280::Yogen (2004)::Horror
 0419294::The Three Burials of Melquiades Estrada (2005)::Adventure|Crime|Drama|Mystery|Western
 0419420::Adam & Paul (2004)::Comedy|Drama
+0419434::American Hardcore (2006)::Documentary|History|Music
 0419677::Dead Man's Shoes (2004)::Crime|Drama|Thriller
 0419706::Doom (2005)::Action|Adventure|Horror|Sci-Fi|Thriller
 0419724::The Haunted World of El Superbeasto (2009)::Animation|Action|Adventure|Comedy|Fantasy
@@ -8964,6 +8973,7 @@
 0805570::The Midnight Meat Train (2008)::Horror|Mystery|Thriller
 0805576::Mýrin (2006)::Crime|Drama|Thriller
 0806027::Blood: The Last Vampire (2009)::Action|Horror|Thriller
+0806102::Jeff Dunham: Arguing with Myself (2006)::Comedy
 0806147::Extreme Movie (2008)::Comedy
 0806165::The Ramen Girl (2008)::Comedy|Drama|Romance
 0806203::Carriers (2009)::Drama|Horror|Sci-Fi|Thriller
@@ -9364,6 +9374,7 @@
 0930083::Noroi (2005)::Horror
 0930085::Olè (2006)::Comedy
 0930902::Shôjo tsubaki: Chika gentô gekiga (1992)::Animation|Drama|Horror|Romance
+0931285::Un barrage contre le Pacifique (2008)::Drama
 0935075::Rabbit Hole (2010)::Drama
 0936501::Taken (2008)::Action|Crime|Thriller
 0937231::Muoi (2007)::Horror
@@ -9882,6 +9893,7 @@
 1103982::The Girlfriend Experience (2009)::Drama
 1104001::TRON: Legacy (2010)::Action|Adventure|Sci-Fi
 1104006::Walled In (2009)::Horror|Thriller
+1104083::Little Ashes (2008)::Biography|Drama|Romance
 1104733::Hamlet 2 (2008)::Comedy|Music
 1104806::One Week (2008)::Adventure|Drama
 1105281::Huset vid vägens ände (2003)::Horror|Thriller
@@ -11510,6 +11522,7 @@
 1555093::The Seasoning House (2012)::Horror|Thriller
 1555149::Tropa de Elite 2 - O Inimigo Agora É Outro (2010)::Action|Crime|Drama|Thriller
 1555218::Marécages (2011)::Drama
+1555440::Girltrash: All Night Long (2013)::Crime|Drama|Musical
 1556190::Nostalgia de la luz (2010)::Documentary|Drama
 1556243::Hypnotisören (2012)::Crime|Drama|Thriller
 1557783::Bahti kara (2009)::Drama
@@ -14366,7 +14379,7 @@
 2366308::Everything or Nothing: The Untold Story of 007 (2012)::Documentary
 2366450::Stories We Tell (2012)::Documentary
 2366572::Made in America (2013)::Documentary|Music
-2368525::15 años y un día (2013)::
+2368525::15 años y un día (2013)::Drama
 2368553::Bailout: The Age of Greed (2013)::Drama|Thriller
 2368637::Blikkboks (2012)::Short|Comedy|Sci-Fi
 2368705::Common People (2013)::Comedy|Drama
@@ -15236,6 +15249,7 @@
 2947832::Bro's Before Ho's (2013)::Comedy
 2948266::Dealin' with Idiots (2013)::Comedy
 2948472::Corazón de león (2013)::Comedy
+2949338::Room 8 (2013)::Short|Drama|Fantasy
 2949626::Toscaanse bruiloft (2014)::Comedy|Romance
 2949890::Ruedoo ron nan chan tai (2013)::Horror
 2952482::StarkLens' Heart 2 Run (2013)::Short|Romance
@@ -15473,6 +15487,7 @@
 3204140::Kaz: Pushing the Virtual Divide (2014)::Documentary
 3204392::Yume to kyôki no ohkoku (2013)::Documentary
 3209556::Vidiyum Munn (2013)::Thriller
+3210168::Different Town (2013)::
 3210686::Son of God (2014)::Drama
 3215258::Varuthapadatha Valibar Sangam (2013)::Comedy|Romance
 3215356::Vanakkam Chennai (2013)::Comedy|Romance
@@ -15612,4 +15627,5 @@
 3578150::The 56 Year Old Boy (2014)::Short|Romance
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Music
 3594510::Ammar (2014)::Horror
+3607688::Quando c'era Berlinguer (2014)::Documentary
 3614516::Ankhon Dekhi (2013)::Drama
