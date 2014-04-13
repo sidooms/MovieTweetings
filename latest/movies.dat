@@ -192,6 +192,7 @@
 0023753::Alice in Wonderland (1933)::Adventure|Family|Fantasy
 0023775::Baby Face (1933)::Drama|Romance
 0023817::Blondie Johnson (1933)::Crime|Drama
+0023848::Broadway to Hollywood (1933)::History|Musical
 0023876::Cavalcade (1933)::Drama|Romance|War
 0023902::El compadre Mendoza (1934)::Drama|War
 0023937::Dekigokoro (1933)::Drama
@@ -283,6 +284,7 @@
 0028557::Affairs of Cappy Ricks (1937)::Comedy|Drama
 0028597::The Awful Truth (1937)::Comedy|Romance
 0028683::Camille (1936)::Drama|Romance
+0028691::Captains Courageous (1937)::Adventure|Drama|Family
 0028772::A Day at the Races (1937)::Comedy|Sport
 0028950::La grande illusion (1937)::Drama|War
 0029146::The Life of Emile Zola (1937)::Biography|Drama
@@ -2625,6 +2627,7 @@
 0080610::Le dernier métro (1980)::Drama|Romance|War
 0080646::Op de Drempel van de Gruwel (1979)::Horror
 0080661::Dressed to Kill (1980)::Mystery|Thriller
+0080662::Du er ikke alene (1978)::Drama|Romance
 0080678::The Elephant Man (1980)::Biography|Drama
 0080684::Star Wars: Episode V - The Empire Strikes Back (1980)::Action|Adventure|Sci-Fi
 0080707::The Exterminator (1980)::Action|Crime|Drama|Thriller
@@ -3114,6 +3117,7 @@
 0088247::The Terminator (1984)::Action|Sci-Fi
 0088249::Terror in the Aisles (1984)::Horror|Documentary|Thriller
 0088258::This Is Spinal Tap (1984)::Comedy|Music
+0088272::Tightrope (1984)::Crime|Drama|Mystery
 0088275::The Times of Harvey Milk (1984)::Documentary|Biography|History
 0088286::Top Secret! (1984)::Comedy
 0088323::Die unendliche Geschichte (1984)::Adventure|Drama|Family|Fantasy
@@ -5939,6 +5943,7 @@
 0194143::Meet Prince Charming (2002)::Romance
 0194218::Panic (2000)::Drama|Comedy|Crime|Thriller
 0195234::Saving Grace (2000)::Comedy|Crime
+0195379::Velvet Smooth (1976)::Crime|Drama|Mystery
 0195685::Erin Brockovich (2000)::Biography|Drama
 0195714::Final Destination (2000)::Horror
 0195945::Next Friday (2000)::Comedy
@@ -6036,6 +6041,7 @@
 0208606::Üçüncü sayfa (1999)::Drama
 0208874::The Contender (2000)::Drama|Thriller
 0208911::The King Is Alive (2000)::Drama
+0208988::Get Carter (2000)::Action|Crime|Drama
 0208990::La stanza del figlio (2001)::Drama
 0209077::Ken Park (2002)::Drama
 0209144::Memento (2000)::Mystery|Thriller
@@ -9186,6 +9192,7 @@
 0837106::Arn: Tempelriddaren (2007)::Action|Adventure|Drama|Romance|War
 0837559::Approaching Midnight (2013)::Crime|Drama|Romance|War
 0837562::Hotel Transylvania (2012)::Animation|Comedy|Family
+0837791::The Devil's Chair (2007)::Horror
 0837796::House (2007)::Drama|Horror|Thriller
 0838192::Reine Geschmacksache (2007)::Comedy
 0838221::The Darjeeling Limited (2007)::Adventure|Comedy|Drama
@@ -14073,6 +14080,7 @@
 2234429::Sparks (2013)::Action|Thriller
 2234462::Hooligan (2012)::Documentary
 2234495::The Mechanical Bride (2012)::Documentary|Fantasy|Sci-Fi
+2234543::Un château en Italie (2013)::Comedy|Drama
 2235248::Andre Gregory: Before and After Dinner (2013)::Documentary|Biography|Drama|Family
 2235428::Til ungdommen (2012)::Documentary
 2235779::The Quiet Ones (2014)::Horror
@@ -14134,6 +14142,7 @@
 2255797::Facing Animals (2012)::Documentary|Short|Drama
 2256646::Pitääkö mun kaikki hoitaa? (2012)::Short|Comedy|Drama
 2256677::De verbouwing (2012)::Thriller
+2256741::Une histoire d'amour (2013)::Drama
 2256749::Mammas pojkar (2012)::Comedy
 2257602::The Staircase 2 (2013)::Documentary|Drama
 2258233::$ellebrity (2012)::Documentary
@@ -14583,6 +14592,7 @@
 2387513::Libertador (2013)::Drama
 2387543::Profile of a Killer (2012)::Thriller
 2387559::Delivery Man (2013)::Comedy
+2387601::The Special Need (2013)::Documentary
 2387627::Zinda Bhaag (2013)::Drama
 2387806::Heute bin ich blond (2013)::Comedy|Drama
 2387820::Pinky Moge Wali (2012)::Comedy
@@ -15177,6 +15187,7 @@
 2738218::Godheten (2013)::Documentary
 2739338::The Christmas Candle (2013)::Drama
 2739884::Lyubov v bolshom gorode 3 (2014)::Comedy
+2740538::He Who Dares (2014)::Action
 2740710::Atlantic Rim (2013)::Action|Sci-Fi
 2741624::Pluto (2012)::Drama
 2741806::Grzeli nateli dgeebi (2013)::Drama
@@ -15262,6 +15273,7 @@
 2820226::Tercera Llamada (2013)::Comedy|Drama
 2820820::American Drug War 2: Cannabis Destiny (2013)::Documentary
 2821088::Les salauds (2013)::Drama
+2821832::HazMat (2013)::Horror|Thriller
 2822494::Olympus Has Fallen Sweded (2013)::Short|Action
 2823574::Extraction (2013)::Action
 2825894::Daire (2014)::Drama
@@ -15466,6 +15478,7 @@
 3021840::Arrowhead: Signal (2012)::Short|Sci-Fi
 3025416::One Direction: Going Our Way (2013)::Documentary|Biography|Music
 3025712::The Spy: Undercover Operation (2013)::Action|Comedy
+3028144::The Night Before Easter (2014)::Horror
 3029766::Coach Zoran and His African Tigers (2014)::
 3030752::De Rolling por Colombia (2013)::Comedy
 3031022::Ekstra (2013)::Drama
@@ -15756,6 +15769,7 @@
 3485294::Gone with the Waves (2013)::Short|Comedy|Romance
 3485432::Dissemination (2013)::Short|Fantasy|Horror
 3500528::Khid thueng withaya (2014)::Drama
+3505786::Europe in 8 Bits (2013)::
 3506970::1983 (2014)::Family|Sport
 3510092::Changsoo (2013)::Crime|Drama|Romance
 3514330::Youngistaan (2014)::Drama
@@ -15774,7 +15788,8 @@
 3558196::W. - Witse de film (2014)::Crime
 3565264::Thegidi (2014)::Drama
 3569652::Cuckoo (2014)::Drama|Romance
-3575136::Nimirndhu Nil (2014)::
+3569788::Naan Sigappu Manithan (2014)::Drama
+3575136::Nimirndhu Nil (2014)::Drama
 3578150::The 56 Year Old Boy (2014)::Short|Romance
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Music
 3594510::Ammar (2014)::Horror
