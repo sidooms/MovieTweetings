@@ -234,6 +234,7 @@
 0025290::I've Got Your Number (1934)::Comedy|Romance
 0025301::Imitation of Life (1934)::Drama|Romance
 0025316::It Happened One Night (1934)::Comedy|Romance
+0025318::It's a Gift (1934)::Comedy
 0025330::Jimmy the Gent (1934)::Comedy|Crime|Drama|Romance
 0025409::The Little Minister (1934)::Drama|Romance
 0025452::The Man Who Knew Too Much (1934)::Crime|Mystery|Thriller
@@ -2588,6 +2589,7 @@
 0079428::The Lady Vanishes (1979)::Action|Comedy|Mystery|Romance|Thriller
 0079470::Life of Brian (1979)::Comedy
 0079477::A Little Romance (1979)::Comedy|Romance
+0079482::Long Weekend (1978)::Horror|Mystery|Thriller
 0079489::Love at First Bite (1979)::Horror|Comedy|Romance
 0079501::Mad Max (1979)::Action|Adventure|Thriller
 0079514::Malibu High (1979)::Crime|Drama
@@ -3038,6 +3040,7 @@
 0086541::Videodrome (1983)::Horror|Sci-Fi
 0086567::WarGames (1983)::Sci-Fi|Thriller
 0086589::Suburbia (1983)::Drama|Thriller
+0086593::Without a Trace (1983)::Drama|Mystery
 0086610::Xtro (1983)::Horror|Sci-Fi
 0086617::The Year of Living Dangerously (1982)::Drama|Romance|War
 0086618::Yellowbeard (1983)::Action|Adventure|Comedy
@@ -3257,6 +3260,7 @@
 0089945::Rustlers' Rhapsody (1985)::Comedy|Western
 0089961::Santa Claus (1985)::Adventure|Family|Fantasy
 0090021::Silver Bullet (1985)::Adventure|Drama|Horror|Mystery|Thriller
+0090022::Silverado (1985)::Action|Crime|Drama
 0090055::Speriamo che sia femmina (1986)::Comedy|Drama
 0090056::Spies Like Us (1985)::Adventure|Comedy
 0090060::St. Elmo's Fire (1985)::Drama|Romance
@@ -3302,11 +3306,13 @@
 0090728::Big Trouble in Little China (1986)::Action|Adventure|Comedy|Fantasy|Horror
 0090735::Black Moon Rising (1986)::Action|Sci-Fi|Thriller
 0090738::Black Widow (1987)::Crime|Thriller
+0090750::Blood Hook (1986)::Comedy|Horror
 0090753::Blue City (1986)::Action|Crime|Drama
 0090756::Blue Velvet (1986)::Crime|Mystery|Thriller
 0090771::Breeders (1986)::Horror|Sci-Fi
 0090774::Brighton Beach Memoirs (1986)::Comedy
 0090798::Caravaggio (1986)::Biography|Drama|History
+0090807::Cassandra (1986)::Horror|Thriller
 0090812::Chameli Ki Shaadi (1986)::Comedy|Drama|Romance
 0090830::Children of a Lesser God (1986)::Drama|Romance
 0090837::Chopping Mall (1986)::Action|Comedy|Horror|Sci-Fi
@@ -4465,6 +4471,7 @@
 0108162::Sliver (1993)::Romance|Thriller
 0108171::Sniper (1993)::Action|Drama|Thriller
 0108175::Det sociala arvet (1993)::Documentary
+0108188::Sonatine (1993)::Action|Crime|Drama
 0108211::Stalingrad (1993)::Drama|War
 0108238::Striking Distance (1993)::Action|Crime|Mystery|Thriller
 0108255::Super Mario Bros. (1993)::Action|Adventure|Comedy|Family|Fantasy|Sci-Fi|Thriller
@@ -7777,6 +7784,7 @@
 0390521::Super Size Me (2004)::Documentary|Comedy|Drama
 0390538::Tarnation (2003)::Documentary|Biography
 0390614::Waqt: The Race Against Time (2005)::Comedy|Drama|Musical
+0390808::36 Quai des Orfèvres (2004)::Action|Crime|Drama
 0391095::Dreamland (2007)::Sci-Fi|Horror|Mystery
 0391198::The Grudge (2004)::Horror|Mystery
 0391229::I Want Someone to Eat Cheese With (2006)::Comedy|Romance
@@ -8325,6 +8333,7 @@
 0443536::Hoodwinked! (2005)::Animation|Comedy|Family
 0443543::The Illusionist (2006)::Drama|Mystery|Romance|Thriller
 0443559::Killshot (2008)::Crime|Drama|Thriller
+0443584::Melissa P. (2005)::Drama
 0443632::The Sentinel (2006)::Action|Crime|Thriller
 0443649::10,000 BC (2008)::Action|Adventure|Drama|Fantasy|Sci-Fi
 0443676::Undisputed II: Last Man Standing (2006)::Action|Crime|Drama|Sport
@@ -10493,6 +10502,7 @@
 1216496::Madeo (2009)::Crime|Drama|Mystery|Thriller
 1216516::Tinker Bell and the Lost Treasure (2009)::Animation|Adventure|Family|Fantasy
 1216520::Womb (2010)::Drama|Romance|Sci-Fi
+1217070::Triage (2009)::Drama|Mystery|War
 1217209::Brave (2012)::Animation|Action|Adventure|Comedy|Family|Fantasy
 1217213::Secret of the Wings (2012)::Animation|Family|Fantasy
 1217426::Easier with Practice (2009)::Drama|Romance
@@ -10725,6 +10735,7 @@
 1273201::Climate Refugees (2010)::Documentary
 1273204::Il compleanno (2009)::Drama|Mystery|Romance
 1273207::DeadHeads (2011)::Adventure|Comedy|Horror
+1273222::These Amazing Shadows (2011)::Documentary
 1273235::Srpski film (2010)::Horror|Mystery|Thriller
 1273241::Brotherhood (2010)::Crime|Drama|Thriller
 1273675::Rent: Filmed Live on Broadway (2008)::Drama|Musical
@@ -11262,6 +11273,7 @@
 1430077::Dark Feed (2013)::Horror
 1430132::The Wolverine (2013)::Action|Adventure|Fantasy|Sci-Fi
 1430607::Arthur Christmas (2011)::Animation|Comedy|Drama|Family
+1430612::Brick Mansions (2014)::Action|Crime|Drama
 1430615::Big Miracle (2012)::Drama|Romance
 1430626::The Pirates! In an Adventure with Scientists! (2012)::Animation|Adventure|Comedy|Family
 1431065::Forget Me Not (2010)::Romance
@@ -12425,10 +12437,12 @@
 1714210::Weekend (2011)::Drama|Romance
 1714832::Do Dooni Chaar (2010)::Comedy|Drama
 1714833::Drift (2013)::Drama|Sport
+1714843::Glass Chin (2014)::Drama|Thriller
 1714866::Midnight's Children (2012)::Drama
 1714886::Post Mortem (2010)::Drama
 1714915::Only Lovers Left Alive (2013)::Drama|Horror|Romance
 1715223::The Watermen (2011)::Horror|Thriller
+1715320::Bending the Rules (2012)::Comedy
 1715336::Mindscape (2013)::Thriller
 1715356::Tous les soleils (2011)::Comedy
 1715362::Zombie Apocalypse: Redemption (2011)::Action|Horror
@@ -13655,6 +13669,7 @@
 2077721::Blackbird (2012)::Drama
 2077747::Love, Marilyn (2012)::Documentary|Biography
 2077772::Ja saapuu oikea yö (2012)::Thriller
+2077826::Pokemon the Movie: White - Victini and Zekrom (2011)::Adventure
 2077851::Sleepwalk with Me (2012)::Comedy
 2077886::The Phantom of the Opera at the Royal Albert Hall (2011)::Drama|Music|Musical|Romance|Thriller
 2077908::Zarafa (2012)::Animation|Family
@@ -14664,6 +14679,7 @@
 2369543::Lamma shoftak (2012)::Drama
 2370096::Gli equilibristi (2012)::Drama
 2370140::Crossfire Hurricane (2012)::Documentary|Biography|Music
+2370224::Milius (2013)::Documentary
 2370248::Short Term 12 (2013)::Drama
 2370378::Bejbi blues (2012)::Drama
 2370718::Artifact (2012)::Documentary
@@ -15104,6 +15120,7 @@
 2558632::Baking Boys (2012)::Short|Comedy|Drama
 2560440::Før snøen faller (2013)::Drama
 2561812::Jack Attack (2013)::Short|Fantasy|Horror
+2562578::Iron Maiden: Behind the Beast (2012)::Documentary
 2563104::The Eurovision Song Contest (2013)::Family|Music
 2563548::3 A.M. 3D (2012)::Horror
 2564144::Naduvula Konjam Pakkatha Kaanom (2012)::Comedy
@@ -15414,6 +15431,7 @@
 2797242::Bombay Talkies (2013)::Drama
 2798680::Knight of the Dead (2013)::Action|Fantasy|Horror
 2800784::Satsujin Douga Site (2010)::Drama|Horror|Thriller
+2800964::All of Me (2013)::Documentary
 2801746::Hawaii (2013)::Drama
 2802172::Los chicos del puerto (2013)::Adventure|Drama|History
 2804026::Aurangzeb (2013)::Action|Drama|Thriller
