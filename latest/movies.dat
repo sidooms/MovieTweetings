@@ -889,6 +889,7 @@
 0046097::Il mostro dell'isola (1954)::Crime|Thriller
 0046126::Niagara (1953)::Film-Noir|Thriller
 0046159::Pane, amore e fantasia (1953)::Comedy|Romance
+0046164::Parineeta (1953)::Drama|Family
 0046183::Peter Pan (1953)::Animation|Adventure|Family|Fantasy|Music
 0046187::Pickup on South Street (1953)::Crime|Film-Noir|Thriller
 0046194::The Pleasure Garden (1953)::Short
@@ -1016,6 +1017,7 @@
 0048752::Tuntematon sotilas (1955)::Drama|War
 0048772::Value for Money (1955)::Comedy|Romance
 0048789::The Violent Men (1955)::Western
+0048790::Violent Saturday (1955)::Crime|Drama|Film-Noir
 0048791::The Virgin Queen (1955)::Drama|History|Romance
 0048947::Anastasia (1956)::Drama|History
 0048954::Anything Goes (1956)::Musical
@@ -1371,6 +1373,7 @@
 0056023::Girls! Girls! Girls! (1962)::Musical|Comedy
 0056048::Gypsy (1962)::Biography|Comedy|Drama|Musical
 0056058::Seppuku (1962)::Drama
+0056059::Hatari! (1962)::Action|Adventure|Drama
 0056062::Hell Is for Heroes (1962)::War
 0056066::Heureux anniversaire (1962)::Short|Action|Comedy
 0056085::How the West Was Won (1962)::Western
@@ -1719,6 +1722,7 @@
 0062185::Reflections in a Golden Eye (1967)::Drama|Romance|Thriller
 0062229::Le samouraï (1967)::Crime|Drama|Mystery|Thriller
 0062245::Sedmoy sputnik (1968)::Drama
+0062259::She Freak (1967)::Horror
 0062266::The Shuttered Room (1967)::Horror
 0062271::Signore & signori (1966)::Comedy
 0062331::Electronic Labyrinth THX 1138 4EB (1967)::Sci-Fi|Short
@@ -1918,6 +1922,7 @@
 0066206::Patton (1970)::Biography|Drama|History|War
 0066214::Performance (1970)::Crime|Drama|Music
 0066227::Pippi Långstrump på de sju haven (1970)::Adventure|Family
+0066249::The Private Life of Sherlock Holmes (1970)::Adventure|Comedy|Crime
 0066265::På rymmen med Pippi Långstrump (1970)::Family
 0066279::The Railway Children (1970)::Family|Drama
 0066301::Rio Lobo (1970)::Adventure|Western|Romance|War
@@ -2986,6 +2991,7 @@
 0084654::Die Sehnsucht der Veronika Voss (1982)::Drama
 0084658::The Sender (1982)::Horror|Thriller
 0084667::Shakti (1982)::Action|Adventure|Crime|Drama|Family
+0084695::The Slumber Party Massacre (1982)::Comedy|Horror
 0084701::The Snowman (1982)::Animation|Short|Adventure|Family|Fantasy
 0084704::The Soldier (1982)::Action
 0084707::Sophie's Choice (1982)::Drama|Romance
@@ -3162,6 +3168,8 @@
 0087298::Friday the 13th: The Final Chapter (1984)::Horror|Thriller
 0087332::Ghost Busters (1984)::Comedy|Family|Fantasy
 0087336::Girls Nite Out (1982)::Horror|Thriller
+0087344::Gojira (1984)::Action|Drama|Horror
+0087349::Tsisperi mtebi anu daujerebeli ambavi (1983)::Comedy
 0087363::Gremlins (1984)::Comedy|Horror
 0087385::Hardbodies (1984)::Comedy
 0087386::Harry & Son (1984)::Drama
@@ -4068,6 +4076,7 @@
 0100150::Miller's Crossing (1990)::Crime|Drama|Thriller
 0100157::Misery (1990)::Drama|Thriller
 0100168::Mo' Better Blues (1990)::Drama|Music
+0100196::Mountains of the Moon (1990)::Adventure|Drama|History
 0100198::Moya moryachka (1990)::Comedy|Musical
 0100201::Mr. Destiny (1990)::Comedy|Fantasy|Romance
 0100211::Music Box (1989)::Drama|Thriller
@@ -6163,6 +6172,7 @@
 0201290::The Underground Comedy Movie (1999)::Comedy
 0201368::Zügürt Aga (1985)::Comedy|Drama
 0201485::The Body (2001)::Drama|Mystery|Romance|Thriller
+0201820::The Other Side of the Underneath (1972)::Drama
 0201922::Shin Zatôichi monogatari: Oreta tsue (1972)::Action|Adventure|Drama
 0202154::Zatoichi sakate giri (1965)::Action|Adventure|Drama
 0202281::Byôin de shinu to iu koto (1993)::Drama
@@ -6416,6 +6426,7 @@
 0239327::Datai (1966)::Crime|Drama
 0239395::Cats & Dogs (2001)::Action|Adventure|Comedy|Family
 0239948::Saving Silverman (2001)::Comedy|Romance|Crime
+0239949::Say It Isn't So (2001)::Comedy|Romance
 0240200::Water (2005)::Drama|Romance
 0240340::The Angel Doll (2002)::Drama
 0240402::The Center of the World (2001)::Drama|Romance
@@ -10058,6 +10069,7 @@
 1045670::Happy-Go-Lucky (2008)::Comedy|Drama
 1045772::I Love You Phillip Morris (2009)::Comedy|Drama|Romance
 1045778::Year One (2009)::Adventure|Comedy|Sci-Fi
+1045889::Steal a Pencil for Me (2007)::Documentary|Romance
 1046163::My Best Friend's Girl (2008)::Comedy|Romance
 1046173::G.I. Joe: The Rise of Cobra (2009)::Action|Adventure|Sci-Fi|Thriller
 1046947::Last Chance Harvey (2008)::Drama|Romance
@@ -10550,6 +10562,7 @@
 1188113::Peacock (2010)::Drama|Thriller
 1188729::Pandorum (2009)::Action|Horror|Sci-Fi|Thriller
 1188982::Jai Ho (2014)::Action|Drama
+1188983::Bellamy (2009)::Crime|Drama
 1188986::El cónsul de Sodoma (2009)::Biography|Drama
 1188988::Ex (2009)::Comedy|Romance
 1188990::Fritt vilt II (2008)::Drama|Horror|Mystery|Romance|Thriller
@@ -11223,6 +11236,7 @@
 1361843::Van Diemen's Land (2009)::Biography|Drama|History
 1362058::Cockneys vs Zombies (2012)::Comedy|Horror
 1362103::Neighbor (2009)::Horror|Thriller
+1362500::Split Estate (2009)::Documentary
 1362518::Ain't in It for My Health: A Film About Levon Helm (2010)::Documentary
 1364487::Postia pappi Jaakobille (2009)::Drama
 1366344::The Sitter (2011)::Comedy
@@ -11849,6 +11863,7 @@
 1535108::Elysium (2013)::Action|Drama|Sci-Fi|Thriller
 1535109::Captain Phillips (2013)::Action|Biography|Drama|Thriller
 1535110::When Harry Tries to Marry (2011)::Comedy|Romance
+1535432::Crave (2012)::Drama|Thriller
 1535438::Hope Springs (2012)::Comedy|Drama|Romance
 1535465::Oishii Man (2008)::Drama
 1535472::Bulshinjiok (2009)::Horror|Mystery
@@ -13607,6 +13622,7 @@
 1985966::Cloudy with a Chance of Meatballs 2 (2013)::Animation|Comedy|Family|Sci-Fi
 1986034::I Against I (2012)::Crime|Thriller
 1986806::DC Showcase: Catwoman (2011)::Animation|Short
+1986825::Els nens salvatges (2012)::Drama
 1986843::Un plan parfait (2012)::Action|Adventure|Comedy|Romance
 1986857::Hijacked (2012)::Action|Thriller
 1986953::Storage 24 (2012)::Horror|Sci-Fi
@@ -14342,6 +14358,7 @@
 2198155::Sea Wall (2012)::Short|Drama
 2198956::Coldwater (2013)::Drama|Thriller
 2199251::The Wedding Pact (2014)::Comedy|Romance
+2199543::Praia do Futuro (2014)::Drama
 2199711::Vishwaroopam (2013)::Action|Crime|Thriller
 2200022::Truth in 24 II: Every Second Counts (2012)::Documentary
 2201063::Fuck Up (2012)::Comedy|Crime|Drama
@@ -14952,6 +14969,7 @@
 2378453::Savaged (2013)::Action|Drama|Horror
 2378884::Cavemen (2013)::Comedy
 2378936::El Crimen del Cácaro Gumaro (2014)::Comedy
+2379082::Monster Pies (2013)::Drama|Romance
 2379090::Finding Cody (2012)::Comedy
 2379318::Les beaux jours (2013)::Romance
 2379386::In the Name of the King 3: The Last Mission (2014)::Action|Adventure|Drama
@@ -16101,6 +16119,7 @@
 3203910::Raja Rani (2013)::Romance
 3204140::Kaz: Pushing the Virtual Divide (2014)::Documentary
 3204392::Yume to kyôki no ohkoku (2013)::Documentary
+3206074::H Project (2013)::Horror
 3209556::Vidiyum Munn (2013)::Thriller
 3209716::Foals Live at the Royal Albert Hall (2013)::Music
 3210168::Different Town (2013)::Documentary|Music
@@ -16139,6 +16158,7 @@
 3262722::The 71st Annual Golden Globe Awards (2014)::Reality-TV
 3263598::Our Universe 3D (2013)::Documentary
 3263614::Kumiko, the Treasure Hunter (2014)::Drama
+3264024::The Case Against 8 (2014)::
 3264046::Silo (2013)::Short|Drama
 3267730::Seven More Stations (1948)::Documentary|Short
 3268458::The Internet's Own Boy: The Story of Aaron Swartz (2014)::Documentary|Biography|Crime
@@ -16233,6 +16253,7 @@
 3451500::Sürgün Inek (2014)::Comedy
 3452948::Nånting måste gå sönder (2014)::Drama
 3454114::José Combustão dos Porcos (2013)::Short
+3455224::Virunga (2014)::
 3455384::She Lives Her Life (2014)::Comedy|Drama|Romance
 3456248::Tenggelamnya Kapal Van Der Wijck (2013)::Drama|Romance
 3456464::Hello Babies (2014)::Comedy
@@ -16248,6 +16269,7 @@
 3478046::Eyyvah Eyvah 3 (2014)::Comedy
 3478444::I AM Hardwell Documentary (2013)::
 3482790::Fucking Different XXY (2014)::Documentary
+3483596::O Teri (2014)::Comedy|Drama
 3483646::Bewakoofiyaan (2014)::Comedy|Drama|Romance
 3485114::La gente che sta bene (2014)::Comedy
 3485294::Gone with the Waves (2013)::Short|Comedy|Romance
@@ -16272,6 +16294,7 @@
 3524530::Comic 8 (2014)::Comedy
 3531604::Gang of Ghosts (2014)::Comedy
 3531852::Bhoothnath Returns (2014)::Comedy|Drama|Horror
+3540044::Ah Beng: Mission Impossible (2014)::Comedy
 3541744::Irregardless (2014)::Short|Comedy
 3542190::Duality (2014)::Short|Drama
 3547106::Don't Be Tired! (2013)::Drama|Family
@@ -16292,6 +16315,7 @@
 3614516::Ankhon Dekhi (2013)::Drama
 3621288::Legok na pomine (2014)::Comedy
 3630218::Pam Ann: Non Stop - Live from New York City (2012)::Comedy
+3645014::The Xpose (2014)::Thriller
 3646462::Itirazim Var (2014)::Action|Drama
 3650534::Rouh's Beauty (2014)::Drama
 3692324::The Mall (2014)::Horror
