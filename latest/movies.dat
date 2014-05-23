@@ -757,6 +757,7 @@
 0042960::Side Street (1949)::Crime|Drama|Film-Noir
 0042980::So Long at the Fair (1950)::Drama|Mystery
 0042994::Stage Fright (1950)::Crime|Drama|Thriller
+0043012::Summer Stock (1950)::Musical|Romance
 0043014::Sunset Blvd. (1950)::Drama|Film-Noir
 0043048::Till glädje (1950)::Drama
 0043123::The West Point Story (1950)::Comedy|Music
@@ -5538,6 +5539,7 @@
 0120768::The Negotiator (1998)::Action|Crime|Drama|Mystery|Thriller
 0120769::The Newton Boys (1998)::Action|Crime|Drama|History|Western
 0120770::A Night at the Roxbury (1998)::Comedy
+0120772::The Object of My Affection (1998)::Comedy|Drama|Romance
 0120776::One True Thing (1998)::Drama
 0120777::The Opposite of Sex (1998)::Comedy
 0120780::Out of Sight (1998)::Action|Comedy|Crime|Thriller
@@ -8955,6 +8957,7 @@
 0480687::Hall Pass (2011)::Comedy|Romance
 0481141::No Reservations (2007)::Comedy|Drama|Romance
 0481254::Zuzu Angel (2006)::Drama
+0481273::The Curiosity of Chance (2006)::Comedy
 0481369::The Number 23 (2007)::Drama|Mystery|Thriller
 0481499::The Croods (2013)::Animation|Adventure|Comedy|Family
 0481536::Harold & Kumar Escape from Guantanamo Bay (2008)::Adventure|Comedy
@@ -9690,6 +9693,7 @@
 0903665::Yuniol (2007)::Drama
 0903849::Heckler (2007)::Documentary|Comedy
 0904068::Sarang-ttawin piryo-eopseo (2006)::Romance
+0905329::El Greco (2007)::Biography|Drama
 0905372::The Thing (2011)::Horror|Mystery|Sci-Fi|Thriller
 0906005::Freakshow (2007)::Horror
 0906108::Why Did I Get Married? (2007)::Comedy|Drama
@@ -10228,6 +10232,7 @@
 1085862::El rey de la montaña (2007)::Thriller
 1086216::Uncertainty (2009)::Drama|Romance
 1086340::Mr. Untouchable (2007)::Documentary|Crime
+1086772::Blended (2014)::Comedy
 1087453::Het echte leven (2008)::Drama
 1087461::Megan Is Missing (2011)::Drama|Horror
 1087474::Shark in Venice (2008)::Horror
@@ -12056,6 +12061,7 @@
 1572315::Texas Chainsaw 3D (2013)::Horror|Thriller
 1572491::Balada triste de trompeta (2010)::Comedy|Drama
 1572502::Late Bloomers (2011)::Drama
+1572965::Addicted to Plastic (2008)::Documentary
 1574575::El regreso de Lencho (2010)::Drama
 1575694::The Hit List (2011)::Action|Thriller
 1576440::Good Neighbours (2010)::Drama|Thriller
@@ -12627,6 +12633,7 @@
 1703923::Vinyl (2012)::Comedy
 1703958::Ek Main Aur Ekk Tu (2012)::Comedy|Romance
 1704144::Gaganam (2011)::Action|Crime
+1704161::33 Postcards (2011)::Drama|Music
 1704573::Bernie (2011)::Comedy|Crime|Drama
 1704586::From the Rough (2013)::Drama|Sport
 1704619::Tabloid (2010)::Documentary
@@ -12938,6 +12945,7 @@
 1773722::The Dark Side of Chocolate (2010)::Documentary
 1773764::Ship of Theseus (2012)::Drama
 1774438::Kovasikajuttu (2012)::Documentary|Comedy|Drama|Music
+1776086::Bettie Page Reveals All (2012)::Documentary
 1776143::Daan gyun naam yu (2011)::Romance
 1776167::3 Days of Normal (2012)::Comedy
 1776196::Hagane no renkinjutsushi: Mirosu no seinaru hoshi (2011)::Animation|Action|Adventure|Fantasy|Sci-Fi
@@ -13558,6 +13566,7 @@
 1945087::In Our Nature (2012)::Drama
 1946205::El Gusto (2011)::Documentary
 1946289::L'homme qui rit (2012)::Drama
+1946298::Le guetteur (2012)::Crime
 1946381::Red Sky (2014)::Action
 1947998::Dear God No! (2011)::Horror
 1948003::Down by the River (2011)::Documentary
@@ -14006,6 +14015,7 @@
 2090497::Fill de Caín (2013)::Thriller
 2090582::Of Two Minds (2012)::Documentary|Biography|Drama
 2091235::Azul y no tan rosa (2012)::Drama
+2091325::Bad Johnson (2014)::Comedy|Fantasy
 2091398::The Revisionaries (2012)::Documentary|History|News
 2091427::The Boy Who Smells Like Fish (2013)::Comedy|Drama
 2091455::The Zombie King (2013)::Comedy|Horror
@@ -14233,6 +14243,7 @@
 2151633::Gangsters, Guns & Zombies (2012)::Comedy|Horror
 2151758::Chob Kod Like Chai Kod Love (2012)::Comedy|Drama|Romance
 2151893::Un Mundo Secreto (2012)::
+2151915::Yokomichi Yonosuke (2013)::Drama
 2151988::High Tech, Low Life (2012)::Documentary
 2152198::The Pervert's Guide to Ideology (2012)::Documentary
 2153963::Tabu (2012)::Drama|Romance
@@ -14492,6 +14503,7 @@
 2229842::Table No.21 (2013)::Thriller
 2229848::Chashme Baddoor (2013)::Comedy|Drama
 2230358::Curse of Chucky (2013)::Action|Horror|Thriller
+2231138::Some Velvet Morning (2013)::Drama
 2231208::Rio 2096: A Story of Love and Fury (2013)::Animation|Drama|History|Romance
 2231251::Heart of the Country (2013)::Drama|Romance
 2231554::Grave Encounters 2 (2012)::Horror
@@ -14817,6 +14829,7 @@
 2332801::The Spirit of '45 (2013)::Documentary
 2332831::The Last Will and Testament of Rosalind Leigh (2012)::Horror|Thriller
 2333598::7 Cajas (2012)::Action|Thriller
+2333784::The Expendables 3 (2014)::Action|Adventure|Thriller
 2333804::The Zero Theorem (2013)::Drama|Fantasy|Sci-Fi
 2334034::Zendegi-e Khosousi-e Agha Va Khanom-e Mim (2012)::Drama|Family
 2334076::People's Park (2012)::Documentary
@@ -14839,6 +14852,7 @@
 2338864::Finsterworld (2013)::Drama
 2338874::Letters to Sofija (2013)::
 2339351::Alyah (2012)::Drama
+2339505::Kochadaiiyaan (2014)::Action|Adventure|History
 2340076::The Search for Simon (2013)::Comedy|Sci-Fi
 2340678::Partysaurus Rex (2012)::Animation|Short|Comedy|Family
 2341664::Come Out and Play (2012)::Horror
