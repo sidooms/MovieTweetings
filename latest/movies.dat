@@ -298,6 +298,7 @@
 0028212::Sabotage (1936)::Mystery|Thriller
 0028231::Secret Agent (1936)::Drama|Mystery|Romance|Thriller
 0028241::Shadow of Chinatown (1936)::Crime|Horror|Sci-Fi
+0028333::Swing Time (1936)::Comedy|Musical|Romance
 0028346::Tell Your Children (1936)::Drama
 0028358::Things to Come (1936)::Sci-Fi
 0028557::Affairs of Cappy Ricks (1937)::Comedy|Drama
@@ -316,6 +317,7 @@
 0029539::Seventh Heaven (1937)::Drama|Romance
 0029546::Shall We Dance (1937)::Comedy|Musical|Romance
 0029583::Snow White and the Seven Dwarfs (1937)::Animation|Family|Fantasy|Musical|Romance
+0029608::Stella Dallas (1937)::Drama|Romance
 0029658::They Won't Forget (1937)::Drama|Mystery
 0029671::The Ticket of Leave Man (1937)::Crime|Drama|Thriller
 0029725::Varsity Show (1937)::Musical
@@ -434,6 +436,7 @@
 0033874::The Man Who Came to Dinner (1942)::Comedy|Romance
 0033879::Man Made Monster (1941)::Drama|Horror|Sci-Fi|Thriller
 0033891::Meet John Doe (1941)::Comedy|Drama|Romance
+0033902::Men of Boys Town (1941)::Drama
 0033922::Mr. & Mrs. Smith (1941)::Comedy|Romance
 0033945::Never Give a Sucker an Even Break (1941)::Comedy|Musical
 0034167::Sergeant York (1941)::Biography|Drama|History|War
@@ -654,6 +657,7 @@
 0039998::The Wistful Widow of Wagon Gap (1947)::Action|Comedy|Family|Romance|Western
 0040068::Bud Abbott Lou Costello Meet Frankenstein (1948)::Comedy|Horror|Sci-Fi
 0040160::The Big Clock (1948)::Crime|Drama|Mystery|Thriller
+0040185::The Boy with Green Hair (1948)::Comedy|Drama|Family
 0040202::Call Northside 777 (1948)::Crime|Drama|Film-Noir|History|Mystery
 0040242::Command Decision (1948)::War|Drama
 0040271::A Date with Judy (1948)::Comedy|Musical|Romance
@@ -709,6 +713,7 @@
 0041509::The Inspector General (1949)::Comedy|Musical|Romance
 0041546::Kind Hearts and Coronets (1949)::Comedy|Crime
 0041587::A Letter to Three Wives (1949)::Drama|Romance
+0041604::Love Happy (1949)::Comedy|Crime|Musical
 0041652::Miss Grant Takes Richmond (1949)::Comedy
 0041671::My Dream Is Yours (1949)::Comedy|Musical
 0041699::Nora inu (1949)::Crime|Drama|Film-Noir|Thriller
@@ -1210,6 +1215,7 @@
 0052700::Compulsion (1959)::Biography|Crime|Drama|History|Thriller
 0052709::Cover Girl Killer (1959)::Crime|Thriller
 0052733::Deux hommes dans Manhattan (1959)::Crime|Drama|Thriller
+0052736::Dhool Ka Phool (1959)::Family|Musical
 0052738::The Diary of Anne Frank (1959)::Biography|Drama|History|War
 0052832::The Fugitive Kind (1959)::Drama|Romance
 0052847::Gidget (1959)::Comedy
@@ -3392,6 +3398,7 @@
 0090563::37°2 le matin (1986)::Drama|Romance
 0090567::52 Pick-Up (1986)::Crime|Thriller
 0090570::84 Charing Cross Road (1987)::Biography|Drama|Romance
+0090579::Abel (1986)::Comedy
 0090583::About Last Night... (1986)::Comedy|Drama|Romance
 0090605::Aliens (1986)::Action|Adventure|Sci-Fi|Thriller
 0090633::An American Tail (1986)::Animation|Comedy|Drama|Family|History|Musical
@@ -3511,6 +3518,7 @@
 0091954::Sid and Nancy (1986)::Biography|Drama|Music
 0091969::Slaughter High (1986)::Comedy|Horror
 0091983::Something Wild (1986)::Comedy|Crime|Romance|Thriller
+0091993::SpaceCamp (1986)::Adventure|Family|Sci-Fi
 0092005::Stand by Me (1986)::Adventure|Drama
 0092007::Star Trek IV: The Voyage Home (1986)::Adventure|Comedy|Sci-Fi
 0092022::Streets of Gold (1986)::Drama|Sport
@@ -3890,6 +3898,7 @@
 0097162::Dead Calm (1989)::Thriller
 0097165::Dead Poets Society (1989)::Drama
 0097202::Dip huet seung hung (1989)::Action|Crime|Thriller
+0097215::Do pervoy krovi (1989)::Drama
 0097216::Do the Right Thing (1989)::Drama
 0097223::Dom za vesanje (1988)::Comedy|Crime|Drama|Fantasy
 0097235::The Dream Team (1989)::Comedy
@@ -4381,6 +4390,7 @@
 0104782::Léolo (1992)::Comedy|Drama
 0104797::Malcolm X (1992)::Biography|Drama|History
 0104802::The Mambo Kings (1992)::Drama|Music
+0104804::Man Trouble (1992)::Comedy|Romance
 0104815::El mariachi (1992)::Action|Crime|Drama|Thriller
 0104850::Memoirs of an Invisible Man (1992)::Comedy|Romance|Sci-Fi
 0104868::The Mighty Ducks (1992)::Action|Comedy|Drama|Family|Sport
@@ -5103,6 +5113,7 @@
 0116477::Hamlet (1996)::Crime|Drama|Romance|Thriller
 0116481::Hands on a Hard Body: The Documentary (1997)::Documentary
 0116483::Happy Gilmore (1996)::Comedy|Romance|Sport
+0116488::Hard Core Logo (1996)::Comedy|Drama|Music
 0116502::Head Above Water (1996)::Comedy|Thriller
 0116514::Hellraiser: Bloodline (1996)::Horror|Sci-Fi
 0116552::Homeward Bound II: Lost in San Francisco (1996)::Adventure|Comedy|Family|Romance
@@ -5384,6 +5395,7 @@
 0119654::Men in Black (1997)::Comedy|Sci-Fi
 0119664::Metro (1997)::Action|Comedy|Crime|Drama|Thriller
 0119668::Midnight in the Garden of Good and Evil (1997)::Comedy|Crime|Drama|Mystery|Thriller
+0119670::The Mighty (1998)::Comedy|Drama
 0119675::Mimic (1997)::Horror|Sci-Fi
 0119683::Les Misérables (1998)::Crime|Drama|History|Romance|Thriller
 0119695::Money Talks (1997)::Action|Comedy|Crime|Thriller
@@ -5586,6 +5598,7 @@
 0120889::What Dreams May Come (1998)::Drama|Fantasy|Romance
 0120890::Wild Things (1998)::Crime|Mystery|Thriller
 0120891::Wild Wild West (1999)::Action|Western|Comedy|Sci-Fi
+0120894::The Wisdom of Crocodiles (1998)::Crime|Mystery|Romance
 0120901::Wrongfully Accused (1998)::Action|Comedy|Thriller
 0120902::The X Files (1998)::Mystery|Sci-Fi|Thriller
 0120903::X-Men (2000)::Action|Adventure|Sci-Fi
@@ -6721,7 +6734,7 @@
 0265086::Black Hawk Down (2001)::Drama|History|War
 0265087::Black Knight (2001)::Adventure|Comedy|Fantasy
 0265104::The Breed (2001)::Action|Adventure|Horror|Sci-Fi
-0265144::Dar alanda kisa paslasmalar (2000)::
+0265144::Dar alanda kisa paslasmalar (2000)::Drama|Sport
 0265148::Main Prem Ki Diwani Hoon (2003)::Musical|Drama|Romance
 0265208::The Girl Next Door (2004)::Comedy|Drama|Romance
 0265298::Big Fat Liar (2002)::Adventure|Comedy|Family
@@ -7773,6 +7786,7 @@
 0376541::Closer (2004)::Drama|Romance
 0376543::Colour Me Kubrick: A True...ish Story (2005)::Comedy|Drama
 0376800::Noviembre (2003)::Comedy|Drama
+0376827::Pizza (2005)::Comedy
 0376968::Vozvrashchenie (2003)::Drama|Mystery|Thriller
 0376994::X-Men: The Last Stand (2006)::Action|Adventure|Sci-Fi|Thriller
 0377051::Di que sí (2004)::Comedy
@@ -11464,6 +11478,7 @@
 1421049::River of Darkness (2011)::Horror
 1421051::Somewhere (2010)::Drama
 1421373::Louis C.K.: Hilarious (2010)::Documentary|Comedy
+1421376::Plein sud (2009)::Drama
 1422020::Dog Pound (2010)::Drama
 1422032::También la lluvia (2010)::Drama|History
 1422101::Ordinary People (2009)::Drama
@@ -14614,6 +14629,7 @@
 2261409::Made in Cleveland (2013)::Comedy
 2261434::Viaggio sola (2013)::Drama
 2261505::Evim Sensin (2012)::Fantasy|Romance
+2261629::Hilton! (2013)::Documentary
 2261719::Dzhungli (2012)::Adventure|Comedy
 2261749::La cage dorée (2013)::Comedy
 2262175::Svengali (2013)::Comedy
@@ -14737,6 +14753,7 @@
 2301155::Shootout at Wadala (2013)::Action|Crime
 2301291::Zhen Tou (2012)::Comedy|Drama
 2301592::La danza de la realidad (2013)::Biography
+2302150::Soldier of Destiny (2012)::Action|Drama
 2302527::Aya Seyahat (2009)::Documentary
 2302739::Die Brücke am Ibar (2012)::Drama
 2302755::Olympus Has Fallen (2013)::Action|Thriller
@@ -14925,6 +14942,7 @@
 2357788::Bridegroom (2013)::Documentary
 2357790::The Snow on the Pines (2013)::Drama
 2357820::Looking Back on Love: Making Black and White America (2011)::Documentary
+2357866::Axeman at Cutter's Creek (2013)::Horror
 2357926::Ramaiya Vastavaiya (2013)::Comedy|Family|Romance
 2358412::David (2013)::Crime|Drama|Romance
 2358514::Svatá Ctverice (2012)::Comedy
@@ -15419,6 +15437,7 @@
 2542616::Miss Zombie (2013)::Horror
 2543202::The Impaler (2013)::Action|Horror|Thriller
 2543446::The Flying Lesson (2013)::Short|Action|Drama
+2543484::Abducted (2014)::Action|Thriller
 2543930::Worm (2013)::Drama
 2544182::O ehthros mou (2013)::Drama
 2544734::Bullet (2014)::Action
@@ -15807,6 +15826,7 @@
 2833386::Karnaval (2013)::Drama
 2833408::Crimi Clowns: De Movie (2013)::Comedy|Crime|Drama
 2835548::Grand Central (2013)::Drama|Romance
+2836260::Chrysalis (2014)::Horror|Sci-Fi
 2836364::Confissões de Adolescente (2013)::Comedy
 2836524::An Apology to Elephants (2013)::Documentary|Short
 2837694::The Burning Buddha Man (2013)::Animation|Fantasy|Horror|Thriller
