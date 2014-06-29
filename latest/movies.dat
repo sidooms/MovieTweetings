@@ -62,6 +62,7 @@
 0016220::The Phantom of the Opera (1925)::Horror|Thriller
 0016230::The Pleasure Garden (1925)::Comedy|Crime|Drama|Romance|Thriller
 0016332::Seven Chances (1925)::Comedy|Family|Romance
+0016544::The Wizard of Oz (1925)::Comedy|Family|Fantasy
 0016600::Along Came Auntie (1926)::Comedy|Short
 0016847::Faust - Eine deutsche Volkssage (1926)::Drama|Fantasy|Horror
 0016903::45 Minutes from Hollywood (1926)::Short|Comedy
@@ -444,7 +445,9 @@
 0033717::High Sierra (1941)::Adventure|Crime|Drama
 0033729::How Green Was My Valley (1941)::Drama|Family
 0033739::I Thank You (1941)::Comedy
+0033740::I Wake Up Screaming (1941)::Crime|Drama|Film-Noir
 0033804::The Lady Eve (1941)::Comedy|Romance
+0033821::Law of the Tropics (1941)::Drama|Romance
 0033836::The Little Foxes (1941)::Drama|Romance
 0033867::Maisie Was a Lady (1941)::Comedy|Drama
 0033870::The Maltese Falcon (1941)::Crime|Drama|Film-Noir|Mystery
@@ -1407,6 +1410,7 @@
 0055499::Såsom i en spegel (1961)::Drama
 0055505::Taste of Fear (1961)::Horror|Mystery|Thriller
 0055506::A Taste of Honey (1961)::Drama
+0055508::Teen Kanya (1961)::Comedy|Drama
 0055534::Too Late Blues (1961)::Drama
 0055535::Totòtruffa '62 (1961)::Comedy
 0055572::Une femme est une femme (1961)::Comedy|Drama|Romance
@@ -3476,6 +3480,7 @@
 0090180::To Live and Die in L.A. (1985)::Action|Crime|Drama|Thriller
 0090190::The Toxic Avenger (1984)::Action|Comedy|Horror|Sci-Fi
 0090192::Trancers (1985)::Action|Sci-Fi
+0090196::Transylvania 6-5000 (1985)::Comedy|Horror
 0090197::Tras el cristal (1987)::Drama|Horror
 0090203::The Trip to Bountiful (1985)::Drama
 0090213::Tuff Turf (1985)::Action|Drama
@@ -3621,6 +3626,7 @@
 0091954::Sid and Nancy (1986)::Biography|Drama|Music
 0091969::Slaughter High (1986)::Comedy|Horror
 0091983::Something Wild (1986)::Comedy|Crime|Romance|Thriller
+0091991::Soul Man (1986)::Comedy|Romance
 0091993::SpaceCamp (1986)::Adventure|Family|Sci-Fi
 0092005::Stand by Me (1986)::Adventure|Drama
 0092007::Star Trek IV: The Voyage Home (1986)::Adventure|Comedy|Sci-Fi
@@ -3678,6 +3684,7 @@
 0092812::Cyclone (1987)::Action|Sci-Fi|Drama
 0092834::Date with an Angel (1987)::Comedy|Fantasy|Romance
 0092843::The Dead (1987)::Drama
+0092854::Death Before Dishonor (1987)::Action|Drama
 0092857::Death Wish 4: The Crackdown (1987)::Action|Crime|Drama|Thriller
 0092879::Desyat negrityat (1987)::Crime|Mystery
 0092890::Dirty Dancing (1987)::Drama|Romance
@@ -3825,6 +3832,7 @@
 0094739::Big Business (1988)::Comedy
 0094744::Big Top Pee-wee (1988)::Adventure|Family|Comedy
 0094746::Biloxi Blues (1988)::Comedy|Drama
+0094747::Bird (1988)::Biography|Drama|Music
 0094750::Black Eagle (1988)::Action|Drama
 0094761::The Blob (1988)::Horror|Sci-Fi
 0094793::Brain Damage (1988)::Comedy|Horror
@@ -4037,6 +4045,7 @@
 0097481::Harlem Nights (1989)::Comedy|Crime|Drama|Romance
 0097493::Heathers (1988)::Comedy|Drama
 0097498::Hellgate (1989)::Comedy|Horror
+0097499::Henry V (1989)::Action|Biography|Drama
 0097523::Honey, I Shrunk the Kids (1989)::Adventure|Comedy|Family|Sci-Fi
 0097527::The Horror Show (1989)::Horror
 0097531::How to Get Ahead in Advertising (1989)::Comedy|Fantasy
@@ -4712,6 +4721,7 @@
 0108101::Shadowlands (1993)::Biography|Drama|Romance
 0108122::Short Cuts (1993)::Comedy|Drama
 0108147::Sister Act 2: Back in the Habit (1993)::Comedy|Music
+0108148::Siu Nin Wong Fei Hung Chi: Tit Ma Lau (1993)::Action|Crime|Drama
 0108149::Six Degrees of Separation (1993)::Comedy|Drama|Mystery
 0108160::Sleepless in Seattle (1993)::Comedy|Drama|Romance
 0108162::Sliver (1993)::Romance|Thriller
@@ -4925,6 +4935,7 @@
 0111323::Surviving the Game (1994)::Action|Adventure|Crime|Drama|Thriller
 0111333::The Swan Princess (1994)::Animation|Comedy|Family
 0111341::Sátántangó (1994)::Comedy|Drama
+0111400::Terminal Velocity (1994)::Action|Thriller|Mystery
 0111408::That's Entertainment! III (1994)::Documentary|Family|Musical
 0111418::Threesome (1994)::Comedy|Romance|Drama
 0111419::Thumbelina (1994)::Animation|Family|Fantasy|Musical|Romance
@@ -5860,6 +5871,7 @@
 0135412::Epiheirisis Apollon (1968)::Comedy|Musical|Romance
 0137363::Arlington Road (1999)::Mystery|Thriller
 0137494::Entrapment (1999)::Action|Crime|Romance|Thriller
+0137510::Fallingwater: The Apprentices (1996)::Documentary
 0137523::Fight Club (1999)::Drama
 0138075::Satan in High Heels (1962)::Drama
 0138097::Shakespeare in Love (1998)::Comedy|Drama|Romance
@@ -9247,6 +9259,7 @@
 0487503::La tourneuse de pages (2006)::Drama|Music|Thriller
 0488085::Big Nothing (2006)::Comedy|Crime|Thriller
 0488120::Fracture (2007)::Crime|Drama|Mystery|Thriller
+0488334::Rap nawng sayawng khwan (2005)::Horror
 0488380::Closing the Ring (2007)::Drama|Romance
 0488414::Omkara (2006)::Action|Drama|Romance
 0488478::12 (2007)::Crime|Drama|Thriller|War
@@ -9671,6 +9684,7 @@
 0824758::The Last Station (2009)::Biography|Drama|Romance
 0825232::The Bucket List (2007)::Adventure|Comedy|Drama
 0825236::Sukkar banat (2007)::Comedy|Drama|Romance
+0825239::Contre-enquête (2007)::Crime
 0825342::Wages of Sin (2006)::Horror
 0826027::Afblijven (2006)::Family
 0826606::Polis (2007)::Action|Comedy|Crime
@@ -9863,6 +9877,7 @@
 0884335::Chrysalis (2007)::Crime|Drama|Sci-Fi|Thriller
 0884726::Legends of Oz: Dorothy's Return (2013)::Animation|Family|Musical
 0885415::Niko - Lentäjän poika (2008)::Animation|Adventure|Comedy|Drama|Family
+0885520::Sheng xia guang nian (2006)::Drama|Romance
 0886535::This Beautiful City (2007)::Drama
 0886539::Luck by Chance (2009)::Drama
 0887143::Hyenas (2011)::Horror
@@ -14074,6 +14089,7 @@
 2015298::Autoluminescent: Rowland S. Howard (2011)::Documentary|Music
 2015315::Poo-reun so-geum (2011)::Action|Crime|Romance
 2015418::La flor (2011)::Short|Drama
+2015474::Over kanten (2012)::Thriller
 2015503::The Devil's Dozen (2013)::Horror|Mystery|Thriller
 2016894::Ek Tha Tiger (2012)::Action|Romance|Thriller
 2016940::Man of Tai Chi (2013)::Action
@@ -15427,6 +15443,7 @@
 2386140::The Capsule (2012)::Short|Drama
 2386203::Captive (2013)::Action|Thriller
 2386278::Haunt (2013)::Horror
+2386285::Road to Paloma (2014)::Drama|Thriller
 2387408::Gallows Hill (2013)::Horror|Mystery|Thriller
 2387433::Dark Skies (2013)::Horror|Sci-Fi|Thriller
 2387443::Dinotasia (2012)::Documentary|Animation
@@ -15483,6 +15500,7 @@
 2396721::The Scribbler (2014)::Thriller
 2397619::Woody Allen: A Documentary (2012)::Documentary|Biography
 2398231::The Homesman (2014)::Drama|Western
+2398249::They Came Together (2014)::Comedy
 2399533::Les invisibles (2012)::Documentary
 2400272::Something Necessary (2013)::Drama
 2400283::An... (2012)::Drama|Romance
@@ -16044,6 +16062,7 @@
 2675978::Dedh Ishqiya (2014)::Comedy|Drama|Thriller
 2676810::El vendedor de humo (2012)::Animation|Short|Biography
 2678366::Hit the Road: India (2013)::Documentary|Action|Adventure
+2678448::Hey Bartender (2013)::Documentary
 2678948::Jilla (2014)::Action|Drama|Thriller
 2679502::Spirital Phantoma (2013)::Horror
 2679530::Natholi Oru Cheriya Meenalla (2013)::Comedy
@@ -16109,6 +16128,7 @@
 2748088::Paranormal Asylum: The Revenge of Typhoid Mary (2013)::Horror
 2748180::Littekens (2014)::Crime|Thriller
 2748368::Neil (2013)::Short|Comedy
+2748546::Bushido Man (2013)::Action
 2750600::A Different Tree (2013)::Short|Drama|Family
 2750632::De tøffeste gutta (2013)::Family
 2751290::Lüber in der Luft (2008)::Documentary
@@ -16239,6 +16259,7 @@
 2853614::9 mois ferme (2013)::Comedy
 2854512::Parked (2013)::Short|Drama|Family|Romance
 2854876::Stepping High (2013)::Drama
+2854894::A Fighting Man (2014)::Drama
 2855648::Madras Cafe (2013)::Action|Thriller
 2856930::Gagarin: Pervyy v kosmose (2013)::Biography|Drama|History
 2857196::Tell 'Em Steve-Dave Puppet Theatre (2013)::Comedy
@@ -16398,6 +16419,7 @@
 2994646::Black Coffee (2014)::Comedy|Romance
 2994904::Kauboji (2013)::Comedy
 2995148::10,000 Hours (2013)::Drama
+2996684::Animal (2014)::Horror|Thriller
 2996804::Girl, Boy, Bakla, Tomboy (2013)::Comedy
 2996950::Pagpag (2013)::Horror
 2997766::De nieuwe wildernis (2013)::Documentary
@@ -16833,6 +16855,7 @@
 3569788::Naan Sigappu Manithan (2014)::Drama
 3575136::Nimirndhu Nil (2014)::Drama
 3578150::The 56 Year Old Boy (2014)::Short|Romance
+3578504::Korengal (2014)::Documentary|History|News
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Music
 3587466::Jaguar: Rendezvous (2014)::Short|Action
 3594510::Ammar (2014)::Horror
