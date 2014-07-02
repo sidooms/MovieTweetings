@@ -1167,6 +1167,7 @@
 0050665::Madhumati (1958)::Musical|Mystery|Romance
 0050706::Mon oncle (1958)::Comedy
 0050763::Night Passage (1957)::Western
+0050766::Night of the Demon (1957)::Horror
 0050782::Le notti bianche (1957)::Drama|Romance
 0050783::Le notti di Cabiria (1957)::Drama
 0050825::Paths of Glory (1957)::Drama|War
@@ -1208,6 +1209,7 @@
 0051622::The Fly (1958)::Horror|Sci-Fi
 0051655::Gideon's Day (1958)::Action|Comedy|Drama
 0051658::Gigi (1958)::Comedy|Musical|Romance
+0051662::Girls at Sea (1958)::Comedy
 0051682::El grito de la muerte (1959)::Horror|Mystery|Thriller|Western
 0051701::Hare-Way to the Stars (1958)::Family|Animation|Short|Comedy|Sci-Fi
 0051744::House on Haunted Hill (1959)::Drama|Horror|Thriller
@@ -1580,6 +1582,7 @@
 0058182::A Hard Day's Night (1964)::Comedy|Musical
 0058213::Hush...Hush, Sweet Charlotte (1964)::Drama|Horror|Thriller
 0058230::The Incredible Mr. Limpet (1964)::Animation|Comedy|Family|War|Fantasy
+0058263::King & Country (1964)::Drama|War
 0058265::Kiss Me, Stupid (1964)::Comedy|Romance
 0058279::Kaidan (1964)::Fantasy|Horror
 0058305::The Luck of Ginger Coffey (1964)::Drama
@@ -1831,6 +1834,7 @@
 0062688::Attack on the Iron Coast (1968)::Action|Drama|War
 0062690::O Ritual dos Sádicos (1970)::Drama|Horror
 0062711::Barbarella (1968)::Action|Adventure|Comedy|Fantasy|Sci-Fi
+0062713::La bataille de San Sebastian (1968)::Action|Adventure|Drama
 0062737::Blackbeard's Ghost (1968)::Comedy|Family|Fantasy
 0062741::The Blood of Fu Manchu (1968)::Adventure|Crime|Horror|Sci-Fi
 0062755::The Boston Strangler (1968)::Crime|Drama|Mystery
@@ -2803,6 +2807,7 @@
 0079946::Starcrash (1978)::Action|Adventure|Fantasy|Sci-Fi
 0080009::Tess (1979)::Drama|Romance
 0080012::That Sinking Feeling (1979)::Comedy
+0080025::Time After Time (1979)::Adventure|Comedy|Drama
 0080031::Tom Horn (1980)::Crime|Drama|Romance|Western
 0080040::Tourist Trap (1979)::Horror|Mystery|Thriller
 0080057::Zombi 2 (1979)::Horror
@@ -3657,6 +3662,7 @@
 0092115::Troll (1986)::Fantasy|Horror
 0092147::Vamp (1986)::Comedy|Horror
 0092214::Wildcats (1986)::Comedy|Sport
+0092220::Windrider (1986)::Drama|Romance
 0092226::Wise Guys (1986)::Comedy|Crime
 0092240::The Wraith (1986)::Action|Horror|Thriller|Sci-Fi|Romance
 0092263::Ying hung boon sik (1986)::Action|Crime|Drama|Thriller
@@ -6039,6 +6045,7 @@
 0156901::Sib (1998)::Drama
 0157016::Seul contre tous (1998)::Crime|Drama
 0157044::Sitcom (1998)::Drama|Thriller|Comedy
+0157366::Ye shou xing jing (1998)::Action|Crime|Drama
 0157460::Chitchor (1976)::Musical|Drama|Romance
 0157472::Clockstoppers (2002)::Adventure|Sci-Fi|Thriller
 0157503::Drop Dead Gorgeous (1999)::Comedy
@@ -7625,6 +7632,7 @@
 0339785::Thoughtcrimes (2003)::Action|Crime|Drama|Fantasy|Sci-Fi
 0339840::Undead (2003)::Action|Comedy|Horror
 0340012::Being Julia (2004)::Comedy|Drama|Romance
+0340044::Cheoleobtneun anaewa paramanjanhan nampyeon geurigo taekwon sonyeo (2002)::Comedy
 0340110::Fat Pizza (2003)::Action|Adventure|Comedy|Crime|Thriller
 0340163::Hostage (2005)::Crime|Drama|Mystery|Thriller
 0340258::My Wrongs 8245-8249 and 117 (2002)::Comedy|Fantasy|Horror|Short
@@ -8784,6 +8792,7 @@
 0446463::Si j'étais toi (2007)::Drama|Romance
 0446477::Subway (2002)::Short|Thriller
 0446687::Driving Lessons (2006)::Comedy|Drama
+0446707::Pars vite et reviens tard (2007)::Crime|Drama|Thriller
 0446719::Isolation (2005)::Horror|Thriller
 0446752::Full of It (2007)::Drama|Comedy
 0446755::The Painted Veil (2006)::Drama|Romance
@@ -8980,6 +8989,7 @@
 0461770::Enchanted (2007)::Comedy|Family|Fantasy|Musical|Romance
 0462160::7eventy 5ive (2007)::Horror|Thriller
 0462193::The Beast of Bray Road (2005)::Horror
+0462197::Big Rig (2007)::Documentary
 0462200::Black Snake Moan (2006)::Drama
 0462229::Code Name: The Cleaner (2007)::Action|Comedy|Crime
 0462295::Flakes (2007)::Comedy
@@ -12793,6 +12803,7 @@
 1666184::Turning 30!!! (2011)::Comedy|Drama|Romance
 1666186::Vampires Suck (2010)::Comedy
 1666187::Alligator X (2010)::Horror|Sci-Fi|Thriller
+1666305::Free Radicals: A History of Experimental Film (2012)::Documentary
 1666318::La demora (2012)::Drama
 1666354::Hangnail (2011)::Short|Drama
 1667076::F.A.L.T.U (2011)::Comedy|Drama
@@ -14442,8 +14453,10 @@
 2102499::I Do (2012)::Drama
 2103203::La kryptonite nella borsa (2011)::Drama|Comedy
 2103217::Maniac (2012)::Crime|Horror|Thriller
+2103254::Tammy (2014)::Comedy
 2103264::Emperor (2012)::Drama|History|War
 2103267::Two Mothers (2013)::Drama
+2103281::Dawn of the Planet of the Apes (2014)::Action|Drama|Sci-Fi
 2104837::A Common Man (2012)::Action|Thriller
 2104922::Invention of Love (2010)::Animation|Short|Drama|Romance
 2104994::Steve Jobs: The Lost Interview (2012)::Documentary
@@ -14523,7 +14536,7 @@
 2120779::Jason Becker: Not Dead Yet (2012)::Documentary|Biography|Music
 2121304::Gibraltar (2013)::Crime|Thriller
 2121377::The Rise & Fall of a White Collar Hooligan (2012)::Crime
-2121839::Taigâ Masuku (2013)::
+2121839::Taigâ Masuku (2013)::Action|Adventure|Drama
 2122340::Ferrari Ki Sawaari (2012)::Crime|Family|Sport
 2122424::Nailbiter (2013)::Horror
 2123210::Inocente (2012)::Documentary|Short|Biography|Drama|News
@@ -15421,6 +15434,7 @@
 2375605::The Act of Killing (2012)::Documentary
 2375779::Wrong Turn 5: Bloodlines (2012)::Horror|Thriller
 2376024::Venus and Serena (2012)::Documentary
+2377322::Deliver Us from Evil (2014)::Crime|Horror|Thriller
 2377938::Special Chabbis (2013)::Crime|Drama|Thriller
 2378162::I Hugged the Berlin Patient (2013)::Documentary|Biography|Drama
 2378177::8-Pallo (2013)::Crime|Drama
@@ -16561,6 +16575,7 @@
 3101474::InRealLife (2013)::Documentary|News
 3101742::Trois exercices d'interprétation (2013)::Drama
 3102402::El mudo (2013)::Drama
+3102636::Shu jia zuo ye (2013)::Drama
 3102826::Let It Out! (2013)::Documentary|Short
 3102906::Când se lasa seara peste Bucuresti sau metabolism (2013)::Drama
 3103318::Costa da Morte (2013)::Documentary|Drama|Family
@@ -16620,6 +16635,7 @@
 3147290::Little Favour (2013)::Short|Action|Thriller
 3148468::L'arbitro (2013)::Comedy
 3149484::Ne me quitte pas (2013)::Documentary|Comedy|Drama
+3149640::Seve the Movie (2014)::Drama|Sport
 3150858::Sunt o baba comunista (2013)::Comedy|Drama
 3152098::Mega Shark vs. Mecha Shark (2014)::Action|Sci-Fi|Thriller
 3153168::Radio Silence (2013)::Short|Drama
@@ -16838,6 +16854,7 @@
 3476372::The Other Side of the Heart Is White (2014)::Documentary
 3477064::Recep Ivedik 4 (2014)::Comedy
 3477480::Sadece Sen (2014)::Drama
+3477734::Heksen Bestaan Niet (2014)::Adventure|Family|Fantasy
 3478046::Eyyvah Eyvah 3 (2014)::Comedy
 3478444::I AM Hardwell Documentary (2013)::Documentary|Music
 3482790::Fucking Different XXY (2014)::Documentary
@@ -16887,6 +16904,7 @@
 3587466::Jaguar: Rendezvous (2014)::Short|Action
 3594510::Ammar (2014)::Horror
 3605606::Mr. Fraud (2014)::Thriller
+3607198::Punjab 1984 (2014)::Drama
 3607688::Quando c'era Berlinguer (2014)::Documentary
 3608654::The Coed and the Zombie Stoner (2014)::Comedy
 3608838::Dreamworks Spooky Stories (2012)::
