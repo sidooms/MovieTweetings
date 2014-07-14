@@ -93,6 +93,7 @@
 0018742::The Cameraman (1928)::Comedy|Romance|Family|Drama
 0018773::The Circus (1928)::Comedy|Romance
 0018806::The Crowd (1928)::Drama|Romance
+0018839::The Docks of New York (1928)::Crime|Drama|Romance
 0018860::Early to Bed (1928)::Comedy|Short
 0018876::The Farmer's Wife (1928)::Comedy|Drama|Romance
 0018890::The Finishing Touch (1928)::Comedy|Short
@@ -3947,6 +3948,7 @@
 0095300::Hifazat (1987)::Drama|Family
 0095302::High Hopes (1988)::Comedy|Drama
 0095327::Hotaru no haka (1988)::Animation|Drama|War
+0095329::Huo wu feng yun (1988)::Action|Crime|Drama
 0095348::I'm Gonna Git You Sucka (1988)::Action|Comedy
 0095379::Intruder (1989)::Horror|Thriller
 0095384::It Takes Two (1988)::Comedy
@@ -4207,6 +4209,7 @@
 0098987::The Adventures of Ford Fairlane (1990)::Action|Adventure|Comedy|Music
 0098994::After Dark, My Sweet (1990)::Crime|Drama|Mystery|Thriller
 0098999::Agneepath (1990)::Action|Crime|Drama
+0099002::Ai ren tong zhi (1989)::Drama|War
 0099005::Air America (1990)::Action|Comedy
 0099012::Alice (1990)::Comedy|Fantasy|Romance
 0099044::Another 48 Hrs. (1990)::Action|Comedy|Crime|Drama|Thriller
@@ -8281,6 +8284,7 @@
 0395429::7 mujeres, 1 homosexual y Carlos (2004)::Comedy|Drama|Romance
 0395479::Boundin' (2003)::Animation|Short|Family
 0395495::Catch and Release (2006)::Comedy|Drama|Romance
+0395524::Eiffel I'm in Love (2003)::Drama
 0395584::The Devil's Rejects (2005)::Horror
 0395585::House of 9 (2005)::Drama|Horror|Mystery|Thriller
 0395699::The Pacifier (2005)::Action|Comedy|Drama|Family|Thriller
@@ -9446,6 +9450,7 @@
 0495747::The Quick and the Undead (2006)::Action|Horror|Western
 0496319::The Hottest State (2006)::Drama|Music|Romance
 0496350::The Marsh (2006)::Horror|Thriller
+0496375::Prisoners of the Sun (2013)::Action|Adventure|Horror
 0496436::White Noise 2: The Light (2007)::Drama|Horror|Thriller
 0496634::The Countess (2009)::Biography|Drama|History|Horror|Thriller
 0496806::Ocean's Thirteen (2007)::Crime|Thriller
@@ -11219,6 +11224,7 @@
 1236371::Mistérios de Lisboa (2010)::Drama|Mystery
 1236434::Deseo (2013)::Comedy|Drama
 1236472::Lemmy (2010)::Documentary|Biography|Music
+1236958::Lost in Love (2008)::Drama|Romance
 1238291::Five Minutes of Heaven (2009)::Crime|Drama|Thriller
 1239285::36 vues du Pic Saint Loup (2009)::Comedy|Drama
 1239374::Mariachi Gringo (2012)::Comedy|Romance
@@ -11591,6 +11597,7 @@
 1334558::See How They Run (2014)::Horror
 1335975::47 Ronin (2013)::Action|Adventure|Fantasy
 1336006::The Revenant (2009)::Comedy|Horror
+1336011::Strongman (2009)::Documentary
 1336608::Rock of Ages (2012)::Comedy|Drama|Musical|Romance
 1336617::Cyrus (2010)::Comedy|Drama|Romance
 1337032::Trailer Park Boys: Countdown to Liquor Day (2009)::Comedy|Crime
@@ -14005,6 +14012,7 @@
 1939753::The Big Fix (2012)::Documentary
 1939787::Wild Eyes: The Abby Sunderland Story (2011)::Documentary|Adventure|Biography
 1941466::Blood-C: The Last Dark (2012)::Animation|Action|Fantasy
+1941668::Taistelu Näsilinnasta 1918 (2012)::Drama|War
 1941717::Vulnerables (2012)::Thriller
 1942060::El amigo alemán (2012)::Drama|Romance|War
 1942787::3 Holiday Tails (2011)::Comedy|Family|Romance
@@ -16023,6 +16031,7 @@
 2572160::Bingo (2013)::Comedy
 2572632::Vendetta (2013)::Action
 2573024::Rhod Gilbert: The Man with the Flaming Battenberg Tattoo (2012)::Comedy
+2573198::Haru (2013)::Animation|Romance|Sci-Fi
 2573226::Studio illegale (2013)::Comedy
 2573438::G.D.O. KaraKedi (2013)::Action|Comedy
 2573858::The Stag (2013)::Comedy
@@ -17057,8 +17066,10 @@
 3678938::Humpty Sharma Ki Dulhania (2014)::Romance
 3681454::Vadacurry (2014)::Comedy
 3684194::Ai qing wu quan shun (2013)::Comedy|Romance
+3686168::Ennamo Nadakkudhu (2014)::Action|Thriller
 3692324::The Mall (2014)::Horror
 3697566::U-neun nam-ja (2014)::Action|Drama
+3705306::Law Point (2014)::Drama|Thriller
 3709344::CityLights (2014)::Drama|Thriller
 3711466::Kukhnya v Parizhe (2014)::Comedy
 3720636::God's Own Country (2014)::Drama
