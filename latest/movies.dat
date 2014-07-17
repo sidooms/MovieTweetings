@@ -322,6 +322,7 @@
 0028772::A Day at the Races (1937)::Comedy|Sport
 0028950::La grande illusion (1937)::Drama|War
 0029146::The Life of Emile Zola (1937)::Biography|Drama
+0029162::Lost Horizon (1937)::Adventure|Drama|Fantasy
 0029179::Madame X (1937)::Drama
 0029192::Make Way for Tomorrow (1937)::Drama|Romance
 0029201::The Man Who Could Work Miracles (1936)::Comedy|Fantasy
@@ -1426,6 +1427,7 @@
 0055252::An einem Freitag um halb zwölf (1961)::Crime|Thriller|Drama
 0055254::One Hundred and One Dalmatians (1961)::Animation|Adventure|Comedy|Family
 0055277::The Parent Trap (1961)::Family|Comedy|Romance
+0055278::Paris Blues (1961)::Drama|Music|Romance
 0055304::Pit and the Pendulum (1961)::Horror
 0055307::The Pleasure of His Company (1961)::Comedy
 0055310::Plácido (1961)::Comedy
@@ -2348,6 +2350,7 @@
 0071115::Alice Doesn't Live Here Anymore (1974)::Drama|Romance
 0071129::Amarcord (1973)::Comedy|Drama
 0071141::Angst essen Seele auf (1974)::Drama|Romance
+0071143::Animals Are Beautiful People (1974)::Comedy|Documentary
 0071198::The Bat People (1974)::Horror
 0071200::The Beast Must Die (1974)::Horror|Mystery
 0071222::Black Christmas (1974)::Horror|Mystery
@@ -4095,6 +4098,7 @@
 0097235::The Dream Team (1989)::Comedy
 0097239::Driving Miss Daisy (1989)::Comedy|Drama
 0097240::Drugstore Cowboy (1989)::Crime|Drama
+0097244::Dou san (1989)::Action|Comedy|Drama
 0097257::Earth Girls Are Easy (1988)::Comedy|Musical|Romance|Sci-Fi
 0097262::Eddie and the Cruisers II: Eddie Lives! (1989)::Drama|Music|Romance
 0097292::Es ist nicht leicht ein Gott zu sein (1989)::Sci-Fi|Adventure|Drama
@@ -4108,6 +4112,7 @@
 0097382::Helmut Newton: Frames from the Edge (1989)::Documentary|Biography
 0097388::Friday the 13th Part VIII: Jason Takes Manhattan (1989)::Horror
 0097390::Fright Night Part 2 (1988)::Horror|Comedy
+0097409::Ganashatru (1989)::Drama
 0097428::Ghostbusters II (1989)::Action|Adventure|Comedy|Fantasy|Sci-Fi
 0097437::Gitanjali (1989)::
 0097438::Gleaming the Cube (1989)::Action|Drama|Mystery
@@ -4404,6 +4409,7 @@
 0101746::The Doctor (1991)::Drama
 0101757::Don't Tell Mom the Babysitter's Dead (1991)::Comedy
 0101761::The Doors (1991)::Biography|Drama|Music
+0101763::Dou hap (1991)::Action|Comedy
 0101764::Double Impact (1991)::Action|Crime|Drama|Thriller
 0101765::La double vie de Véronique (1991)::Drama|Fantasy|Music|Romance
 0101775::Drop Dead Fred (1991)::Comedy|Drama|Fantasy
@@ -4510,6 +4516,7 @@
 0103243::Where Angels Fear to Tread (1991)::Drama|Romance
 0103247::White Fang (1991)::Adventure|Drama
 0103251::White Palace (1990)::Drama|Romance
+0103328::Jing gu jyun ga (1991)::Comedy|Romance
 0103594::1492: Conquest of Paradise (1992)::Adventure|Biography|Drama|History
 0103596::3 Ninjas (1992)::Action|Comedy|Family|Sport
 0103634::Aileen Wuornos: The Selling of a Serial Killer (1993)::Documentary
@@ -4922,6 +4929,7 @@
 0110076::Hum Aapke Hain Koun...! (1994)::Comedy|Drama|Musical
 0110081::Huozhe (1994)::Drama|War
 0110093::I Love Trouble (1994)::Action|Comedy|Romance
+0110099::I.Q. (1994)::Comedy|Romance
 0110116::Immortal Beloved (1994)::Biography|Drama|Music|Romance
 0110137::The Inkwell (1994)::Romance|Comedy|Drama
 0110146::Intersection (1994)::Drama|Romance
@@ -5020,6 +5028,7 @@
 0111419::Thumbelina (1994)::Animation|Family|Fantasy|Musical|Romance
 0111438::Timecop (1994)::Action|Romance|Sci-Fi|Thriller
 0111470::Trading Mom (1994)::Comedy|Family|Fantasy
+0111477::Trapped in Paradise (1994)::Adventure|Comedy|Crime
 0111486::Trevor (1994)::Comedy|Short|Drama
 0111495::Trois couleurs: Rouge (1994)::Drama|Mystery|Romance
 0111503::True Lies (1994)::Action|Thriller
@@ -6515,6 +6524,7 @@
 0208181::Todo el poder (2000)::Crime
 0208196::Happy Accidents (2000)::Comedy|Sci-Fi|Romance
 0208606::Üçüncü sayfa (1999)::Drama
+0208871::Du xia da zhan La Si Wei Jia Si (1999)::
 0208874::The Contender (2000)::Drama|Thriller
 0208911::The King Is Alive (2000)::Drama
 0208988::Get Carter (2000)::Action|Crime|Drama
@@ -6581,6 +6591,7 @@
 0215750::Enemy at the Gates (2001)::Drama|History|Thriller|War
 0215841::Hijack Stories (2000)::Crime|Drama
 0216067::Parichay (1972)::Drama|Family|Musical
+0216165::Am zin (1999)::Action|Crime|Drama
 0216216::The 6th Day (2000)::Action|Sci-Fi|Thriller
 0216283::Les 3 inventeurs (1980)::Animation|Short
 0216625::Code inconnu: Récit incomplet de divers voyages (2000)::Drama|Romance|War
@@ -6603,6 +6614,7 @@
 0218625::The St. Francisville Experiment (2000)::Horror|Mystery|Thriller
 0218817::Antitrust (2001)::Crime|Drama|Thriller
 0218839::Best in Show (2000)::Comedy
+0218864::Buying the Cow (2002)::Comedy|Romance
 0218871::Carne (1991)::Short|Drama|Thriller
 0218922::Original Sin (2001)::Drama|Mystery|Romance
 0218967::The Family Man (2000)::Comedy|Drama|Romance
@@ -7226,6 +7238,7 @@
 0286716::Hulk (2003)::Action|Sci-Fi
 0286751::Kairo (2001)::Horror|Mystery|Thriller
 0286788::What a Girl Wants (2003)::Comedy|Drama|Romance
+0286797::Sau sun nam nui (2001)::Comedy|Romance
 0286936::Salaakhen (1998)::Action
 0287467::Hable con ella (2002)::Comedy|Drama|Romance
 0287717::Spy Kids 2: Island of Lost Dreams (2002)::Action|Adventure|Comedy|Family|Sci-Fi
@@ -7466,6 +7479,7 @@
 0314498::The Perfect Score (2004)::Comedy|Crime
 0314693::Soldados de Salamina (2003)::Drama
 0314725::Standing in the Shadows of Motown (2002)::Documentary|Music
+0314786::The In-Laws (2003)::Action|Comedy|Thriller
 0315110::Twentynine Palms (2003)::Drama|Horror
 0315297::Twisted (2004)::Crime|Drama|Mystery
 0315327::Bruce Almighty (2003)::Comedy|Drama|Fantasy
@@ -10352,6 +10366,7 @@
 1010379::Blood, Boobs & Beast (2007)::Documentary
 1010415::Canciones de amor en Lolita's Club (2007)::Drama
 1012804::Redbelt (2008)::Drama|Sport
+1013607::Idiots and Angels (2008)::Animation|Comedy|Drama
 1013743::Knight and Day (2010)::Action|Adventure|Comedy|Thriller
 1013752::Fast & Furious (2009)::Action|Crime|Drama|Thriller
 1013753::Milk (2008)::Biography|Drama|History
@@ -17038,6 +17053,7 @@
 3485432::Dissemination (2013)::Short|Fantasy|Horror
 3487082::Twa-Tiu-Tiann (2014)::Comedy|Drama|Fantasy
 3498790::Proavlio (2014)::Short
+3499424::Hercules Reborn (2014)::Action
 3500528::Khid thueng withaya (2014)::Drama
 3503730::After My Garden Grows (2014)::Documentary|Short
 3503838::Kau neoi bat lei saam hing dai (2013)::Comedy|Romance
