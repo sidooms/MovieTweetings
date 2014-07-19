@@ -1077,6 +1077,7 @@
 0048545::Rebel Without a Cause (1955)::Drama|Romance
 0048554::Revenge of the Creature (1955)::Horror|Sci-Fi
 0048563::The Rose Tattoo (1955)::Comedy|Drama|Romance
+0048570::Run for Cover (1955)::Western
 0048579::Zoku Miyamoto Musashi: Ichijôji no kettô (1955)::Action|Adventure|Biography|Drama|History
 0048593::The Sea Chase (1955)::Action|Drama|War
 0048605::The Seven Year Itch (1955)::Comedy|Romance
@@ -1217,6 +1218,7 @@
 0051411::The Big Country (1958)::Drama|Romance|Western
 0051418::The Blob (1958)::Sci-Fi|Thriller
 0051423::Blue Murder at St. Trinian's (1957)::Comedy
+0051452::Carry on Nurse (1959)::Comedy|Romance
 0051453::Carry on Sergeant (1958)::Comedy|War
 0051454::Carve Her Name with Pride (1958)::Biography|Drama|War
 0051459::Cat on a Hot Tin Roof (1958)::Drama
@@ -1676,6 +1678,7 @@
 0059183::The Flight of the Phoenix (1965)::Adventure|Drama
 0059229::Giulietta degli spiriti (1965)::Comedy|Drama|Fantasy
 0059245::The Greatest Story Ever Told (1965)::Biography|Drama|History
+0059250::The Hallelujah Trail (1965)::Comedy|Western
 0059260::Help! (1965)::Adventure|Comedy|Musical
 0059274::The Hill (1965)::Drama|War
 0059282::Hot Enough for June (1964)::Comedy
@@ -1980,6 +1983,7 @@
 0064840::The Prime of Miss Jean Brodie (1969)::Comedy|Drama|Romance
 0064866::Queimada (1969)::Action|Drama|Thriller
 0064921::Salesman (1968)::Documentary
+0064923::Sam Whiskey (1969)::Comedy|Western
 0064939::Satan's Sadists (1969)::Action|Horror|Drama
 0064940::Fellini - Satyricon (1969)::Drama|Fantasy
 0064949::Scream and Scream Again (1970)::Horror|Sci-Fi|Crime|Mystery|Thriller
@@ -2305,9 +2309,11 @@
 0070351::The MacKintosh Man (1973)::Thriller
 0070355::Magnum Force (1973)::Action|Mystery|Thriller
 0070379::Mean Streets (1973)::Crime|Drama
+0070393::Milano trema: la polizia vuole giustizia (1973)::Crime|Drama
 0070404::Le monache di Sant'Arcangelo (1973)::Drama
 0070460::La nuit américaine (1973)::Comedy|Drama|Romance
 0070464::O Lucky Man! (1973)::Comedy|Drama|Fantasy|Music
+0070488::The Optimists of Nine Elms (1973)::Drama
 0070506::Pane e cioccolata (1974)::Comedy|Drama
 0070509::The Paper Chase (1973)::Comedy|Drama
 0070510::Paper Moon (1973)::Comedy|Crime|Drama
@@ -2541,6 +2547,7 @@
 0074447::Dvadtsat dney bez voyny (1977)::Drama|Romance|War
 0074452::The Eagle Has Landed (1976)::Adventure|Drama|Thriller|War
 0074455::Eaten Alive (1977)::Horror
+0074477::Emma Mae (1976)::Drama
 0074483::The Enforcer (1976)::Action|Thriller
 0074486::Eraserhead (1977)::Fantasy|Horror|Sci-Fi
 0074512::Family Plot (1976)::Comedy|Thriller
@@ -3078,6 +3085,7 @@
 0083034::Savage Harvest (1981)::Adventure|Thriller
 0083081::Silsila (1981)::Drama|Musical|Romance
 0083089::Sjecas Li Se, Dolly Bell (1981)::Comedy|Drama|Romance
+0083107::Some Kind of Hero (1982)::Comedy|Crime|Drama
 0083109::La soupe aux choux (1981)::Comedy|Sci-Fi
 0083111::Southern Comfort (1981)::Adventure|Drama|Thriller
 0083113::Sphinx (1981)::Adventure|Mystery|Thriller
@@ -3485,6 +3493,7 @@
 0089338::Inferno in diretta (1985)::Adventure|Horror|Thriller
 0089343::Insignificance (1985)::Drama|Comedy
 0089346::Into the Night (1985)::Comedy|Drama|Thriller
+0089348::Invasion U.S.A. (1985)::Action|Thriller
 0089360::Jagged Edge (1985)::Crime|Thriller|Mystery|Romance
 0089370::The Jewel of the Nile (1985)::Action|Adventure|Comedy|Romance
 0089393::Just One of the Guys (1985)::Comedy|Romance
@@ -3539,6 +3548,7 @@
 0089945::Rustlers' Rhapsody (1985)::Comedy|Western
 0089961::Santa Claus (1985)::Adventure|Family|Fantasy
 0089964::Savage Island (1985)::Action|Drama
+0090015::Shoah (1985)::Documentary|History|War
 0090021::Silver Bullet (1985)::Adventure|Drama|Horror|Mystery|Thriller
 0090022::Silverado (1985)::Action|Crime|Drama
 0090055::Speriamo che sia femmina (1986)::Comedy|Drama
@@ -4017,6 +4027,7 @@
 0095984::Retribution (1987)::Horror|Mystery
 0095990::Return of the Living Dead Part II (1988)::Comedy|Horror
 0095997::Rituelen (1989)::Drama
+0096000::Robowar - Robot da guerra (1988)::Action|Adventure|Comedy
 0096018::Running on Empty (1988)::Crime|Drama|Music|Romance
 0096054::School Daze (1988)::Comedy|Drama|Musical
 0096061::Scrooged (1988)::Comedy|Drama|Fantasy
@@ -4213,6 +4224,7 @@
 0098577::Vampire's Kiss (1988)::Comedy|Fantasy|Horror
 0098621::The War of the Roses (1989)::Comedy|Drama
 0098622::Warlock (1989)::Action|Fantasy|Horror|Thriller
+0098625::We're No Angels (1989)::Comedy|Crime
 0098627::Weekend at Bernie's (1989)::Comedy
 0098635::When Harry Met Sally... (1989)::Comedy|Drama|Romance
 0098645::Who's Harry Crumb? (1989)::Comedy|Crime|Mystery
@@ -5707,6 +5719,7 @@
 0120347::Tomorrow Never Dies (1997)::Action|Adventure|Crime|Thriller
 0120363::Toy Story 2 (1999)::Animation|Adventure|Comedy|Family|Fantasy
 0120370::Trekkies (1997)::Documentary
+0120373::Trial and Error (1997)::Comedy|Romance
 0120376::Trojan War (1997)::Comedy
 0120382::The Truman Show (1998)::Comedy|Drama|Sci-Fi
 0120383::Truth or Consequences, N.M. (1997)::Action|Crime|Drama|Romance|Thriller
@@ -6255,6 +6268,7 @@
 0167825::Chicken Park (1994)::Comedy
 0167923::Elvis: Aloha from Hawaii (1973)::Documentary|Music
 0167926::Les enfants du Marais (1999)::Comedy|Drama
+0168043::Am faa (1998)::Drama|Thriller|Crime
 0168080::Muertos de risa (1999)::Comedy|Drama
 0168492::Battle of Blood Island (1960)::Drama|War
 0168501::The Best Man (1999)::Comedy|Drama
@@ -9630,6 +9644,7 @@
 0785007::Over Her Dead Body (2008)::Comedy|Fantasy|Romance
 0785035::Ong bak 2 (2008)::Action
 0787442::L'attentat (2012)::Drama
+0787462::Elvis and Anabelle (2007)::Drama|Romance
 0787470::Balls Out: Gary the Tennis Coach (2009)::Comedy|Sport
 0787475::Hot Rod (2007)::Comedy
 0787515::Strength and Honour (2007)::Action|Drama
@@ -12293,6 +12308,7 @@
 1522232::Os Inquilinos (2009)::Drama
 1522250::Prometeo Deportado (2009)::Comedy|Drama
 1522329::Tum Mile (2009)::Drama|Romance
+1522334::Win/Win (2010)::Drama
 1522846::The Bunny Game (2010)::Horror
 1523267::Arctic Blast (2010)::Sci-Fi|Thriller
 1523415::Bes sehir (2010)::
@@ -12793,6 +12809,7 @@
 1638328::L'amour dure trois ans (2011)::Comedy|Romance
 1638350::Le Skylab (2011)::Comedy
 1638353::The Patience Stone (2012)::Drama|War
+1638362::Client 9: The Rise and Fall of Eliot Spitzer (2010)::Documentary
 1638364::The Armstrong Lie (2013)::Documentary
 1639093::Russendisko (2012)::Comedy
 1639426::Udaan (2010)::Drama
@@ -15756,6 +15773,7 @@
 2404661::Urban Outlaw (2012)::Documentary|Short|Biography|Sport
 2404738::Las brujas de Zugarramurdi (2013)::Comedy|Drama|Horror
 2405182::Betoniyö (2013)::Drama
+2405862::Closure (2013)::Documentary|Adventure|Biography|Drama
 2405866::Hoe kan ik u helpen (2012)::Short|Action|Crime
 2406252::La Vénus à la fourrure (2013)::Drama
 2406636::Bhoot Returns (2012)::Horror
@@ -16615,6 +16633,7 @@
 2977654::Somos Mari Pepa (2013)::Comedy|Drama|Music
 2978814::In grazia di Dio (2014)::Drama
 2980114::Haunting Melissa (2013)::Short|Horror
+2980706::Planes: Fire & Rescue (2014)::Animation|Adventure|Comedy
 2980764::Get a Horse! (2013)::Animation|Short
 2980794::Highway (2014)::Drama|Romance
 2981714::Juvana (2013)::Action
@@ -16816,6 +16835,7 @@
 3142764::Race Gurram (2014)::Action|Comedy|Romance
 3142958::Su ve Ates (2013)::Drama|Romance
 3144098::Dong-chang-saeng (2013)::Action|Drama
+3144390::Norigae (2013)::Drama|Thriller
 3144678::The Journey (2013)::Comedy|Drama|Family
 3145026::Prison Terminal: The Last Days of Private Jack Hall (2013)::Documentary|Short|Biography
 3145768::Tanda putera (2013)::Drama|History
@@ -16974,6 +16994,7 @@
 3339624::Essex Boys Retribution (2013)::Crime
 3340900::Temporary Road - Una: Vita Di Franco Battiato (2013)::Documentary
 3341072::Fung bou (2013)::Action|Crime|Thriller
+3341088::-197°C Murder (2013)::Thriller
 3341170::Sapore di te (2014)::Comedy
 3341832::Voodoo Possession (2014)::Drama|Horror|Mystery
 3342196::Tinta Sangre (2013)::Drama
@@ -17001,6 +17022,7 @@
 3392330::Short Peace (2013)::Animation|Fantasy|Sci-Fi
 3393070::Android Cop (2014)::Action|Sci-Fi
 3397026::Senin Hikayen (2013)::Drama
+3398268::Omoide no Marnie (2014)::Animation|Drama
 3399154::Shallow Yellow Sky (2013)::Drama|Mystery|Thriller
 3399454::Hatuli Ragel (2013)::Comedy|Romance
 3399740::The Retrieval (2014)::Short|Thriller
@@ -17050,6 +17072,7 @@
 3469910::Bai ri yan huo (2014)::Crime|Drama|Mystery
 3472892::Sag Salim 2: Sil Bastan (2014)::Comedy
 3475002::Happily Ever After (2014)::Documentary|Drama|Romance
+3475504::Zaman Makinesi 1973 (2014)::Comedy
 3476372::The Other Side of the Heart Is White (2014)::Documentary
 3477064::Recep Ivedik 4 (2014)::Comedy
 3477480::Sadece Sen (2014)::Drama
