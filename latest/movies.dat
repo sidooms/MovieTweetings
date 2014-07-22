@@ -181,6 +181,7 @@
 0022792::The Crowd Roars (1932)::Drama|Action
 0022817::The Devil's Cabaret (1930)::Comedy|Musical|Short
 0022834::Downstairs (1932)::Drama
+0022835::Dr. Jekyll and Mr. Hyde (1931)::Horror|Sci-Fi
 0022883::The Fatal Glass of Beer (1933)::Short|Comedy
 0022913::Freaks (1932)::Drama|Horror|Thriller
 0022958::Grand Hotel (1932)::Drama|Romance
@@ -245,6 +246,7 @@
 0024803::Zéro de conduite: Jeunes diables au collège (1933)::Short|Comedy|Drama
 0024831::Anne of Green Gables (1934)::Comedy|Drama|Family
 0024844::L'Atalante (1934)::Drama|Romance
+0024873::Belle of the Nineties (1934)::Comedy|Drama
 0024894::The Black Cat (1934)::Horror|Crime|Adventure|Thriller
 0024914::Bright Eyes (1934)::Comedy|Drama|Family
 0025004::The Count of Monte Cristo (1934)::Action|Adventure|Drama
@@ -3203,6 +3205,7 @@
 0084737::Summer Lovers (1982)::Comedy|Drama|Romance
 0084739::Superstition (1982)::Horror
 0084745::Swamp Thing (1982)::Horror|Sci-Fi
+0084749::The Sword and the Sorcerer (1982)::Action|Fantasy|Adventure
 0084777::Tenebre (1982)::Horror|Mystery|Thriller
 0084787::The Thing (1982)::Horror|Mystery|Sci-Fi|Thriller
 0084788::Things Are Tough All Over (1982)::Comedy|Action
@@ -3325,6 +3328,7 @@
 0086567::WarGames (1983)::Sci-Fi|Thriller
 0086589::Suburbia (1983)::Drama|Thriller
 0086593::Without a Trace (1983)::Drama|Mystery
+0086606::Wu Lang ba gua gun (1984)::Action|Drama
 0086610::Xtro (1983)::Horror|Sci-Fi
 0086617::The Year of Living Dangerously (1982)::Drama|Romance|War
 0086618::Yellowbeard (1983)::Action|Adventure|Comedy
@@ -3784,6 +3788,7 @@
 0092906::Dolls (1987)::Fantasy|Horror
 0092925::Dragnet (1987)::Comedy|Crime
 0092933::Dudes (1987)::Comedy
+0092937::Duo ming jia ren (1987)::
 0092948::Eddie Murphy Raw (1987)::Documentary|Comedy
 0092965::Empire of the Sun (1987)::Drama|History|War
 0092972::Epidemic (1987)::Drama|Horror
@@ -3872,6 +3877,7 @@
 0093912::Salvation!: Have You Said Your Prayers Today? (1987)::Comedy
 0093936::The Secret of My Succe$s (1987)::Comedy
 0093940::September (1987)::Drama
+0093955::Shen qi liang xia nu (1987)::
 0093978::Sien nui yau wan (1987)::Action|Comedy|Fantasy
 0093996::Slumber Party Massacre II (1987)::Comedy|Horror
 0094006::Some Kind of Wonderful (1987)::Drama|Romance
@@ -5738,6 +5744,7 @@
 0120389::Turbo: A Power Rangers Movie (1997)::Action|Adventure|Family|Fantasy|Sci-Fi|Thriller
 0120390::Turbulence (1997)::Action|Thriller
 0120391::24 7: Twenty Four Seven (1997)::Comedy|Drama|Romance|Sport
+0120392::The Twilight of the Golds (1996)::Drama
 0120399::U Turn (1997)::Crime|Drama|Thriller
 0120408::Unagi (1997)::Drama
 0120434::Vegas Vacation (1997)::Comedy
@@ -6903,6 +6910,7 @@
 0252490::Hababam sinifi uyaniyor (1977)::Comedy
 0252496::Hanzo (1975)::Comedy
 0252499::Hasret (1974)::Drama|Romance
+0252501::Hearts in Atlantis (2001)::Drama|Mystery
 0252503::Heist (2001)::Action|Crime|Drama|Thriller
 0252562::Japon isi (1987)::Comedy|Romance|Sci-Fi
 0252589::Kanli Nigar (1981)::Comedy|Drama
@@ -9500,6 +9508,7 @@
 0493430::Jackass Number Two (2006)::Documentary|Comedy
 0493439::On the Doll (2007)::Crime|Drama|Thriller
 0493450::Sixty Six (2006)::Biography|Comedy|Drama
+0493451::The Skeptic (2009)::Horror|Thriller
 0493459::This Film Is Not Yet Rated (2006)::Documentary
 0493464::Wanted (2008)::Action|Crime|Thriller
 0493949::Ramona and Beezus (2010)::Adventure|Comedy|Family|Fantasy
@@ -10917,6 +10926,7 @@
 1152758::Dear Zachary: A Letter to a Son About His Father (2008)::Documentary|Crime|Drama
 1152822::Freakonomics (2010)::Documentary
 1152828::I Think We're Alone Now (2008)::Documentary
+1152834::Pageant (2008)::Documentary
 1152836::Public Enemies (2009)::Biography|Crime|Drama|History
 1152850::Wendy and Lucy (2008)::Drama
 1153040::Haeundae (2009)::Action|Drama|Thriller
@@ -10958,6 +10968,7 @@
 1167675::Sint (2010)::Horror
 1167839::Gin iro no shîzun (2008)::Drama|Sport
 1169133::Anytown (2009)::Crime|Drama|Thriller
+1169826::Kyôfu gakuen (2001)::Horror
 1170358::The Hobbit: The Desolation of Smaug (2013)::Adventure|Drama|Fantasy
 1171222::Baggage Claim (2013)::Comedy
 1171721::Son ders (2008)::Comedy|Drama
@@ -11612,6 +11623,7 @@
 1322302::La hora cero (2010)::Action
 1322306::La posesión de Emma Evans (2010)::Horror
 1322312::Going the Distance (2010)::Comedy|Romance
+1322315::Headhunter (2009)::Thriller
 1322333::Largo Winch II (2011)::Action|Adventure|Thriller
 1322354::Protéger & servir (2010)::Comedy
 1322385::Submarino (2010)::Drama
@@ -16543,6 +16555,7 @@
 2866346::¿Quien manda? (2013)::Comedy
 2866360::Coherence (2013)::Sci-Fi
 2867096::Mi rifaccio vivo (2013)::Comedy
+2870708::Wish I Was Here (2014)::Comedy|Drama
 2872256::Udhayam NH4 (2013)::Action|Thriller
 2872810::Mischief Night (2013)::Drama|Horror|Thriller
 2873250::Il était une forêt (2013)::Documentary
@@ -16737,6 +16750,7 @@
 3029766::Coach Zoran and His African Tigers (2014)::Documentary
 3030752::De Rolling por Colombia (2013)::Comedy
 3031022::Ekstra (2013)::Drama
+3031176::The Boy with a Camera for a Face (2013)::Short|Comedy|Drama
 3032300::Oggy et les cafards (2013)::Animation|Comedy|Family
 3033478::Necessary Evil: Super-Villains of DC Comics (2013)::Documentary
 3033536::Twisted: The Untold Story of a Royal Vizier (2013)::Musical
@@ -16906,6 +16920,7 @@
 3175936::Bei Tou Zou De Na Wu Nian (2013)::Romance
 3176074::I Didn't Get the Part (2013)::Short|Comedy
 3176134::Silsile (2014)::Drama
+3177316::Honeymoon (2014)::Horror|Romance|Sci-Fi
 3177332::Horror Story (2013)::Horror
 3178292::A: Film by Upendra (1998)::Crime|Drama
 3180592::Toilet Blues (2012)::Drama
@@ -16961,6 +16976,7 @@
 3242460::Rent a Family Inc. (2012)::Documentary
 3242986::Mavi Dalga (2013)::Drama
 3243554::Four Corners (2013)::Crime|Thriller
+3244512::Charlie's Country (2013)::Drama
 3244992::Trailer Park Boys: Don't Legalize It (2014)::Comedy|Crime|Drama
 3245074::Stai lontana da me (2013)::Comedy
 3248864::Böcek (2013)::Comedy
@@ -17179,6 +17195,7 @@
 3630218::Pam Ann: Non Stop - Live from New York City (2012)::Comedy
 3640226::Dangerous Mind of a Hooligan (2014)::Crime
 3645014::The Xpose (2014)::Thriller
+3645982::The Newburgh Sting (2014)::Documentary
 3646462::Itirazim Var (2014)::Action|Drama
 3650534::Rouh's Beauty (2014)::Drama
 3663040::Heatstroke (2013)::Thriller
@@ -17189,6 +17206,7 @@
 3678938::Humpty Sharma Ki Dulhania (2014)::Romance
 3681448::Saivam (2014)::
 3681454::Vadacurry (2014)::Comedy
+3681464::Arima Nambi (2014)::
 3684194::Ai qing wu quan shun (2013)::Comedy|Romance
 3686168::Ennamo Nadakkudhu (2014)::Action|Thriller
 3692324::The Mall (2014)::Horror
