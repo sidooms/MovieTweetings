@@ -66,5 +66,6 @@ in Collaborative Filtering Systems
 - [Harvesting movie ratings from structured data in social media](http://dl.acm.org/citation.cfm?id=2559862)
 - [Social Popularity based SVD++ Recommender System](http://research.ijcaonline.org/volume87/number14/pxc3894033.pdf)
 - [Cold-Start Active Learning with Robust Ordinal Matrix Factorization](http://jmlr.org/proceedings/papers/v32/houlsby14-supp.zip)
+- [SemanticSVD++: Incorporating Semantic Taste Evolution for Predicting Ratings](http://www.lancaster.ac.uk/staff/rowem/files/mrowe-wi2014.pdf)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
