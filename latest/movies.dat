@@ -603,6 +603,7 @@
 0037630::Les dames du Bois de Boulogne (1945)::Drama|Romance
 0037635::Dead of Night (1945)::Horror|Thriller
 0037638::Detour (1945)::Crime|Drama|Film-Noir|Mystery
+0037644::Dillinger (1945)::Biography|Crime|Drama
 0037674::Les enfants du paradis (1945)::Drama|Romance
 0037690::The Falcon in San Francisco (1945)::Crime|Mystery
 0037736::George White's Scandals (1945)::Comedy|Music
@@ -658,6 +659,7 @@
 0038991::The Stranger (1946)::Crime|Drama|Film-Noir|Mystery|Thriller
 0039017::Terror by Night (1946)::Mystery
 0039035::Till the Clouds Roll By (1946)::Biography|Musical
+0039067::The Unknown (1946)::Action|Crime|Mystery
 0039080::The Verdict (1946)::Crime|Drama|Film-Noir
 0039116::Ziegfeld Follies (1945)::Comedy|Musical
 0039152::Angel and the Badman (1947)::Romance|Western
@@ -1272,6 +1274,7 @@
 0052278::Teacher's Pet (1958)::Comedy|Romance
 0052286::Terror from the Year 5000 (1958)::Sci-Fi
 0052293::Thunder Road (1958)::Crime|Drama|Thriller
+0052301::Too Many Crooks (1959)::Comedy|Crime
 0052311::Touch of Evil (1958)::Crime|Film-Noir|Thriller
 0052330::Ubiytsy (1956)::Short
 0052338::Une histoire d'eau (1961)::Romance|Short
@@ -3615,6 +3618,7 @@
 0090655::April Fool's Day (1986)::Comedy|Horror|Mystery
 0090670::At Close Range (1986)::Crime|Drama|Romance
 0090685::Back to School (1986)::Comedy|Romance|Sport
+0090693::Band of the Hand (1986)::Action|Crime|Drama
 0090713::The Best of Times (1986)::Comedy|Drama|Sport
 0090727::Big Trouble (1986)::Comedy
 0090728::Big Trouble in Little China (1986)::Action|Adventure|Comedy|Fantasy|Horror
@@ -5499,6 +5503,7 @@
 0117951::Trainspotting (1996)::Crime|Drama
 0117958::Trees Lounge (1996)::Comedy|Drama
 0117959::La tregua (1997)::Drama|History|War
+0117965::The Trigger Effect (1996)::Drama|Thriller
 0117979::The Truth About Cats & Dogs (1996)::Comedy|Romance
 0117998::Twister (1996)::Action|Adventure|Drama|Thriller
 0118002::Two If by Sea (1996)::Comedy|Romance
@@ -6155,6 +6160,7 @@
 0154912::Mulzim (1963)::
 0155267::The Thomas Crown Affair (1999)::Crime|Romance|Thriller
 0155309::Umang (1970)::Drama|Family
+0155370::Wahan Ke Log (1967)::Action|Adventure|Drama
 0155415::L'écume des jours (1968)::
 0155711::Flawless (1999)::Comedy|Crime|Drama
 0155753::I'll Be Home for Christmas (1998)::Comedy|Family
@@ -11207,6 +11213,7 @@
 1217070::Triage (2009)::Drama|Mystery|War
 1217209::Brave (2012)::Animation|Action|Adventure|Comedy|Family|Fantasy
 1217213::Secret of the Wings (2012)::Animation|Family|Fantasy
+1217243::Akiresu to kame (2008)::Comedy|Drama
 1217426::Easier with Practice (2009)::Drama|Romance
 1217565::Den radio (2008)::Comedy
 1217589::Oi ching maan sui (2008)::Romance
@@ -13461,6 +13468,7 @@
 1758830::This Is 40 (2012)::Comedy
 1759682::The Loving Story (2011)::Documentary|Drama|History|Romance
 1760967::Ill Manors (2012)::Crime|Drama
+1760980::Madrid, 1987 (2011)::Drama
 1760984::Mubeopja (2010)::Crime|Mystery|Thriller
 1761005::Persecuted (2014)::Action|Drama|Mystery
 1762233::Enchanted Kingdom 3D (2013)::Documentary
@@ -15668,6 +15676,7 @@
 2371824::Paradies: Glaube (2012)::Drama
 2371834::Paradies: Hoffnung (2013)::Drama
 2372213::Aquel no era yo (2012)::Short
+2372222::Kick (2014)::Action|Comedy|Romance
 2372678::2 States (2014)::Romance
 2372776::Harry Dean Stanton: Partly Fiction (2012)::Documentary
 2373324::Men at Lunch (2012)::Documentary
@@ -16589,6 +16598,7 @@
 2867096::Mi rifaccio vivo (2013)::Comedy
 2870708::Wish I Was Here (2014)::Comedy|Drama
 2872256::Udhayam NH4 (2013)::Action|Thriller
+2872732::Lucy (2014)::Action|Sci-Fi
 2872810::Mischief Night (2013)::Drama|Horror|Thriller
 2873250::Il était une forêt (2013)::Documentary
 2875926::My Sweet Pepper Land (2013)::Drama
@@ -17238,7 +17248,7 @@
 3678938::Humpty Sharma Ki Dulhania (2014)::Romance
 3681448::Saivam (2014)::
 3681454::Vadacurry (2014)::Comedy
-3681464::Arima Nambi (2014)::
+3681464::Arima Nambi (2014)::Thriller
 3684194::Ai qing wu quan shun (2013)::Comedy|Romance
 3686168::Ennamo Nadakkudhu (2014)::Action|Thriller
 3692324::The Mall (2014)::Horror
