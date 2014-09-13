@@ -551,6 +551,7 @@
 0035640::The Ape Man (1943)::Horror|Sci-Fi
 0035733::Chicken Little (1943)::Comedy|Family|Animation|Short
 0035751::The Constant Nymph (1943)::Drama|Music|Romance
+0035753::Le corbeau (1943)::Crime|Drama|Mystery
 0035798::The Desperadoes (1943)::Romance|Western
 0035807::Distinto amanecer (1943)::Drama|Thriller|Romance
 0035854::The Falcon Strikes Back (1943)::Crime|Drama|Mystery
@@ -1911,6 +1912,7 @@
 0061385::Barefoot in the Park (1967)::Comedy|Romance
 0061395::Belle de jour (1967)::Drama
 0061405::Billion Dollar Brain (1967)::Adventure|Drama|Thriller
+0061411::The Blood Beast Terror (1968)::Horror
 0061412::Blood of Dracula's Castle (1969)::Horror
 0061418::Bonnie and Clyde (1967)::Biography|Crime|Drama
 0061420::The Born Losers (1967)::Action|Drama|Thriller
@@ -2984,6 +2986,7 @@
 0079221::Gol Maal (1979)::Comedy
 0079227::Good Guys Wear Black (1978)::Action
 0079239::The Great Santini (1979)::Drama
+0079240::The First Great Train Robbery (1978)::Adventure|Crime|Drama
 0079261::Hair (1979)::Comedy|Drama|Musical
 0079285::Saturn 3 (1980)::Adventure|Sci-Fi|Thriller
 0079300::The Hollywood Strangler Meets the Skid Row Slasher (1979)::Crime|Drama|Horror
@@ -3002,6 +3005,7 @@
 0079550::Meteor (1979)::Action|Drama|Sci-Fi|Thriller
 0079574::Moonraker (1979)::Action|Adventure|Crime|Sci-Fi|Thriller
 0079576::More American Graffiti (1979)::Comedy|Drama|War
+0079579::Moskva slezam ne verit (1979)::Comedy|Drama|Romance
 0079588::The Muppet Movie (1979)::Adventure|Comedy|Family|Musical
 0079596::My Brilliant Career (1979)::Biography|Drama|Romance
 0079640::North Dallas Forty (1979)::Comedy|Drama|Sport
@@ -7726,6 +7730,7 @@
 0301555::God Grew Tired of Us: The Story of Lost Boys of Sudan (2006)::Documentary
 0301684::Once Upon a Time in the Midlands (2002)::Comedy|Drama|Romance
 0301727::Le peuple migrateur (2001)::Documentary
+0301770::Zzikhimyeon jukneunda (2000)::Horror|Thriller
 0301976::The United States of Leland (2003)::Crime|Drama|Romance
 0301978::Ten (2002)::Drama
 0302297::After School Special (2003)::Comedy
@@ -10088,6 +10093,7 @@
 0790662::Fingerprints (2006)::Horror|Mystery|Thriller
 0790663::The First Grader (2010)::Biography|Drama
 0790686::Mirrors (2008)::Horror|Mystery|Thriller
+0790706::Crazy Love (2007)::Documentary
 0790712::The Messenger (2009)::Drama|Romance|War
 0790724::Jack Reacher (2012)::Action|Crime|Thriller
 0790736::R.I.P.D. (2013)::Action|Comedy|Crime|Fantasy
@@ -10207,6 +10213,7 @@
 0810922::Take Me Home Tonight (2011)::Comedy|Drama|Romance
 0810951::Look (2007)::
 0810988::The Nines (2007)::Drama|Fantasy|Mystery|Sci-Fi|Thriller
+0811011::Pirates of Treasure Island (2006)::Action|Adventure
 0811066::Shootout at Lokhandwala (2007)::Action|Crime|Drama
 0811080::Speed Racer (2008)::Action|Family|Sport
 0811106::The Ten (2007)::Comedy
@@ -14179,6 +14186,7 @@
 1825022::Koroishi (2010)::Fantasy
 1825157::The Double (2013)::Comedy
 1825163::The Light Bulb Conspiracy (2010)::Documentary
+1825636::170 Hz (2011)::Drama
 1825746::Dokkan Shehata (2008)::Action|Drama
 1825842::L'industriale (2011)::Drama
 1825955::Simya-ui FM (2010)::Crime|Mystery|Thriller
@@ -15600,6 +15608,7 @@
 2208020::Nô Otoko (2013)::Mystery
 2208144::Drei Zimmer/Küche/Bad (2012)::Comedy
 2208216::Aurora (2012)::Romance|Sci-Fi|Thriller
+2208778::Hold Fast (2013)::Drama
 2209300::Poklosie (2012)::Drama|Thriller
 2209400::E Aí... Comeu? (2012)::Comedy
 2209418::Before Midnight (2013)::Drama
@@ -16252,6 +16261,7 @@
 2375605::The Act of Killing (2012)::Documentary
 2375779::Wrong Turn 5: Bloodlines (2012)::Horror|Thriller
 2376024::Venus and Serena (2012)::Documentary
+2377194::The Quitter (2014)::Comedy|Drama
 2377322::Deliver Us from Evil (2014)::Crime|Horror|Thriller
 2377938::Special Chabbis (2013)::Crime|Drama|Thriller
 2378162::I Hugged the Berlin Patient (2013)::Documentary|Biography|Drama
@@ -16617,6 +16627,7 @@
 2493466::Kuroyuri danchi (2013)::Horror
 2494396::Mapa (2012)::Documentary|Biography
 2494528::Buried Treasure (2012)::Short|Comedy|Drama|Romance
+2495104::Parts Per Billion (2014)::Sci-Fi
 2495118::Ip Man: The Final Fight (2013)::Action
 2495212::Milosc (2012)::Drama|Romance
 2497808::Rush (2013)::Action|Crime|Drama
@@ -16688,6 +16699,7 @@
 2529906::Mamay Umeng (2012)::Drama
 2530392::Chiisai ouchi (2014)::Drama
 2530738::A Floresta de Jonathas (2012)::Drama
+2531282::The Yes Men Are Revolting (2014)::Documentary
 2531362::Chariot (2013)::Drama|Thriller
 2532018::Libra X Libra (2012)::Documentary
 2532528::Dirty Wars (2013)::Documentary|Drama
@@ -16940,8 +16952,10 @@
 2650986::Nordvest (2013)::Action|Crime|Drama
 2651054::Nena, saludame al Diego (2013)::Comedy
 2651916::Zephyr Springs (2013)::Thriller
+2653262::Rough Play (2013)::Action
 2654360::Deceptive Practice: The Mysteries and Mentors of Ricky Jay (2012)::Documentary
 2654562::The Ghosts in Our Machine (2013)::Documentary
+2655734::Bang Bang Baby (2014)::Musical|Sci-Fi
 2655788::11.6 (2013)::Drama|Thriller
 2655938::I aionia epistrofi tou Antoni Paraskeva (2013)::Drama
 2657138::National Lampoon Presents: Surf Party (2013)::Comedy
@@ -17297,6 +17311,7 @@
 2936296::Loubia hamra (2013)::Drama
 2937482::The Patient (2013)::Short|Comedy
 2938008::Crô: O Filme (2013)::Comedy
+2938416::All This Mayhem (2014)::Documentary
 2939172::Running Out (2013)::Short|Drama|Romance
 2940740::Traffic Jam (2013)::Short
 2942512::U ri Sunhi (2013)::Comedy|Drama|Romance
@@ -17434,6 +17449,7 @@
 3026824::Solo (2013)::Thriller
 3028144::The Night Before Easter (2014)::Horror
 3028198::Mi verano con Amanda 3 (2013)::Adventure|Comedy|Romance
+3029556::Rurouni Kenshin: The Legend Ends (2014)::Action
 3029558::Rurôni Kenshin: Kyôto Taika-hen (2014)::Action
 3029766::Coach Zoran and His African Tigers (2014)::Documentary
 3030752::De Rolling por Colombia (2013)::Comedy
@@ -17572,6 +17588,7 @@
 3129564::Diplomatie (2014)::Drama
 3132086::Giraffada (2013)::Drama
 3134066::Power Rangers Megaforce: Ultimate Team Power (2013)::
+3136112::Shelter (2014)::Drama
 3136842::Ukraine Is Not a Brothel (2013)::Documentary
 3137552::Hank: 5 Years from the Brink (2013)::Documentary|Biography|News
 3138104::The Hungover Games (2014)::Comedy
@@ -17592,6 +17609,7 @@
 3149484::Ne me quitte pas (2013)::Documentary|Comedy|Drama
 3149640::Seve the Movie (2014)::Drama|Sport
 3150858::Sunt o baba comunista (2013)::Comedy|Drama
+3151738::Megdönteni Hajnal Tímeát (2014)::Comedy
 3152098::Mega Shark vs. Mecha Shark (2014)::Action|Sci-Fi|Thriller
 3153168::Radio Silence (2013)::Short|Drama
 3153806::Masterpiece: Frank Miller's The Dark Knight Returns (2013)::Documentary|Biography|History
@@ -18003,6 +18021,7 @@
 3845960::Cocaine Cowboys: Reloaded (2014)::Documentary
 3867086::Made in Egypt: Soneia Fe Misr (2014)::Comedy
 3882508::El que mucho abarca (2014)::Romance
+3884216::This Is My Land (2014)::Documentary|History
 3889036::Nixon by Nixon: In His Own Words (2014)::Documentary
 3896016::The Continent (2014)::Drama
 3916762::Rabhasa (2014)::
