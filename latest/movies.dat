@@ -1289,6 +1289,7 @@
 0051378::Ascenseur pour l'échafaud (1958)::Crime|Drama|Thriller
 0051383::Auntie Mame (1958)::Comedy|Drama
 0051390::Bab el hadid (1958)::Crime|Drama
+0051402::Battle of the V-1 (1958)::Drama|War
 0051404::Le beau Serge (1958)::Drama
 0051406::Bell Book and Candle (1958)::Comedy|Romance|Fantasy
 0051411::The Big Country (1958)::Drama|Romance|Western
@@ -4728,6 +4729,7 @@
 0102511::Naked Lunch (1991)::Drama|Fantasy
 0102526::New Jack City (1991)::Crime|Drama|Thriller
 0102536::Night on Earth (1991)::Comedy|Drama
+0102555::Not Without My Daughter (1991)::Drama|Thriller
 0102558::Nothing But Trouble (1991)::Adventure|Comedy
 0102564::Nudist Colony of the Dead (1991)::Comedy|Horror|Musical
 0102587::Omohide poro poro (1991)::Animation|Drama|Romance
@@ -4969,6 +4971,7 @@
 0106521::Carnosaur (1993)::Horror|Sci-Fi
 0106535::The Cement Garden (1993)::Drama
 0106582::Cliffhanger (1993)::Action|Thriller
+0106591::Komediya strogogo rezhima (1993)::Comedy
 0106598::Coneheads (1993)::Comedy|Sci-Fi
 0106611::Cool Runnings (1993)::Adventure|Comedy|Family|Sport
 0106620::Contamination .7 (1993)::Horror
@@ -5642,6 +5645,7 @@
 0116571::House Arrest (1996)::Comedy|Family
 0116581::Le huitième jour (1996)::Comedy|Drama
 0116583::The Hunchback of Notre Dame (1996)::Animation|Drama|Family|Musical|Romance
+0116594::I Shot Andy Warhol (1996)::Biography|Drama
 0116606::If Lucy Fell (1996)::Comedy|Romance
 0116621::In Love and War (1996)::Biography|Drama|Romance|War
 0116629::Independence Day (1996)::Action|Adventure|Sci-Fi|Thriller
@@ -7175,6 +7179,8 @@
 0248661::3 A.M. (2001)::Crime|Mystery|Romance
 0248667::Ali (2001)::Biography|Drama|Sport
 0248845::Hedwig and the Angry Inch (2001)::Comedy|Drama|Music
+0248926::Njan Gandharvan (1991)::Drama|Fantasy|Romance
+0249188::Thoovanathumbikal (1987)::Drama|Fantasy|Musical
 0249380::Baise-moi (2000)::Crime|Drama|Thriller
 0249462::Billy Elliot (2000)::Comedy|Drama|Music
 0249478::Domestic Disturbance (2001)::Crime|Mystery|Thriller
@@ -15052,6 +15058,7 @@
 2063013::Tong que tai (2012)::Drama
 2063618::Casi treinta (2014)::Comedy
 2063666::Hello I Must Be Going (2012)::Comedy|Drama|Romance
+2063719::Match 64 (2011)::Documentary|Sport
 2063781::Smashed (2012)::Comedy|Drama
 2063782::Soi-lát-daa-laen (2011)::Horror
 2063834::Thrive (2011)::Sci-Fi
@@ -16379,6 +16386,7 @@
 2387806::Heute bin ich blond (2013)::Comedy|Drama
 2387820::Pinky Moge Wali (2012)::Comedy
 2388254::Las cosas como son (2012)::Drama
+2388558::Kidnapped for Christ (2014)::Documentary|Drama|News
 2388637::Ain't Them Bodies Saints (2013)::Drama
 2388705::Molly Maxwell (2013)::Drama
 2388715::Oculus (2013)::Horror
@@ -17007,6 +17015,7 @@
 2650642::W imie... (2013)::Thriller
 2650718::Matterhorn (2013)::Drama
 2650954::Dolgaya schastlivaya zhizn (2013)::Drama
+2650978::Das finstere Tal (2014)::Western
 2650986::Nordvest (2013)::Action|Crime|Drama
 2651054::Nena, saludame al Diego (2013)::Comedy
 2651916::Zephyr Springs (2013)::Thriller
@@ -17086,6 +17095,7 @@
 2714900::Finding Vivian Maier (2013)::Documentary
 2717318::I Am Soldier (2014)::Action|Thriller|War
 2717558::On the Job (2013)::Action|Crime|Drama|Thriller
+2717860::The Riot Club (2014)::Drama|Thriller
 2718492::Ida (2013)::Drama
 2718538::Líbánky (2013)::Drama
 2719094::Papusza (2013)::Biography
@@ -17237,6 +17247,7 @@
 2832470::Død Snø 2 (2014)::Action|Comedy|Horror
 2833386::Karnaval (2013)::Drama
 2833408::Crimi Clowns: De Movie (2013)::Comedy|Crime|Drama
+2835536::The Quiet Roar (2014)::Drama
 2835548::Grand Central (2013)::Drama|Romance
 2836260::Chrysalis (2014)::Horror|Sci-Fi
 2836364::Confissões de Adolescente (2013)::Comedy
@@ -17633,6 +17644,7 @@
 3112654::Mea culpa (2014)::Action|Thriller
 3112744::Once Upon a Mime (2013)::Short|Musical
 3112966::Luton (2013)::Drama
+3114132::10.000 Km (2014)::Comedy|Drama|Romance
 3116248::Mysterious & Ways (2013)::Short|Comedy
 3116814::Pyar Ki Baazi (1967)::Romance
 3118696::Club Sándwich (2013)::Comedy
@@ -17733,6 +17745,7 @@
 3198652::Persona 3 (2013)::Adventure
 3198698::Gekijouban Hunter x Hunter: The Last Mission (2013)::Action|Adventure
 3198726::Vay basima gelenler (2013)::Comedy
+3202890::Reclaim (2014)::Thriller
 3203290::Free to Play (2014)::Documentary
 3203890::Pulling Strings (2013)::Comedy|Romance
 3203910::Raja Rani (2013)::Romance
@@ -18077,6 +18090,7 @@
 3711466::Kukhnya v Parizhe (2014)::Comedy
 3716142::Lekar Hum Deewana Dil (2014)::Comedy|Romance
 3720636::God's Own Country (2014)::Drama
+3729920::The Disappearance of Eleanor Rigby: Them (2014)::Drama
 3730650::Maracaná (2014)::Documentary
 3734466::How Old Are You? (2014)::Drama
 3740242::Naked Ambition 3D (2014)::Comedy
@@ -18086,6 +18100,7 @@
 3754976::Elephant Song (2014)::
 3767246::Poddubnyy (2014)::Biography
 3776658::This Is Not a Ball (2014)::Documentary
+3782876::Código Paz (2014)::Action
 3794302::Pizza (2014)::Horror
 3797880::Lelaki harapan dunia (2014)::Comedy|Drama
 3804332::Red Alert (2014)::Documentary|Short|Comedy
