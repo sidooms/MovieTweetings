@@ -83,6 +83,7 @@
 0018037::The Jazz Singer (1927)::Drama|Music|Romance
 0018106::Love 'Em and Weep (1927)::Comedy|Short
 0018217::Oktyabr (1928)::Drama|History
+0018294::Putting Pants on Philip (1927)::Comedy|Short
 0018328::The Ring (1927)::Drama|Romance|Thriller
 0018368::The Second 100 Years (1927)::Comedy|Short
 0018452::Sugar Daddies (1927)::Comedy|Short
@@ -214,6 +215,7 @@
 0023427::Scarface (1932)::Crime|Drama|Thriller
 0023439::Scram! (1932)::Comedy|Short
 0023563::Das Testament des Dr. Mabuse (1933)::Crime|Fantasy|Horror
+0023578::Their First Mistake (1932)::Comedy|Short
 0023613::Towed in a Hole (1932)::Comedy|Short
 0023634::Otona no miru ehon - Umarete wa mita keredo (1932)::Comedy|Drama
 0023640::Unheimliche Geschichten (1932)::Comedy|Sci-Fi|Horror
@@ -3309,6 +3311,7 @@
 0083190::Thief (1981)::Action|Crime|Drama|Thriller
 0083193::This Is Elvis (1981)::Biography|Music
 0083232::True Confessions (1981)::Crime|Drama
+0083250::Un dimanche de flic (1983)::Crime
 0083260::Les uns et les autres (1981)::Drama|Music
 0083271::Vabank (1981)::Comedy|Crime
 0083275::Variola vera (1982)::Drama|Horror
@@ -3898,6 +3901,7 @@
 0091355::Kong bu fen zi (1986)::Drama
 0091369::Labyrinth (1986)::Adventure|Family|Fantasy|Musical
 0091374::Lady Jane (1986)::Biography|Drama|History|Romance
+0091396::Legal Eagles (1986)::Comedy|Crime|Romance
 0091419::Little Shop of Horrors (1986)::Comedy|Musical
 0091431::Long xiong hu di (1986)::Action|Adventure|Comedy
 0091445::Lucas (1986)::Comedy|Drama|Romance
@@ -4137,6 +4141,7 @@
 0094315::The Whales of August (1987)::Drama
 0094320::White of the Eye (1987)::Thriller
 0094321::Who's That Girl (1987)::Comedy|Music|Romance
+0094331::Wish You Were Here (1987)::Comedy|Drama
 0094332::The Witches of Eastwick (1987)::Comedy|Fantasy|Horror|Thriller
 0094336::Withnail & I (1987)::Comedy|Drama
 0094347::The Year My Voice Broke (1987)::Drama|Romance
@@ -6498,6 +6503,7 @@
 0159273::Behind Enemy Lines (2001)::Action|War|Drama|Thriller
 0159365::Cold Mountain (2003)::Drama|Romance|War
 0159382::Croupier (1998)::Crime|Drama
+0159485::Häjyt (1999)::Action|Crime|Drama
 0159693::Razor Blade Smile (1998)::Horror
 0159938::7p., cuis., s. de b., ... à saisir (1984)::Short
 0160009::The Art of War (2000)::Action|Thriller
@@ -11030,6 +11036,7 @@
 1037223::Everyday (2012)::Drama
 1037705::The Book of Eli (2010)::Action|Adventure|Drama|Thriller
 1037850::Bu neng shuo de. mi mi (2007)::Drama|Fantasy|Music|Romance
+1038043::Mammoth (2009)::Drama
 1038045::Mein Kampf (2009)::Biography|Comedy
 1038110::Uahan segye (2007)::Crime|Drama
 1038686::Legion (2010)::Action|Fantasy|Horror
@@ -14534,6 +14541,7 @@
 1870529::Won't Back Down (2012)::Drama
 1871236::Blutzbrüdaz (2012)::Comedy|Music
 1872083::I'm Carolyn Parker (2011)::Documentary
+1872084::Ibn el-Qunsul (2011)::Comedy|Thriller
 1872101::Fanny (2013)::Drama
 1872181::The Amazing Spider-Man 2 (2014)::Action|Adventure|Fantasy
 1872194::The Judge (2014)::Drama
@@ -15938,6 +15946,7 @@
 2266938::Vulgaria (2012)::Comedy
 2267188::The Quiet Girl's Guide to Violence (2012)::Short|Comedy|Thriller
 2267712::Neposlusni (2014)::Drama
+2267998::Gone Girl (2014)::Drama|Mystery|Thriller
 2268458::These Final Hours (2013)::Drama|Thriller
 2268573::Stranded (2013)::Horror|Sci-Fi
 2268732::Museum Hours (2012)::Drama
@@ -16001,6 +16010,7 @@
 2290151::Big Star: Nothing Can Hurt Me (2012)::Documentary
 2290223::Chernokids (2010)::Animation|Short|Adventure|Mystery
 2290375::Hallowed Be (2012)::Short|Comedy|Drama|Fantasy
+2290534::Devil's Tower (2014)::Horror
 2290543::Nidra (2012)::Drama
 2290567::Once Upon a Time in Shanghai (2014)::Crime
 2290645::Sha sheng (2012)::Drama
@@ -17170,6 +17180,7 @@
 2722442::Small Town (2013)::Drama
 2723138::Zyvie Belarus (2013)::Drama
 2724972::Truth Among Men (2013)::Short|Drama
+2725962::What We Did on Our Holiday (2014)::Comedy
 2726082::It's Me, It's Me (2012)::Drama|Sci-Fi|Thriller
 2727028::Total Siyapaa (2014)::Comedy|Drama|Romance
 2730162::Fool's Day (2013)::Short|Comedy|Drama|Thriller
@@ -17388,6 +17399,7 @@
 2881698::Skinwalker Ranch (2013)::Horror|Sci-Fi|Thriller
 2882590::The Wonders (2013)::Comedy|Mystery
 2883060::Yours Truly (2011)::Short|Horror
+2883434::Black and White (2014)::Drama
 2883512::Chef (2014)::Comedy
 2884186::El verano de los peces voladores (2013)::Comedy|Drama
 2884206::I Origins (2014)::Drama|Sci-Fi
@@ -17977,6 +17989,7 @@
 3393070::Android Cop (2014)::Action|Sci-Fi
 3395608::021 (2014)::Action|Thriller
 3397026::Senin Hikayen (2013)::Drama
+3398052::Daawat-e-Ishq (2014)::Comedy|Drama|Romance
 3398268::Omoide no Marnie (2014)::Animation|Drama
 3399154::Shallow Yellow Sky (2013)::Drama|Mystery|Thriller
 3399454::Hatuli Ragel (2013)::Comedy|Romance
@@ -18207,3 +18220,5 @@
 3919082::André Rieu's 2014 Maastricht Concert (2014)::Music
 3949630::Anukshanam (2014)::
 3976234::Sal in Ja (2014)::Drama|Thriller
+4007554::Terror at the Mall (2014)::Documentary|History
+4016942::Ghost in the Shell Arise: Border 4 - Ghost Stands Alone (2014)::Animation|Action|Sci-Fi
