@@ -70,5 +70,6 @@ in Collaborative Filtering Systems
 - [Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems](http://ceur-ws.org/Vol-1247/recsys14_poster7.pdf)
 - [An Extended Data Model Format for Composite Recommendation](http://ceur-ws.org/Vol-1247/recsys14_poster20.pdf)
 - [Improving IMDb Movie Recommendations with Interactive Settings and Filters](http://ceur-ws.org/Vol-1247/recsys14_poster19.pdf)
+- [ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research](http://people.stern.nyu.edu/padamopo/data/ConcertTweets.pdf)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
