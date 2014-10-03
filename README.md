@@ -67,5 +67,9 @@ in Collaborative Filtering Systems
 - [Social Popularity based SVD++ Recommender System](http://research.ijcaonline.org/volume87/number14/pxc3894033.pdf)
 - [Cold-Start Active Learning with Robust Ordinal Matrix Factorization](http://jmlr.org/proceedings/papers/v32/houlsby14-supp.zip)
 - [SemanticSVD++: Incorporating Semantic Taste Evolution for Predicting Ratings](http://www.lancaster.ac.uk/staff/rowem/files/mrowe-wi2014.pdf)
+- [Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems](http://ceur-ws.org/Vol-1247/recsys14_poster7.pdf)
+- [An Extended Data Model Format for Composite Recommendation](http://ceur-ws.org/Vol-1247/recsys14_poster20.pdf)
+- [Improving IMDb Movie Recommendations with Interactive Settings and Filters](http://ceur-ws.org/Vol-1247/recsys14_poster19.pdf)
+- [ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research](http://people.stern.nyu.edu/padamopo/data/ConcertTweets.pdf)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
