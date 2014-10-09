@@ -1,4 +1,5 @@
 0000008::Edison Kinetoscopic Record of a Sneeze (1894)::Documentary|Short
+0000010::La sortie des usines Lumière (1895)::Documentary|Short
 0000091::Le manoir du diable (1896)::Short|Horror
 0000417::Le voyage dans la lune (1902)::Short|Adventure|Fantasy
 0000628::The Adventures of Dollie (1908)::Action|Short
@@ -570,6 +571,7 @@
 0035608::Action in the North Atlantic (1943)::Drama|War
 0035616::Air Force (1943)::Action|Drama|History|War
 0035640::The Ape Man (1943)::Horror|Sci-Fi
+0035671::The Bells Go Down (1943)::Drama|War
 0035733::Chicken Little (1943)::Comedy|Family|Animation|Short
 0035751::The Constant Nymph (1943)::Drama|Music|Romance
 0035753::Le corbeau (1943)::Crime|Drama|Mystery
@@ -1595,6 +1597,7 @@
 0055928::Dr. No (1962)::Action|Adventure|Crime|Thriller
 0055930::Dr. Vidya (1962)::
 0055946::Eegah (1962)::Adventure|Fantasy
+0055950::Ilektra (1962)::Drama
 0055972::Experiment in Terror (1962)::Crime|Mystery|Thriller
 0055981::I fidanzati (1963)::Drama
 0055998::Freud (1962)::Biography|Drama
@@ -1897,6 +1900,7 @@
 0060472::Grand Prix (1966)::Drama|Sport
 0060474::La grande vadrouille (1966)::Comedy|War
 0060484::Sky West and Crooked (1965)::Drama|Romance
+0060490::Harper (1966)::Action|Crime|Drama
 0060491::Hawaii (1966)::Drama
 0060498::Helicopter Canada (1969)::Documentary
 0060522::How to Steal a Million (1966)::Comedy|Crime|Romance
@@ -2760,6 +2764,7 @@
 0074483::The Enforcer (1976)::Action|Thriller
 0074486::Eraserhead (1977)::Fantasy|Horror|Sci-Fi
 0074512::Family Plot (1976)::Comedy|Thriller
+0074540::The Food of the Gods (1976)::Sci-Fi|Horror
 0074554::The Front (1976)::Comedy|Drama
 0074559::Futureworld (1976)::Thriller|Sci-Fi
 0074584::Le grand escogriffe (1976)::Comedy
@@ -3052,6 +3057,7 @@
 0079261::Hair (1979)::Comedy|Drama|Musical
 0079285::Saturn 3 (1980)::Adventure|Sci-Fi|Thriller
 0079300::The Hollywood Strangler Meets the Skid Row Slasher (1979)::Crime|Drama|Horror
+0079320::Les héroïnes du mal (1979)::Drama
 0079322::I... comme Icare (1979)::Crime|Drama|Mystery
 0079367::The Jerk (1979)::Comedy
 0079417::Kramer vs. Kramer (1979)::Drama
@@ -6342,6 +6348,7 @@
 0131369::Edtv (1999)::Comedy
 0131409::Geri's Game (1997)::Animation|Short|Family
 0131436::I Got the Hook Up (1998)::Comedy
+0131449::Kiss of the Tarantula (1976)::Horror
 0131543::Portrait in Terror (1965)::Crime|Horror|Mystery|Thriller
 0131566::Rogue Trader (1999)::Crime|Drama|History|Thriller
 0131646::Wing Commander (1999)::Action|Adventure|Sci-Fi
@@ -6727,6 +6734,7 @@
 0176269::Universal Soldier: The Return (1999)::Action|Sci-Fi
 0176426::All the Rage (1999)::Drama
 0176783::Gossip (2000)::Drama|Mystery|Thriller
+0176948::Love and Action in Chicago (1999)::Romance|Comedy
 0177507::Absolute Giganten (1999)::Comedy|Drama|Romance
 0177789::Galaxy Quest (1999)::Adventure|Comedy|Sci-Fi
 0177858::Im Juli. (2000)::Adventure|Comedy|Romance
@@ -7741,6 +7749,7 @@
 0288477::Ghost Ship (2002)::Horror|Mystery|Thriller
 0288861::Van God Los (2003)::Crime|Drama
 0289043::28 Days Later... (2002)::Horror|Sci-Fi|Thriller
+0289181::Failan (2001)::Drama|Romance
 0289229::Hukkle (2002)::Crime|Mystery|Drama
 0289408::The Powerpuff Girls (2002)::Animation|Action|Adventure|Comedy|Drama|Family|Fantasy|Sci-Fi
 0289432::Santa Maradona (2001)::Comedy
@@ -8417,6 +8426,7 @@
 0362270::The Life Aquatic with Steve Zissou (2004)::Adventure|Comedy|Drama
 0362387::2LDK (2003)::Drama|Horror|Thriller
 0362412::Ant Muzak (2002)::Comedy|Short
+0362421::Ash Tuesday (2003)::Comedy|Drama
 0362478::The Box (2009)::Drama|Mystery|Sci-Fi|Thriller
 0362590::Employee of the Month (2004)::Comedy|Drama
 0363143::Trauma (2004)::Drama|Horror|Mystery|Thriller
@@ -10164,6 +10174,7 @@
 0765010::Brothers (2009)::Drama|Thriller|War
 0765120::My Blueberry Nights (2007)::Drama|Romance
 0765128::Océans (2009)::Documentary|Drama
+0765263::Un ami parfait (2006)::Crime|Thriller
 0765429::American Gangster (2007)::Biography|Crime|Drama
 0765430::American Zombie (2007)::Comedy|Horror
 0765432::Der Baader Meinhof Komplex (2008)::Action|Biography|Crime|Drama|History
@@ -16952,6 +16963,7 @@
 2520772::Miniyamba (2012)::Animation|Short
 2521188::Pod Mocnym Aniolem (2014)::Drama
 2521404::The Book of Esther (2013)::Drama
+2521436::Preston Castle (2012)::Horror
 2522328::Shutter (2012)::Thriller
 2523426::Ditch (2013)::Horror|Thriller
 2523600::Viva la libertà (2013)::Drama
@@ -17478,6 +17490,7 @@
 2842128::Cargo (2013)::Short|Drama|Fantasy|Horror
 2842470::Asu Mare (2013)::Biography|Comedy
 2843936::Lemonade (2013)::Short|Comedy|Family
+2844798::Fehér Isten (2014)::Drama
 2845578::War Story (2014)::Drama
 2845780::McConkey (2013)::Documentary|Adventure|Biography|Sport
 2846414::Night of Champions (2013)::Action
@@ -18273,6 +18286,7 @@
 3542190::Duality (2014)::Short|Drama
 3546370::Road (2014)::Documentary|Sport
 3547106::Don't Be Tired! (2013)::Drama|Family
+3549508::Time Is Illmatic (2014)::Documentary
 3552336::Old Habits (2013)::Short|Comedy|Drama
 3554418::Khoobsurat (2014)::Comedy|Romance
 3554858::Inam (2014)::War
@@ -18302,7 +18316,7 @@
 3608654::The Coed and the Zombie Stoner (2014)::Comedy
 3608838::Dreamworks Spooky Stories (2012)::
 3608848::NOW: In the Wings on a World Stage (2014)::Documentary
-3612616::Mommy (2014)::
+3612616::Mommy (2014)::Drama
 3614516::Ankhon Dekhi (2013)::Drama
 3621288::Legok na pomine (2014)::Comedy
 3621802::Muerte en Buenos Aires (2014)::Crime|Drama|Romance
