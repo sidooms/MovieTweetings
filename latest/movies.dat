@@ -541,12 +541,14 @@
 0034862::Holiday Inn (1942)::Comedy|Drama|Musical|Romance
 0034881::I Married a Witch (1942)::Comedy|Fantasy|Romance
 0034883::I Was Framed (1942)::Action|Adventure|Crime
+0034890::In This Our Life (1942)::Drama
 0034891::In Which We Serve (1942)::Drama|War
 0034922::Journey Into Fear (1943)::Drama|Film-Noir|Thriller
 0034978::Listen to Britain (1942)::Documentary|Short
 0035015::The Magnificent Ambersons (1942)::Drama|Romance
 0035017::La main du diable (1943)::Fantasy|Horror
 0035093::Mrs. Miniver (1942)::Drama|Romance|War
+0035096::The Mummy's Tomb (1942)::Action|Adventure|Drama
 0035105::My Sister Eileen (1942)::Comedy
 0035140::Now, Voyager (1942)::Drama|Romance
 0035153::One of Our Aircraft Is Missing (1942)::Action|Drama|War
@@ -594,6 +596,7 @@
 0036126::Madame Curie (1943)::Biography|Drama|Romance
 0036135::The Man in Grey (1943)::Drama|History|Romance
 0036154::Meshes of the Afternoon (1943)::Short
+0036174::Mr. Lucky (1943)::Comedy|Romance
 0036189::Mystery of the 13th Guest (1943)::Crime|Mystery
 0036217::The North Star (1943)::Drama|Musical|Romance|War
 0036233::Old Mother Riley Detective (1943)::Comedy
@@ -2920,6 +2923,7 @@
 0076729::Smokey and the Bandit (1977)::Action|Comedy|Crime|Romance
 0076734::Soldaat van Oranje (1977)::Drama|War
 0076740::Sorcerer (1977)::Action|Adventure|Thriller
+0076741::La Soufrière - Warten auf eine unausweichliche Katastrophe (1977)::Documentary|Short|Biography
 0076752::The Spy Who Loved Me (1977)::Action|Adventure|Crime|Thriller
 0076755::The Squeeze (1977)::Crime|Drama
 0076759::Star Wars (1977)::Action|Adventure|Fantasy|Sci-Fi
@@ -3041,6 +3045,7 @@
 0078880::Bloodrage (1979)::Crime|Thriller|Horror
 0078902::Breaking Away (1979)::Comedy|Drama|Sport
 0078908::The Brood (1979)::Horror|Sci-Fi
+0078915::The Bugs Bunny/Road-Runner Movie (1979)::Animation|Family|Music
 0078925::Il cacciatore di squali (1979)::Adventure
 0078935::Cannibal Holocaust (1980)::Adventure|Drama|Horror
 0078936::Mondo cannibale (1980)::Horror
@@ -3264,6 +3269,7 @@
 0082237::Dawn of the Mummy (1981)::Horror
 0082242::Dead & Buried (1981)::Horror
 0082243::Strange Behavior (1981)::Horror|Mystery|Sci-Fi
+0082245::Deadly Blessing (1981)::Horror|Mystery|Thriller
 0082247::Death Hunt (1981)::Action|Adventure|Crime|Thriller
 0082250::Death Wish II (1982)::Action|Crime|Drama|Thriller
 0082252::The Decline of Western Civilization (1981)::Documentary|History|Music
@@ -3518,6 +3524,7 @@
 0085412::Deal of the Century (1983)::Comedy|Crime
 0085420::Delitto in formula Uno (1984)::Comedy|Crime|Thriller
 0085461::The Dresser (1983)::Drama
+0085475::Eddie and the Cruisers (1983)::Drama|Mystery|Music
 0085478::Educating Rita (1983)::Drama|Comedy
 0085482::El Norte (1983)::Adventure|Drama|Thriller
 0085496::Entre tinieblas (1983)::Comedy|Drama
@@ -4526,6 +4533,7 @@
 0098160::The Rachel Papers (1989)::Drama|Romance
 0098168::Ram Lakhan (1989)::Action|Drama|Family
 0098180::Red Scorpion (1988)::Action|Adventure
+0098193::The Return of Swamp Thing (1989)::Sci-Fi|Horror|Comedy
 0098206::Road House (1989)::Action|Thriller
 0098213::Roger & Me (1989)::Documentary|History
 0098219::Romero (1989)::Biography|Drama
@@ -6403,6 +6411,7 @@
 0134619::Disturbing Behavior (1998)::Horror|Mystery|Sci-Fi
 0134756::Kabe atsuki heya (1956)::Drama
 0134847::Pitch Black (2000)::Action|Sci-Fi|Thriller
+0134900::Police (1958)::Action
 0134983::Supernova (2000)::Horror|Sci-Fi|Thriller
 0135007::Tre uomini e una gamba (1997)::Comedy
 0135033::Veneno para las hadas (1984)::Drama|Fantasy|Horror
@@ -7359,6 +7368,7 @@
 0252245::Atla gel Saban (1984)::Comedy|Crime|Drama
 0252249::Avanak Apti (1978)::Comedy
 0252277::Bichhoo (2000)::Thriller|Action|Crime
+0252299::Buffalo Soldiers (2001)::Comedy|Crime|Drama
 0252360::Davaci (1986)::Comedy|Drama
 0252361::Davaro (1981)::Adventure|Comedy|Drama
 0252388::Doktor civanim (1982)::Comedy
@@ -7466,6 +7476,8 @@
 0259744::Ye ben (2000)::Drama|Romance
 0259836::Age 13 (1955)::Drama|Short
 0259898::Boys Beware (1961)::Drama|Short
+0259964::A Day of Thanksgiving (1951)::Drama|Short
+0260221::Narcotics: Pit of Despair (1967)::Drama|Short
 0260332::Roozi ke zan shodam (2000)::Comedy|Drama
 0260337::Sadaa Suhagan (1986)::Family|Drama|Romance
 0260775::Calle 54 (2000)::Documentary|Music
@@ -10538,6 +10550,7 @@
 0838232::The Pink Panther 2 (2009)::Adventure|Comedy|Crime|Mystery
 0838247::After.Life (2009)::Drama|Horror|Mystery|Thriller
 0838283::Step Brothers (2008)::Comedy
+0839742::Bhopal: A Prayer for Rain (2013)::Drama|History
 0839880::Lake Dead (2007)::Horror|Thriller
 0839938::Out of the Blue (2006)::Crime|Drama
 0839980::Semi-Pro (2008)::Comedy|Sport
@@ -14428,6 +14441,7 @@
 1817676::Girl in Progress (2012)::Comedy|Drama
 1819513::Dreams of a Life (2011)::Documentary|Biography|Drama
 1819601::Miss Dial (2013)::Comedy
+1820400::Black &amp; White &amp; Sex (2012)::Drama
 1820488::Rebelle (2012)::Drama|War
 1821362::Case départ (2011)::Comedy
 1821426::Family Weekend (2013)::Comedy|Drama|Family
@@ -18083,6 +18097,7 @@
 3230970::Efekt domina (2014)::Documentary|Family
 3232156::Pandiya Naadu (2013)::Action
 3235148::Yamamori clip koujou no atari (2013)::
+3235888::It Follows (2014)::Horror
 3237406::Tutta colpa di Freud (2014)::Comedy
 3238338::Tierra en la Lengua (2014)::Drama
 3241906::Kroab Pich (2013)::Adventure|Comedy|Thriller
@@ -18274,6 +18289,7 @@
 3462696::Tekken: A Man Called X (2014)::Action
 3462892::Hallåhallå (2014)::Comedy
 3463940::Kadin Isi Banka Soygunu (2014)::Comedy
+3465916::Kreuzweg (2014)::Drama
 3469386::Bride for Rent (2014)::Comedy|Romance
 3469420::Love Child (2014)::Documentary|Crime|News
 3469440::Z Storm (2014)::Action|Crime
@@ -18365,6 +18381,7 @@
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Music
 3587466::Jaguar: Rendezvous (2014)::Short|Action
 3589450::Mon-seu-teo (2014)::Action
+3590482::Bey Yaar (2014)::Drama
 3593298::Broadway Lofts (2014)::Drama
 3594510::Ammar (2014)::Horror
 3596272::Examen d'état (2014)::Documentary|History
@@ -18375,6 +18392,7 @@
 3608654::The Coed and the Zombie Stoner (2014)::Comedy
 3608838::Dreamworks Spooky Stories (2012)::
 3608848::NOW: In the Wings on a World Stage (2014)::Documentary
+3612032::Wrong Turn 6: Last Resort (2014)::Horror
 3612616::Mommy (2014)::Drama
 3614516::Ankhon Dekhi (2013)::Drama
 3621288::Legok na pomine (2014)::Comedy
@@ -18446,6 +18464,7 @@
 3802668::Govindudu Andari Vaadele (2014)::Drama
 3804332::Red Alert (2014)::Documentary|Short|Comedy
 3805180::Vsyo i srazu (2014)::Comedy|Crime
+3807088::Under the Dome: Inside Chester's Mill (2014)::Documentary
 3812730::A Midsummer Night's Dream (2014)::Comedy
 3817848::Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles (2014)::Documentary
 3820346::Wonderbroeders (2014)::Comedy
