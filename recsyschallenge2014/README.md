@@ -2,7 +2,7 @@
 
 This dataset is an extended version of the MovieTweetings dataset. So data also originated from users of the IMDb iOS app that rated movies and shared the rating on Twitter. By querying the Twitter API on a daily basis for tweets containing the keywords '*I rated #IMDb*', tweets were collected and relevant information was extracted. For more information on the MovieTweetings dataset see [this github website](https://github.com/sidooms/MovieTweetings), [this slideshare presentation](http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter) or [this paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf).
 
-The dataset was used in the ACM RecSys Challenge 2014 which focused on *user engagement as evaluation*. Please cite the following papers if you make use of this dataset. Some introduction slides about the dataset and the challenge are available on [slideshare](http://www.slideshare.net/simondooms/rec-syschallenge2014intro). For more information we refer to the [ACM RecSys Challenge 2014 website](http://2014.recsyschallenge.com).
+The dataset was used in the ACM RecSys Challenge 2014 which focused on *user engagement as evaluation*. Please cite the following papers if you make use of this dataset. Some introduction slides about the dataset and the challenge are available on [slideshare](http://www.slideshare.net/simondooms/rec-syschallenge2014intro). For more information about the challenge we refer to the [ACM RecSys Challenge 2014 website](http://2014.recsyschallenge.com).
 
     @inproceedings{Said:2014:RSC:2645710.2645779,
     author = {Said, Alan and Dooms, Simon and Loni, Babak and Tikk, Domonkos},
