@@ -224,3 +224,4 @@ Here's a complete script reading the training set, _empty file and generating a 
         print 'done.'
     
 
+That's it! Remember to follow me on [Twitter](https://twitter.com/sidooms) and tell me how much you like this. By the way, if you liked this you might also like my other Github projects: [Twitter-ratings](https://github.com/sidooms/Twitter-ratings) and [Recsys-frontend](https://github.com/sidooms/Recsys-frontend).
