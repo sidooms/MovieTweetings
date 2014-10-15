@@ -75,7 +75,7 @@ twitter user id,IMDb item id,rating,scraping timestamp,tweet data
     </tr>
     <tr>
         <td>Tweet data</td>
-        <td>The tweet metadata in [JSON](http://en.wikipedia.org/wiki/JSON) format. Includes all data available through the Twitter API except for the tweet text itself (set to empty string).</td>
+        <td>The tweet metadata in JSON format. Includes all data available through the Twitter API except for the tweet text itself (set to empty string).</td>
     </tr>
 </table>
 
