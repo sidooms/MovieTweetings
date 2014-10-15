@@ -54,7 +54,7 @@ The training set consists of the first 80% tweets and could be used as input for
 ##The training set (for training)
 Consists of 1 file: **training.dat**. The file is CSV formatted with every line containing the following information:
 
-twitter user id**,**IMDb item id**,**rating**,**scraping timestamp**,**tweet data
+twitter user id,IMDb item id,rating,scraping timestamp,tweet data
 
 <table>
     <tr>
@@ -97,20 +97,31 @@ Again similarly structured as the **test.dat** and **training.dat** files, but h
 ###test_solution.dat
 The solution file for the **test_empty.dat** file. It reflects what the result should be, given the **test_empty.dat** file. The file is CSV formatted with every line containing the following information:
 
-userid**,**tweetid**,**engagement
+userid,tweetid,engagement
 
-- *Userid*: The Twitter userid. 
-- *Tweetid*: The id of the tweet itself. Can be found in the tweet data as the *id* field (e.g., 307139025897152512 in the above example tweet JSON data).
-- *Engagement*: The sum of the two fields: *favorite_count* and *retweet_count*, indicating the engagement of the tweet.
+<table>
+    <tr>
+        <td>Userid</td>
+        <td>The Twitter userid.</td>
+    </tr>
+    <tr>
+        <td>Tweetid</td>
+        <td>The id of the tweet itself. Can be found in the tweet data as the *id* field (e.g., 307139025897152512 in the above example tweet JSON data).</td>
+    </tr>
+    <tr>
+        <td>Engagement</td>
+        <td>The sum of the two fields: *favorite_count* and *retweet_count*, indicating the engagement of the tweet.</td>
+    </tr>
+</table>
 
-The file is sorted on userid (descending), then on engagement (descending), then on tweetid (descending). It contains all users contained in the **test_empty.dat** file and ranks all contained tweets by engagement. The weekly evaluation score is calculated by comparing this file with your own solution using the nDCG ranking metric.
+The file is sorted on userid (descending), then on engagement (descending), then on tweetid (descending). It contains all users contained in the **test_empty.dat** file and ranks all contained tweets by engagement. The weekly evaluation score is calculated by comparing this file with your own solution using the nDCG [RecSysChallenge Evaluator](https://github.com/recsyschallenge/RSChallengeEval/releases).
 
 ##The evaluation set (for final evaluation)
-The evaluation set consists of the final 10% of the tweets used in this challenge. Its tweets were posted chronologically after the ones contained in the training and test sets. At the end of the challenge, particpants will be provided with an **evaluation_empty.dat** file (structured similarly as the **test_empty.dat** file) and requested to generate a solution file (structured as **test_solution.dat**) which will be evaluated against the **evaluation_solution.dat** by the organizers to calculate the final score. The **evaluation_solution.dat** file is of course kept private.
+The evaluation set consists of the final 10% of the tweets used in the challenge. Its tweets were posted chronologically after the ones contained in the training and test sets. At the end of the challenge, particpants were provided with an **evaluation_empty.dat** file (structured similarly as the **test_empty.dat** file) and requested to generate a solution file (structured as **test_solution.dat**) which was evaluated against the **evaluation_solution.dat** by the organizers to calculate the final score. The **evaluation_solution.dat** file was of course kept private.
 
 #Python example code
 
-Some Python code to help you with the processing of the dataset. It reads the **training.dat** file and creates a List structure that contains the information.
+Here's some Python code that helps with the processing of the dataset. It reads the **training.dat** file and creates a List structure that contains the information.
 
 
     import json
@@ -135,7 +146,7 @@ Some Python code to help you with the processing of the dataset. It reads the **
                 tweets.append((user_id, item_id, rating, scraping_time, json_obj))
         return tweets
 
-Here's a complete script reading the training set, _empty file and generating a solution file. Engagement is determined by the random generator. This approach won't win the challenge, but it might serve as an example.
+Here's a complete script reading the training set, _empty file and generating a solution file. Engagement is determined by the random generator. This approach did not win the challenge obviously, but it may serve as an example.
 
     import json
     import random
