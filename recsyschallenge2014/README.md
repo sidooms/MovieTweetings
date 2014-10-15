@@ -114,7 +114,7 @@ userid,tweetid,engagement
     </tr>
 </table>
 
-The file is sorted on userid (descending), then on engagement (descending), then on tweetid (descending). It contains all users contained in the **test_empty.dat** file and ranks all contained tweets by engagement. The weekly evaluation score is calculated by comparing this file with your own solution using the nDCG [RecSysChallenge Evaluator](https://github.com/recsyschallenge/RSChallengeEval/releases).
+The file is sorted on userid (descending), then on engagement (descending), then on tweetid (descending). It contains all users contained in the **test_empty.dat** file and ranks all contained tweets by engagement. The weekly evaluation score was calculated by comparing this file with your own solution using the nDCG [RecSysChallenge Evaluator](https://github.com/recsyschallenge/RSChallengeEval/releases).
 
 ##The evaluation set (for final evaluation)
 The evaluation set consists of the final 10% of the tweets used in the challenge. Its tweets were posted chronologically after the ones contained in the training and test sets. At the end of the challenge, particpants were provided with an **evaluation_empty.dat** file (structured similarly as the **test_empty.dat** file) and requested to generate a solution file (structured as **test_solution.dat**) which was evaluated against the **evaluation_solution.dat** by the organizers to calculate the final score. The **evaluation_solution.dat** file was of course kept private.
