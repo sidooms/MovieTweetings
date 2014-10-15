@@ -1,6 +1,6 @@
 #The RecSys Challenge 2014 Dataset
 
-This dataset is an extended version of the MovieTweetings dataset. So data also originates from users of the IMDb iOS app that rated movies and shared the rating on Twitter. By querying the Twitter API on a daily basis for tweets containing the keywords '*I rated #IMDb*', tweets were collected and relevant information was extracted. For more information on the MovieTweetings dataset see [this github website](https://github.com/sidooms/MovieTweetings), [this slideshare presentation](http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter) or [this paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf).
+This dataset is an extended version of the MovieTweetings dataset. So data also originated from users of the IMDb iOS app that rated movies and shared the rating on Twitter. By querying the Twitter API on a daily basis for tweets containing the keywords '*I rated #IMDb*', tweets were collected and relevant information was extracted. For more information on the MovieTweetings dataset see [this github website](https://github.com/sidooms/MovieTweetings), [this slideshare presentation](http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter) or [this paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf).
 
 The dataset was used in the [ACM RecSys Challenge 2014](http://2014.recsyschallenge.com) which focused on *user engagement as evaluation*. Please cite the following papers if you make use of this dataset.
 
@@ -29,7 +29,7 @@ The dataset was used in the [ACM RecSys Challenge 2014](http://2014.recsyschalle
     year = {2013}
     }
 
-In its original form MovieTweetings contained only user ids, item ids, ratings and timestamps similar to the well-known MovieLens dataset. For this challenge however, all of the metadata of the tweets (as provided by the [Twitter API](https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid)) was provided, allowing us to focus on the *engagement* of the ratings in the form of *retweet* and *favorites* counts. The goal of the challenge was to rank the tweets (for each user) by engagement which was defined as being the sum of the number of retweets and favorites obtained by a tweet. 
+In its original form MovieTweetings contained only user ids, item ids, ratings and timestamps similar to the well-known MovieLens dataset. For the challenge however, all of the metadata of the tweets (as provided by the [Twitter API](https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid)) was provided, allowing us to focus on the *engagement* of the ratings in the form of *retweet* and *favorites* counts. The goal of the challenge was to rank the tweets (for each user) by engagement which was defined as being the sum of the number of retweets and favorites obtained by a tweet. 
 
 #Statistics
 
