@@ -3008,6 +3008,7 @@
 0077904::The Manitou (1978)::Horror
 0077914::Martin (1976)::Drama|Horror
 0077928::Midnight Express (1978)::Crime|Drama|History
+0077942::Moment by Moment (1978)::Drama|Romance
 0077945::La montagna del dio cannibale (1978)::Adventure|Horror
 0077975::Animal House (1978)::Comedy|Romance
 0078073::Perceval le Gallois (1978)::Drama|Music|Romance|War
@@ -3327,6 +3328,7 @@
 0082671::Lola (1981)::Comedy|Drama
 0082677::Looker (1981)::Drama|Sci-Fi|Thriller
 0082694::Mad Max 2 (1981)::Action|Adventure|Sci-Fi|Thriller
+0082696::Madman (1982)::Horror|Thriller
 0082700::Cannibal ferox (1981)::Adventure|Horror
 0082714::Il marchese del Grillo (1981)::Comedy
 0082736::Mephisto (1981)::Drama
@@ -9747,6 +9749,7 @@
 0461694::Vier Minuten (2006)::Drama|Music
 0461703::Skinwalkers (2006)::Action|Fantasy|Horror
 0461770::Enchanted (2007)::Comedy|Family|Fantasy|Musical|Romance
+0461936::Don (2006)::Action|Comedy|Crime
 0462160::7eventy 5ive (2007)::Horror|Thriller
 0462193::The Beast of Bray Road (2005)::Horror
 0462197::Big Rig (2007)::Documentary
@@ -10976,6 +10979,7 @@
 0977637::Arte de Roubar (2008)::Action|Comedy|Crime
 0977642::Chega de Saudade (2007)::Drama|Musical|Romance
 0977645::La cámara oscura (2008)::Drama|Music
+0977669::The Vanguard (2008)::Action|Horror|Sci-Fi
 0977855::Fair Game (2010)::Biography|Drama|Thriller
 0978649::Mutluluk (2007)::Drama
 0978759::Frozen River (2008)::Crime|Drama
@@ -11261,6 +11265,7 @@
 1054580::Desert Flower (2009)::Biography|Drama
 1054588::Flash of Genius (2008)::Biography|Drama
 1054606::The Imaginarium of Doctor Parnassus (2009)::Adventure|Fantasy|Mystery
+1054677::As Melhores Coisas do Mundo (2010)::
 1055292::Life as We Know It (2010)::Comedy|Drama|Romance
 1055300::Hua pi (2008)::Action|Drama|Thriller
 1055369::Transformers: Revenge of the Fallen (2009)::Action|Adventure|Sci-Fi|Thriller
@@ -11799,6 +11804,7 @@
 1194417::Casino Jack (2010)::Biography|Comedy|Crime|Drama
 1194577::The Door (2012)::Drama
 1194612::Into Eternity: A Film for the Future (2010)::Documentary
+1194615::Lluvia (2008)::Drama|Romance
 1194624::Sun cheung sau (2009)::Action|Adventure|Crime|Drama|Thriller
 1194661::Ikigami (2008)::Drama
 1194664::Koizora (2007)::Drama|Romance
@@ -16091,6 +16097,7 @@
 2245884::Kiyosu kaigi (2013)::History
 2245888::Kôsoku bâba (2013)::Horror
 2246724::Ghanchakkar (2013)::Comedy|Crime|Romance|Thriller
+2246831::Love of my Life (2013)::Horror|Thriller
 2246887::Back in the Day (2014)::Comedy
 2246901::Pacific (2009)::Documentary
 2246907::Patient Zero (2012)::Action|Sci-Fi|Thriller
@@ -16141,6 +16148,7 @@
 2261719::Dzhungli (2012)::Adventure|Comedy
 2261749::La cage dorée (2013)::Comedy
 2262175::Svengali (2013)::Comedy
+2262227::The Book of Life (2014)::Animation|Adventure|Comedy
 2262270::Spud 2: The Madness Continues (2013)::Comedy
 2262952::Colpi di fulmine (2012)::Comedy
 2263058::More Than Honey (2012)::Documentary
@@ -16760,6 +16768,7 @@
 2403021::The Green Inferno (2013)::Adventure|Horror|Thriller
 2403029::The Starving Games (2013)::Comedy
 2403419::Para Elisa (2013)::Thriller
+2403558::Catch Hell (2014)::Drama|Thriller
 2403815::Aroused (2013)::Documentary
 2403880::Dziewczyna z szafy (2013)::Drama
 2403883::Hotel Noir (2012)::Crime|Drama
@@ -17014,6 +17023,7 @@
 2509270::Donsajni (2013)::Comedy
 2509850::The Rewrite (2014)::Comedy|Romance
 2509922::Where the Trail Ends (2013)::Documentary|Adventure|Drama|Sport
+2510028::Frontera (2014)::Drama|Western
 2510268::Blood of Redemption (2013)::Action|Crime|Drama|Thriller
 2510434::Alien Abduction (2014)::Horror|Sci-Fi|Thriller
 2510468::Your Day Is My Night (2012)::Documentary|History
@@ -17745,6 +17755,7 @@
 2960220::Arrobá (2013)::Comedy|Sci-Fi
 2960470::Why We Ride (2013)::Documentary|Family|History|Sport
 2961768::Moo-seo-woon I-ya-gi (2012)::Horror
+2962726::The Anomaly (2014)::Action|Sci-Fi
 2963768::Sarawat Maba (2013)::Action
 2966280::Klein Karoo (2013)::Romance
 2966298::The Sound of Belgium (2012)::Documentary|History|Music
@@ -18326,6 +18337,7 @@
 3469718::Fishing Without Nets (2014)::Thriller
 3469910::Bai ri yan huo (2014)::Crime|Drama|Mystery
 3472892::Sag Salim 2: Sil Bastan (2014)::Comedy
+3474994::Casa Grande (2014)::Drama
 3475002::Happily Ever After (2014)::Documentary|Drama|Romance
 3475504::Zaman Makinesi 1973 (2014)::Comedy
 3476372::The Other Side of the Heart Is White (2014)::Documentary
@@ -18483,6 +18495,7 @@
 3753892::Werka (2014)::Documentary
 3754976::Elephant Song (2014)::
 3767246::Poddubnyy (2014)::Biography
+3774870::Utóélet (2014)::
 3776288::Sniper: Legacy (2014)::Action
 3776658::This Is Not a Ball (2014)::Documentary
 3782876::Código Paz (2014)::Action
@@ -18518,8 +18531,10 @@
 3918558::The Blame Game (2013)::Short|Drama
 3918858::Press COOK (2014)::Short|Comedy|Drama
 3919082::André Rieu's 2014 Maastricht Concert (2014)::Music
+3921136::Hard to Get (2014)::Action|Romance
 3949630::Anukshanam (2014)::
 3954222::Männerhort (2014)::Comedy
+3970854::La Dictadura Perfecta (2014)::Comedy|Drama
 3976234::Sal in Ja (2014)::Drama|Thriller
 3992296::Gawazah Miri (2014)::Comedy
 4007554::Terror at the Mall (2014)::Documentary|History
