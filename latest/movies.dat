@@ -2,6 +2,7 @@
 0000010::La sortie des usines Lumière (1895)::Documentary|Short
 0000091::Le manoir du diable (1896)::Short|Horror
 0000417::Le voyage dans la lune (1902)::Short|Adventure|Fantasy
+0000439::The Great Train Robbery (1903)::Short|Western
 0000628::The Adventures of Dollie (1908)::Action|Short
 0000833::The Country Doctor (1909)::Short|Drama
 0001223::Frankenstein (1910)::Short|Horror|Sci-Fi
@@ -2633,6 +2634,7 @@
 0071607::Herbie Rides Again (1974)::Comedy|Family|Fantasy
 0071613::Holiday on the Buses (1973)::Comedy
 0071615::The Holy Mountain (1973)::Drama
+0071626::The House That Cried Murder (1973)::Horror|Thriller
 0071627::The House of Seven Corpses (1974)::Horror
 0071628::House of Whipcord (1974)::Horror
 0071671::The Island at the Top of the World (1974)::Adventure|Family|Fantasy
@@ -2642,6 +2644,7 @@
 0071696::Jingi naki tatakai: Chojo sakusen (1974)::Action|Crime|Drama
 0071706::Juggernaut (1974)::Action|Thriller
 0071721::Klansman (1974)::Crime|Drama|Thriller
+0071733::Lacombe Lucien (1974)::Drama|War
 0071746::Lenny (1974)::Biography|Comedy|Drama
 0071771::The Longest Yard (1974)::Comedy|Crime|Drama|Sport
 0071772::The Lord's of Flatbush (1974)::Comedy|Drama|Romance
@@ -5059,6 +5062,7 @@
 0105212::Rage and Honor (1992)::Action|Crime|Drama
 0105217::Raising Cain (1992)::Crime|Drama|Horror|Thriller
 0105219::Rapid Fire (1992)::Action|Crime|Drama|Thriller
+0105223::Rebyonok k noyabryu (1992)::Comedy|Musical
 0105226::Red Rock West (1993)::Crime|Drama|Thriller
 0105236::Reservoir Dogs (1992)::Crime|Thriller
 0105265::A River Runs Through It (1992)::Drama
@@ -5093,6 +5097,7 @@
 0105698::Universal Soldier (1992)::Action|Drama|Sci-Fi
 0105712::Utz (1992)::Drama
 0105714::Uzlasma (1992)::Drama
+0105717::Vacanze di Natale '91 (1991)::Comedy
 0105764::Visions of Light (1992)::Documentary|History
 0105793::Wayne's World (1992)::Comedy|Music
 0105812::White Men Can't Jump (1992)::Comedy|Drama|Sport
@@ -5212,6 +5217,7 @@
 0107664::Necronomicon (1993)::Horror
 0107665::Needful Things (1993)::Crime|Drama|Fantasy|Horror|Thriller
 0107666::The Neighbor (1993)::Thriller|Horror
+0107668::Nemesis (1992)::Action|Sci-Fi|Thriller
 0107688::The Nightmare Before Christmas (1993)::Animation|Family|Fantasy|Musical
 0107692::Jûbê ninpûchô (1993)::Animation|Action|Adventure|Fantasy|Thriller
 0107711::Nowhere to Run (1993)::Action|Romance|Drama
@@ -5367,6 +5373,7 @@
 0110006::Heavy Weights (1995)::Comedy|Drama|Family|Sport
 0110008::Heisei tanuki gassen ponpoko (1994)::Animation|Comedy|Drama|Fantasy
 0110027::Highlander III: The Sorcerer (1994)::Fantasy|Sci-Fi|Action
+0110052::Hong Kong 97 (1994)::Action|Drama|Thriller
 0110057::Hoop Dreams (1994)::Documentary|Drama|Sport
 0110064::House Party 3 (1994)::Comedy|Music|Romance
 0110066::Houseguest (1995)::Comedy
@@ -6112,6 +6119,7 @@
 0119668::Midnight in the Garden of Good and Evil (1997)::Comedy|Crime|Drama|Mystery|Thriller
 0119670::The Mighty (1998)::Comedy|Drama
 0119675::Mimic (1997)::Horror|Sci-Fi
+0119682::Mission to Mir (1997)::Documentary|Short
 0119683::Les Misérables (1998)::Crime|Drama|History|Romance|Thriller
 0119695::Money Talks (1997)::Action|Comedy|Crime|Thriller
 0119698::Mononoke-hime (1997)::Animation|Adventure|Fantasy
@@ -6210,6 +6218,7 @@
 0120478::Star Kid (1997)::Adventure|Sci-Fi|Family
 0120483::The Man Who Knew Too Little (1997)::Action|Comedy|Crime|Thriller
 0120484::The Waterboy (1998)::Comedy|Sport
+0120490::Welcome to Sarajevo (1997)::Drama|War
 0120510::Wide Awake (1998)::Comedy|Drama|Family
 0120512::Wild America (1997)::Action|Adventure|Comedy
 0120520::The Wings of the Dove (1997)::Drama|Romance
@@ -10297,6 +10306,7 @@
 0765447::Evening (2007)::Drama|Romance
 0765469::El pasado (2007)::Drama|Romance
 0765476::Meet Dave (2008)::Adventure|Comedy|Family|Romance|Sci-Fi
+0768183::Day Zero (2007)::Drama
 0768212::The Last Mimzy (2007)::Family|Sci-Fi
 0768222::Night of the Templar (2012)::Action|Comedy|Drama|History|Horror|Mystery|Sci-Fi|Thriller
 0768830::Escort (2006)::Thriller
@@ -17443,6 +17453,7 @@
 2659414::Miracle in Cell No.7 (2013)::Comedy|Drama
 2660068::Gudu (2013)::Documentary|Family
 2660332::LFO: The Movie (2013)::Drama|Sci-Fi
+2661644::Über-Ich und Du (2014)::Comedy
 2663738::Keu Namjaui Chak 198Jjeuk (2008)::Romance
 2663744::Assassins Tale (2013)::Crime
 2664080::Eventyrland (2013)::Drama
@@ -17517,6 +17528,7 @@
 2721712::La herida (2013)::Drama
 2722442::Small Town (2013)::Drama
 2723138::Zyvie Belarus (2013)::Drama
+2723240::Zeit der Kannibalen (2014)::Drama
 2724972::Truth Among Men (2013)::Short|Drama
 2725962::What We Did on Our Holiday (2014)::Comedy
 2726082::It's Me, It's Me (2012)::Drama|Sci-Fi|Thriller
@@ -17846,6 +17858,7 @@
 2959222::Best Man (2013)::Short|Comedy|Drama
 2960220::Arrobá (2013)::Comedy|Sci-Fi
 2960270::Love Steaks (2013)::Comedy|Drama|Romance
+2960450::The Galapagos Affair: Satan Came to Eden (2013)::Documentary|Biography|Crime
 2960470::Why We Ride (2013)::Documentary|Family|History|Sport
 2960930::Extraterrestrial (2014)::Horror|Sci-Fi
 2961768::Moo-seo-woon I-ya-gi (2012)::Horror
@@ -18343,6 +18356,7 @@
 3348102::Stereo (2014)::Thriller
 3351452::Prachathipa'Thai (2013)::Documentary
 3357388::El Pelotudo (2014)::Comedy
+3358470::Soap Opera (2014)::Comedy
 3358490::Caserta Palace Dream (2014)::Short|Drama|History
 3359290::Bobby Jasoos (2014)::Comedy|Drama|Thriller
 3369750::Nadodi Mannan (2013)::Drama
@@ -18366,10 +18380,12 @@
 3390572::Haider (2014)::Drama
 3392330::Short Peace (2013)::Animation|Fantasy|Sci-Fi
 3393070::Android Cop (2014)::Action|Sci-Fi
+3394564::Decor (2014)::Drama
 3395608::021 (2014)::Action|Thriller
 3397026::Senin Hikayen (2013)::Drama
 3398052::Daawat-e-Ishq (2014)::Comedy|Drama|Romance
 3398268::Omoide no Marnie (2014)::Animation|Drama
+3399024::Samba (2014)::Comedy|Drama
 3399154::Shallow Yellow Sky (2013)::Drama|Mystery|Thriller
 3399454::Hatuli Ragel (2013)::Comedy|Romance
 3399740::The Retrieval (2014)::Short|Thriller
@@ -18448,6 +18464,7 @@
 3478046::Eyyvah Eyvah 3 (2014)::Comedy
 3478444::I AM Hardwell Documentary (2013)::Documentary|Music
 3480158::Retour à Ithaque (2014)::
+3481826::Top Girl oder La déformation professionnelle (2014)::
 3482790::Fucking Different XXY (2014)::Documentary
 3483596::O Teri (2014)::Comedy|Drama
 3483646::Bewakoofiyaan (2014)::Comedy|Drama|Romance
@@ -18509,6 +18526,7 @@
 3552336::Old Habits (2013)::Short|Comedy|Drama
 3554418::Khoobsurat (2014)::Comedy|Romance
 3554858::Inam (2014)::War
+3557464::Print the Legend (2014)::Documentary|Biography|Drama
 3558190::Vishudhan (2013)::Crime|Drama
 3558196::W. - Witse de film (2014)::Crime
 3563156::Anjaan (2014)::Action|Drama|Romance
@@ -18631,6 +18649,7 @@
 3871798::Obywatel (2014)::Comedy|Drama|History
 3882508::El que mucho abarca (2014)::Romance
 3884216::This Is My Land (2014)::Documentary|History
+3885736::Munnariyippu (2014)::Thriller
 3886722::Dabbe 5: Zehr-i Cin (2014)::Horror
 3889036::Nixon by Nixon: In His Own Words (2014)::Documentary
 3894190::Anime nere (2014)::Drama
@@ -18653,6 +18672,7 @@
 4016942::Ghost in the Shell Arise: Border 4 - Ghost Stands Alone (2014)::Animation|Action|Sci-Fi
 4035840::Project X (2003)::Drama
 4036084::Murphy (2014)::Short|Comedy
+4057438::La muerte de Jaime Roldós (2013)::Documentary
 4067084::El Gezira 2 (2014)::Action
 4079776::Uganda Be Kidding Me Live (2014)::Comedy
 4081260::Sluzby specjalne (2014)::Action|Crime|Drama
