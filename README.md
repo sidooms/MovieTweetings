@@ -1,7 +1,9 @@
 #MovieTweetings
 ##A Movie Rating Dataset Collected From Twitter
 
-MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and has been presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the corresponding [paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) if you make use of this dataset. The presented slides can be found on [slideshare] (http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter). Daily updated statistics and visualizations are available [here](http://wicaserv5.intec.ugent.be/mt/). [Follow us on Twitter](https://twitter.com/mvtweetings) for the latest news, info and fun facts about the dataset.
+MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and has been presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the [corresponding paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) if you make use of this dataset. The presented slides can be found [on slideshare] (http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter). 
+
+Daily updated statistics and visualizations are [available here](http://www.themoviebrain.com/otherprojects/mt/). [Follow us on Twitter](https://twitter.com/mvtweetings) for the latest news, info and fun facts about the dataset.
 
     @conference{Dooms13crowdrec,
     author = {Dooms, Simon and De Pessemier, Toon and Martens, Luc},
