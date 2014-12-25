@@ -16,9 +16,11 @@
 0004972::The Birth of a Nation (1915)::Drama|History|Romance|War
 0005078::The Cheat (1915)::Drama
 0005530::L'héroïsme de Paddy (1915)::
+0006414::Behind the Screen (1916)::Short|Comedy|Romance
 0006684::The Fireman (1916)::Short|Comedy
 0006689::The Floorwalker (1916)::Short|Comedy
 0007264::The Rink (1916)::Comedy|Short
+0007832::The Cure (1917)::Short|Comedy
 0007880::Easy Street (1917)::Short|Comedy
 0008133::The Immigrant (1917)::Short|Comedy|Drama|Romance
 0008395::Otets Sergiy (1918)::Biography|Drama|History
@@ -136,6 +138,7 @@
 0020030::The Iron Mask (1929)::Adventure|Drama|History
 0020142::The Manxman (1929)::Drama|Romance
 0020161::Men O'War (1929)::Short|Comedy|Family
+0020163::Menschen am Sonntag (1930)::Comedy|Drama|Romance
 0020264::Perfect Day (1929)::Short|Comedy
 0020475::Tagebuch einer Verlorenen (1929)::Drama
 0020487::That's My Wife (1929)::Comedy|Short
@@ -4791,6 +4794,7 @@
 0099423::Die Hard 2 (1990)::Action|Crime|Thriller
 0099472::DuckTales: The Movie - Treasure of the Lost Lamp (1990)::Animation|Adventure|Comedy|Family|Fantasy
 0099487::Edward Scissorhands (1990)::Drama|Fantasy|Romance
+0099496::Elves (1989)::Horror
 0099512::Ernest Goes to Jail (1990)::Comedy|Crime|Family
 0099523::Evil Spirits (1990)::Horror
 0099528::The Exorcist III (1990)::Horror|Mystery|Thriller
@@ -7279,6 +7283,7 @@
 0208990::La stanza del figlio (2001)::Drama
 0208993::New York Beat Movie (1981)::Biography|Comedy|Drama
 0208995::Gojitmal (1999)::Drama
+0209037::Iedereen beroemd! (2000)::Comedy|Drama|Music
 0209077::Ken Park (2002)::Drama
 0209144::Memento (2000)::Mystery|Thriller
 0209163::The Mummy Returns (2001)::Action|Adventure|Fantasy
@@ -8691,6 +8696,7 @@
 0355954::Riding the Bullet (2004)::Horror|Thriller
 0356150::EuroTrip (2004)::Adventure|Comedy
 0356159::Hellbent (2004)::Horror|Thriller
+0356211::Yuvathurki (1996)::
 0356443::The Bridge of San Luis Rey (2004)::Drama|Romance
 0356470::A Cinderella Story (2004)::Comedy|Family|Romance
 0356614::Foolproof (2003)::Action|Comedy|Crime|Thriller
@@ -16117,6 +16123,7 @@
 2140429::Stalled (2013)::Comedy|Horror
 2140577::The Pretty One (2013)::Comedy|Drama
 2140619::Two Night Stand (2014)::Comedy|Romance
+2140631::María Montez: La película (2014)::Drama
 2140671::Wither (2012)::Horror
 2141717::Entre les Bras (2012)::Documentary|Family
 2141751::God Help the Girl (2014)::Drama|Musical|Romance
@@ -17354,6 +17361,7 @@
 2445148::El Teniente Amado (2013)::Drama
 2445556::B-Side (2013)::Comedy|Romance
 2445698::Entre Nós (2013)::Drama
+2446042::Taken 3 (2015)::Action|Crime|Thriller
 2446192::Bronies: The Extremely Unexpected Adult Fans of My Little Pony (2012)::Documentary
 2446502::Zombie Hunter (2013)::Action|Thriller
 2446600::Next Goal Wins (2014)::Documentary|Sport
@@ -17479,6 +17487,7 @@
 2504308::Mördaren ljuger inte ensam (2013)::Crime
 2504404::Wolf (2013)::Crime|Drama|Thriller
 2504580::Soulmate (2013)::Mystery
+2505294::Ask Me Anything (2014)::Drama|Mystery|Thriller
 2505346::Bad Karma (2013)::Short|Comedy
 2505856::Infliction (2013)::Horror
 2505938::Good Ol' Freda (2013)::Documentary|Biography|History|Music
@@ -17652,6 +17661,7 @@
 2577990::Valentine Road (2013)::Documentary
 2578290::The Stuart Hall Project (2013)::Documentary|Biography|History
 2578418::The Devil's Bargain (2014)::Drama
+2578608::Krampus: The Christmas Devil (2013)::Action|Horror|Thriller
 2579732::Efterklang: The Ghost of Piramida (2012)::Documentary
 2579836::Ooga Booga (2013)::Comedy|Horror
 2581244::Life After Beth (2014)::Comedy|Fantasy|Horror
@@ -18580,6 +18590,7 @@
 3156530::Out in the Line-up (2014)::Documentary|Adventure|Drama
 3159812::Monster High: 13 Wishes (2013)::
 3159984::Sev Beni (2013)::Comedy|Drama|Romance
+3162622::Fekete leves (2014)::Comedy
 3163238::Kumu Hina (2013)::Documentary|Biography
 3164068::Salala Mobiles (2014)::Comedy
 3165552::Ciudad Delirio (2014)::
@@ -19152,6 +19163,7 @@
 4009460::Saving Christmas (2014)::Comedy|Family
 4016942::Ghost in the Shell Arise: Border 4 - Ghost Stands Alone (2014)::Animation|Action|Sci-Fi
 4020624::Lingaa (2014)::
+4021190::Journey to Le Mans (2014)::Documentary
 4026562::Hollows Grove (2014)::Horror
 4029998::My Life Directed by Nicolas Winding Refn (2014)::Documentary
 4035840::Project X (2003)::Drama
@@ -19171,4 +19183,5 @@
 4148400::Birlesen Gonuller (2014)::Drama|History
 4168188::Chaar Sahibzaade (2014)::Animation
 4189442::Expelled (2014)::Comedy
+4226372::Jag är inte beredd att dö än (2014)::Documentary
 4235342::Pendekar Tongkat Emas (2014)::Action
