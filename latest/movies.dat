@@ -1533,6 +1533,7 @@
 0053580::The Alamo (1960)::Adventure|Drama|History
 0053598::Gli amori di Ercole (1960)::Fantasy|Adventure
 0053604::The Apartment (1960)::Comedy|Drama|Romance
+0053611::Attack of the Giant Leeches (1959)::Horror|Sci-Fi
 0053619::L'avventura (1960)::Drama|Mystery
 0053629::Bombai Ka Babu (1960)::Drama|Family|Musical
 0053668::Bottoms Up (1960)::Comedy
@@ -2360,6 +2361,7 @@
 0066053::The Man Who Haunted Himself (1970)::Mystery|Thriller
 0066065::Medea (1969)::Drama|Fantasy
 0066090::The Molly Maguires (1970)::Drama|History
+0066093::Monte Walsh (1970)::Western
 0066109::The Music Lovers (1970)::Biography|Drama|Music
 0066122::Deep End (1970)::Comedy|Drama|Romance
 0066126::The Losers (1970)::War|Action|Drama
@@ -5085,6 +5087,7 @@
 0102798::Robin Hood: Prince of Thieves (1991)::Action|Adventure|Drama|Romance
 0102800::Robot Jox (1989)::Action|Sci-Fi
 0102803::The Rocketeer (1991)::Action|Adventure|Family|Sci-Fi
+0102820::Rush (1991)::Crime|Drama
 0102900::Shattered (1991)::Crime|Mystery|Thriller
 0102915::Showdown in Little Tokyo (1991)::Action|Comedy|Crime|Thriller
 0102926::The Silence of the Lambs (1991)::Crime|Drama|Thriller
@@ -5997,6 +6000,7 @@
 0116361::Freeway (1996)::Comedy|Crime|Drama
 0116365::The Frighteners (1996)::Comedy|Horror
 0116367::From Dusk Till Dawn (1996)::Action|Crime|Horror
+0116404::Get on the Bus (1996)::Drama|History
 0116409::The Ghost and the Darkness (1996)::Adventure|Drama|Thriller
 0116410::Ghosts of Mississippi (1996)::Drama
 0116421::The Glimmer Man (1996)::Action|Comedy|Crime|Drama|Thriller
@@ -13836,6 +13840,7 @@
 1591479::Act of Valor (2012)::Action|Adventure|Thriller|War
 1591622::10 1/2 (2010)::Drama
 1592139::Vlees (2010)::Drama|Thriller
+1592265::Maladies (2012)::Drama
 1592281::Take This Waltz (2011)::Comedy|Drama
 1592303::Yüregine sor (2010)::Romance
 1592503::Alien vs. Ninja (2010)::Action|Comedy|Fantasy
@@ -14720,6 +14725,7 @@
 1772271::Frankie Go Boom (2012)::Comedy
 1772341::Wreck-It Ralph (2012)::Animation|Adventure|Comedy|Family
 1772408::Trade of Innocents (2012)::Drama|Thriller
+1772412::Tysta leken (2011)::Drama
 1772424::Et maintenant on va où? (2011)::Comedy|Drama
 1772925::Jiro Dreams of Sushi (2011)::Documentary
 1772969::Love and Theft (2010)::Animation|Short
@@ -15090,6 +15096,7 @@
 1850374::Hawaiian Vacation (2011)::Animation|Short|Comedy|Family
 1850394::Les seigneurs (2012)::Comedy|Sport
 1850397::The Loft (2014)::Thriller
+1850418::To Write Love on Her Arms (2015)::Biography|Drama|Music
 1850419::Fasle kargadan (2012)::Drama
 1851006::Goltzius and the Pelican Company (2012)::Biography|History
 1851085::Wairudo 7 (2011)::Action
@@ -17587,6 +17594,7 @@
 2517192::La montaña (2013)::Documentary|Adventure|Sport
 2517658::The Canal (2014)::Horror|Thriller
 2518788::1 (2013)::Documentary
+2518848::500 MPH Storm (2013)::Action|Sci-Fi
 2518926::Age of Dinosaurs (2013)::Action|Sci-Fi
 2519480::Benji (2012)::Documentary
 2520394::See You Next Tuesday (2013)::Comedy|Drama
@@ -18926,6 +18934,7 @@
 3415118::Muse - Live at Rome Olympic Stadium (2013)::Music
 3415554::Partners in Crime (2014)::Crime|Drama|Thriller
 3416742::What We Do in the Shadows (2014)::Comedy
+3417334::Airplane vs Volcano (2014)::Action
 3417422::Dhrishyam (2013)::Drama|Family|Thriller
 3418604::The Sinking of Van Der Wijck (2013)::Drama|Romance
 3420108::Gooische Vrouwen II (2014)::Comedy|Drama|Romance
@@ -18959,7 +18968,9 @@
 3451500::Sürgün Inek (2014)::Comedy
 3452322::He Took His Skin Off for Me (2014)::Short|Drama|Horror
 3452948::Nånting måste gå sönder (2014)::Drama
+3453772::Asteroid vs. Earth (2014)::Action|Adventure|Sci-Fi
 3454114::José Combustão dos Porcos (2013)::Short
+3455204::Meitantei Conan: Ijigen no sunaipâ (2014)::Animation|Action|Adventure
 3455224::Virunga (2014)::Documentary|News|War
 3455384::She Lives Her Life (2014)::Comedy|Drama|Romance
 3455822::Night Will Fall (2014)::Documentary
@@ -19162,6 +19173,7 @@
 3711466::Kukhnya v Parizhe (2014)::Comedy
 3716142::Lekar Hum Deewana Dil (2014)::Comedy|Romance
 3720636::God's Own Country (2014)::Drama
+3723530::The Perfect Romance (2014)::Comedy
 3729920::The Disappearance of Eleanor Rigby: Them (2014)::Drama
 3730650::Maracaná (2014)::Documentary
 3734466::How Old Are You? (2014)::Drama
@@ -19200,6 +19212,7 @@
 3835608::Oohalu Gusagusalade (2014)::Comedy|Romance
 3837154::U-a-han Geo-jit-mal (2014)::Drama
 3837196::Hai-hil (2014)::Action|Comedy
+3837198::Feng Shui 2 (2014)::Horror|Thriller
 3841400::Burma (2014)::Adventure|Comedy|Crime
 3843254::The Guarantee (2014)::Drama
 3843502::Ohne Dich (2014)::Drama|Romance
@@ -19268,3 +19281,4 @@
 4226372::Jag är inte beredd att dö än (2014)::Documentary
 4229938::Il ricco, il povero e il maggiordomo (2014)::Comedy
 4235342::Pendekar Tongkat Emas (2014)::Action
+4286538::I Want to Speak at NASA (2014)::Documentary|Short|Family
