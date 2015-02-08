@@ -18,7 +18,7 @@ An excerpt of the abstract of the paper:
 
 The goal of this dataset is to provide the RecSys community with a live, natural and always up-to-date movie ratings dataset. The dataset will be updated as much as possible to incorporate rating data from the newest tweets available. The earliest rating contained in this dataset is from 28 Feb 2013, and I pledge to keep this system up and running for as long as I can. Note however that this dataset is automatically gathered and therefore depending on the continuation of the IMDb apps and Twitter API.
 
-Don't hesitate to contact me for any comments, questions or proposals you might have. Publishing a dataset is new to me, so by all means let me know how I can improve this work so it can be of use for the RecSys community.
+Don't hesitate to contact me for any comments, questions or proposals you might have. 
 
 ##Ratings from Twitter
 
