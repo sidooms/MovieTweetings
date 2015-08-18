@@ -468,6 +468,7 @@
 0029843::The Adventures of Robin Hood (1938)::Action|Adventure|Romance
 0029844::The Adventures of Tom Sawyer (1938)::Family|Adventure
 0029850::Aleksandr Nevskiy (1938)::Action|Drama|History|War
+0029870::Engelen met smerige gezichten (1938)::Crime|Drama|Film-Noir
 0029892::The Bad Man of Brimstone (1937)::Western
 0029923::Block-Heads (1938)::Comedy|War
 0029942::Boys Town (1938)::Biography|Drama
@@ -4433,6 +4434,7 @@
 0088170::Star Trek III: The Search for Spock (1984)::Action|Adventure|Sci-Fi|Thriller
 0088172::Starman (1984)::Adventure|Drama|Romance|Sci-Fi
 0088178::Stop Making Sense (1984)::Documentary|Music
+0088179::Gringo (1985)::Drama
 0088184::Stranger Than Paradise (1984)::Comedy|Drama
 0088194::Streets of Fire (1984)::Action|Crime|Drama|Music|Romance|Thriller
 0088196::Streetwise (1984)::Documentary
@@ -5100,6 +5102,7 @@
 0095379::Intruder (1989)::Horror|Thriller
 0095384::It Takes Two (1988)::Comedy
 0095389::Jack's Back (1988)::Crime|Horror|Mystery
+0095403::Ging chaat goo si 2 (1988)::Action|Comedy|Crime
 0095409::Johnny Be Good (1988)::Comedy|Sport
 0095441::Kholodnoe leto pyatdesyat tretego (1987)::Action|Crime|Drama
 0095444::Killer Klowns from Outer Space (1988)::Comedy|Horror|Sci-Fi
@@ -5613,7 +5616,9 @@
 0101452::Bill & Ted's Bogus Journey (1991)::Adventure|Comedy|Fantasy|Sci-Fi
 0101453::Billy Bathgate (1991)::Action|Crime|Drama
 0101492::Body Parts (1991)::Horror|Thriller
+0101497::The Boneyard (1991)::Horror
 0101501::Born to Ride (1991)::Action
+0101502::The Borrower (1991)::Horror|Sci-Fi
 0101507::Boyz n the Hood (1991)::Crime|Drama
 0101516::Bugsy (1991)::Biography|Crime|Drama|History
 0101540::Cape Fear (1991)::Thriller
@@ -7030,6 +7035,7 @@
 0119256::Sydney (1996)::Crime|Drama
 0119280::Mrs Brown (1997)::Biography|Drama|History|Romance
 0119282::Hercules (1997)::Animation|Adventure|Family|Fantasy|Musical|Romance
+0119291::Highball (1997)::Drama|Comedy
 0119303::Home Alone 3 (1997)::Action|Comedy|Crime|Family
 0119305::Homegrown (1998)::Comedy|Crime|Drama|Thriller
 0119311::Hoodlum (1997)::Crime|Drama
@@ -11159,6 +11165,7 @@
 0458481::Sin City: A Dame to Kill For (2014)::Action|Crime|Thriller
 0458522::El cantante (2006)::Biography|Drama|Music
 0458525::X-Men Origins: Wolverine (2009)::Action|Adventure|Sci-Fi|Thriller
+0459072::Alice (2005)::Drama
 0459127::Efectos secundarios (2006)::Comedy
 0459666::Zui hao de shi guang (2005)::Drama|Romance
 0459744::Ashura-jô no hitomi (2005)::Action|Fantasy
@@ -13238,6 +13245,8 @@
 1155060::Down the Shore (2011)::Drama|Romance|Thriller
 1155076::The Karate Kid (2010)::Action|Drama|Family|Sport
 1155592::Man on Wire (2008)::Documentary|Biography
+1155650::Gekijô ban Kara no kyôkai: Dai isshô - Fukan fûkei (2007)::Animation|Action|Crime
+1155652::Gekijô ban Kara no kyôkai: Dai san shô - Tsukakû zanryû (2008)::Animation|Action|Crime
 1156148::Karzzzz (2008)::Action|Drama|Musical|Romance|Thriller
 1156173::Vincere (2009)::Biography|Drama|History
 1156395::K-20: Kaijin nijû mensô den (2008)::Action|Adventure|Crime
@@ -13622,6 +13631,7 @@
 1233459::Afutâ sukûru (2008)::
 1233461::Ba:Bo (2008)::Comedy|Romance
 1233473::Ga-myeon (2007)::Crime|Drama|Mystery
+1233474::Gekijô ban Kara no kyôkai: Dai yon shô - Garan no dô (2008)::Animation|Action|Crime
 1233484::Nae sarang (2007)::Comedy|Romance
 1233487::No mires para abajo (2008)::Drama|Romance
 1233488::Peon-chi le-i-di (2007)::Action|Drama|Sport
@@ -14107,6 +14117,7 @@
 1342403::Na pude aneb Kdo má dneska narozeniny? (2009)::Animation|Family|Fantasy|Thriller
 1342408::Normal (2009)::Drama|Thriller
 1343038::Geol seukauteu (2008)::Comedy
+1343089::Gekijô ban Kara no kyôkai: Dai roku shô - Bôkyaku rokuon (2008)::Animation|Action|Drama
 1343092::The Great Gatsby (2013)::Drama|Romance
 1343097::Luftslottet som sprängdes (2009)::Crime|Drama|Thriller
 1343703::Brestskaya krepost (2010)::Action|Drama|War|History
@@ -16629,6 +16640,7 @@
 1864288::Conan O'Brien Can't Stop (2011)::Documentary|Comedy|Music
 1865346::Detention of the Dead (2012)::Comedy|Horror
 1865393::Hellbenders (2012)::Comedy|Horror|Thriller
+1865403::How to Sell a Banksy (2012)::Documentary|Adventure|Comedy
 1865425::Kumaré (2011)::Documentary
 1865450::Mission to Lars (2012)::Documentary|Adventure|Biography|Music
 1865505::Song of the Sea (2014)::Animation|Family|Fantasy
@@ -18034,6 +18046,7 @@
 2204379::The Devil's Carnival (2012)::Horror|Musical
 2204442::Triumph at Carville a Tale of Leprosy in America (2005)::Documentary
 2205401::Addicted (2014)::Drama|Thriller
+2205543::Lawrence of Belgravia (2011)::Documentary|Music
 2205697::Stuck in Love (2012)::Comedy|Drama
 2205904::Generation Iron (2013)::Documentary|Drama
 2205948::Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari (2012)::Animation|Fantasy|Mystery
@@ -18174,6 +18187,7 @@
 2235902::Geography Club (2013)::Comedy
 2236054::Mystery Road (2013)::Action|Crime|Drama|Thriller
 2236092::Come to My Voice (2014)::Drama
+2236160::Nightlight (2015)::Horror|Thriller
 2237822::Koch (2012)::Documentary|Biography|History
 2238050::White Bird in a Blizzard (2014)::Drama|Thriller
 2238470::The Stranger (2014)::Drama|Horror|Mystery
@@ -20708,6 +20722,7 @@
 3165552::Ciudad Delirio (2014)::Comedy|Romance
 3165608::Justin Bieber's Believe (2013)::Documentary
 3165612::Sleeping with Other People (2015)::Comedy
+3165630::Franny (2015)::Drama
 3166406::Oliver, Stoned. (2014)::Comedy
 3166476::Zone Pro Site (2013)::Comedy
 3168230::Mr. Holmes (2015)::Crime|Drama|Mystery
@@ -21048,6 +21063,7 @@
 3382148::Yaariyan (2014)::Romance
 3383420::The Last Saint (2014)::Action|Crime|Drama
 3384034::Tropico (2013)::Short|Drama
+3384870::Unknown Caller (2014)::Thriller
 3384904::Apocalypse Pompeii (2014)::Action|Adventure
 3384938::Kehinde Wiley: An Economy of Grace (2013)::Documentary|Short|Biography
 3385854::Artist (2013)::Drama
@@ -21380,6 +21396,7 @@
 3596492::Mot naturen (2014)::Comedy|Drama
 3596952::Maraviglioso Boccaccio (2015)::History
 3598222::Mercenaries (2014)::Action|Adventure
+3603808::The Diabolical (2015)::Horror|Sci-Fi|Thriller
 3604944::How to Steal a Wife (2013)::Comedy
 3605418::Knock Knock (2015)::Horror|Thriller
 3605606::Mr. Fraud (2014)::Thriller
@@ -21568,6 +21585,7 @@
 3780094::Un Samayal Arayil (2014)::Drama|Family|Romance
 3780338::Misono Universe (2015)::Comedy
 3780532::Bhadaas (2013)::Thriller
+3781476::Monster Hunt (2015)::Action|Comedy|Fantasy
 3782876::Código Paz (2014)::Action
 3783740::Christmas Wedding Baby (2014)::Comedy|Drama|Family
 3784160::Valley Uprising (2014)::Documentary
@@ -21989,6 +22007,7 @@
 4733736::Double Daddy (2015)::Thriller
 4768764::Veteran (2015)::Action|Comedy|Crime
 4776556::Torno indietro e cambio vita (2015)::Comedy
+4785358::Foute Vrienden, de film (2015)::Comedy
 4788638::To the Fore (2015)::Drama|Sport
 4791174::Japan: Earth's Enchanted Islands (2015)::Documentary
 4846132::White People (2015)::Documentary
@@ -21996,3 +22015,4 @@
 4858722::Slasher Weekend (2015)::Adventure|Comedy|Horror
 4859246::Maari (2015)::Action|Comedy|Musical
 4922522::Teen Choice Awards 2015 (2015)::
+4927574::Siccin 2 (2015)::Horror|Thriller
