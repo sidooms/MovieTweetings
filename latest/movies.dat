@@ -417,6 +417,7 @@
 0027948::Mary of Scotland (1936)::Biography|Drama|History
 0027977::Modern Times (1936)::Comedy|Drama
 0027996::Mr. Deeds Goes to Town (1936)::Comedy|Drama
+0028004::Murder with Pictures (1936)::Crime|Mystery
 0028010::My Man Godfrey (1936)::Romance|Comedy
 0028021::Naniwa erejî (1936)::Drama
 0028030::Night Mail (1936)::Short|Documentary
@@ -795,6 +796,7 @@
 0037303::The Spider Woman (1944)::Mystery|Thriller
 0037318::Strangers in the Night (1944)::Crime|Drama|Mystery
 0037323::The Sullivans (1944)::Biography|Drama|History
+0037343::Tall in the Saddle (1944)::Mystery|Western|Romance
 0037366::Thirty Seconds Over Tokyo (1944)::Drama|History|War
 0037382::To Have and Have Not (1944)::Adventure|Romance|Thriller|War
 0037415::The Uninvited (1944)::Fantasy|Horror|Mystery|Romance
@@ -3303,6 +3305,7 @@
 0074483::The Enforcer (1976)::Action|Thriller
 0074486::Eraserhead (1977)::Fantasy|Horror|Sci-Fi
 0074512::Family Plot (1976)::Comedy|Thriller
+0074520::Febbre da cavallo (1976)::Comedy
 0074540::The Food of the Gods (1976)::Sci-Fi|Horror
 0074554::The Front (1976)::Comedy|Drama
 0074559::Futureworld (1976)::Thriller|Sci-Fi
@@ -4997,6 +5000,7 @@
 0094291::Wall Street (1987)::Crime|Drama
 0094293::Wanted: Dead or Alive (1986)::Action|Crime|Drama|Thriller
 0094315::The Whales of August (1987)::Drama
+0094318::White Water Summer (1987)::Adventure|Drama
 0094320::White of the Eye (1987)::Thriller
 0094321::Who's That Girl (1987)::Comedy|Music|Romance
 0094331::Wish You Were Here (1987)::Comedy|Drama
@@ -5705,6 +5709,7 @@
 0102432::Men of Respect (1990)::Drama|Crime|Thriller
 0102439::To meteoro vima tou pelargou (1991)::Drama|Romance
 0102465::Mon père, ce héros. (1991)::Comedy|Drama
+0102487::Il muro di gomma (1991)::Drama
 0102492::My Girl (1991)::Drama|Family|Romance
 0102494::My Own Private Idaho (1991)::Drama|Romance
 0102510::The Naked Gun 2½: The Smell of Fear (1991)::Action|Comedy|Crime
@@ -9622,6 +9627,7 @@
 0338763::Batoru rowaiaru II: Chinkonka (2003)::Action|Drama|Sci-Fi|Thriller
 0338801::Boldog születésnapot! (2003)::Comedy|Romance
 0338949::Edi (2002)::Drama
+0338998::Febbre da cavallo - La mandrakata (2002)::Comedy
 0339034::From Justin to Kelly (2003)::Comedy|Musical|Romance
 0339071::Girls Will Be Girls (2003)::Comedy|Romance
 0339135::In Hell (2003)::Action|Thriller|Drama
@@ -11216,6 +11222,7 @@
 0462485::Poultrygeist: Night of the Chicken Dead (2006)::Comedy|Horror|Musical|Romance
 0462499::Rambo (2008)::Action|Thriller|War
 0462504::Rescue Dawn (2006)::Adventure|Biography|Drama|War
+0462519::School for Scoundrels (2006)::Comedy
 0462538::The Simpsons Movie (2007)::Animation|Adventure|Comedy
 0462570::Tiempo de valientes (2005)::Action|Comedy|Crime
 0462590::Step Up (2006)::Crime|Drama|Music|Romance
@@ -17184,7 +17191,7 @@
 2011159::No Good Deed (2014)::Thriller
 2011183::Pastorela (2011)::Comedy|Fantasy
 2011265::Tchoupitoulas (2012)::Documentary
-2011276::The Banshee Chapter (2013)::Horror|Thriller
+2011276::Banshee Chapter (2013)::Horror|Thriller
 2011351::Potechi (2012)::Comedy
 2011953::Keep the Lights On (2012)::Drama
 2011971::Monsieur Lazhar (2011)::Comedy|Drama
@@ -17942,6 +17949,7 @@
 2184287::Summer in February (2013)::Biography|Drama|Romance
 2184331::Una noche (2012)::Drama
 2184339::The Purge (2013)::Horror|Sci-Fi|Thriller
+2184398::Beside Still Waters (2013)::Comedy|Drama|Romance
 2185384::Oshin (2013)::Drama
 2185694::Llandudno Happy Valley and Minstrel Show (1898)::Documentary|Short
 2186562::Die Vampirschwestern (2012)::Adventure|Comedy|Drama|Family|Fantasy
@@ -18371,6 +18379,7 @@
 2281345::Magnifica presenza (2012)::Drama
 2281365::Mortified Nation (2013)::Documentary
 2281371::Música ocular (2012)::Drama
+2281551::Días de vinilo (2012)::
 2281587::Muppets Most Wanted (2014)::Adventure|Comedy|Crime
 2282016::The Possession of Michael King (2014)::Horror
 2282662::Our Nixon (2013)::Documentary|Biography|History
@@ -19198,6 +19207,7 @@
 2450264::TINY: A Story About Living Small (2013)::Documentary|News
 2450334::No Clue (2013)::Comedy
 2451110::Gacchaman (2013)::Sci-Fi
+2451550::Gone Too Far (2013)::Comedy|Drama
 2451588::Perú Sabe (2012)::
 2452200::Son of a Gun (2014)::Action|Crime|Drama
 2452236::Getting Back to Abnormal (2012)::Documentary|Comedy|Drama
@@ -19784,6 +19794,7 @@
 2678366::Hit the Road: India (2013)::Documentary|Action|Adventure
 2678448::Hey Bartender (2013)::Documentary
 2678948::Jilla (2014)::Action|Drama|Thriller
+2679042::Hitman: Agent 47 (2015)::Action|Crime|Thriller
 2679480::Sulemani Keeda (2014)::Comedy|Romance
 2679502::Spirital Phantoma (2013)::Horror
 2679530::Natholi Oru Cheriya Meenalla (2013)::Comedy
@@ -19894,6 +19905,7 @@
 2752200::Jeune & jolie (2013)::Drama
 2752688::Rosewater (2014)::Drama
 2752758::Devil's Due (2014)::Horror
+2752772::Sinister 2 (2015)::Horror
 2753654::La Paz (2013)::
 2753778::The Death of &quot;Superman Lives&quot;: What Happened? (2015)::Documentary
 2754800::Yod Manut Nguen Deuan (2012)::Comedy|Drama
@@ -20324,6 +20336,7 @@
 2976354::Joanna (2013)::Documentary|Biography|Drama
 2977090::Alex of Venice (2014)::Drama
 2977110::Apartment Troubles (2014)::Comedy|Drama
+2977546::Los jefes (2015)::Adventure
 2977646::The Bathroom Attendant (2013)::Short|Comedy
 2977654::Somos Mari Pepa (2013)::Comedy|Drama|Music
 2977672::Chocolate Strawberry Vanilla (2013)::Comedy|Drama
@@ -21407,6 +21420,7 @@
 3604944::How to Steal a Wife (2013)::Comedy
 3605418::Knock Knock (2015)::Horror|Thriller
 3605606::Mr. Fraud (2014)::Thriller
+3606298::Industrial Soundtrack for the Urban Decay (2015)::Documentary|History|Music
 3607198::Punjab 1984 (2014)::Drama
 3607688::Quando c'era Berlinguer (2014)::Documentary
 3607812::The Sheik (2014)::Documentary
