@@ -40,9 +40,12 @@
 0008133::The Immigrant (1917)::Short|Comedy|Drama|Romance
 0008395::Otets Sergiy (1918)::Biography|Drama|History
 0009018::A Dog's Life (1918)::Short|Comedy
+0009678::Take a Chance (1918)::Comedy|Short
 0009968::Broken Blossoms or The Yellow Man and the Girl (1919)::Drama|Romance
 0010247::Herr Arnes pengar (1919)::Drama|History
+0010258::His Royal Slyness (1920)::Comedy|Short
 0010323::Das Cabinet des Dr. Caligari (1920)::Horror
+0010930::Young Mr. Jazz (1919)::Comedy|Short
 0011267::Headin' Home (1920)::Biography|Comedy|Drama|Sport
 0011508::Neighbors (1920)::Short|Comedy|Romance
 0011541::One Week (1920)::Short|Comedy
@@ -843,6 +846,7 @@
 0038057::Scarlet Street (1945)::Drama|Film-Noir
 0038108::The Spanish Main (1945)::Adventure|Drama|Romance
 0038109::Spellbound (1945)::Film-Noir|Mystery|Romance|Thriller
+0038116::State Fair (1945)::Musical|Romance
 0038166::The Three Caballeros (1944)::Animation|Family|Fantasy
 0038192::De ware glorie (1945)::Documentary|War
 0038213::The Valley of Decision (1945)::Drama
@@ -4063,6 +4067,7 @@
 0083675::Bomber (1982)::Comedy|Action|Crime
 0083701::Bugs Bunny's 3rd Movie: 1001 Rabbit Tales (1982)::Animation|Adventure|Comedy
 0083722::Cat People (1982)::Drama|Fantasy|Horror|Romance|Thriller
+0083734::Le choc (1982)::Action|Crime|Romance
 0083739::Class of 1984 (1982)::Crime|Drama|Thriller
 0083745::Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (1982)::Comedy|Drama
 0083755::The Concrete Jungle (1982)::Drama|Thriller|Crime
@@ -6190,7 +6195,7 @@
 0108333::The Three Musketeers (1993)::Action|Adventure|Comedy|Family|Romance
 0108339::Ticks (1993)::Horror|Sci-Fi
 0108358::Tombstone (1993)::Action|Drama|History|Romance|Western
-0108388::The Trial (1993)::
+0108388::The Trial (1993)::Drama|Thriller
 0108394::Trois couleurs: Bleu (1993)::Drama|Music|Mystery|Romance
 0108399::True Romance (1993)::Crime|Thriller
 0108410::Twenty Bucks (1993)::Drama
@@ -7566,6 +7571,7 @@
 0139820::Akai tenshi (1966)::Drama|Romance|War
 0139872::Avvai Shanmugi (1996)::Comedy|Drama
 0139876::Baasha (1995)::Action|Drama|Thriller
+0139951::Così ridevano (1998)::Drama
 0140090::Guna (1992)::
 0140352::The Insider (1999)::Biography|Drama|Thriller
 0140377::Michael Madana Kamarajan (1991)::Comedy
@@ -13844,6 +13850,7 @@
 1270835::Hatchet II (2010)::Horror|Thriller
 1270842::Noruwei no mori (2010)::Drama|Romance
 1270850::The Waiting City (2009)::Drama|Romance
+1272006::Besa (2009)::Drama|Romance
 1272012::Fri os fra det onde (2009)::Thriller
 1272041::My Queen Karo (2009)::Drama
 1272878::2 Guns (2013)::Action|Comedy|Crime|Drama|Thriller
@@ -20198,6 +20205,7 @@
 2884186::El verano de los peces voladores (2013)::Comedy|Drama
 2884206::I Origins (2014)::Drama|Sci-Fi
 2885364::Willow Creek (2013)::Horror
+2885628::Nina Forever (2015)::Comedy|Horror|Romance
 2887012::Aberration (2013)::Horror
 2887322::The Saratov Approach (2013)::Action|Drama
 2887964::Dead Right (1993)::Short
@@ -20894,6 +20902,7 @@
 3212002::Les Maîtres du suspense (2014)::Comedy
 3212392::Actress (2014)::Documentary|Drama
 3212568::Beltracchi: The Art of Forgery (2014)::Documentary|Biography|Crime
+3212904::Curve (2015)::Thriller
 3213062::Two Raging Grannies (2013)::Documentary
 3213622::Rise (2014)::Crime|Drama|News
 3213684::1944 (2015)::Drama|War
@@ -21228,7 +21237,7 @@
 3438354::Smetto quando voglio (2014)::Comedy
 3438640::Marvel One-Shot: All Hail the King (2014)::Short|Action|Sci-Fi
 3439114::Apocalypse L.A. (2014)::Action|Horror|Sci-Fi
-3440132::Golden Kingdom (2015)::
+3440132::Golden Kingdom (2015)::Drama
 3442006::Cake (2014)::Drama
 3442990::Lila &amp; Eve (2015)::Drama|Thriller
 3443482::Lila (2014)::Short|Adventure|Fantasy
@@ -21365,6 +21374,7 @@
 3508288::The Sex Cannon Ball Run (2014)::Action|Comedy
 3508590::Pijnstillers (2014)::Drama|Romance
 3508830::Der Anständige (2014)::Documentary
+3508840::Nie yin niang (2015)::Action|Drama
 3508872::Pleng khong kao (2014)::Documentary
 3508958::Masked Monkey: The Evolution of Darwin's Theory (2014)::Documentary
 3509662::Feriado (2014)::Drama
@@ -21510,6 +21520,7 @@
 3614516::Ankhon Dekhi (2013)::Drama
 3614922::Helios (2015)::Fantasy
 3615366::My Jihad (2014)::Short
+3616916::Bølgen (2015)::Action|Drama|Thriller
 3619772::Hate Story 2 (2014)::Drama|Romance|Thriller
 3619854::Creature (2014)::Horror|Sci-Fi
 3620418::Boy 7 (2015)::Action|Sci-Fi|Thriller
@@ -21537,6 +21548,7 @@
 3630720::Wet Bum (2014)::Drama
 3634940::Pyojeok (2014)::Action|Thriller
 3636326::Soul Boys of the Western World (2014)::Documentary|Biography|Music
+3636776::Samrat &amp; Co. (2014)::Mystery
 3638012::Appleseed Alpha (2014)::Animation|Action|Sci-Fi
 3638598::Ciutat morta (2014)::Documentary
 3640226::Dangerous Mind of a Hooligan (2014)::Crime
@@ -21778,6 +21790,7 @@
 3886722::Dabbe 5: Zehr-i Cin (2014)::Horror
 3887748::Bwaya (2014)::Drama
 3889036::Nixon by Nixon: In His Own Words (2014)::Documentary
+3889166::Night Fare (2015)::Thriller
 3890264::Xin hua lu fang (2014)::Comedy|Drama|Romance
 3890278::Chuang ru zhe (2014)::Thriller
 3892434::That Sugar Film (2014)::Documentary
@@ -21817,7 +21830,7 @@
 3949630::Anukshanam (2014)::
 3950078::Zhì qu weihu shan (2014)::Adventure
 3950466::Spearhunter (2015)::Documentary|Short|Biography
-3951730::Scherzo Diabolico (2015)::
+3951730::Scherzo Diabolico (2015)::Comedy|Horror
 3953834::Ka-teu (2014)::Drama
 3954222::Männerhort (2014)::Comedy
 3954882::Bîranînen li ser kevirî (2014)::Drama|History|War
@@ -21848,6 +21861,7 @@
 3982854::Annemin sarkisi (2014)::Drama
 3983266::Aanmodderfakker (2014)::Comedy|Romance
 3985434::On a marché sur Bangkok (2014)::Comedy
+3985572::Un Natale stupefacente (2014)::Comedy|Romance
 3985648::Sta kala kathoumena (2014)::Comedy
 3986532::Tig (2015)::Documentary
 3992296::Gawazah Miri (2014)::Comedy
@@ -21916,7 +21930,7 @@
 4089722::Black List (2013)::Short|Sci-Fi
 4089782::Envoy (2014)::Short|Action
 4102304::Kino pro Alekseeva (2014)::Drama
-4103404::The Forecaster (2014)::
+4103404::The Forecaster (2014)::Documentary
 4107858::MSG: The Messenger of God (2015)::Action|Comedy|Drama
 4110568::Dil Dhadakne Do (2015)::Drama|Romance
 4114456::Nessuno si salva da solo (2015)::Drama
@@ -22103,7 +22117,7 @@
 4571838::Ho ucciso Napoleone (2015)::Comedy
 4577398::2015 MTV Movie Awards (2015)::Comedy|Music|Reality-TV
 4619254::Sueños de héroes (2015)::Short
-4624138::Resham Filili (2015)::
+4624138::Resham Filili (2015)::Comedy
 4624938::Runaway Island (2015)::
 4625336::RiffTrax Live: The Room (2015)::
 4625752::Odnoy levoy (2015)::Comedy
