@@ -75,5 +75,10 @@ in Collaborative Filtering Systems
 - [ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research](http://people.stern.nyu.edu/padamopo/data/ConcertTweets.pdf)
 - [On over-specialization and concentration bias of recommendations: probabilistic neighborhood selection in collaborative filtering systems](http://dl.acm.org/citation.cfm?id=2645752)
 - [Recommender systems challenge 2014](http://dl.acm.org/citation.cfm?id=2645779)
+- [CrowdRec project](http://crowdrec.eu/)
+- [Comparing a Social Robot and a Mobile Application for Movie Recommendation: A Pilot Study](http://ceur-ws.org/Vol-1382/paper5.pdf)
+- [Augmenting a Feature Set of Movies Using Linked Open Data](https://www.csw.inf.fu-berlin.de/ruleml2015-ceur/paper16.pdf)
+- [Adaptive User Engagement Evaluation via Multi-task Learning](http://dl.acm.org/citation.cfm?id=2767785)
+- [Crowd Source Movie Ratings Based on Twitter Data Analytics](http://csus-dspace.calstate.edu/bitstream/handle/10211.3/138435/2015HolikattiPriya.pdf) 
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
