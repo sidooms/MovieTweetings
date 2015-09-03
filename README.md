@@ -30,7 +30,7 @@ On a daily basis the Twitter API is queried for the term **"I rated #IMDb"**. Th
 
 On June 11, 2013 [support for the Twitter API v1 was retired](https://dev.twitter.com/blog/api-v1-retirement-date-extended-to-june-11) in favor of v1.1. This resulted in a lower number of collected tweets that day (see image).
 
-![Image of the number of ratings per day for MovieTweetings on June 2011](https://drive.google.com/file/d/0B26Kk8U_de0EWWhnRXlQREEyRGs/view?usp=sharing)
+![Image of the number of ratings per day for MovieTweetings on June 2011](https://lh6.googleusercontent.com/vt7FpFo2bzaaIWb1o6FyZai_DjWd091hnMlDmXNtzXtz_-UIj_9_LHEMwu2xF7ttRhK90DcI0UUPbx8=w1161-h494-rw)
 
 ##The dataset
 
