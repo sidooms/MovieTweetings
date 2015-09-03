@@ -28,7 +28,9 @@ As said, this dataset consists of ratings extracted from tweets. To be able to e
 
 On a daily basis the Twitter API is queried for the term **"I rated #IMDb"**. Through a series of regular expressions, relevant information such as user, movie and rating is extracted, and cross-referenced with the according IMDb page to provide also genre metadata. The numeric IMDb identifier was adopted as item id to facilitate additional metadata enrichment and guarantee movie uniqueness. For example, for the above tweet the item id would be **"0133093"** which allows to infer the corresponding IMDb page link (add *http://www.imdb.com/title/tt*). The user id simply ranges from 1 to the number of users.
 
-On June 11, 2013 [support for the Twitter API v1 was retired](https://dev.twitter.com/blog/api-v1-retirement-date-extended-to-june-11) in favor of v1.1. This resulted in a lower number of collected tweets that day ([image](http://wicaserv5.intec.ugent.be/mt/ratingsperday.jpg)).
+On June 11, 2013 [support for the Twitter API v1 was retired](https://dev.twitter.com/blog/api-v1-retirement-date-extended-to-june-11) in favor of v1.1. This resulted in a lower number of collected tweets that day (see image).
+
+![Image of the number of ratings per day for MovieTweetings on June 2011](https://drive.google.com/file/d/0B26Kk8U_de0EWWhnRXlQREEyRGs/view?usp=sharing)
 
 ##The dataset
 
