@@ -1,19 +1,21 @@
 #MovieTweetings
 ## Some stats
 
-Total number of ratings                 : 420,840
-Number of unique users                  : 38,729
-Number of unique items                  : 22,192
-Maximum number of ratings per user      : 1,084
-Maximum number of ratings per item      : 2,919
-Number of users with minimum 50 ratings : 1,952
-Number of users with minimum 40 ratings : 2,526
-Number of users with minimum 30 ratings : 3,392
-Number of users with minimum 20 ratings : 4,852
-Number of users with minimum 10 ratings : 8,039
-Average number of ratings per user      : 11
-Average number of ratings per item      : 19
-Stats calculation time                  : Thu Sep  3 23:03:27 2015
+Metric | Value
+--- | ---
+Total number of ratings                 | 420,840
+Number of unique users                  | 38,729
+Number of unique items                  | 22,192
+Maximum number of ratings per user      | 1,084
+Maximum number of ratings per item      | 2,919
+Number of users with minimum 50 ratings | 1,952
+Number of users with minimum 40 ratings | 2,526
+Number of users with minimum 30 ratings | 3,392
+Number of users with minimum 20 ratings | 4,852
+Number of users with minimum 10 ratings | 8,039
+Average number of ratings per user      | 11
+Average number of ratings per item      | 19
+Stats calculation time                  | Thu Sep  3 23:03:27 2015
 
 ##A Movie Rating Dataset Collected From Twitter
 
