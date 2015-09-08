@@ -14,7 +14,7 @@ MovieTweetings is a dataset consisting of ratings on movies that were contained 
 
 Follow us on Twitter ([@mvtweetings](https://twitter.com/mvtweetings)) for the latest news, info and fun facts about the dataset.
 
-@conference{Dooms13crowdrec,
+> @conference{Dooms13crowdrec,
 author = {Dooms, Simon and De Pessemier, Toon and Martens, Luc},
 title = {MovieTweetings: a Movie Rating Dataset Collected From Twitter},
 booktitle = {Workshop on Crowdsourcing and Human Computation for Recommender Systems, CrowdRec at RecSys 2013},
