@@ -1,4 +1,22 @@
 #MovieTweetings
+## Some stats
+
+Metric | Value
+--- | ---
+Total number of ratings                 | 420,840
+Number of unique users                  | 38,729
+Number of unique items                  | 22,192
+Maximum number of ratings per user      | 1,084
+Maximum number of ratings per item      | 2,919
+Number of users with minimum 50 ratings | 1,952
+Number of users with minimum 40 ratings | 2,526
+Number of users with minimum 30 ratings | 3,392
+Number of users with minimum 20 ratings | 4,852
+Number of users with minimum 10 ratings | 8,039
+Average number of ratings per user      | 11
+Average number of ratings per item      | 19
+Stats calculation time                  | Thu Sep  3 23:03:27 2015
+
 ##A Movie Rating Dataset Collected From Twitter
 
 MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and has been presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the [corresponding paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) if you make use of this dataset. The presented slides can be found [on slideshare] (http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter). 
