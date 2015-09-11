@@ -1469,6 +1469,7 @@
 0049096::The Court Jester (1955)::Adventure|Comedy|Family|Musical
 0049103::The Creature Walks Among Us (1956)::Horror|Sci-Fi
 0049110::A Cry in the Night (1956)::Crime|Drama|Film-Noir
+0049128::Day the World Ended (1955)::Horror|Sci-Fi
 0049163::Dry Rot (1956)::Comedy
 0049169::Earth vs. the Flying Saucers (1956)::Fantasy|Horror|Sci-Fi
 0049170::The Eddy Duchin Story (1956)::Biography|Drama|Music|Romance
@@ -7598,7 +7599,7 @@
 0139872::Avvai Shanmugi (1996)::Comedy|Drama
 0139876::Baasha (1995)::Action|Drama|Thriller
 0139951::Così ridevano (1998)::Drama
-0140090::Guna (1992)::
+0140090::Guna (1992)::Drama|Romance
 0140352::The Insider (1999)::Biography|Drama|Thriller
 0140377::Michael Madana Kamarajan (1991)::Comedy
 0140379::A Midsummer Night's Dream (1999)::Comedy|Fantasy|Romance
@@ -13384,6 +13385,7 @@
 1164999::Biutiful (2010)::Drama
 1165253::Bi-mong (2008)::Drama|Fantasy|Mystery
 1166100::Ghajini (2008)::Action|Drama|Mystery|Romance|Thriller
+1167611::Non essere cattivo (2015)::Crime|Drama
 1167638::L'immortel (2010)::Action|Crime|Thriller
 1167660::OSS 117: Rio ne répond plus (2009)::Adventure|Comedy
 1167675::Sint (2010)::Horror
@@ -15331,6 +15333,7 @@
 1595656::To the Wonder (2012)::Drama|Romance
 1595833::Babycall (2011)::Horror|Thriller
 1596343::Fast Five (2011)::Action|Crime|Thriller
+1596345::Pawn Sacrifice (2014)::Biography|Drama
 1596346::Soul Surfer (2011)::Biography|Drama|Sport
 1596350::This Means War (2012)::Comedy|Action|Romance
 1596352::I Am Slave (2010)::Thriller
@@ -15929,6 +15932,7 @@
 1706450::Molke Soleiman (2010)::Drama|History|War
 1706470::Weekender (2011)::Drama|Music
 1706593::Chronicle (2012)::Drama|Sci-Fi|Thriller
+1706596::Dirch (2011)::Biography|Drama
 1706598::Every Secret Thing (2014)::Crime|Drama
 1706620::Snowpiercer (2013)::Action|Drama|Sci-Fi
 1707380::Every Thing Will Be Fine (2015)::Drama
@@ -16977,7 +16981,7 @@
 1926313::Pyaar Ka Punchnama (2011)::Comedy|Drama|Romance
 1927012::Dead Shadows (2012)::Horror
 1927067::Jump (2012)::Drama
-1927068::Bez wstydu (2012)::
+1927068::Bez wstydu (2012)::Drama
 1927073::La misura del confine (2011)::Drama
 1927172::True Love (2012)::Thriller
 1928123::Before Dawn (2012)::Horror
@@ -19116,6 +19120,7 @@
 2396566::Twenty Feet from Stardom (2013)::Documentary
 2396667::Sleep (2012)::Short|Drama|Family
 2396701::The Haunting of Whaley House (2012)::Horror
+2396711::The Merchant (2013)::Drama|Horror|Thriller
 2396721::The Scribbler (2014)::Thriller
 2397535::Predestination (2014)::Sci-Fi|Thriller
 2397619::Woody Allen: A Documentary (2012)::Documentary|Biography
@@ -21327,6 +21332,7 @@
 3445270::The Battered Bastards of Baseball (2014)::Documentary
 3446426::Time Pass (2014)::Comedy
 3446852::Bodybuilder (2014)::Comedy
+3446906::Joker Game (2015)::Thriller
 3447364::Detective Byomkesh Bakshy! (2015)::Mystery|Thriller
 3448226::Rampage: Capital Punishment (2014)::Action|Crime|Thriller
 3449040::Killer Legends (2014)::Documentary|Crime|History
@@ -21601,7 +21607,7 @@
 3607688::Quando c'era Berlinguer (2014)::Documentary
 3607812::The Sheik (2014)::Documentary
 3608654::The Coed and the Zombie Stoner (2014)::Comedy
-3608838::Dreamworks Spooky Stories (2012)::
+3608838::Dreamworks Spooky Stories (2012)::Animation|Adventure|Comedy
 3608848::NOW: In the Wings on a World Stage (2014)::Documentary
 3610188::The Bigger Picture (2014)::Animation|Short|Drama
 3612032::Wrong Turn 6: Last Resort (2014)::Horror
@@ -21706,7 +21712,7 @@
 3685922::Lost Songs: The Basement Tapes Continued (2014)::Documentary
 3686168::Ennamo Nadakkudhu (2014)::Action|Thriller
 3686242::Peruchazhi (2014)::Comedy
-3687398::The Runner (2015)::
+3687398::The Runner (2015)::Drama
 3689498::Feast (2014)::Animation|Short|Comedy
 3689908::Aru yasashiki satsujinsha no kiroku (2014)::Horror
 3689910::Sarusuberi: Miss Hokusai (2015)::Animation|Biography|Drama
@@ -21750,6 +21756,7 @@
 3722248::Austin to Boston (2014)::Documentary|Music
 3723530::The Perfect Romance (2014)::Comedy
 3727662::Micke &amp; Veronica (2014)::Comedy
+3727690::Zero Tolerance (2015)::Action
 3727824::The Ouija Experiment 2: Theatre of Death (2015)::Horror
 3729920::The Disappearance of Eleanor Rigby: Them (2014)::Drama
 3730518::Chuen lik kau saat (2015)::Action|Comedy|Sport
@@ -22175,6 +22182,7 @@
 4382552::Hot Girls Wanted (2015)::Documentary
 4382618::Station to Station (2015)::Drama
 4388606::Una Boda en Castañer (2015)::Comedy|Drama
+4392726::Hua Li Shang Ban Zou (2015)::Comedy|Musical|Romance
 4393514::Adam Curtis: Bitter Lake (2015)::Documentary
 4395722::The Woods Movie (2015)::Documentary
 4396932::WWE: Fast Lane (2015)::Sport
@@ -22207,6 +22215,7 @@
 4458296::Lift the World (2014)::Documentary
 4460786::Ask Olsun (2015)::Comedy
 4464702::Zhenshchiny protiv muzhchin (2015)::Comedy
+4467202::Hero (2015)::
 4483094::Lucky Star 2015 (2015)::Comedy
 4487766::Le leggi del desiderio (2015)::Drama
 4500734::Ek Paheli Leela (2015)::Romance|Thriller
@@ -22233,7 +22242,7 @@
 4619254::Sueños de héroes (2015)::Short
 4624138::Resham Filili (2015)::Comedy
 4624938::Runaway Island (2015)::
-4625336::RiffTrax Live: The Room (2015)::
+4625336::RiffTrax Live: The Room (2015)::Reality-TV
 4625752::Odnoy levoy (2015)::Comedy
 4627104::Flight World War II (2015)::Action|Adventure|History
 4629032::A zori zdes tikhie... (2015)::Drama|War
@@ -22275,5 +22284,6 @@
 4877114::WWE Summerslam (2015)::Sport
 4922522::Teen Choice Awards 2015 (2015)::
 4927574::Siccin 2 (2015)::Horror|Thriller
+4938416::LEGO DC Super Heroes: Justice League - Attack of the Legion of Doom! (2015)::
 4941734::Love H2O (2015)::Drama|Romance
 4967094::Our Times (2015)::Romance
