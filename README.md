@@ -82,5 +82,7 @@ in Collaborative Filtering Systems
 - [Augmenting a Feature Set of Movies Using Linked Open Data](https://www.csw.inf.fu-berlin.de/ruleml2015-ceur/paper16.pdf)
 - [Adaptive User Engagement Evaluation via Multi-task Learning](http://dl.acm.org/citation.cfm?id=2767785)
 - [Crowd Source Movie Ratings Based on Twitter Data Analytics](http://csus-dspace.calstate.edu/bitstream/handle/10211.3/138435/2015HolikattiPriya.pdf)
+- [Combining similarity and sentiment in opinion mining for product recommendation](http://link.springer.com/article/10.1007/s10844-015-0379-y)
+- [7 Relevance of Social Data in Video Recommendation](https://comcast.app.box.com/recsystv-2015-xu)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
