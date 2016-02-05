@@ -1402,6 +1402,7 @@
 0046807::Brigadoon (1954)::Fantasy|Musical|Romance
 0046816::The Caine Mutiny (1954)::Drama|Romance|War
 0046828::Carmen Jones (1954)::Drama|Musical|Romance
+0046831::Carosello napoletano (1954)::Comedy|Musical
 0046851::Chikamatsu monogatari (1954)::Drama|Romance
 0046874::The Country Girl (1954)::Drama|Music
 0046876::Creature from the Black Lagoon (1954)::Adventure|Horror|Sci-Fi
@@ -4097,6 +4098,7 @@
 0082031::Arthur (1981)::Comedy|Romance
 0082050::Be Tartib ya Bedoun-e Tartib (1981)::Short
 0082073::Bianco, rosso e Verdone (1981)::Comedy
+0082081::Die bleierne Zeit (1981)::Drama
 0082083::Blood Beach (1980)::Horror|Mystery|Sci-Fi
 0082084::Bloody Birthday (1981)::Horror|Thriller
 0082085::Blow Out (1981)::Mystery|Thriller
@@ -5529,6 +5531,7 @@
 0097235::The Dream Team (1989)::Comedy
 0097239::Driving Miss Daisy (1989)::Comedy|Drama
 0097240::Drugstore Cowboy (1989)::Crime|Drama
+0097243::A Dry White Season (1989)::Drama|Thriller
 0097244::Dou san (1989)::Action|Comedy|Drama
 0097257::Earth Girls Are Easy (1988)::Comedy|Musical|Romance|Sci-Fi
 0097262::Eddie and the Cruisers II: Eddie Lives! (1989)::Drama|Music|Romance
@@ -5764,6 +5767,7 @@
 0099817::Dark Angel (1990)::Action|Crime|Drama|Horror|Sci-Fi|Thriller
 0099818::I Hired a Contract Killer (1990)::Drama|Comedy
 0099819::I Love You to Death (1990)::Comedy|Crime
+0099832::Impulse (1990)::Crime|Drama|Thriller
 0099843::Indio (1989)::Adventure|Action
 0099850::Internal Affairs (1990)::Crime|Drama
 0099857::Iron & Silk (1990)::Comedy|Drama
@@ -5974,6 +5978,7 @@
 0102266::The Last Boy Scout (1991)::Action|Comedy|Crime|Mystery|Thriller
 0102288::Let Him Have It (1991)::Crime|Drama|History
 0102293::Lik Wong (1991)::Comedy|Horror|Sci-Fi|Thriller
+0102316::Little Man Tate (1991)::Drama
 0102343::Love Potion No. 9 (1992)::Comedy|Fantasy|Romance
 0102369::Madar (1991)::Drama
 0102370::Madonna: Truth or Dare (1991)::Documentary|Music
@@ -6516,6 +6521,7 @@
 0109305::Blue Chips (1994)::Drama|Sport
 0109322::Bottle Rocket (1994)::Short|Comedy|Crime
 0109327::Brainscan (1994)::Comedy|Horror|Sci-Fi|Thriller
+0109333::Bread &amp; Roses (1994)::Adventure|Biography|Drama
 0109340::The Browning Version (1994)::Drama
 0109348::Bullets Over Broadway (1994)::Comedy|Drama
 0109357::C Blok (1994)::Drama
@@ -6585,6 +6591,7 @@
 0110006::Heavy Weights (1995)::Comedy|Drama|Family|Sport
 0110008::Heisei tanuki gassen ponpoko (1994)::Animation|Comedy|Drama|Fantasy
 0110027::Highlander III: The Sorcerer (1994)::Fantasy|Sci-Fi|Action
+0110051::Hong fen (1995)::Drama
 0110052::Hong Kong 97 (1994)::Action|Drama|Thriller
 0110057::Hoop Dreams (1994)::Documentary|Drama|Sport
 0110064::House Party 3 (1994)::Comedy|Music|Romance
@@ -6611,6 +6618,7 @@
 0110216::Junior (1994)::Comedy|Romance|Sci-Fi
 0110217::Jupiter's Wife (1995)::Documentary|Biography|Mystery
 0110222::Kabhi Haan Kabhi Naa (1994)::Comedy|Drama|Music
+0110251::Keiner liebt mich (1994)::Comedy|Drama
 0110265::Killing Zoe (1993)::Crime|Drama|Thriller
 0110296::Ladybird Ladybird (1994)::Drama
 0110308::The Last Seduction (1994)::Crime|Thriller|Drama
@@ -6641,6 +6649,7 @@
 0110538::Mixed Nuts (1994)::Comedy|Drama
 0110547::Le moine et le poisson (1994)::Animation|Musical|Short
 0110570::Il mostro (1994)::Comedy|Crime|Mystery
+0110581::Mouvements du désir (1994)::Drama|Romance
 0110588::Mrs. Parker and the Vicious Circle (1994)::Biography|Drama
 0110598::Muriel's Wedding (1994)::Comedy|Drama|Romance
 0110604::Mute Witness (1994)::Horror|Thriller
@@ -6867,6 +6876,7 @@
 0113540::Kids (1995)::Crime|Drama
 0113552::Kiss of Death (1995)::Action|Crime|Thriller
 0113568::Kôkaku kidôtai (1995)::Animation|Action|Mystery|Sci-Fi|Thriller
+0113576::Kristin Lavransdatter (1995)::Drama
 0113581::Kun en pige (1995)::Biography
 0113613::The Last Supper (1995)::Comedy|Crime|Drama|Thriller
 0113617::Last of the Dogmen (1995)::Adventure|Western
@@ -7056,6 +7066,7 @@
 0116242::Everyone Says I Love You (1996)::Comedy|Musical|Romance
 0116250::Evita (1996)::Biography|Drama|History|Musical|Thriller
 0116253::Critical Decision (1996)::Action|Adventure|Thriller
+0116257::Exit in Red (1996)::Thriller|Drama|Romance
 0116259::Extreme Measures (1996)::Crime|Drama|Mystery
 0116260::Eye for an Eye (1996)::Crime|Drama|Thriller
 0116277::The Fan (1996)::Drama|Sport|Thriller
@@ -7166,10 +7177,12 @@
 0117221::Nénette et Boni (1996)::Drama
 0117238::Omega Doom (1996)::Sci-Fi
 0117247::One Fine Day (1996)::Comedy|Drama|Romance
+0117258::Organ (1996)::Action|Drama|Horror
 0117260::Original Gangstas (1996)::Action|Crime|Drama|Thriller
 0117276::Overnight Delivery (1998)::Romance|Comedy
 0117283::The Pallbearer (1996)::Comedy|Romance
 0117293::Paradise Lost: The Child Murders at Robin Hood Hills (1996)::Documentary|Crime|Mystery
+0117296::Parfait amour! (1996)::Drama|Romance
 0117315::Pedar (1996)::Drama
 0117318::The People vs. Larry Flynt (1996)::Biography|Drama
 0117331::The Phantom (1996)::Action|Adventure|Comedy
@@ -7711,6 +7724,7 @@
 0124014::The Mutilator (1985)::Horror
 0124102::Strangeland (1998)::Horror|Thriller
 0124179::Two Girls and a Guy (1997)::Comedy|Drama
+0124185::Under the Skin (1997)::Drama
 0124198::Very Bad Things (1998)::Comedy|Crime|Thriller
 0124207::Vor (1997)::Drama
 0124298::Blast from the Past (1999)::Comedy|Drama|Romance|Sci-Fi
@@ -11848,6 +11862,7 @@
 0475271::Fetching Cody (2005)::Drama|Fantasy|Romance
 0475276::United 93 (2006)::Crime|Drama|History
 0475289::Hack! (2007)::Comedy|Horror
+0475290::Hail, Caesar! (2016)::Comedy|Drama|Musical
 0475317::Knallhart (2006)::Crime|Drama
 0475355::Pride (2007)::Drama|Family|Sport
 0475380::Scenes of a Sexual Nature (2006)::Comedy|Drama|Romance
@@ -14813,6 +14828,7 @@
 1373215::Recep Ivedik 2 (2009)::Comedy
 1373406::Snowmen (2010)::Family
 1374985::Alois Nebel (2011)::Animation|Drama
+1374989::Pride and Prejudice and Zombies (2016)::Action|Horror|Romance
 1374992::Upside Down (2012)::Drama|Fantasy|Romance|Sci-Fi
 1375666::Inception (2010)::Action|Adventure|Mystery|Sci-Fi|Thriller
 1375669::Simon och ekarna (2011)::Drama
@@ -21264,6 +21280,7 @@
 2993434::Villa 69 (2013)::Drama
 2994190::Camp X-Ray (2014)::Drama
 2994448::Kissing Hank's Ass (2013)::Short|Comedy
+2994576::Broken Gardenias (2014)::Comedy|Drama|Romance
 2994646::Black Coffee (2014)::Comedy|Romance
 2994904::Kauboji (2013)::Comedy
 2994948::Deep in the Darkness (2014)::Horror|Thriller
@@ -22409,6 +22426,7 @@
 3560686::Durak (2014)::Drama
 3560742::Zombie Fight Club (2014)::Horror
 3561348::I nostri ragazzi (2014)::Drama
+3562786::Uncaged (2016)::Comedy|Horror|Thriller
 3563156::Anjaan (2014)::Action|Drama|Romance
 3564200::Tooken (2015)::Comedy
 3565174::Geronimo (2014)::
@@ -23427,6 +23445,7 @@
 4819544::Ming zhong zhu ding (2015)::Comedy|Romance
 4819560::Jie jiu wu xian sheng (2015)::Action|Crime|Drama
 4819804::Hoeng gong saam bou kuk (2015)::Documentary|Comedy|Drama
+4820312::Krampus: The Reckoning (2015)::Horror
 4831682::Little Witch Academia: Mahou Shikake no Parade (2015)::Animation|Comedy|Fantasy
 4835252::Il professor Cenerentolo (2015)::Comedy
 4835298::Belli di papà (2015)::Comedy
