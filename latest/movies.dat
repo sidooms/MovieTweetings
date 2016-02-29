@@ -431,6 +431,7 @@
 0027630::Follow the Fleet (1936)::Comedy|Musical|Romance
 0027652::Fury (1936)::Crime|Drama|Film-Noir
 0027657::The Garden of Allah (1936)::Adventure|Drama|Romance
+0027664::The General Died at Dawn (1936)::Adventure|Crime|Film-Noir
 0027686::Gold Diggers of 1937 (1936)::Comedy|Musical|Romance
 0027698::The Great Ziegfeld (1936)::Biography|Drama|Musical
 0027714::Half Shot Shooters (1936)::Comedy|Short
@@ -1498,6 +1499,7 @@
 0048336::A Man Alone (1955)::Western
 0048340::Man Without a Star (1955)::Western
 0048342::The Man from Laramie (1955)::Drama|Western
+0048346::Man of the Moment (1955)::Comedy
 0048347::The Man with the Golden Arm (1955)::Drama|Romance
 0048356::Marty (1955)::Drama|Romance
 0048363::Les maîtres fous (1955)::Documentary|Short
@@ -3109,6 +3111,7 @@
 0069018::La noche de los mil gatos (1972)::Horror
 0069019::Non si sevizia un paperino (1972)::Horror|Mystery|Thriller
 0069027::Nous ne vieillirons pas ensemble (1972)::Drama
+0069029::La novia ensangrentada (1972)::Horror
 0069089::Pink Flamingos (1972)::Comedy|Crime|Horror
 0069095::...Più forte ragazzi! (1972)::Action|Adventure|Comedy
 0069097::Play It Again, Sam (1972)::Comedy|Romance
@@ -5310,6 +5313,7 @@
 0094138::Three O'Clock High (1987)::Comedy
 0094142::Throw Momma from the Train (1987)::Comedy|Crime|Thriller
 0094155::Tin Men (1987)::Comedy|Drama
+0094208::Un homme amoureux (1987)::Drama|Romance
 0094226::The Untouchables (1987)::Crime|Drama|Thriller
 0094291::Wall Street (1987)::Crime|Drama
 0094293::Wanted: Dead or Alive (1986)::Action|Crime|Drama
@@ -7150,6 +7154,7 @@
 0115988::The Crucible (1996)::Drama|History
 0116000::D3: The Mighty Ducks (1996)::Action|Comedy|Drama
 0116040::Daylight (1996)::Action|Adventure|Drama
+0116059::Dear God (1996)::Comedy
 0116075::The Dentist (1996)::Horror|Thriller
 0116095::Diabolique (1996)::Drama|Horror|Thriller
 0116126::Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)::Comedy|Crime
@@ -8422,6 +8427,7 @@
 0176783::Gossip (2000)::Drama|Mystery|Thriller
 0176948::Love and Action in Chicago (1999)::Comedy|Drama|Romance
 0177507::Absolute Giganten (1999)::Comedy|Drama|Romance
+0177746::Les enfants du siècle (1999)::Biography|Drama|Romance
 0177789::Galaxy Quest (1999)::Adventure|Comedy|Sci-Fi
 0177858::Im Juli. (2000)::Adventure|Comedy|Romance
 0177882::Kebab Connection (2004)::Action|Comedy|Romance
@@ -8463,6 +8469,7 @@
 0181530::Est - Ouest (1999)::Drama|History|Romance
 0181536::Finding Forrester (2000)::Drama
 0181627::Kirikou et la sorcière (1998)::Animation|Adventure|Family
+0181659::The Living Museum (1998)::Documentary
 0181689::Minority Report (2002)::Action|Mystery|Sci-Fi
 0181739::Osmosis Jones (2001)::Animation|Action|Adventure
 0181786::Regret to Inform (1998)::Documentary|War
@@ -19778,6 +19785,7 @@
 2369331::Stuck (2013)::Documentary
 2369396::Bounty Killer (2013)::Action|Sci-Fi|Thriller
 2369497::Trois mondes (2012)::Drama
+2369529::Waiting for Mum (2011)::Short
 2369543::Lamma shoftak (2012)::Drama
 2369600::Muffin Top: A Love Story (2014)::Comedy|Romance
 2370034::Tango libre (2012)::Drama
@@ -21838,6 +21846,7 @@
 3148348::Let Us Prey (2014)::Action|Horror|Thriller
 3148468::L'arbitro (2013)::Comedy
 3148502::Tamasha (2015)::Comedy|Drama|Romance
+3148576::Shinjuku suwan (2015)::Comedy
 3148834::The House of Magic (2013)::Animation|Adventure|Comedy
 3148952::Der Kreis (2014)::Documentary|Biography|Drama
 3149038::X+Y (2014)::Drama
@@ -21977,6 +21986,7 @@
 3209556::Vidiyum Munn (2013)::Thriller
 3209716::Foals Live at the Royal Albert Hall (2013)::Music
 3210168::Different Town (2013)::Documentary|Music
+3210218::Contre la montre (2007)::Short|Biography
 3210258::Bo Burnham: what. (2013)::Comedy
 3210686::Son of God (2014)::Comedy|Drama|Fantasy
 3211048::Haani (2013)::Family|Romance
@@ -22971,6 +22981,7 @@
 3774790::400 Days (2015)::Mystery|Sci-Fi|Thriller
 3774802::Pandemic (2016)::Action
 3774870::Utóélet (2014)::Comedy|Drama|Family
+3775086::Lo chiamavano Jeeg Robot (2015)::
 3776288::Sniper: Legacy (2014)::Action|Thriller
 3776592::Mauro (2014)::
 3776658::This Is Not a Ball (2014)::Documentary
@@ -23235,6 +23246,7 @@
 4009460::Saving Christmas (2014)::Comedy|Family
 4010918::Sado (2015)::Drama|History
 4012914::Jun zhong le yuan (2014)::Drama|History|Romance
+4015096::Animal singulier (2008)::Short
 4016250::The Audition (2015)::Short
 4016942::Ghost in the Shell Arise: Border 4 - Ghost Stands Alone (2014)::Animation|Action|Sci-Fi
 4016994::Why Me? (2015)::Drama|Thriller
@@ -23592,6 +23604,7 @@
 4475970::Power/Rangers (2015)::Short|Action|Sci-Fi
 4476736::National Theatre Live: Hamlet (2015)::Drama
 4483094::Lucky Star 2015 (2015)::Comedy
+4484426::Nian nian (2015)::Drama
 4487766::Le leggi del desiderio (2015)::Drama
 4489160::You're My Boss (2015)::Comedy|Romance
 4498800::Honor Thy Father (2015)::Crime|Drama|Thriller
@@ -23787,6 +23800,7 @@
 4986182::2015 MTV Video Music Awards (2015)::Music
 4987556::Thani Oruvan (2015)::Action|Romance|Thriller
 4991384::Visaaranai (2015)::Drama
+4991632::The Oscars (2016)::
 4995590::Junun (2015)::Documentary
 4997830::Gonchi la película (2015)::Documentary
 5008220::Xing yu xin yuan zhi zai ai (2015)::Romance
@@ -23857,6 +23871,7 @@
 5275838::Mapplethorpe: Look at the Pictures (2016)::Documentary
 5278928::Sonita (2015)::Documentary
 5280626::Den unge Zlatan (2015)::Documentary
+5280954::The Importance of Being Earnest (2015)::Comedy
 5286444::Neerja (2016)::Biography|Drama
 5290524::Quo vado? (2016)::Comedy
 5290620::Kyaa Kool Hain Hum 3 (2016)::Comedy
