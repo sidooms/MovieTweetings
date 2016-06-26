@@ -667,7 +667,9 @@
 0033650::The Gay Falcon (1941)::Crime|Drama|Mystery
 0033651::The Gay Parisian (1941)::Short|Musical|Romance
 0033676::Great Guns (1941)::Comedy|Romance|War
+0033712::Here Comes Mr. Jordan (1941)::Fantasy|Comedy|Romance
 0033717::High Sierra (1941)::Adventure|Crime|Drama
+0033723::Hold That Ghost (1941)::Adventure|Comedy|Music
 0033729::How Green Was My Valley (1941)::Drama|Family
 0033739::I Thank You (1941)::Comedy
 0033740::I Wake Up Screaming (1941)::Crime|Drama|Film-Noir
@@ -756,6 +758,7 @@
 0035169::The Palm Beach Story (1942)::Romance|Comedy
 0035211::The Pride of the Yankees (1942)::Biography|Drama|Family
 0035238::Random Harvest (1942)::Drama|Romance
+0035252::Ride 'Em Cowboy (1942)::Comedy|Western|Musical
 0035272::Roxie Hart (1942)::Comedy|Romance
 0035279::Saboteur (1942)::Thriller|War
 0035308::Seven Miles from Alcatraz (1942)::Action|Drama
@@ -2056,6 +2059,7 @@
 0055047::King of Kings (1961)::Biography|Drama|History
 0055052::Kohayagawa-ke no aki (1961)::Drama
 0055073::The Last Sunset (1961)::Romance|Western
+0055079::Left Right and Centre (1959)::Comedy|Romance
 0055082::Léon Morin, prêtre (1961)::Drama|Romance
 0055093::Lola (1961)::Drama|Romance
 0055151::The Mask (1961)::Horror|Thriller
@@ -3457,6 +3461,7 @@
 0071532::The Gambler (1974)::Crime|Drama
 0071562::The Godfather: Part II (1974)::Crime|Drama
 0071565::Gojira tai Mekagojira (1974)::Action|Fantasy|Horror
+0071568::Golden Needles (1974)::Action
 0071571::Gone in 60 Seconds (1974)::Action|Crime|Drama
 0071577::The Great Gatsby (1974)::Drama|Romance
 0071583::The Groove Tube (1974)::Comedy
@@ -4710,6 +4715,7 @@
 0086067::Overnight Sensation (1984)::Short|Drama
 0086087::Pauline à la plage (1983)::Comedy|Drama|Romance
 0086112::The Pirates of Penzance (1983)::Comedy|Musical|Romance
+0086113::The Pit (1981)::Horror|Mystery
 0086119::Please Don't Eat the Babies (1983)::Action|Horror
 0086129::Porky's II: The Next Day (1983)::Comedy
 0086135::I predatori di Atlantide (1983)::Action|Sci-Fi
@@ -5907,6 +5913,7 @@
 0098180::Red Scorpion (1988)::Action|Adventure
 0098193::The Return of Swamp Thing (1989)::Sci-Fi|Horror|Comedy
 0098204::Rikyu (1989)::Drama|History
+0098205::River of Death (1989)::Adventure
 0098206::Road House (1989)::Action|Thriller
 0098213::Roger & Me (1989)::Documentary
 0098219::Romero (1989)::Biography|Crime|Drama
@@ -21265,6 +21272,7 @@
 2590280::One More Try (2012)::Drama
 2591738::Legion of the Black (2012)::Music
 2591814::Koto no ha no niwa (2013)::Animation|Drama|Romance
+2592336::Na-eui PS pa-teu-neo (2012)::Comedy|Romance
 2592594::Bui Doi Cho Lon (2013)::Action
 2592808::Love 911 (2012)::Comedy|Drama|Romance
 2592910::CM101MMXI Fundamentals (2013)::Documentary|Comedy
@@ -21996,6 +22004,7 @@
 2929890::L'homme qu'on aimait trop (2014)::Drama
 2930016::With Real Stars Above My Head (2014)::Drama
 2930428::Deadly Fast (2013)::Short|Action|Thriller
+2931148::Mob Handed (2016)::Thriller
 2931194::Guns N' Roses Appetite for Democracy 3D Live at Hard Rock Las Vegas (2014)::Music
 2932606::Siddharth (2013)::Drama
 2932730::Project: Ice (2013)::Documentary|Family|History
@@ -24156,6 +24165,7 @@
 4046784::Maze Runner: The Scorch Trials (2015)::Action|Sci-Fi|Thriller
 4047112::Jeeva (2014)::Drama|Sport
 4047752::Encounters (2014)::Horror|Mystery|Sci-Fi
+4048272::Toni Erdmann (2016)::Comedy|Drama
 4048668::Band of Robbers (2015)::Adventure|Comedy|Crime
 4050660::Hybris (2015)::Horror|Mystery|Thriller
 4052882::The Shallows (2016)::Drama|Horror|Thriller
@@ -24181,6 +24191,7 @@
 4067120::Fino a qui tutto bene (2014)::Comedy
 4073166::Ein Atem (2015)::Drama
 4073582::Un amor en tiempos de selfies (2014)::Comedy
+4073890::Andròn - The Black Labyrinth (2015)::Action|Sci-Fi
 4074114::Gui Mi (2014)::Comedy|Romance
 4074364::The Model (2016)::Drama
 4074502::Dark Star: HR Gigers Welt (2014)::Documentary|Biography
@@ -24486,6 +24497,7 @@
 4365060::7 Hours to Go (2016)::Thriller
 4365412::Filip &amp; Fredrik presenterar Trevligt folk (2015)::Documentary
 4366830::Grease: Live (2016)::Musical
+4368038::Everesuto: Kamigami no itadaki (2016)::Drama
 4368814::Louis C.K.: Live at the Comedy Store (2015)::Comedy
 4372118::Banana Pancakes and the Children of Sticky Rice (2015)::Documentary|Adventure|Drama
 4373888::Peppa Pig: The Golden Boots (2015)::Animation|Short
@@ -24615,6 +24627,7 @@
 4542660::We Are Blood (2015)::Documentary|Action|Sport
 4547120::San Andreas Quake (2015)::Action|Sci-Fi
 4552524::Jeruzalem (2015)::Horror
+4556792::Ignorant (2014)::Short
 4557014::Oru Vadakkan Selfie (2015)::Comedy|Thriller
 4558362::Bizim Hikaye (2015)::Action|Drama
 4559046::Housefull 3 (2016)::Comedy|Romance
@@ -24913,6 +24926,7 @@
 5066556::Daeho (2015)::Action|Adventure|History
 5066574::Ali Wong: Baby Cobra (2016)::Comedy
 5068280::Paavada (2016)::Comedy
+5069074::A Billion Lives (2016)::Documentary|History|News
 5073738::Chemsex (2015)::Documentary
 5074504::Kafes (2015)::Drama
 5076214::Delibal (2015)::Drama|Romance
@@ -25050,6 +25064,7 @@
 5458458::Se mi lasci non vale (2016)::Comedy
 5460738::Ca qiang zou huo (2015)::Comedy
 5477194::Iraivi (2016)::Drama|Romance
+5481404::Dead Rising: Endgame (2016)::Horror
 5487052::Den vyborov 2 (2016)::Comedy
 5497132::Homegrown: The Counter-Terror Dilemma (2016)::Documentary
 5505264::Ceberrut (2016)::Horror
