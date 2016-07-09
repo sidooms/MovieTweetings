@@ -3,10 +3,10 @@
 
 Metric | Value
 --- | ---
-Total number of ratings                 | 511,387
-Number of unique users                  | 43,380
-Number of unique items                  | 25,200
-These stats were last autocalculated on Sat Jul 9 01:03:14 CEST 2016  ([more stats here](./stats.md))
+Total number of ratings                 | 511,782
+Number of unique users                  | 43,397
+Number of unique items                  | 25,211
+These stats were last autocalculated on Sun Jul 10 00:34:25 CEST 2016  ([more stats here](./stats.md))
 
 ##A Movie Rating Dataset Collected From Twitter
 
