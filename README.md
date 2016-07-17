@@ -84,5 +84,9 @@ in Collaborative Filtering Systems
 - [Crowd Source Movie Ratings Based on Twitter Data Analytics](http://csus-dspace.calstate.edu/bitstream/handle/10211.3/138435/2015HolikattiPriya.pdf)
 - [Combining similarity and sentiment in opinion mining for product recommendation](http://link.springer.com/article/10.1007/s10844-015-0379-y)
 - [7 Relevance of Social Data in Video Recommendation](https://comcast.app.box.com/recsystv-2015-xu)
+- [Positive-Unlabeled Learning in Streaming Networks](http://www.kdd.org/kdd2016/subtopic/view/positive-unlabeled-learning-in-streaming-networks)
+- [Unexpectedness and Non-Obviousness in Recommendation Technologies and Their Impact on Consumer Decision Making](http://people.stern.nyu.edu/padamopo/thesis_draft.pdf)
+- [Corporate Smart Content Evaluation](http://www.diss.fu-berlin.de/docs/servlets/MCRFileNodeServlet/FUDOCS_derivate_000000006523/CSCStudie2016.pdf)
+- [Mastering Python Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
