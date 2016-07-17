@@ -87,6 +87,6 @@ in Collaborative Filtering Systems
 - [Positive-Unlabeled Learning in Streaming Networks](http://www.kdd.org/kdd2016/subtopic/view/positive-unlabeled-learning-in-streaming-networks)
 - [Unexpectedness and Non-Obviousness in Recommendation Technologies and Their Impact on Consumer Decision Making](http://people.stern.nyu.edu/padamopo/thesis_draft.pdf)
 - [Corporate Smart Content Evaluation](http://www.diss.fu-berlin.de/docs/servlets/MCRFileNodeServlet/FUDOCS_derivate_000000006523/CSCStudie2016.pdf)
-- [Mastering Python Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis)
+- [(Book!) Mastering Python Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis)
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
