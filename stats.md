@@ -20,5 +20,5 @@ Number of users with minimum 20 ratings | 5,742
 Number of users with minimum 10 ratings | 9,321
 Average number of ratings per user      | 12
 Average number of ratings per item      | 20
-Stats calculation time                  | Mon Aug 15 00:37:49 2016
+Stats calculation time                  | Tue Aug 16 01:32:00 2016
 
