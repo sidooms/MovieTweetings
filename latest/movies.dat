@@ -1381,6 +1381,7 @@
 0045061::The Quiet Man (1952)::Comedy|Drama|Romance
 0045102::Room for One More (1952)::Comedy
 0045112::Saikaku ichidai onna (1952)::Drama
+45136::Semmelweis (1952)::
 0045152::Singin' in the Rain (1952)::Comedy|Musical|Romance
 0045183::Spartaco (1953)::Adventure|History
 0045186::The Star (1952)::Drama|Romance
@@ -6396,6 +6397,7 @@
 0102181::Kafka (1991)::Comedy|Drama|Mystery
 0102202::Kickboxer 2: The Road Back (1991)::Action|Sport
 0102216::King Ralph (1991)::Comedy|Romance
+0102223::Kit Kat (1991)::Comedy|Drama|Romance
 0102250::L.A. Story (1991)::Comedy|Drama|Fantasy
 0102266::The Last Boy Scout (1991)::Action|Comedy|Crime
 0102288::Let Him Have It (1991)::Crime|Drama|History
@@ -7707,6 +7709,7 @@
 0117496::Robinson Crusoe (1997)::Drama|Adventure
 0117500::The Rock (1996)::Action|Adventure|Thriller
 0117509::Romeo + Juliet (1996)::Drama|Romance
+0117555::Savrseni krug (1997)::Drama|War
 0117561::Schizopolis (1996)::Comedy|Fantasy|Mystery
 0117571::Scream (1996)::Horror|Mystery
 0117589::Secrets & Lies (1996)::Drama
@@ -8689,6 +8692,7 @@
 0160401::In Too Deep (1999)::Crime|Thriller|Drama
 0160403::The Independent (2000)::Comedy
 0160434::Housebound (2000)::Thriller
+0160440::Kurutta kajitsu (1956)::Drama
 0160484::Lost Souls (2000)::Drama|Horror|Thriller
 0160534::Milk (1999)::Comedy|Drama
 0160586::Noose for a Lady (1953)::Crime|Drama
@@ -9255,7 +9259,7 @@
 0211465::Knockaround Guys (2001)::Crime|Drama|Thriller
 0211661::Terror Tract (2000)::Comedy|Thriller|Horror
 0211718::Vengo (2000)::Musical|Drama
-0211915::Le fabuleux destin d'Amélie Poulain (2001)::Comedy|Romance
+0211915::Amélie (2001)::Comedy|Romance
 0211933::Awake (2007)::Crime|Mystery|Thriller
 0211938::Bait (2000)::Action|Crime|Thriller
 0211946::Berlin Calling (2008)::Comedy|Drama|Music
@@ -10278,6 +10282,7 @@
 0296144::Il più bel giorno della mia vita (2002)::Drama
 0296572::The Chronicles of Riddick (2004)::Action|Adventure|Sci-Fi
 0296621::Everybody Says I'm Fine! (2001)::Drama|Fantasy|Romance
+0296658::Go-yang-i-leul boo-tak-hae (2001)::Drama
 0296696::Jopog manura (2001)::Action|Romance|Comedy
 0296915::Valentín (2002)::Comedy|Drama|Romance
 0296922::Vivir mata (2002)::Comedy|Drama|Romance
@@ -10307,6 +10312,7 @@
 0298845::In America (2002)::Drama
 0298856::Evelyn (2002)::Drama
 0299117::Roger Dodger (2002)::Comedy|Drama
+0299172::Home on the Range (2004)::Animation|Comedy|Family
 0299213::Waterboys (2001)::Comedy|Sport
 0299458::All the Real Girls (2003)::Drama|Romance
 0299658::Chicago (2002)::Comedy|Crime|Musical
@@ -23598,6 +23604,7 @@
 3422078::Avril et le monde truqué (2015)::Animation|Adventure|Comedy
 3422094::La Delgada Línea Amarilla (2015)::Drama
 3422462::Bangistan (2015)::Comedy
+3424690::Havenhurst (2016)::Horror|Thriller
 3425034::Allacciate le cinture (2014)::Comedy|Drama
 3425772::Song 'e Napule (2013)::Action|Comedy|Crime
 3426262::Pannaiyarum Padminiyum (2014)::Comedy|Drama
@@ -24781,6 +24788,7 @@
 4085484::Wide Open Sky (2015)::Documentary|Family|Music
 4085502::Terug Naar Morgen (2015)::Drama|Romance|Sci-Fi
 4085696::Billy Elliot the Musical Live (2014)::Comedy|Drama|Music
+4085944::Lolo (2015)::Comedy
 4086032::Frankenstein (2015)::Horror|Thriller
 4088268::Flaskepost fra P (2016)::Crime|Drama|Thriller
 4088588::Dhanak (2015)::Drama
@@ -24914,6 +24922,7 @@
 4202960::Neko nanka yondemo konai (2016)::Comedy
 4202970::Exit 14 (2016)::Horror
 4203200::So-syeol-po-bi-a (2014)::Drama
+4203216::Geo-jin-mal (2014)::Drama
 4203824::Elizabeth Ekadashi (2014)::Adventure|Drama|Family
 4205128::Staying Alive (2015)::Comedy
 4205954::Eksik (2015)::Drama|History
@@ -25749,6 +25758,7 @@
 5259966::No manches Frida (2016)::Comedy
 5262972::Avengers: Age of Ultron Parody (2015)::Short|Comedy
 5269560::Ten Years (2015)::Drama
+5270758::Daesh Girl (2016)::Short
 5271442::Maalik (2016)::Thriller
 5275828::Lo and Behold, Reveries of the Connected World (2016)::Documentary
 5275830::Eat That Question: Frank Zappa in His Own Words (2016)::Documentary
@@ -25829,6 +25839,7 @@
 5462892::Hanachan no misoshiru (2015)::Drama
 5463052::Persona 3 the Movie: 4 Winter of Rebirth (2016)::Animation
 5463152::Barcode (2016)::Comedy|Thriller
+5463510::Lantouri (2016)::Drama|Romance
 5465370::Naam Hai Akira (2016)::Action|Crime|Drama
 5471480::Magnus (2016)::Documentary
 5472758::Happy Bhaag Jayegi (2016)::Romance
@@ -25857,6 +25868,7 @@
 5548032::Oppam (2016)::Comedy|Crime|Thriller
 5556144::2016 MTV Movie Awards (2016)::
 5559586::Glory Day (2016)::Drama
+5562652::Vaxxed: From Cover-Up to Catastrophe (2016)::Fantasy|Thriller
 5568164::National Parks Adventure (2016)::Documentary|Short
 5571734::Pink (2016)::Thriller
 5574166::Code 8 (2016)::Short|Action|Crime
@@ -25921,6 +25933,7 @@
 5889456::Magyar csapat - '...még 50 perc...' (2016)::Documentary|Sport
 5896962::Line Walker (2016)::Action|Drama
 5910280::Teo-neol (2016)::Drama
+5929796::The Rolling Stones Havana Moon (2016)::Music
 5932358::Beauty Mark (2016)::Short|Comedy
 5934894::Dharma Durai (2016)::Drama
 5937770::Tell Me How I Die (2016)::Horror
