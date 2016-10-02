@@ -88,5 +88,8 @@ in Collaborative Filtering Systems
 - [Unexpectedness and Non-Obviousness in Recommendation Technologies and Their Impact on Consumer Decision Making](http://people.stern.nyu.edu/padamopo/thesis_draft.pdf)
 - [Corporate Smart Content Evaluation](http://www.diss.fu-berlin.de/docs/servlets/MCRFileNodeServlet/FUDOCS_derivate_000000006523/CSCStudie2016.pdf)
 - [(Book!) Mastering Python Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis)
+- [An Integrated Recommender Algorithm for Rating Prediction](https://arxiv.org/pdf/1608.02021.pdf)
+- [Designing Human-Centered Collective Intelligence](http://epublications.marquette.edu/cgi/viewcontent.cgi?article=1678&context=dissertations_mu)
+
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
