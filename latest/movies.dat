@@ -4,6 +4,7 @@
 0000091::Le manoir du diable (1896)::Short|Horror
 0000417::Le voyage dans la lune (1902)::Short|Adventure|Fantasy
 0000439::The Great Train Robbery (1903)::Short|Action|Crime
+0443::Hiawatha, the Messiah of the Ojibway (1903)::
 0000628::The Adventures of Dollie (1908)::Action|Short
 0000833::The Country Doctor (1909)::Short|Drama
 0001223::Frankenstein (1910)::Short|Fantasy|Horror
@@ -1173,6 +1174,7 @@
 0041652::Miss Grant Takes Richmond (1949)::Comedy
 0041663::Mr. Soft Touch (1949)::Crime|Drama|Film-Noir
 0041671::My Dream Is Yours (1949)::Comedy|Musical
+0041694::No Man of Her Own (1950)::Drama|Film-Noir
 0041699::Nora inu (1949)::Crime|Drama|Thriller
 0041716::On the Town (1949)::Comedy|Musical|Romance
 0041718::One Last Fling (1949)::Comedy|Romance
@@ -1420,6 +1422,7 @@
 0045537::The Band Wagon (1953)::Comedy|Musical|Romance
 0045546::The Beast from 20,000 Fathoms (1953)::Adventure|Horror|Sci-Fi
 0045555::The Big Heat (1953)::Crime|Film-Noir|Thriller
+0045557::The Bigamist (1953)::Drama|Film-Noir
 0045564::The Blue Gardenia (1953)::Crime|Drama|Film-Noir
 0045589::The Caddy (1953)::Comedy|Musical|Sport
 0045591::Calamity Jane (1953)::Comedy|Musical|Western
@@ -4922,6 +4925,7 @@
 0086973::Blame It on Rio (1984)::Comedy|Romance
 0086979::Blood Simple. (1984)::Crime|Thriller
 0086984::Body Double (1984)::Crime|Mystery|Thriller
+0086988::Le bon plaisir (1984)::Drama|Romance
 0086993::The Bounty (1984)::Action|Adventure|Drama
 0086994::Boy Meets Girl (1984)::Drama|Romance
 0086998::Breakin' (1984)::Comedy|Drama|Music
@@ -5339,6 +5343,7 @@
 0091327::Karins ansikte (1984)::Documentary|Short
 0091338::Killer Party (1986)::Comedy|Horror
 0091339::Killer Workout (1987)::Horror
+0091341::Kin-dza-dza! (1986)::Comedy|Drama|Sci-Fi
 0091344::King Kong Lives (1986)::Action|Adventure|Horror
 0091355::Kong bu fen zi (1986)::Drama
 0091369::Labyrinth (1986)::Adventure|Family|Fantasy
@@ -6575,6 +6580,7 @@
 0103882::A Brief History of Time (1991)::Documentary|Biography
 0103888::Brother's Keeper (1992)::Documentary|Crime|Mystery
 0103893::Buffy the Vampire Slayer (1992)::Action|Comedy|Fantasy
+0103898::The Burning Moon (1992)::Horror
 0103905::C'est arrivé près de chez vous (1992)::Comedy|Crime|Drama
 0103919::Candyman (1992)::Drama|Fantasy|Horror
 0103923::Captain America (1990)::Action|Sci-Fi|Thriller
@@ -17710,6 +17716,7 @@
 1725073::Penumbra (2011)::Horror|Thriller
 1725803::Delhi in a Day (2011)::Comedy|Drama
 1725828::The Eagleman Stag (2011)::Animation|Short|Comedy
+1725969::Ethel &amp; Ernest (2016)::Animation|Drama
 1725986::How to Make Love Like an Englishman (2014)::Comedy|Romance
 1725995::Kuan meun ho (2010)::Comedy|Romance
 1726206::Pete Murray Takes You to Hastings (1983)::Documentary|Short
@@ -19025,6 +19032,7 @@
 1995341::It's a Disaster (2012)::Comedy|Drama
 1995346::Just Crazy Enough (2012)::Comedy
 1995390::Our Kind of Traitor (2016)::Thriller
+1995477::There's Always Woodstock (2014)::Comedy|Music|Romance
 1996196::Blood, Sweat + Vinyl: DIY in the 21st Century (2011)::Documentary|Biography|Music
 1996211::Chasing Legends (2010)::Documentary|Sport
 1996223::Crulic - drumul spre dincolo (2011)::Animation|Biography|Drama
@@ -23178,6 +23186,7 @@
 3169740::The Falls: Testament of Love (2013)::Drama|Romance
 3169770::El desconocido (2015)::Thriller
 3169780::Mediastan (2013)::Documentary
+3170428::Io, Arlecchino (2014)::Comedy|Drama
 3170444::Sweetness (2013)::Short|Drama
 3170832::Room (2015)::Drama
 3170900::Idealisten (2015)::Thriller
@@ -23557,6 +23566,7 @@
 3331846::Stand by Me Doraemon (2014)::Animation|Comedy|Drama
 3332064::Pan (2015)::Adventure|Family|Fantasy
 3333042::A Tiro Limpio (2013)::Short|Action
+3333870::Antibirth (2016)::Horror
 3334348::Heartless (2014)::Drama|Family|Romance
 3334390::Sleeping Beauty (2014)::Action|Adventure|Drama
 3334794::About a Girl (2014)::Comedy|Drama
@@ -24629,6 +24639,7 @@
 3864024::Lazer Team (2015)::Action|Comedy|Sci-Fi
 3864758::Mei Gaau Siu Nui (2014)::Drama
 3865478::11 minut (2015)::Drama|Thriller
+3865850::The Evil That Men Do (2015)::Thriller
 3867086::Made in Egypt: Soneia Fe Misr (2014)::Comedy
 3867606::Cha và con và (2015)::Drama
 3868492::Tookae Ruk Pang Mak (2014)::Romance
@@ -25888,6 +25899,7 @@
 5128328::Naanum Rowdydhaan (2015)::Comedy
 5128712::Weeds on Fire (2016)::Action|Biography|Drama
 5128826::The Alchemist Cookbook (2016)::Drama|Horror
+5129682::King Cobra (2016)::Crime|Drama
 5129818::V paprscích slunce (2015)::Documentary
 5131906::Fender Bender (2016)::Horror|Thriller
 5131914::Pandorica (2016)::Sci-Fi
@@ -26193,4 +26205,4 @@
 6076366::Aandavan Kattalai (2016)::Drama
 6106494::Abhinetri (2016)::
 6126294::Remo (2016)::Comedy|Romance
-6126312::Rekka (2016)::
+6126312::Rekka (2016)::Action
