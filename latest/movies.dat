@@ -767,6 +767,7 @@
 0034883::I Was Framed (1942)::Action|Adventure|Crime
 0034890::In This Our Life (1942)::Drama
 0034891::In Which We Serve (1942)::Drama|War
+0034902::Invisible Agent (1942)::Adventure|Comedy|Romance
 0034922::Journey Into Fear (1943)::Drama|Film-Noir|Thriller
 0034936::Keeper of the Flame (1942)::Drama|Mystery
 0034946::Kings Row (1942)::Drama|Mystery|Romance
@@ -1531,6 +1532,7 @@
 0046907::Devil Girl from Mars (1954)::Sci-Fi
 0046911::Les diaboliques (1955)::Drama|Horror|Thriller
 0046912::Dial M for Murder (1954)::Crime|Thriller
+0046958::Ernst Thälmann - Sohn seiner Klasse (1954)::Biography|Drama|War
 0046969::The Fast and the Furious (1955)::Crime|Drama|Mystery
 0046998::French Cancan (1954)::Comedy|Musical|Drama
 0047033::Gog (1954)::Drama|Horror|Romance
@@ -1585,6 +1587,7 @@
 0048021::Du rififi chez les hommes (1955)::Crime|Thriller
 0048028::East of Eden (1955)::Drama
 0048037::Ensayo de un crimen (1955)::Comedy|Crime|Drama
+0048038::Ernst Thälmann - Führer seiner Klasse (1955)::
 0048043::Escapade (1955)::Comedy|Drama
 0048055::The Far Country (1954)::Western
 0048078::Five Guns West (1955)::Western
@@ -4007,6 +4010,7 @@
 0076666::Saturday Night Fever (1977)::Drama|Music
 0076670::Schizo (1976)::Drama|Horror|Mystery
 0076683::The Sentinel (1977)::Horror
+0076686::The Serpent's Egg (1977)::Drama|Mystery|Thriller
 0076696::Shatranj Ke Khilari (1977)::Comedy|Drama|History
 0076704::Shock Waves (1977)::Horror|Mystery|Sci-Fi
 0076709::Si wang ta (1981)::Action|Mystery
@@ -4754,6 +4758,7 @@
 0084866::Vidhaata (1982)::Drama|Family|Action
 0084867::Vigilante (1983)::Action|Crime|Thriller
 0084868::Vincent (1982)::Short|Animation|Family
+0084897::Die weiße Rose (1982)::Biography|Crime|Drama
 0084899::White Dog (1982)::Drama|Horror|Thriller
 0084904::Wild Style (1983)::Documentary|Drama|Music
 0084917::The World According to Garp (1982)::Comedy|Drama
@@ -17155,6 +17160,7 @@
 1620785::How Much Does Your Building Weigh, Mr Foster? (2010)::Documentary|Biography
 1620907::Na Ghar Ke Na Ghaat Ke (2010)::Comedy|Drama
 1620933::Paan Singh Tomar (2010)::Action|Biography|Crime
+1620935::Bleed for This (2016)::Biography|Drama|Sport
 1621039::Free Birds (2013)::Animation|Adventure|Comedy
 1621045::Think Like a Man (2012)::Comedy|Romance
 1621046::Cesar Chavez (2014)::Biography
@@ -18730,6 +18736,7 @@
 1904937::Kaiji 2: Jinsei dakkai gêmu (2011)::Drama
 1904996::Parker (2013)::Action|Crime|Thriller
 1905003::Takva su pravila (2014)::Drama
+1905010::Samurai Ayothaya (2010)::Action|Drama|History
 1905040::The Dyatlov Pass Incident (2013)::Horror|Mystery|Sci-Fi
 1905041::Fast & Furious 6 (2013)::Action|Crime|Thriller
 1905042::Standing Up (2013)::Drama
@@ -20978,6 +20985,7 @@
 2369135::Need for Speed (2014)::Action|Crime|Drama
 2369154::R... Rajkumar (2013)::Action|Comedy|Romance
 2369205::Pioneer (2013)::Thriller
+2369223::Presentimientos (2013)::Drama
 2369317::Space Station 76 (2014)::Comedy|Drama|Sci-Fi
 2369331::Stuck (2013)::Documentary
 2369396::Bounty Killer (2013)::Action|Sci-Fi|Thriller
@@ -24094,6 +24102,7 @@
 3520564::Melbourne (2014)::Drama
 3521134::The Look of Silence (2014)::Documentary
 3521148::Dead End (2014)::Horror|Thriller
+3521164::Vaiana (2016)::Animation|Adventure|Comedy
 3521192::Kirimli (2014)::Action|Drama|History
 3521744::Neuland (2013)::Documentary
 3522366::The MindFulness Movie (2013)::Documentary|Family|News
@@ -24190,7 +24199,7 @@
 3562786::Uncaged (2016)::Comedy|Horror|Thriller
 3563156::Anjaan (2014)::Action|Drama|Romance
 3564200::Tooken (2015)::Comedy
-3565174::Geronimo (2014)::
+3565174::Geronimo (2014)::Romance
 3565264::Thegidi (2014)::Crime|Thriller
 3565354::Karar: The Deal (2014)::Thriller
 3565668::What's in the Basket? (2012)::Documentary
@@ -26009,6 +26018,7 @@
 5039822::Addicted to Sexting (2015)::Documentary
 5049302::The Priests (2015)::Crime|Mystery|Thriller
 5049636::Karbala (2015)::Drama|War
+5051390::Ahwak (2015)::Comedy|Romance
 5052298::Geunomida (2015)::Thriller
 5052524::Operator (2016)::Comedy|Drama
 5052610::Lilitu (2015)::Short|Thriller
@@ -26412,6 +26422,7 @@
 6075366::Kalb Balady (2016)::Comedy
 6076366::Aandavan Kattalai (2016)::Drama
 6078822::The Escape (2016)::Short|Action|Drama
+6096424::99 Cahaya di Langit Eropa (2013)::Drama
 6106494::Abhinetri (2016)::Comedy|Horror
 6109862::Rock Bro (2016)::
 6126294::Remo (2016)::Comedy|Romance
