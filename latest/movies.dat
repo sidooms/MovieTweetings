@@ -999,6 +999,7 @@
 0038615::The Hoodlum Saint (1946)::Drama|Music
 0038650::It's a Wonderful Life (1946)::Drama|Family|Fantasy
 0038669::The Killers (1946)::Crime|Drama|Film-Noir
+0038672::Klockorna i Gamla sta'n (1946)::
 0038694::Little Giant (1946)::Comedy
 0038704::Love Laughs at Andy Hardy (1946)::Comedy|Romance
 0038718::Make Mine Music (1946)::Animation|Family|Music
@@ -1249,6 +1250,7 @@
 0042634::Key to the City (1950)::Comedy|Romance
 0042650::Kon-Tiki (1950)::Documentary
 0042665::Last Holiday (1950)::Comedy|Drama|Romance
+0042692::Luci del varietà (1951)::Drama|Music|Romance
 0042727::The Men (1950)::Drama
 0042752::Trio (1950)::Drama|Romance
 0042767::My Blue Heaven (1950)::Drama|Musical
@@ -3569,6 +3571,7 @@
 0071281::Carry on Dick (1974)::Adventure|Comedy
 0071315::Chinatown (1974)::Drama|Mystery|Thriller
 0071318::Chosen Survivors (1974)::Action|Adventure|Drama
+0071344::Colpo in canna (1975)::Action
 0071360::The Conversation (1974)::Drama|Mystery|Thriller
 0071361::Coonskin (1975)::Animation|Crime|Drama
 0071385::Daisy Miller (1974)::Drama|Romance
@@ -7387,6 +7390,7 @@
 0112602::Bushwhacked (1995)::Adventure|Comedy|Crime
 0112604::Butterfly Kiss (1995)::Comedy|Drama|Thriller
 0112606::Bye Bye Love (1995)::Comedy
+0112611::Cafe Society (1995)::Drama|Mystery
 0112619::El Callejón de los Milagros (1995)::Drama
 0112625::Candyman: Farewell to the Flesh (1995)::Horror
 0112631::Carl Th. Dreyer: Min metier (1995)::Documentary|Biography
@@ -14184,6 +14188,7 @@
 0986213::Aaja Nachle (2007)::Drama|Musical
 0986230::French Film (2008)::Comedy|Romance
 0986233::Hunger (2008)::Biography|Drama
+0986244::Naalu Pennungal (2007)::Drama
 0986263::Surrogates (2009)::Action|Sci-Fi|Thriller
 0986264::Taare Zameen Par (2007)::Drama|Family|Music
 0986272::Validation (2007)::Short|Comedy|Romance
@@ -16604,6 +16609,7 @@
 1508661::Dead Hooker in a Trunk (2009)::Horror
 1508675::Le Havre (2011)::Comedy|Drama
 1508955::El cuarto de Leo (2009)::Drama
+1508969::X Returns (2009)::Short|Action|Adventure
 1509109::Basement (2010)::Drama|Horror|Thriller
 1509130::Janie Jones (2010)::Drama|Music
 1509276::The Wildest Dream (2010)::Documentary|Adventure|Biography
@@ -25823,6 +25829,7 @@
 4663992::La tierra y la sombra (2015)::Drama
 4666726::Christine (2016)::Biography|Drama
 4667094::Fifty Shades of Black (2016)::Comedy
+4667854::SiREN (2016)::Horror
 4668758::Detective Willy (2015)::Adventure|Comedy
 4668808::My Nazi Legacy (2015)::Documentary
 4668860::Ants on a Shrimp (2016)::Documentary
@@ -25855,6 +25862,7 @@
 4692234::As Mil e Uma Noites: Volume 2, O Desolado (2015)::Drama
 4692242::As Mil e Uma Noites: Volume 3, O Encantado (2015)::Drama
 4693464::Sicilian Vampire (2015)::Crime|Drama|Horror
+4695434::Kümes (2015)::Drama
 4695548::Kötü Kedi Serafettin (2016)::Animation|Action|Comedy
 4695952::Scotland's Caddies (2013)::Documentary
 4696222::N.L.L: Yeonpyeong Haejeon (2015)::Drama|War
@@ -26445,7 +26453,7 @@
 5512872::Be Somebody (2016)::Comedy|Drama
 5513770::Kung Fu Panda: Secrets of the Scroll (2016)::Animation|Short|Action
 5514296::My Stupid Boss (2016)::Comedy
-5517438::7 años (2016)::
+5517438::7 años (2016)::Drama
 5518128::Love Games (2016)::Thriller
 5520618::Fritz Lang (2016)::Drama
 5521550::Dirty 30 (2016)::Comedy
@@ -26473,6 +26481,7 @@
 5585718::Curmudgeons (2016)::Short|Comedy
 5588328::Siyah karga (2016)::Drama
 5588506::Kasap havasi (2015)::Drama
+5589768::Soof 2 (2016)::Comedy|Romance
 5593606::Home (2016)::Short
 5595168::Kingsglaive: Final Fantasy XV (2016)::Animation|Adventure|Drama
 5595416::Lukamari (2016)::Comedy
@@ -26586,6 +26595,7 @@
 5988370::Reis (2016)::Biography|Drama
 5996202::The Net (2016)::Drama
 5998218::Indie Game: Life After (2016)::Documentary
+5998744::S Storm (2016)::Action|Crime
 5999382::Laaf Wa Dawaraan (2016)::Comedy
 6014428::Macht Liebe Tod (2016)::Comedy|Drama
 6017594::The Darkest Dawn (2016)::Sci-Fi
@@ -26614,3 +26624,4 @@
 6239596::There Is No Solace (2016)::
 6249406::Alan Bennett's Diaries (2016)::Documentary
 6286666::Saithan (2016)::Thriller
+6290024::Uno: The Movie (2016)::Comedy
