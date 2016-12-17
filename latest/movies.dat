@@ -1167,6 +1167,7 @@
 0041175::The Big Cat (1949)::Action|Adventure|Drama
 0041178::The Big Steal (1949)::Crime|Film-Noir|Romance
 0041238::Challenge to Lassie (1949)::Drama|Family
+0041239::Champion (1949)::Drama|Film-Noir|Sport
 0041245::The Chiltern Hundreds (1949)::Comedy|Romance
 0041259::A Connecticut Yankee in King Arthur's Court (1949)::Comedy|Family|Fantasy
 0041300::The Doctor and the Girl (1949)::Drama|Romance
@@ -4227,6 +4228,7 @@
 0079010::Cristo si è fermato a Eboli (1979)::Drama
 0079013::Cuba (1979)::Adventure|Romance|Thriller
 0079020::¡Que Viva Mexico! - Da zdravstvuyet Meksika! (1979)::Documentary|Drama|Western
+0079027::The Dark (1979)::Horror|Sci-Fi
 0079073::Dracula (1979)::Horror|Romance
 0079080::Dreamer (1979)::Drama|Sport
 0079082::The Driller Killer (1979)::Horror|Thriller
@@ -5394,6 +5396,7 @@
 0091187::Heartbreak Ridge (1986)::Action|Comedy|Drama
 0091188::Heartburn (1986)::Comedy|Drama
 0091192::Hell High (1989)::Crime|Horror|Thriller
+0091200::Bal na vodi (1985)::Drama|Romance
 0091203::Highlander (1986)::Action|Adventure|Fantasy
 0091209::The Hitcher (1986)::Thriller
 0091213::Hollywood Vice Squad (1986)::Action|Comedy|Crime
@@ -7629,6 +7632,7 @@
 0114938::Wild Bill (1995)::Action|Biography|Western
 0115012::Yao a yao, yao dao wai po qiao (1995)::Crime|Drama
 0115016::Ye ban ge sheng (1995)::Drama|Music|Romance
+0115040::Záhrada (1995)::Comedy
 0115433::101 Dalmatians (1996)::Adventure|Comedy|Family
 0115438::2 Days in the Valley (1996)::Comedy|Crime|Drama
 0115472::The Adventures of Pinocchio (1996)::Fantasy|Family|Adventure
@@ -12699,6 +12703,7 @@
 0462197::Big Rig (2007)::Documentary
 0462200::Black Snake Moan (2006)::Drama|Music
 0462229::Code Name: The Cleaner (2007)::Action|Comedy|Crime
+0462244::Daddy Day Camp (2007)::Comedy|Family
 0462295::Flakes (2007)::Comedy
 0462322::Grindhouse (2007)::Action|Horror|Thriller
 0462335::High-Rise (2015)::Action|Drama|Sci-Fi
@@ -23707,6 +23712,7 @@
 3293462::Algorithm (2014)::Crime|Drama|Thriller
 3294200::The Falling (2014)::Drama|Mystery
 3294634::Afscheid van de Maan (2014)::Drama
+3295244::Russell Peters: Notorious (2013)::Comedy
 3295482::Frankenstein vs. The Mummy (2015)::Horror
 3296204::Un boss in salotto (2014)::Comedy
 3296658::Hrútar (2015)::Drama
@@ -24499,6 +24505,7 @@
 3655374::Mandira Filozofu (2013)::Comedy
 3655414::Cien años de perdón (2016)::Crime|Thriller
 3655522::Bande de filles (2014)::Drama
+3655682::Let's Be Evil (2016)::Horror|Sci-Fi|Thriller
 3655972::El olivo (2016)::Comedy|Drama
 3657420::21 Years: Richard Linklater (2014)::Documentary|Biography
 3658772::Misconduct (2016)::Drama|Thriller
@@ -25297,6 +25304,7 @@
 4145324::Bound (2015)::Drama|Thriller
 4145350::Hansel Vs. Gretel (2015)::Horror
 4145848::Pyaar Vali Love Story (2014)::Drama
+4146622::Rampage: President Down (2016)::Action|Crime|Thriller
 4148400::Birlesen Gonuller (2014)::Drama|History
 4151192::The Condemned 2 (2015)::Action|Thriller
 4156152::El apóstata (2015)::
@@ -25673,6 +25681,7 @@
 4458206::Kod Adi K.O.Z. (2015)::Crime|Mystery
 4458296::Lift the World (2014)::Documentary
 4458368::Ju-on: Za fainaru (2015)::Horror
+4459912::Luna de miel (2015)::Horror|Thriller
 4460786::Ask Olsun (2015)::Comedy
 4463762::Brasserie Valentijn (2016)::Romance
 4464702::Zhenshchiny protiv muzhchin (2015)::Comedy
@@ -25991,6 +26000,7 @@
 4824302::Mother's Day (2016)::Comedy
 4824308::God's Not Dead 2 (2016)::Drama
 4826842::Pesn pesney (2015)::Drama|Romance
+4827878::The Rendezvous (2016)::Action|Adventure
 4829436::Treintona, Soltera y Fantástica (2016)::Comedy
 4831682::Little Witch Academia: Mahou Shikake no Parade (2015)::Animation|Comedy|Fantasy
 4832640::Sultan (2016)::Action|Drama|Sport
@@ -26211,6 +26221,7 @@
 5061570::Pocha: Manifest Destiny (2015)::Drama
 5061814::Xia Luo Te Fan Nao (2015)::Comedy
 5065314::Comic 8: Casino Kings Part 2 (2016)::Action|Comedy
+5065762::Últimos días en La Habana (2016)::
 5065790::Nadide Hayat (2015)::Comedy
 5065822::Ronaldo (2015)::Documentary|Sport
 5066556::Daeho (2015)::Action|Adventure|History
@@ -26363,6 +26374,7 @@
 5262176::I Am Giant (2015)::Documentary
 5262972::Avengers: Age of Ultron Parody (2015)::Short|Comedy
 5263116::In guerra per amore (2016)::
+5265960::La región salvaje (2016)::Drama
 5269560::Ten Years (2015)::Drama
 5270758::Daesh Girl (2016)::Short
 5271442::Maalik (2016)::Thriller
@@ -26444,6 +26456,7 @@
 5396724::Run Boy Run (2014)::Short|Thriller
 5423310::Ola Bola (2016)::Drama|History
 5424802::The Shining Star of Losers Everywhere (2016)::Documentary|Short
+5424972::How to Lose Weight in 4 Easy Steps (2016)::Short|Drama
 5426692::Trevor Noah: Pay Back the Funny (2015)::Comedy
 5427032::Osman Pazarlama (2016)::Comedy
 5434972::Fastball (2016)::Documentary
@@ -26467,11 +26480,13 @@
 5463152::Barcode (2016)::Comedy|Thriller
 5463510::Lantouri (2016)::Drama|Romance
 5465370::Naam Hai Akira (2016)::Action|Crime|Drama
+5470222::Contract to Kill (2016)::Action
 5471480::Magnus (2016)::Documentary
 5472758::Happy Bhaag Jayegi (2016)::Romance
 5474132::iGirl (2016)::Comedy|Romance
 5474996::Walls (2015)::Documentary
 5477194::Iraivi (2016)::Drama|Romance
+5477566::Barry (2016)::Biography|Drama
 5477608::Kahaani 2 (2016)::Thriller
 5481184::Feng shen bang (2016)::Action|Fantasy
 5481404::Dead Rising: Endgame (2016)::Horror
@@ -26539,6 +26554,7 @@
 5636334::Dream (2016)::Drama
 5638094::Ma' Rosa (2016)::Drama
 5638500::1920 London (2016)::Horror
+5639388::Raaz Reboot (2016)::Horror|Mystery|Romance
 5640450::ARQ (2016)::Sci-Fi|Thriller
 5644726::Tamjung Hong Gil-dong: Sarajin Ma-eul (2016)::Action
 5646136::Hillary's America: The Secret History of the Democratic Party (2016)::Documentary
@@ -26617,6 +26633,7 @@
 5940882::Zapas (2016)::Family
 5943306::Freaky Ali (2016)::Comedy|Sport
 5946128::Dear Zindagi (2016)::Drama|Romance
+5946232::Russell Peters: Almost Famous (2016)::Comedy
 5952266::The Ivory Game (2016)::Documentary
 5952332::Amanda Knox (2016)::Documentary
 5952468::The B-Side: Elsa Dorfman's Portrait Photography (2016)::Documentary
