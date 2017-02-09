@@ -3282,7 +3282,7 @@
 0067625::Proverka na dorogakh (1971)::Drama|War
 0067630::Psychomania (1973)::Horror
 0067633::Punishment Park (1971)::Drama|Thriller
-0067645::Quest for Love (1971)::
+0067645::Quest for Love (1971)::Drama|Mystery|Romance
 0067647::I racconti di Canterbury (1972)::Comedy|Drama|History
 0067650::Raid on Rommel (1971)::Drama|War
 0067668::Reshma Aur Shera (1972)::Drama|Musical|Romance
@@ -7524,7 +7524,7 @@
 0112887::The Doom Generation (1995)::Action|Comedy|Crime
 0112895::Dr. Jekyll and Ms. Hyde (1995)::Comedy|Romance
 0112896::Dracula: Dead and Loving It (1995)::Comedy|Fantasy|Horror
-0112913::Duo luo tian shi (1995)::Crime|Drama|Romance
+0112913::Do lok tin si (1995)::Crime|Drama|Romance
 0112922::El día de la bestia (1995)::Action|Comedy|Crime
 0112945::Élisa (1995)::Drama
 0112950::Empire Records (1995)::Comedy|Drama|Music
@@ -9290,7 +9290,7 @@
 0189192::Just Visiting (2001)::Comedy|Fantasy|Sci-Fi
 0189219::Xiao cheng zhi chun (1948)::Drama|Romance
 0189584::The Big Kahuna (1999)::Drama|Comedy
-0189630::Kadosh (1999)::
+0189630::Kadosh (1999)::Drama
 0189744::Miss Julie (1999)::Drama
 0189764::Mosura 3: Kingu Gidora raishu (1998)::Adventure|Fantasy|Sci-Fi
 0189998::Shadow of the Vampire (2000)::Drama|Horror
@@ -12037,7 +12037,7 @@
 0409799::Cashback (2004)::Short|Comedy|Drama
 0409847::Cowboys & Aliens (2011)::Action|Sci-Fi|Thriller
 0409904::Dnevnoy dozor (2006)::Action|Fantasy|Thriller
-0409923::The 8th Annual Young Comedians Show (1983)::
+0409923::The 8th Annual Young Comedians Show (1983)::Comedy
 0409965::Five Dedicated to Ozu (2003)::Documentary
 0410097::Hustle & Flow (2005)::Crime|Drama|Music
 0410214::The Chiefs (2004)::Documentary
@@ -13137,6 +13137,7 @@
 0482930::Lung Fu Moon (2006)::Action|Drama
 0482957::Exit (2006)::Drama|Mystery|Thriller
 0483022::Kamome shokudô (2006)::Comedy|Drama
+0483068::Mengejar matahari (2004)::
 0483282::Marshal (2002)::Action
 0483577::El búfalo de la noche (2007)::Drama
 0483578::Bushi no ichibun (2006)::Drama|Romance
@@ -13906,6 +13907,7 @@
 0860906::Evangerion shin gekijôban: Ha (2009)::Animation|Action|Drama
 0860907::Evangerion shin gekijôban: Kyu (2012)::Animation|Action|Drama
 0861689::Blindness (2008)::Drama|Mystery|Sci-Fi
+0861701::Deadlands: The Rising (2006)::Action|Horror|Thriller
 0861739::Tropa de Elite (2007)::Action|Crime|Drama
 0862467::Valhalla Rising (2009)::Adventure|Drama|Fantasy
 0862748::Lupin III (2014)::Action|Adventure|Comedy
@@ -17292,7 +17294,7 @@
 1600438::Scents and Sensibility (2011)::Drama
 1600524::Les amours imaginaires (2010)::Drama|Romance
 1600656::Bill Maher... But I'm Not Wrong (2010)::Comedy
-1600701::Captifs (2010)::
+1600701::Captifs (2010)::Horror|Thriller
 1601227::Sønner av Norge (2011)::Drama
 1601475::Seconds Apart (2011)::Horror|Thriller
 1601823::Esrefpasalilar (2010)::Comedy|Drama
@@ -18740,6 +18742,7 @@
 1847548::Bad Karma (2012)::Thriller
 1847584::Silencio en la nieve (2011)::Crime|Drama|Mystery
 1847615::Ira Finkelstein's Christmas (2012)::Comedy|Family
+1847616::J'enrage de son absence (2012)::
 1847672::Remainder (2015)::Drama
 1847687::Sekai saigo no hibi (2011)::Comedy|Drama|Fantasy
 1847713::The Guillotines (2012)::Action|Drama
@@ -20891,7 +20894,7 @@
 2300975::Jessabelle (2014)::Horror|Thriller
 2301147::Sex After Kids (2013)::Comedy
 2301155::Shootout at Wadala (2013)::Action|Crime
-2301258::De Outros Carnavais (2012)::
+2301258::De Outros Carnavais (2012)::Short|Romance
 2301276::Nothing Left (2012)::Drama|Horror|Thriller
 2301291::Zhen Tou (2012)::Comedy|Drama
 2301592::La danza de la realidad (2013)::Biography|Drama|Fantasy
@@ -22857,6 +22860,7 @@
 2893780::Convict (2014)::Action|Crime|Drama
 2896036::Vivir es fácil con los ojos cerrados (2013)::Comedy|Drama
 2896898::Mysteries of the Unseen World (2013)::Documentary|Short
+2898306::Harry &amp; Snowman (2015)::Documentary|Biography|Drama
 2899120::The Perfect Summer (2013)::Drama
 2899234::The Last Reel (2014)::Drama
 2899428::Istoriya odnoy starushki (2013)::Action|Drama|Family
@@ -25659,7 +25663,7 @@
 4202970::Exit 14 (2016)::Horror
 4203200::So-syeol-po-bi-a (2014)::Drama
 4203216::Geo-jin-mal (2014)::Drama
-4203284::Voley (2014)::
+4203284::Voley (2014)::Comedy
 4203824::Elizabeth Ekadashi (2014)::Adventure|Drama|Family
 4205128::Staying Alive (2015)::Comedy
 4205954::Eksik (2015)::Drama|History
@@ -26550,7 +26554,7 @@
 5039822::Addicted to Sexting (2015)::Documentary
 5049302::The Priests (2015)::Crime|Mystery|Thriller
 5049636::Karbala (2015)::Drama|War
-5050876::Måste gitt (2017)::
+5050876::Måste gitt (2017)::Comedy|Drama
 5051390::Ahwak (2015)::Comedy|Romance
 5052298::Geunomida (2015)::Thriller
 5052524::Operator (2016)::Comedy|Drama
@@ -27114,6 +27118,7 @@
 6333054::Chasing Coral (2017)::
 6338476::Lost in London (2017)::Comedy|Drama
 6349486::Waiting on a Flight (2016)::
+6350558::Ismaii (2017)::Drama|Romance
 6357492::Hangout (2016)::Comedy|Thriller
 6366854::Cek Toko Sebelah (2016)::Comedy
 6375308::David Bowie: The Last Five Years (2017)::Documentary
@@ -27122,4 +27127,5 @@
 6388082::Hyeong (2016)::Comedy
 6398570::Viva Amiga (2017)::Documentary
 6427146::National Theatre Live: No Man's Land (2016)::Drama
+6434022::Will You Be There? (2016)::
 6449684::Tia Tui La Cao Thu (2016)::
