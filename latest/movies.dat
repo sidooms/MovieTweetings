@@ -242,6 +242,7 @@
 0021861::Fighting Caravans (1931)::Romance|Western
 0021884::Frankenstein (1931)::Drama|Horror|Sci-Fi
 0021885::A Free Soul (1931)::Crime|Drama|Romance
+0021890::The Front Page (1931)::Comedy
 0022017::Kameradschaft (1931)::Drama
 0022048::Shukujo to hige (1931)::Comedy|Romance
 0022058::Laughing Gravy (1931)::Short|Comedy
@@ -1193,6 +1194,7 @@
 0041423::El gran calavera (1949)::Comedy
 0041452::The Heiress (1949)::Drama|Romance
 0041473::Holiday Affair (1949)::Comedy|Drama|Romance
+0041487::House of Strangers (1949)::Crime|Drama|Film-Noir
 0041498::I Was a Male War Bride (1949)::Comedy|Romance|War
 0041507::In the Good Old Summertime (1949)::Comedy|Musical|Romance
 0041509::The Inspector General (1949)::Comedy|Musical|Romance
@@ -1206,6 +1208,7 @@
 0041650::Mighty Joe Young (1949)::Adventure|Drama|Fantasy
 0041652::Miss Grant Takes Richmond (1949)::Comedy
 0041663::Mr. Soft Touch (1949)::Crime|Drama|Film-Noir
+0041667::La mujer que yo perdí (1949)::
 0041671::My Dream Is Yours (1949)::Comedy|Musical
 0041694::No Man of Her Own (1950)::Drama|Film-Noir
 0041699::Nora inu (1949)::Crime|Drama|Thriller
@@ -3462,6 +3465,7 @@
 0069704::American Graffiti (1973)::Comedy|Drama
 0069715::-- And Now the Screaming Starts! (1973)::Horror
 0069730::L'arma, l'ora, il movente (1972)::Mystery|Thriller
+0069745::La comtesse noire (1975)::
 0069747::Les aventures de Rabbi Jacob (1973)::Comedy
 0069751::Bandhe Haath (1973)::Action|Thriller
 0069754::The Baby (1973)::Horror|Thriller
@@ -4779,6 +4783,7 @@
 0084096::The House Where Evil Dwells (1982)::Horror
 0084111::I'm Dancing as Fast as I Can (1982)::Biography|Drama
 0084118::If You Love This Planet (1982)::Documentary|Short
+0084133::Incubus (1982)::
 0084151::Io, Chiara e lo scuro (1983)::
 0084199::Khud-Daar (1982)::Action|Drama|Family
 0084206::Killing 'em Softly (1982)::Drama|Thriller
@@ -8964,6 +8969,7 @@
 0161034::Ulysse (1982)::Short
 0161081::What Lies Beneath (2000)::Drama|Horror|Mystery
 0161083::What's the Worst That Could Happen? (2001)::Comedy|Crime
+0161084::Whatever It Takes (1998)::
 0161100::The Wood (1999)::Comedy|Drama|Romance
 0161215::¡A volar joven! (1947)::Comedy
 0161292::Bleeder (1999)::Crime|Drama
@@ -9051,7 +9057,7 @@
 0166370::Subconscious Cruelty (2000)::Crime|Drama|Horror
 0166396::Waking Ned (1998)::Comedy
 0166485::Anna and the King (1999)::Drama|History|Romance
-0166503::Beshkempir (1998)::
+0166503::Beshkempir (1998)::Drama
 0166556::Così è la vita (1998)::Comedy|Adventure
 0166618::The Fortunate Fool (1933)::Comedy
 0166653::Hälsoresan - En smal film av stor vikt (1999)::Comedy
@@ -16887,6 +16893,7 @@
 1527178::Nómadas (2010)::Drama
 1527186::Melancholia (2011)::Drama|Sci-Fi
 1527211::Toyour elzalam (1995)::Drama|Thriller
+1527765::The Candidate (2010)::
 1527788::Ajeossi (2010)::Action|Crime|Thriller
 1527835::Archipelago (2010)::Drama
 1528071::Horns (2013)::Drama|Fantasy|Thriller
@@ -23973,6 +23980,7 @@
 3305328::Anomaly (2014)::Short|Drama|History
 3305844::Hellions (2015)::Horror
 3306776::Bayonetta: Bloody Fate (2013)::Animation|Action|Fantasy
+3306858::Als wir träumten (2015)::Drama
 3310280::Red Rose (2014)::Drama|Romance
 3311176::Klassefesten 2: Begravelsen (2014)::Comedy
 3311384::The Class of 92 (2013)::Documentary|Sport
@@ -25173,6 +25181,7 @@
 3863552::Bajrangi Bhaijaan (2015)::Comedy|Drama
 3863870::Ich bin dann mal weg (2015)::Comedy
 3864024::Lazer Team (2015)::Action|Comedy|Sci-Fi
+3864096::Marionetes (2015)::
 3864758::Mei Gaau Siu Nui (2014)::Drama
 3865478::11 minut (2015)::Drama|Thriller
 3865850::The Evil That Men Do (2015)::Thriller
@@ -26012,6 +26021,7 @@
 4482938::Tonio (2016)::Drama
 4483094::Lucky Star 2015 (2015)::Comedy
 4483220::The Funhouse Massacre (2015)::Comedy|Horror
+4483460::Zonda: folclore argentino (2015)::Documentary|Musical
 4484426::Nian nian (2015)::Drama
 4487766::Le leggi del desiderio (2015)::Drama
 4489160::You're My Boss (2015)::Comedy|Romance
@@ -26826,6 +26836,7 @@
 5357476::Cirque du Soleil: Amaluna (2014)::Short
 5358714::Khoroshiy malchik (2016)::Comedy|Drama
 5358948::One Night Stand (2016)::Drama|Romance
+5358978::Pear Cider and Cigarettes (2016)::
 5369484::24 Wochen (2016)::Drama
 5370376::Fen shou zai shuo wo ai ni (2015)::Romance
 5372466::Iru Mugan (2016)::Action|Sci-Fi|Thriller
@@ -26891,6 +26902,7 @@
 5505264::Ceberrut (2016)::Horror
 5505548::Hesapta Ask (2016)::Comedy|Romance
 5507860::Floyd Norman: An Animated Life (2016)::Documentary|Biography
+5510182::Une tête disparaît (2016)::Animation|Short|Comedy
 5512872::Be Somebody (2016)::Comedy|Drama
 5513770::Kung Fu Panda: Secrets of the Scroll (2016)::Animation|Short|Action
 5514296::My Stupid Boss (2016)::Comedy
@@ -26915,6 +26927,7 @@
 5556144::2016 MTV Movie Awards (2016)::
 5556784::Kodi (2016)::Drama
 5559586::Glory Day (2016)::Drama
+5559726::Blind Vaysha (2016)::Animation|Short
 5562652::Vaxxed: From Cover-Up to Catastrophe (2016)::Fantasy|Thriller
 5565670::Ardaas (2016)::Drama
 5568164::National Parks Adventure (2016)::Documentary|Short
@@ -27069,6 +27082,7 @@
 5979312::7:19 (2016)::Drama|History
 5979920::Wrong Side Raju (2016)::Drama|Thriller
 5980232::Kaashmora (2016)::Fantasy|Horror
+5981110::Once Upon a Line (2016)::Animation|Short|Comedy
 5982852::Jolly LLB 2 (2017)::Comedy|Drama
 5988370::Reis (2016)::Biography|Drama
 5996202::The Net (2016)::Drama
@@ -27111,6 +27125,7 @@
 6186362::The Witching (2016)::Horror
 6186738::Doctor Who: The Power of the Daleks (2016)::Animation
 6190356::LIVE from DHAKA (2016)::Drama
+6193572::Aaaadat Nemikonim (2016)::
 6197028::The Coming War on China (2016)::Documentary
 6201292::Bairavaa (2017)::Action
 6229652::Benim Adim Feridun (2016)::Comedy
