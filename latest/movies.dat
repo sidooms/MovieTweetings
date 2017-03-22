@@ -707,6 +707,7 @@
 0033467::Citizen Kane (1941)::Drama|Mystery
 0033477::Come Live with Me (1941)::Comedy|Romance
 0033517::A Date with the Falcon (1942)::Crime|Drama|Mystery
+0033533::The Devil and Miss Jones (1941)::Comedy|Romance
 0033553::Dr. Jekyll and Mr. Hyde (1941)::Drama|Horror|Sci-Fi
 0033558::Dressed to Kill (1941)::Crime|Mystery
 0033563::Dumbo (1941)::Animation|Family|Musical
@@ -1873,6 +1874,7 @@
 0050861::The Prince and the Showgirl (1957)::Comedy|Romance
 0050870::Pyaasa (1957)::Drama|Musical|Romance
 0050873::Quatermass 2 (1957)::Sci-Fi|Horror
+0050882::Raintree County (1957)::Drama|Romance|War
 0050894::The Revenge of Frankenstein (1958)::Horror
 0050910::Rockets Galore (1958)::Comedy
 0050915::Run of the Arrow (1957)::Western
@@ -3236,6 +3238,7 @@
 0066835::Black Killer (1971)::Action|Crime|Drama
 0066845::Blood Legacy (1971)::Horror|Mystery|Thriller
 0066849::The Blood on Satan's Claw (1971)::Horror
+0066863::The Brotherhood of Satan (1971)::Horror
 0066894::Carry on Henry (1971)::Comedy|Romance
 0066895::Carry on at Your Convenience (1971)::Comedy
 0066904::Le chagrin et la pitié (1969)::Documentary|History|War
@@ -6511,6 +6514,7 @@
 0100507::Rocky V (1990)::Drama|Sport
 0100508::Rodrigo D: No futuro (1990)::Crime|Drama|Music
 0100514::The Rookie (1990)::Action|Comedy|Crime
+0100519::Rosencrantz &amp; Guildenstern Are Dead (1990)::Comedy|Drama
 0100530::The Russia House (1990)::Drama|Romance|Thriller
 0100563::Krug vtoroy (1990)::Drama
 0100589::Shakma (1990)::Horror
@@ -24660,6 +24664,7 @@
 3526408::Gus - Petit oiseau, grand voyage (2014)::Animation|Adventure|Comedy
 3526470::Newcomer (2015)::Crime|Drama|Thriller
 3526482::Ghesse-ha (2014)::
+3526706::Chevalier (2015)::Comedy|Drama
 3526810::Adolf Hitler: The Greatest Story Never Told (2013)::Documentary|History|War
 3527014::Verfehlung (2015)::Drama
 3527134::Ippunkan dake (2014)::Romance
@@ -25034,6 +25039,7 @@
 3696126::Il-dae-il (2014)::Drama
 3696192::Singh Is Bliing (2015)::Action|Comedy|Drama
 3696804::Just About Famous (2015)::Documentary|Comedy
+3697398::The Possession Experiment (2016)::Horror|Thriller
 3697566::U-neun nam-ja (2014)::Action|Drama
 3697626::Kkeut-kka-ji-gan-da (2014)::Action|Crime|Thriller
 3698118::Gangnam 1970 (2015)::Action|Crime|Drama
@@ -25082,6 +25088,7 @@
 3717252::Underworld: Blood Wars (2016)::Action|Horror
 3717324::Zombieworld (2015)::Comedy|Horror
 3717390::Refugiado (2014)::Drama
+3717490::Power Rangers (2017)::Action|Adventure|Sci-Fi
 3717510::The Drop Box (2014)::Documentary|Biography|News
 3717532::The Last: Naruto the Movie (2014)::Animation|Action|Adventure
 3718904::Me quedo contigo (2014)::Comedy|Drama|Horror
@@ -26234,6 +26241,7 @@
 4483220::The Funhouse Massacre (2015)::Comedy|Horror
 4483460::Zonda: folclore argentino (2015)::Documentary|Musical
 4484426::Nian nian (2015)::Drama
+4485246::Danny Says (2015)::Documentary|Animation|Biography
 4487766::Le leggi del desiderio (2015)::Drama
 4488840::Top Coat Cash (2017)::Crime|Drama
 4489160::You're My Boss (2015)::Comedy|Romance
@@ -27137,6 +27145,7 @@
 5437148::Spring Broke (2016)::Documentary
 5440700::Theri (2016)::Action|Drama
 5442308::Geomsawejeon (2016)::Crime
+5442430::Life (2017)::Horror|Sci-Fi|Thriller
 5442468::I Could Eat a Horse (2015)::Animation|Short|Comedy
 5446858::Zero Days (2016)::Documentary
 5450984::The BRIT Awards 2016 (2016)::Music
@@ -27459,6 +27468,7 @@
 6197094::Beata ignoranza (2017)::
 6201292::Bairavaa (2017)::Action
 6202000::Order Na Aresht (1926)::
+6206564::Trapped (2017)::Thriller
 6215964::Cereyan (2017)::Thriller
 6229652::Benim Adim Feridun (2016)::Comedy
 6229852::Deli Ask (2017)::Comedy
@@ -27469,6 +27479,7 @@
 6262750::Ammani (2016)::Drama
 6268536::House of Flying Arrows (2016)::Sport
 6275334::Northern Disco Lights (2016)::Documentary
+6277440::Badrinath Ki Dulhania (2017)::Romance
 6279726::4.1 Miles (2016)::Documentary|Short
 6282116::Sen Sag Ben Selamet (2016)::Comedy
 6286666::Saithan (2016)::Thriller
@@ -27513,3 +27524,4 @@
 6568410::Hamah (2017)::
 6574206::Herculanum (2016)::Short|Drama
 6620846::Wasati (2016)::
+6660922::Ojukokoro: Greed (2017)::
