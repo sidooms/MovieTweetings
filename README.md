@@ -1,5 +1,5 @@
-#MovieTweetings
-##Some stats
+# MovieTweetings
+## Some stats
 
 Metric | Value
 --- | ---
@@ -8,7 +8,7 @@ Number of unique users                  | 48,416
 Number of unique items                  | 27,603
 These stats were last autocalculated on Sat Apr 1 00:45:10 CEST 2017  ([more stats here](./stats.md))
 
-##A Movie Rating Dataset Collected From Twitter
+## A Movie Rating Dataset Collected From Twitter
 
 MovieTweetings is a dataset consisting of ratings on movies that were contained in well-structured tweets on Twitter. This dataset is the result of research conducted by [Simon Dooms] (http://scholar.google.be/citations?user=owaD8qkAAAAJ) (Ghent University, Belgium) and has been presented on the [CrowdRec 2013 workshop](http://crowdrec2013.noahlab.com.hk) which is co-located with the [ACM RecSys 2013 conference](http://recsys.acm.org/recsys13/). Please cite the [corresponding paper](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) if you make use of this dataset. The presented slides can be found [on slideshare] (http://www.slideshare.net/simondooms/movie-tweetings-a-movie-rating-dataset-collected-from-twitter).
 
@@ -24,7 +24,7 @@ The goal of this dataset is to provide the RecSys community with a live, natural
 
 Don't hesitate to contact me for any comments, questions or proposals you might have.
 
-##Ratings from Twitter
+## Ratings from Twitter
 
 As said, this dataset consists of ratings extracted from tweets. To be able to extract the ratings, we query the Twitter API for well-structured tweets. We have found such tweets originating from the social rating widget available in IMDb apps. While rating movies, in these apps, a well-structured tweet is proposed of the form:
 
@@ -32,13 +32,13 @@ As said, this dataset consists of ratings extracted from tweets. To be able to e
 
 On a daily basis the Twitter API is queried for the term **"I rated #IMDb"**. Through a series of regular expressions, relevant information such as user, movie and rating is extracted, and cross-referenced with the according IMDb page to provide also genre metadata. The numeric IMDb identifier was adopted as item id to facilitate additional metadata enrichment and guarantee movie uniqueness. For example, for the above tweet the item id would be **"0133093"** which allows to infer the corresponding IMDb page link (add *http://www.imdb.com/title/tt*). The user id simply ranges from 1 to the number of users.
 
-##The dataset
+## The dataset
 
 Since this dataset will be updated regularly we have structured the dataset in different folders /latest and /snapshots. The /latest folder will always contain the complete dataset as available at the time of the commit, while the /snapshots contain fixed portions of the dataset to allow experimentation and reproducibility of research. The *10K* snapshot represents the ratings from the first 10,000 collected tweets, *20K* the first 20,000, and so on.
 
 The dataset files are modeled after the [MovieLens dataset] (http://www.grouplens.org/node/73) to make them as interchangeable as possible. There are three files: **users.dat**, **items.dat** and **ratings.dat**.
 
-###users.dat
+### users.dat
 
 Contains the mapping of the users ids on their true Twitter id in the following format: *userid::twitter_id*. For example:
 
@@ -46,7 +46,7 @@ Contains the mapping of the users ids on their true Twitter id in the following 
 
 We provide the Twitter id and not the Twitter @handle (username) because while the @handle can be changed, the id will always remain the same. Conversions from Twitter id to @handle can be done by means of an online tool like [Tweeterid] (http://tweeterid.com/) or simply through the Twitter API itself. The mapping provided here again facilitates additional metadata enrichment.
 
-###items.dat
+### items.dat
 
 Contains the items (i.e., movies) that were rated in the tweets, together with their genre metadata in the following format: *movie_id::movie_title (movie_year)::genre|genre|genre*. For example:
 
@@ -54,7 +54,7 @@ Contains the items (i.e., movies) that were rated in the tweets, together with t
 
 The file is UTF-8 encoded to deal with the many foreign movie titles contained in tweets.
 
-###ratings.dat
+### ratings.dat
 
 In this file the extracted ratings are stored in the following format: *user_id::movie_id::rating::rating_timestamp*. For example:
 
@@ -62,11 +62,9 @@ In this file the extracted ratings are stored in the following format: *user_id:
 
 The ratings contained in the tweets are scaled from 0 to 10, as is the norm on the IMDb platform. To prevent information loss we have chosen to not down-scale this rating value, so all rating values of this dataset are contained in the interval [0,10].
 
-##Publications using this dataset
+## Publications using this dataset
 - [MovieTweetings: a Movie Rating Dataset Collected From Twitter](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf)
-- [Probabilistic Neighborhood Selection
-in Collaborative Filtering Systems
-] (http://people.stern.nyu.edu/padamopo/Probabilistic%20Neighborhood%20Selection%20in%20Collaborative%20Filtering%20Systems%20-%20Working%20Paper.pdf)
+- [Probabilistic Neighborhood Selection in Collaborative Filtering Systems] (http://people.stern.nyu.edu/padamopo/Probabilistic%20Neighborhood%20Selection%20in%20Collaborative%20Filtering%20Systems%20-%20Working%20Paper.pdf)
 - [Harvesting movie ratings from structured data in social media](http://dl.acm.org/citation.cfm?id=2559862)
 - [Social Popularity based SVD++ Recommender System](http://research.ijcaonline.org/volume87/number14/pxc3894033.pdf)
 - [Cold-Start Active Learning with Robust Ordinal Matrix Factorization](http://jmlr.org/proceedings/papers/v32/houlsby14-supp.zip)
