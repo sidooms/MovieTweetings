@@ -1036,7 +1036,7 @@
 0038823::Paisà (1946)::Drama|War
 0038854::The Postman Always Rings Twice (1946)::Crime|Drama|Film-Noir
 0038855::The Potted Psalm (1946)::Short
-0038890::Roma città aperta (1945)::Drama|War
+0038890::Roma, città aperta (1945)::Drama|War
 0038905::San Quentin (1946)::Drama
 0038934::She-Wolf of London (1946)::Crime|Horror|Mystery
 0038937::Shock (1946)::Film-Noir|Thriller
@@ -2782,6 +2782,7 @@
 0061450::Carry on Doctor (1967)::Comedy
 0061452::Casino Royale (1967)::Comedy
 0061495::La collectionneuse (1967)::Comedy|Drama|Romance
+0061502::The Comedians (1967)::Drama
 0061512::Cool Hand Luke (1967)::Crime|Drama
 0061524::Cours du soir (1967)::Short|Comedy
 0061550::Daikyojû Gappa (1967)::Comedy|Family|Horror
@@ -10077,6 +10078,7 @@
 0251613::Bird on a Wire (1974)::Documentary|Music
 0251637::Choke (1999)::Documentary
 0251640::Christmas at Pee Wee's Playhouse (1988)::Comedy|Family|Musical
+0251654::Dave Chappelle: Killin' Them Softly (2000)::Documentary|Comedy
 0251736::House of 1000 Corpses (2003)::Horror
 0251756::Jungle (2000)::Action|Romance|Thriller
 0251881::Abi foq al-Shagara (1969)::Musical|Comedy|Drama
@@ -13425,6 +13427,7 @@
 0492962::Destricted (2006)::Drama
 0493076::Nina (2016)::Biography|Drama|Music
 0493247::Gin-iro no kami no Agito (2006)::Animation|Drama|Romance
+0493264::Kurtlar Vadisi: Irak (2006)::Action|Adventure
 0493393::Ashes and Snow (2005)::Documentary|Drama
 0493405::CHIPS (2017)::Action|Comedy|Crime
 0493409::Devil's Den (2006)::Action|Comedy|Horror
@@ -16501,6 +16504,7 @@
 1412334::Samurai purinsesu: Gedô-hime (2009)::Action|Horror
 1412386::The Best Exotic Marigold Hotel (2011)::Comedy|Drama
 1412442::Beware the Gonzo (2010)::Comedy|Drama|Romance
+1412528::Table 19 (2017)::Comedy|Drama
 1413489::Cougar Hunting (2011)::Comedy|Romance
 1413495::Paranoia (2013)::Drama|Thriller
 1413496::Revenge of the Electric Car (2011)::Documentary
@@ -25349,6 +25353,7 @@
 3805948::One Million Dubliners (2014)::Documentary|Drama|History
 3807088::Under the Dome: Inside Chester's Mill (2014)::Documentary
 3808342::Saul fia (2015)::Drama|History|Thriller
+3809276::Lost in Florence (2017)::Adventure|Drama|Romance
 3809308::Noi e la Giulia (2015)::Comedy
 3810760::Minimalism: A Documentary About the Important Things (2016)::Documentary
 3810932::Drushyam (2014)::Drama|Family|Thriller
@@ -25480,6 +25485,7 @@
 3892620::Sonyeogoedam (2014)::Comedy|Horror|Romance
 3892822::Café Derby (2015)::Drama
 3893038::Nobi (2014)::Drama|War
+3893280::The Ticket (2016)::Drama
 3893456::La trattativa (2014)::Crime
 3893834::Arance e martello (2014)::Comedy
 3894148::Hirschen (2014)::Comedy
@@ -26210,6 +26216,7 @@
 4385888::20th Century Women (2016)::Comedy|Drama
 4387040::Airlift (2016)::Action|Drama|History
 4388606::Una Boda en Castañer (2015)::Comedy|Drama
+4392454::Slumlord (2015)::Drama|Horror
 4392726::Hua Li Shang Ban Zou (2015)::Comedy|Musical|Romance
 4392770::Always Shine (2016)::Thriller
 4393514::Adam Curtis: Bitter Lake (2015)::Documentary
@@ -26481,6 +26488,7 @@
 4629746::Zanqat Sittat (2015)::Comedy|Romance
 4630444::Being Charlie (2015)::Drama|Romance
 4630550::La fille inconnue (2016)::Drama
+4630562::The Fate of the Furious (2017)::Action|Crime|Thriller
 4632316::Gleason (2016)::Documentary
 4632440::La danseuse (2016)::Biography|Drama|Music
 4635372::Masaan (2015)::Drama|Romance
@@ -26931,6 +26939,7 @@
 5038216::16 and Missing (2015)::Thriller
 5038226::A Mother Betrayed (2015)::Thriller
 5038358::Des nouvelles de la planète Mars (2016)::Comedy
+5038372::Le voyage de Fanny (2016)::Drama
 5039088::The Transfiguration (2016)::Drama|Horror
 5039822::Addicted to Sexting (2015)::Documentary
 5039860::Dalida (2016)::Biography
@@ -27095,6 +27104,7 @@
 5192090::Director's Cut (2015)::Short|Comedy|Horror
 5193466::The Crossing (2015)::Documentary
 5193784::Brotherhood (2016)::Drama
+5194226::Scoop! (2016)::Mystery
 5197544::Baar Baar Dekho (2016)::Action|Comedy|Drama
 5199588::View from a Blue Moon (2015)::Action
 5200814::Ho Mann Jahaan (2015)::Drama|Musical
@@ -27269,6 +27279,7 @@
 5442430::Life (2017)::Horror|Sci-Fi|Thriller
 5442468::I Could Eat a Horse (2015)::Animation|Short|Comedy
 5446858::Zero Days (2016)::Documentary
+5450084::Homo sapiens (2016)::Documentary
 5450984::The BRIT Awards 2016 (2016)::Music
 5451054::Bezbog (2016)::Drama
 5452964::Mãe só há uma (2016)::Drama
@@ -27306,6 +27317,7 @@
 5488854::La vida inmoral de la pareja ideal (2016)::Comedy
 5491934::Burzynski: The Cancer Cure Cover-Up (2016)::Documentary
 5493706::Death Race 2050 (2017)::Action|Comedy|Sci-Fi
+5494396::Tickling Giants (2016)::Documentary
 5495270::Thirunaal (2016)::Action|Drama|Romance
 5497132::Homegrown: The Counter-Terror Dilemma (2016)::Documentary
 5497458::The Watcher (2016)::Thriller
@@ -27415,13 +27427,14 @@
 5651050::Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2016)::Documentary
 5653294::Ekipazh (2016)::Action|Adventure|Drama
 5655954::Vetrivel (2016)::Action|Drama|Romance
-5659172::High &amp; Low: The Movie (2016)::
+5659172::High &amp; Low: The Movie (2016)::Action
 5659780::Yarim (2016)::Drama
 5662106::Beyoncé: Lemonade (2016)::Music
 5662932::Raman Raghav 2.0 (2016)::Crime|Drama|Thriller
 5663752::This Was Tomorrow: Tomorrowland Presents... (2015)::Documentary
 5667052::Fashionista (2016)::Drama|Mystery|Thriller
 5668242::Sia: Cheap Thrills (2016)::Short|Music
+5672048::Shigatsu wa kimi no uso (2016)::Drama|Music|Romance
 5674842::Villaviciosa de al lado (2016)::Comedy
 5675016::Cyborg 009 VS Devilman (2015)::Animation
 5679402::Stagecoach: The Texas Jack Story (2016)::Western
@@ -27677,6 +27690,7 @@
 6510954::Dröm vidare (2017)::
 6522634::El otro hermano (2017)::Crime|Drama
 6522646::Our Wonderful Nature - The Common Chameleon (2016)::
+6522846::Grillo vs Grillo (2017)::Comedy|Talk-Show
 6545250::Het doet zo zeer (2017)::Documentary
 6562866::Trevor Noah: Afraid of the Dark (2017)::Comedy
 6567396::Yaman (2017)::Drama|Thriller
@@ -27690,6 +27704,7 @@
 6649108::Deep in the Heart of Texas: Dave Chappelle Live at Austin City Limits (2017)::Comedy
 6660922::Ojukokoro: Greed (2017)::
 6667360::Carnage: Swallowing the Past (2017)::Comedy
+6673840::Vremya Pervyh (2017)::Adventure
 6679554::Tas (2017)::
 6731636::Jaesim (2017)::Crime|Drama
 6750852::Rabb Da Radio (2017)::
