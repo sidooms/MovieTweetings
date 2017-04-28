@@ -6563,7 +6563,7 @@
 0100419::Problem Child (1990)::Comedy|Family
 0100428::Présumé dangereux (1990)::Action|Thriller
 0100436::Pump Up the Volume (1990)::Comedy|Drama|Music
-0100442::Q & A (1990)::Crime|Drama|Thriller
+0100442::Q &amp; A (1990)::Crime|Drama|Thriller
 0100449::Quick Change (1990)::Comedy|Crime
 0100469::The Reflecting Skin (1990)::Drama|Horror|Thriller
 0100475::Repossessed (1990)::Comedy|Horror
@@ -15223,6 +15223,7 @@
 1139282::Stolen Lives (2009)::Crime|Drama|Mystery
 1139319::A Film with Me in It (2008)::Comedy|Thriller
 1139328::The Ghost Writer (2010)::Crime|Drama|Mystery
+1139664::El nido vacío (2008)::Comedy|Drama
 1139668::The Unborn (2009)::Drama|Horror|Mystery
 1139797::Låt den rätte komma in (2008)::Drama|Horror|Romance
 1139800::La fille de Monaco (2008)::Comedy|Drama
@@ -19530,6 +19531,7 @@
 1971514::Salvo (2013)::Crime|Drama|Romance
 1971558::The Sleeper (2012)::Horror|Thriller
 1972571::A Most Wanted Man (2014)::Crime|Drama|Thriller
+1972591::King Arthur: Legend of the Sword (2017)::Action|Adventure|Drama
 1972646::Eames: The Architect & The Painter (2011)::Documentary|Biography
 1972663::Into the Abyss (2011)::Documentary|Crime|Drama
 1972752::Shockwave Darkside (2014)::Action|Sci-Fi
@@ -25038,6 +25040,7 @@
 3625352::Summer of Blood (2014)::Comedy|Horror
 3625952::Suspension (2015)::Thriller
 3626076::Rodina (2015)::Drama
+3626368::Devil's Night (2014)::Horror|Thriller
 3626442::Björk: Biophilia Live (2014)::Documentary|Music
 3626742::Ocho apellidos catalanes (2015)::Comedy
 3626760::Negociador (2014)::Comedy|Drama
@@ -26495,6 +26498,7 @@
 4540434::Paradox (2016)::Action|Drama
 4540710::Miss Sloane (2016)::Drama|Thriller
 4542660::We Are Blood (2015)::Documentary|Action|Sport
+4544696::My Honor Was Loyalty (2016)::Drama|War
 4545806::Zuo Er (2015)::Drama
 4545832::Les oiseaux de passage (2015)::Family
 4547056::The Girl with All the Gifts (2016)::Drama|Horror|Thriller
@@ -26769,6 +26773,7 @@
 4790268::Never Back Down: No Surrender (2016)::Action
 4791174::Japan: Earth's Enchanted Islands (2015)::Documentary
 4791594::Geukbisusa (2015)::Crime|Drama
+4795124::How to Be a Latin Lover (2017)::Comedy
 4795546::Nocturama (2016)::Thriller
 4795692::Sister Cities (2016)::Drama
 4796122::Satanic (2016)::Horror
@@ -26836,6 +26841,7 @@
 4846920::TuHiRe (2015)::Drama
 4846952::Angrej (2015)::Comedy
 4849176::Sneekweek (2016)::Comedy|Thriller
+4849438::Baahubali 2: The Conclusion (2017)::Action|Adventure|Drama
 4851630::Maheshinte Prathikaaram (2016)::Drama
 4851640::The Final Master (2015)::Action
 4853102::Batman: The Killing Joke (2016)::Animation|Action|Crime
@@ -27115,6 +27121,7 @@
 5090828::Sniper: Ghost Shooter (2016)::Action|Drama|Thriller
 5091014::Jasper Jones (2017)::Drama|Mystery|Thriller
 5091538::La folle histoire de Max et Léon (2016)::Comedy
+5091612::Un sac de billes (2017)::Drama
 5092500::The Wonderful Flight (2015)::Short|Adventure|Comedy
 5093754::Op-pa saeng-gak (2016)::Action|Drama|War
 5094390::National Theatre Live: Man and Superman (2015)::Comedy|Drama
@@ -27522,7 +27529,7 @@
 5599826::91.1 (2016)::Comedy|Drama
 5599918::Pearl (2016)::Animation|Short
 5601914::Where have the flowers gone? (2016)::Animation|Drama|Mystery
-5602568::WrestleMania (2017)::
+5602568::WrestleMania (2017)::Sport
 5602816::The Dragon in My Dreams (2010)::Documentary|Short
 5606538::Gongjo (2017)::Drama
 5606742::Ozark Sharks (2016)::Action|Horror|Sci-Fi
@@ -27714,6 +27721,7 @@
 5998218::Indie Game: Life After (2016)::Documentary
 5998744::S Storm (2016)::Action|Crime
 5999382::Laaf Wa Dawaraan (2016)::Comedy
+6013182::Nour (2017)::Drama|Romance
 6014428::Macht Liebe Tod (2016)::Comedy|Drama
 6016012::Swingers (2016)::Comedy
 6017594::The Darkest Dawn (2016)::Sci-Fi
@@ -27751,6 +27759,7 @@
 6126294::Remo (2016)::Comedy|Romance
 6126312::Rekka (2016)::Action
 6127024::Mawlana (2016)::Drama
+6133048::Bayram Abi (2016)::Comedy
 6135036::Canola (2016)::
 6135800::A Present from the Past: 20 September (2015)::
 6141048::Kurt Braunohler: Trust Me (2017)::Comedy
@@ -27795,6 +27804,7 @@
 6279726::4.1 Miles (2016)::Documentary|Short
 6282116::Sen Sag Ben Selamet (2016)::Comedy
 6282314::Diamond Cartel (2017)::Action|Adventure
+6283780::Boy Bye (2016)::Drama|Romance
 6286666::Saithan (2016)::Thriller
 6290024::Uno: The Movie (2016)::Comedy
 6290736::Wheeler (2017)::Drama
@@ -27804,6 +27814,7 @@
 6302160::Pandora (2016)::Thriller
 6315524::Take Off (2017)::Drama|Thriller
 6327400::52Hz, I Love You (2017)::Comedy|Musical|Romance
+6333052::Casting JonBenet (2017)::Documentary
 6333054::Chasing Coral (2017)::Documentary
 6333056::City of Ghosts (2017)::Documentary|War
 6333080::Rumble: The Indians Who Rocked The World (2017)::
