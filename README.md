@@ -90,6 +90,10 @@ in Collaborative Filtering Systems
 - [(Book!) Mastering Python Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis)
 - [An Integrated Recommender Algorithm for Rating Prediction](https://arxiv.org/pdf/1608.02021.pdf)
 - [Designing Human-Centered Collective Intelligence](http://epublications.marquette.edu/cgi/viewcontent.cgi?article=1678&context=dissertations_mu)
-
+- [On Recommendation Systems in a Sequential Context](https://tel.archives-ouvertes.fr/tel-01407336/file/main.pdf)
+- [Investigating the temporal effect of user preferences with application in movie recommendation](http://downloads.hindawi.com/journals/misy/aip/8940709.pdf)
+- [Assessing the Contribution of Twitter's Textual Information to Graph-based Recommendation](http://dl.acm.org/citation.cfm?id=3025218)
+- [AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](https://arxiv.org/pdf/1704.00551.pdf)
+- [Analyzing Recommender Systems and Applying a Location Based Approach Using Tagging]()
 
 [Contact me](http://twitter.com/sidooms) if you know of any work (maybe your own?) that can be added to this list!
