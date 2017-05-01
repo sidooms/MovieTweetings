@@ -64,7 +64,7 @@ The ratings contained in the tweets are scaled from 0 to 10, as is the norm on t
 
 ## Publications using this dataset
 - [MovieTweetings: a Movie Rating Dataset Collected From Twitter](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf)
-- [Probabilistic Neighborhood Selection in Collaborative Filtering Systems] (http://people.stern.nyu.edu/padamopo/Probabilistic%20Neighborhood%20Selection%20in%20Collaborative%20Filtering%20Systems%20-%20Working%20Paper.pdf)
+- [Probabilistic Neighborhood Selection in Collaborative Filtering Systems](http://people.stern.nyu.edu/padamopo/Probabilistic%20Neighborhood%20Selection%20in%20Collaborative%20Filtering%20Systems%20-%20Working%20Paper.pdf)
 - [Harvesting movie ratings from structured data in social media](http://dl.acm.org/citation.cfm?id=2559862)
 - [Social Popularity based SVD++ Recommender System](http://research.ijcaonline.org/volume87/number14/pxc3894033.pdf)
 - [Cold-Start Active Learning with Robust Ordinal Matrix Factorization](http://jmlr.org/proceedings/papers/v32/houlsby14-supp.zip)
