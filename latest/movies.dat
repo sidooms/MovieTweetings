@@ -1427,6 +1427,7 @@
 0044552::Diplomatic Courier (1952)::Drama|Mystery|Romance
 0044557::Don't Bother to Knock (1952)::Drama|Film-Noir|Thriller
 0044586::Encore (1951)::Comedy|Drama
+0044602::Fanfan la Tulipe (1952)::Adventure|Comedy|Romance
 0044609::Feed the Kitty (1952)::Family|Comedy|Animation
 0044626::Folly to Be Wise (1952)::Comedy
 0044656::Ghost Ship (1952)::Horror
@@ -1465,6 +1466,7 @@
 0045037::Pluto's Christmas Tree (1952)::Animation|Short|Comedy
 0045053::The Prisoner of Zenda (1952)::Adventure
 0045061::The Quiet Man (1952)::Comedy|Drama|Romance
+0045081::Le retour de Don Camillo (1953)::Comedy
 0045102::Room for One More (1952)::Comedy
 0045112::Saikaku ichidai onna (1952)::Drama
 45136::Semmelweis (1952)::
@@ -4241,6 +4243,7 @@
 0077269::The Boys from Brazil (1978)::Sci-Fi|Thriller
 0077272::Brass Target (1978)::Action|Drama|Mystery
 0077275::The Brink's Job (1978)::Comedy|Crime|Drama
+0077278::Buck Rogers in the 25th Century (1979)::Action|Adventure|Sci-Fi
 0077280::The Buddy Holly Story (1978)::Biography|Drama|Music
 0077288::La cage aux folles (1978)::Comedy
 0077289::California Suite (1978)::Comedy|Drama|Romance
@@ -6189,6 +6192,7 @@
 0096486::Young Einstein (1988)::Comedy|History
 0096487::Young Guns (1988)::Action|Crime|Drama
 0096511::Zombi 3 (1988)::Action|Horror|Sci-Fi
+0096523::L'étudiante (1988)::Comedy|Romance
 0096734::The 'Burbs (1989)::Comedy|Mystery
 0096744::84C MoPic (1989)::Drama|War
 0096754::The Abyss (1989)::Adventure|Drama|Sci-Fi
@@ -7371,6 +7375,7 @@
 0109376::Car 54, Where Are You? (1994)::Comedy
 0109378::Cari fottutissimi amici (1994)::Comedy
 0109382::Caro diario (1993)::Biography|Comedy|Drama
+0109402::The Chase (1994)::Action|Adventure|Comedy
 0109403::Chasers (1994)::Comedy
 0109410::ChickenHawk (1994)::Documentary|Crime
 0109415::Children of the Corn III: Urban Harvest (1995)::Horror|Thriller
@@ -24371,6 +24376,7 @@
 3328654::Dios Local (2014)::Horror
 3328716::Paper Planes (2014)::Family
 3328724::17 Seconds (2013)::Sport
+3328924::Addiction: A 60's Love Story (2015)::Crime|Thriller
 3329246::Pizza II: Villa (2013)::Horror|Thriller
 3329526::Ashchorjyo Prodeep (2013)::Drama
 3329774::Thira (2013)::Thriller
@@ -25777,6 +25783,7 @@
 4000670::Mifune: The Last Samurai (2015)::Documentary
 4000870::Addicted to Fresno (2015)::Comedy
 4000936::Looking for Grace (2015)::Drama
+4000956::Brother Nature (2016)::Comedy
 4002200::F.C. De Kampioenen 2: Jubilee general (2015)::Comedy
 4002772::Once I Was a Beehive (2015)::Comedy|Drama|Family
 4003046::Incir Receli 2 (2014)::Drama|Romance
@@ -26686,6 +26693,7 @@
 4653370::Innocence of Memories (2015)::Documentary
 4654328::All Work All Play (2015)::Documentary
 4654844::Bitcoin: The End of Money as We Know It (2015)::Documentary|News
+4655630::Drifter (2016)::Crime|Horror|Thriller
 4658770::Belaseshe (2015)::Drama|Family
 4658908::Grandmother's Farm Part 2 (2015)::Comedy|Horror|Thriller
 4660980::The Bad Education Movie (2015)::Comedy
@@ -26797,6 +26805,7 @@
 4744086::Ki and Ka (2016)::Comedy|Romance
 4746102::The Scent of Rain &amp; Lightning (2017)::Drama
 4746370::Death of a Gentleman (2015)::Documentary
+4760714::L'humour à mort (2015)::Documentary
 4761270::Orlean (2015)::Comedy|Drama|Thriller
 4763168::Kindergarten Cop 2 (2016)::Comedy
 4765604::Pro lyubov (2015)::Comedy|Drama
@@ -26855,6 +26864,7 @@
 4819560::Jie jiu wu xian sheng (2015)::Action|Crime|Drama
 4819738::The Bandit (2016)::Documentary
 4819804::Hoeng gong saam bou kuk (2015)::Documentary|Comedy|Drama
+4820284::Obit (2016)::Documentary
 4820312::Krampus: The Reckoning (2015)::Horror
 4824302::Mother's Day (2016)::Comedy
 4824308::God's Not Dead 2 (2016)::Drama
@@ -27676,6 +27686,7 @@
 5743656::Phobia (2016)::Thriller
 5744102::Abu Shanab (2016)::Comedy
 5749396::Leonardo Da Vinci: Il genio a Milano (2016)::Documentary
+5749956::Voor Elkaar Gemaakt (2017)::Comedy|Romance
 5751588::Alan Partridge's Scissored Isle (2016)::Comedy
 5756058::Política, manual de instrucciones (2016)::Documentary
 5764024::OK Jaanu (2017)::Drama|Romance
@@ -27794,6 +27805,7 @@
 5998218::Indie Game: Life After (2016)::Documentary
 5998744::S Storm (2016)::Action|Crime
 5999382::Laaf Wa Dawaraan (2016)::Comedy
+5999770::Carpinteros (2017)::Drama
 6013182::Nour (2017)::Drama|Romance
 6014428::Macht Liebe Tod (2016)::Comedy|Drama
 6016012::Swingers (2016)::Comedy
@@ -27948,12 +27960,14 @@
 6648926::The Age of Spin: Dave Chappelle Live at the Hollywood Palladium (2017)::Comedy
 6649108::Deep in the Heart of Texas: Dave Chappelle Live at Austin City Limits (2017)::Comedy
 6660922::Ojukokoro: Greed (2017)::
+6664120::Jim Norton: Mouthful of Shame (2017)::Comedy
 6667360::Carnage: Swallowing the Past (2017)::Comedy
 6673840::Vremya Pervyh (2017)::Adventure
 6679554::Tas (2017)::
 6731636::Jaesim (2017)::Crime|Drama
 6736782::Louis C.K. 2017 (2017)::Comedy
 6739646::I Am Heath Ledger (2017)::Documentary|Biography
+6750506::Siam Square (2017)::Horror
 6750852::Rabb Da Radio (2017)::Drama
 6760956::Pecking Order (2017)::
 6771444::Peppa Pig: My First Cinema Experience (2017)::Animation
