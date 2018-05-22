@@ -750,6 +750,7 @@
 0033650::The Gay Falcon (1941)::Crime|Drama|Mystery
 0033651::The Gay Parisian (1941)::Short|Musical|Romance
 0033676::Great Guns (1941)::Comedy|Romance|War
+0033677::The Great Lie (1941)::Drama
 0033712::Here Comes Mr. Jordan (1941)::Fantasy|Comedy|Romance
 0033717::High Sierra (1941)::Adventure|Crime|Drama
 0033723::Hold That Ghost (1941)::Adventure|Comedy|Music
@@ -936,7 +937,7 @@
 0036613::Arsenic and Old Lace (1944)::Comedy|Crime|Thriller
 0036621::Aventure malgache (1944)::Short|War
 0036625::Barbary Coast Gent (1944)::Comedy|Western
-0036629::The Battle of Russia (1943)::
+0036629::The Battle of Russia (1943)::Documentary|History|War
 0036630::San Pietro (1945)::Documentary|Short|War
 0036641::Between Two Worlds (1944)::Mystery|Drama|Fantasy
 0036659::Bon Voyage (1944)::Short|War
@@ -1257,8 +1258,8 @@
 0041172::Beyond the Forest (1949)::Drama|Film-Noir|Romance
 0041175::The Big Cat (1949)::Action|Adventure|Drama
 0041178::The Big Steal (1949)::Crime|Film-Noir|Romance
-0041182::Black Magic (1949)::
-0041189::Blondie's Big Deal (1949)::
+0041182::Black Magic (1949)::Drama|Mystery|Romance
+0041189::Blondie's Big Deal (1949)::Comedy
 0041207::The Bribe (1949)::Crime|Drama|Film-Noir
 0041238::Challenge to Lassie (1949)::Drama|Family
 0041239::Champion (1949)::Drama|Film-Noir|Sport
@@ -1358,7 +1359,7 @@
 0042619::Journal d'un curé de campagne (1951)::Drama
 0042629::Kansas Raiders (1950)::Western
 0042634::Key to the City (1950)::Comedy|Romance
-0042648::Kiss Tomorrow Goodbye (1950)::
+0042648::Kiss Tomorrow Goodbye (1950)::Crime|Film-Noir|Thriller
 0042650::Kon-Tiki (1950)::Documentary
 0042664::A Lady Without Passport (1950)::Crime|Drama|Film-Noir
 0042665::Last Holiday (1950)::Comedy|Drama|Romance
@@ -1440,7 +1441,7 @@
 0043728::The Law and the Lady (1951)::Comedy
 0043736::Let's Make It Legal (1951)::Comedy|Drama|Romance
 0043744::Lightning Strikes Twice (1951)::Crime|Drama|Film-Noir
-0043759::Love Nest (1951)::
+0043759::Love Nest (1951)::Comedy|Drama|Romance
 0043766::M (1951)::Drama|Film-Noir|Thriller
 0043769::The Magic Box (1951)::Biography|Drama
 0043778::The Man from Planet X (1951)::Horror|Romance|Sci-Fi
@@ -1918,7 +1919,7 @@
 0049906::Up in the World (1956)::Comedy
 0049922::The Violent Years (1956)::Crime|Film-Noir|Thriller
 0049949::While the City Sleeps (1956)::Crime|Drama|Film-Noir
-0049964::World Without End (1956)::
+0049964::World Without End (1956)::Adventure|Romance|Sci-Fi
 0049966::Written on the Wind (1956)::Drama
 0049967::X: The Unknown (1956)::Horror|Sci-Fi
 0050083::12 Angry Men (1957)::Crime|Drama
@@ -2784,7 +2785,7 @@
 0059529::Obyknovennyy fashizm (1965)::Documentary|History|War
 0059549::Operation Crossbow (1965)::Action|Drama|War
 0059550::Operatsiya Y i drugiye priklyucheniya Shurika (1965)::Comedy|Crime|Romance
-0059554::Osorezan no onna (1965)::
+0059554::Osorezan no onna (1965)::Drama
 0059555::Othello (1965)::Drama
 0059557::Our Man Flint (1966)::Action|Adventure|Comedy
 0059573::A Patch of Blue (1965)::Drama|Romance
@@ -3010,7 +3011,7 @@
 0061786::Hotel (1967)::Drama
 0061787::Hour of the Gun (1967)::Western
 0061791::Op naar de Top (1967)::Comedy|Musical
-0061796::Hurry Sundown (1967)::
+0061796::Hurry Sundown (1967)::Drama
 0061809::In Cold Blood (1967)::Crime|Drama|History
 0061811::In the Heat of the Night (1967)::Crime|Drama|Mystery
 0061814::The Incident (1967)::Crime|Drama
@@ -3759,7 +3760,7 @@
 0069515::The Wrath of God (1972)::Western
 0069528::Young Winston (1972)::Biography|Drama|War
 0069530::Z.P.G. (1972)::Sci-Fi|Thriller
-0069540::Shuang xia (1971)::
+0069540::Shuang xia (1971)::Action|Drama
 0069687::Alice in den Städten (1974)::Drama
 0069697::Watch Out, We're Mad (1974)::Action|Comedy
 0069704::American Graffiti (1973)::Comedy|Drama
@@ -3864,7 +3865,7 @@
 0070531::Phase IV (1974)::Horror|Sci-Fi|Thriller
 0070537::Daddy's Deadly Darling (1973)::Horror
 0070544::La planète sauvage (1973)::Animation|Drama|Sci-Fi
-0070565::Il profumo della signora in nero (1974)::
+0070565::Il profumo della signora in nero (1974)::Horror|Mystery|Thriller
 0070578::The Pyx (1973)::Horror|Thriller|Crime
 0070593::Las ratas no duermen de noche (1973)::Horror
 0070608::Robin Hood (1973)::Animation|Adventure|Comedy
@@ -4886,7 +4887,7 @@
 0081163::The Mirror Crack'd (1980)::Crime|Mystery|Thriller
 0081176::Mon oncle d'Amérique (1980)::Comedy|Drama|Romance
 0081178::The Monster Club (1981)::Comedy|Horror
-0081182::La mort en direct (1980)::
+0081182::La mort en direct (1980)::Drama|Sci-Fi
 0081184::Motel Hell (1980)::Comedy|Horror|Thriller
 0081186::Mother's Day (1980)::Horror|Thriller
 0081230::Night of the Juggler (1980)::Action|Crime|Drama
@@ -5149,7 +5150,7 @@
 0083611::La balance (1982)::Crime|Drama|Thriller
 0083619::Barbarosa (1982)::Western
 0083624::Basket Case (1982)::Comedy|Horror
-0083625::Le battant (1983)::
+0083625::Le battant (1983)::Crime|Drama|Thriller
 0083628::The Beach Girls (1982)::Comedy
 0083629::The Beast Within (1982)::Horror
 0083630::The Beastmaster (1982)::Action|Adventure|Fantasy
@@ -5296,7 +5297,7 @@
 0085154::All the Right Moves (1983)::Drama|Romance|Sport
 0085156::American Nightmare (1983)::Horror|Crime|Thriller
 0085159::Amityville 3-D (1983)::Horror
-0085178::Ardh Satya (1983)::
+0085178::Ardh Satya (1983)::Crime|Drama
 0085180::L'argent (1983)::Crime|Drama
 0085183::Ator l'invincibile (1982)::Action|Adventure|Fantasy
 0085204::BMX Bandits (1983)::Adventure|Crime|Drama
@@ -6066,14 +6067,14 @@
 0092240::The Wraith (1986)::Action|Horror|Romance
 0092263::Ying hung boon sik (1986)::Action|Crime|Drama
 0092272::Youngblood (1986)::Drama|Romance|Sport
-0092288::The Zero Boys (1986)::
+0092288::The Zero Boys (1986)::Action|Thriller|Horror
 0092298::Zone Troopers (1985)::Action|Adventure|Sci-Fi
 0092306::À Flor do Mar (1986)::Drama|Romance
 0092493::'Crocodile' Dundee II (1988)::Action|Adventure|Comedy
 0092494::*batteries not included (1987)::Comedy|Family|Fantasy
 0092513::Adventures in Babysitting (1987)::Action|Adventure|Comedy
 0092546::Amazon Women on the Moon (1987)::Comedy|Sci-Fi
-0092548::American Ninja 2: The Confrontation (1987)::
+0092548::American Ninja 2: The Confrontation (1987)::Action|Drama
 0092549::Miami Connection (1987)::Action|Crime|Thriller
 0092550::L'ami de mon amie (1987)::Comedy|Drama|Romance
 0092558::Anayurt Oteli (1987)::Crime|Drama
@@ -6610,7 +6611,7 @@
 0097073::Code Name Vengeance (1987)::Action|Adventure|Drama
 0097074::Cohen and Tate (1988)::Crime|Thriller
 0097076::Cold Feet (1989)::Comedy|Crime
-0097077::Cold Front (1989)::
+0097077::Cold Front (1989)::Crime
 0097095::Coming Out (1989)::Drama|Romance
 0097100::Communion (1989)::Biography|Drama|Horror
 0097106::Conte de printemps (1990)::Comedy|Drama|Romance
@@ -7212,7 +7213,7 @@
 0102703::Prayer of the Rollerboys (1990)::Action|Drama|Sci-Fi
 0102713::The Prince of Tides (1991)::Drama
 0102719::Problem Child 2 (1991)::Comedy|Family
-0102721::Proof (1991)::
+0102721::Proof (1991)::Drama|Romance
 0102729::Pure Luck (1991)::Comedy|Crime|Mystery
 0102741::Queens Logic (1991)::Comedy|Drama
 0102744::Quigley Down Under (1990)::Action|Adventure|Drama
@@ -7399,7 +7400,7 @@
 0104706::Lektionen in Finsternis (1992)::Documentary|War
 0104714::Lethal Weapon 3 (1992)::Action|Crime|Thriller
 0104753::The Long Day Closes (1992)::Biography|Drama
-0104755::Long teng si hai (1992)::
+0104755::Long teng si hai (1992)::Action|Comedy|Crime
 0104756::Lorenzo's Oil (1992)::Drama
 0104759::The Lost World (1992)::Adventure|Fantasy|Sci-Fi
 0104765::Love Field (1992)::Drama
@@ -7567,7 +7568,7 @@
 0106620::Contamination .7 (1993)::Horror
 0106627::The Crush (1993)::Drama|Romance|Thriller
 0106642::D'Est (1993)::Documentary
-0106655::Damini (1993)::
+0106655::Damini (1993)::Crime|Drama
 0106660::Snake Eyes (1993)::Drama
 0106664::The Dark Half (1993)::Horror|Mystery
 0106673::Dave (1993)::Comedy|Romance
@@ -8061,7 +8062,7 @@
 0112288::The Addiction (1995)::Horror|Drama
 0112321::Alkali, Iowa (1995)::Short
 0112346::The American President (1995)::Comedy|Drama|Romance
-0112352::L'amore molesto (1995)::
+0112352::L'amore molesto (1995)::Drama|Mystery|Romance
 0112368::Angus (1995)::Comedy|Drama
 0112379::Antonia (1995)::Comedy|Drama
 0112384::Apollo 13 (1995)::Adventure|Drama
@@ -8421,7 +8422,7 @@
 0116233::Esposados (1996)::Comedy|Short
 0116240::The Evening Star (1996)::Comedy|Drama
 0116242::Everyone Says I Love You (1996)::Comedy|Musical|Romance
-0116247::Evil Ed (1995)::
+0116247::Evil Ed (1995)::Comedy|Horror
 0116250::Evita (1996)::Biography|Drama|History
 0116253::Critical Decision (1996)::Action|Adventure|Thriller
 0116257::Exit in Red (1996)::Thriller|Drama|Romance
@@ -8875,7 +8876,7 @@
 0119802::Snitch (1998)::Crime|Drama|Thriller
 0119807::Nothing to Lose (1997)::Action|Adventure|Comedy
 0119809::Nowhere (1997)::Comedy|Drama|Sci-Fi
-0119812::Nunzio's Second Cousin (1994)::
+0119812::Nunzio's Second Cousin (1994)::Short|Drama|Romance
 0119815::O Que É Isso, Companheiro? (1997)::Action|Drama|History
 0119822::As Good as It Gets (1997)::Comedy|Drama|Romance
 0119832::One Night Stand (1997)::Drama|Romance
@@ -9194,12 +9195,12 @@
 0126016::Scar City (1998)::Action|Thriller
 0126029::Shrek (2001)::Animation|Adventure|Comedy
 0126234::Chamatkar (1992)::Comedy|Drama|Fantasy
-0126320::Giovanni Falcone (1993)::
+0126320::Giovanni Falcone (1993)::Crime|Drama
 0126344::I Went Down (1997)::Action|Comedy|Crime
 0126376::Ladies and Gentlemen, Mr. Leonard Cohen (1965)::Documentary|Biography
 0126388::Legionnaire (1998)::Action|Adventure|Drama
 0126423::Pete's Meteor (1998)::Crime|Drama
-0126604::Pecker (1998)::
+0126604::Pecker (1998)::Comedy|Drama
 0126618::I pompieri (1985)::Comedy
 0126642::Roadkill: The Last Days of John Martin (1994)::Short|Horror
 0126659::Shadow of Chinatown (1936)::Horror|Thriller
@@ -9522,6 +9523,7 @@
 0151206::Khoon Bhari Maang (1988)::Drama|Thriller|Action
 0151331::Let the Devil Wear Black (1999)::Crime|Thriller|Drama
 0151392::Alleen in de wildernis (1969)::Adventure|Drama|Thriller
+0151479::Terminus paradis (1998)::Crime|Drama|Romance
 0151511::Mausam (1975)::Musical|Romance
 0151568::Topsy-Turvy (1999)::Biography|Comedy|Drama
 0151572::El milagro de P. Tinto (1998)::Comedy
@@ -9702,7 +9704,7 @@
 0163982::Billy's Balloon (1998)::Animation|Comedy|Short
 0163983::Bless the Child (2000)::Crime|Drama|Horror
 0163988::Bringing Out the Dead (1999)::Drama|Thriller
-0164003::City of Ghosts (2002)::
+0164003::City of Ghosts (2002)::Crime|Drama|Thriller
 0164052::Hollow Man (2000)::Sci-Fi|Thriller
 0164053::Human Remains (1998)::Documentary|Short
 0164094::Mathe paidi mou grammata (1981)::Comedy|Drama
@@ -10073,7 +10075,7 @@
 0193253::Jin-Rô (1999)::Animation|Drama|Fantasy
 0193364::The Order (2001)::Action|Adventure|Comedy
 0193560::Texas Rangers (2001)::Action|Adventure|Drama
-0193741::Badding (2000)::
+0193741::Badding (2000)::Biography|Comedy|Drama
 0193854::A Shot at Glory (2000)::Drama|Sport
 0193995::Hansel and Gretel (1954)::Animation|Family|Music
 0194104::Lek (2000)::Action|Crime|Thriller
@@ -10662,9 +10664,9 @@
 0246544::The Musketeer (2001)::Action|Adventure|Romance
 0246578::Donnie Darko (2001)::Drama|Sci-Fi|Thriller
 0246592::Dummy (2002)::Comedy|Drama|Romance
-0246641::George Carlin: Back in Town (1996)::
+0246641::George Carlin: Back in Town (1996)::Documentary|Comedy
 0246642::George Carlin: Doin' It Again (1990)::Documentary|Comedy
-0246645::George Carlin: You Are All Diseased (1999)::
+0246645::George Carlin: You Are All Diseased (1999)::Documentary|Comedy
 0246677::Heaven (2002)::Crime|Drama|Romance
 0246772::Bella Martha (2001)::Comedy|Romance|Drama
 0246805::Navarathri (1964)::
@@ -11161,7 +11163,7 @@
 0280707::Gosford Park (2001)::Drama|Mystery
 0280760::Igby Goes Down (2002)::Comedy|Drama
 0280778::Iris (2001)::Biography|Drama|Romance
-0280870::Liberty Stands Still (2002)::
+0280870::Liberty Stands Still (2002)::Action|Drama|Thriller
 0280969::My Little Eye (2002)::Horror|Mystery|Thriller
 0280970::My Name Is Tanino (2002)::Comedy|Romance
 0281190::Shottas (2002)::Action|Crime|Drama
@@ -11546,7 +11548,7 @@
 0309377::Blood Work (2002)::Action|Crime|Drama
 0309530::Down with Love (2003)::Comedy|Romance
 0309593::Final Destination 2 (2003)::Horror|Thriller
-0309600::Food of Love (2002)::
+0309600::Food of Love (2002)::Drama|Music|Romance
 0309622::The Gatekeeper (2002)::Drama
 0309698::Identity (2003)::Mystery|Thriller
 0309912::Nicholas Nickleby (2002)::Drama|Romance
@@ -11627,7 +11629,7 @@
 0315930::Gyeolhoneun michinjishida (2002)::Drama
 0315983::House of Sand and Fog (2003)::Drama
 0316020::Informe general sobre unas cuestiones de interés para una proyección pública (1977)::Documentary
-0316147::L.T.R. (2002)::
+0316147::L.T.R. (2002)::Short|Comedy|Romance
 0316187::LolliLove (2004)::Comedy
 0316188::Raising Victor Vargas (2002)::Drama|Romance
 0316219::Manhood (2003)::Drama
@@ -11863,7 +11865,7 @@
 0332375::Saved! (2004)::Comedy|Drama
 0332379::The School of Rock (2003)::Comedy|Music
 0332452::Troy (2004)::Adventure
-0332626::Gambling, Gods and LSD (2002)::
+0332626::Gambling, Gods and LSD (2002)::Documentary
 0332639::He ni zai yi qi (2002)::Drama|Music
 0332658::Intermission (2003)::Comedy|Crime|Drama
 0332712::My Baby's Daddy (2004)::Comedy
@@ -13796,7 +13798,7 @@
 0464041::The Lazarus Project (2008)::Drama|Mystery|Thriller
 0464049::The History Boys (2006)::Comedy|Drama
 0464071::Jillunu Oru Kaadhal (2006)::Drama|Romance
-0464134::Night Swimming (2005)::
+0464134::Night Swimming (2005)::Short|Drama
 0464141::El orfanato (2007)::Drama|Mystery|Thriller
 0464148::Phantom Limb (2005)::Documentary|Short
 0464154::Piranha (2010)::Comedy|Horror
@@ -14232,7 +14234,7 @@
 0492619::The Foot Fist Way (2006)::Comedy
 0492650::Jakeob-ui jeongseok (2005)::Comedy|Romance
 0492714::Our Brand Is Crisis (2005)::Documentary
-0492835::Wang-ui namja (2005)::
+0492835::Wang-ui namja (2005)::Drama|History
 0492890::The Wild Stallion (2009)::Drama|Family
 0492896::My Suicide (2009)::Comedy|Drama
 0492931::The 11th Hour (2007)::Documentary
@@ -15515,7 +15517,7 @@
 1024733::$5 a Day (2008)::Comedy|Drama
 1024744::I Come with the Rain (2009)::Thriller
 1024820::Recien cazado (2009)::Comedy|Drama|Romance
-1024855::Gunned Down (2017)::
+1024855::Gunned Down (2017)::Action|Thriller
 1024876::Amar a morir (2009)::Drama
 1024942::Kærlighed på film (2007)::Crime|Drama|Thriller
 1024943::Om Shanti Om (2007)::Action|Comedy|Drama
@@ -16378,7 +16380,7 @@
 1198196::Den vyborov (2007)::Comedy
 1198199::About Sunny (2011)::Drama
 1198333::Autumn (2009)::Horror|Sci-Fi|Thriller
-1198340::Dieta mediterránea (2009)::
+1198340::Dieta mediterránea (2009)::Comedy
 1198385::À l'origine (2009)::Drama
 1198408::Tenure (2008)::Comedy
 1199456::Eid Mubarak (1965)::
@@ -16445,7 +16447,7 @@
 1212454::An Invisible Sign (2010)::Comedy|Drama|Family
 1212456::Entre nos (2009)::Drama
 1212974::Bitch Slap (2009)::Action|Comedy|Crime
-1212985::See Dick Run (2009)::
+1212985::See Dick Run (2009)::Comedy
 1213012::Alpha and Omega (2010)::Animation|Adventure|Comedy
 1213575::Dawn (2014)::Short|Action|Drama
 1213585::Good Hair (2009)::Documentary|Comedy
@@ -16544,7 +16546,7 @@
 1229827::Jonas Brothers: The 3D Concert Experience (2009)::Documentary|Music
 1230164::Return of the Ghostbusters (2007)::Comedy|Sci-Fi
 1230165::Rock On!! (2008)::Drama|Music
-1230168::Same Kind of Different as Me (2017)::
+1230168::Same Kind of Different as Me (2017)::Drama
 1230194::De storm (2009)::Drama
 1230204::Sammy's avonturen: De geheime doorgang (2010)::Animation|Adventure|Family
 1230211::Perkins' 14 (2009)::Horror|Thriller
@@ -16871,7 +16873,7 @@
 1289451::Pulling John (2009)::Documentary
 1290138::Frank &amp; Lola (2016)::Crime|Drama|Mystery
 1290140::Meant to Be (2010)::Comedy|Romance
-1290400::Double Identity (2009)::
+1290400::Double Identity (2009)::Action|Crime|Thriller
 1290414::Purgatorio (2008)::Drama
 1290419::Human Zoo (2009)::Drama
 1291105::Andre venner (2005)::Documentary
@@ -16954,7 +16956,7 @@
 1307859::All Stars 2: Old Stars (2011)::Comedy|Drama
 1307861::American Grindhouse (2010)::Documentary
 1307873::The Big Bang (2010)::Action|Mystery|Thriller
-1307989::Never Surrender (2009)::
+1307989::Never Surrender (2009)::Action|Drama|Thriller
 1308015::Saroja (2008)::Adventure|Comedy|Crime
 1308109::Duress (2009)::Thriller
 1308138::Hua Mulan (2009)::Adventure|Drama|Romance
@@ -17022,7 +17024,7 @@
 1320293::Ricky Gervais: Out of England - The Stand-Up Special (2008)::Documentary|Comedy
 1320296::Shank (2010)::Action|Comedy|Crime
 1320297::Si può fare (2008)::Comedy
-1320352::Nothing Personal (2009)::
+1320352::Nothing Personal (2009)::Drama
 1321509::Death at a Funeral (2010)::Comedy
 1321511::Oldboy (2013)::Action|Drama|Mystery
 1321860::The Beaver (2011)::Drama
@@ -17074,7 +17076,7 @@
 1327908::Un altro pianeta (2008)::Drama
 1328629::Me & My Nose (2009)::Documentary
 1328634::New York (2009)::Crime|Drama|Romance
-1328642::Safari (2009)::
+1328642::Safari (2009)::Adventure|Comedy
 1328908::Bold Native (2010)::Action|Adventure|Comedy
 1328913::Preacher's Kid (2010)::Drama
 1329177::K-11 (2012)::Drama
@@ -17435,7 +17437,7 @@
 1410051::Retreat (2011)::Thriller
 1410063::Jin ling shi san chai (2011)::Drama|History|War
 1410252::Wahed-Sefr (2009)::Drama
-1410261::Shinboru (2009)::
+1410261::Shinboru (2009)::Comedy|Fantasy|Mystery
 1410272::Min Dit: The Children of Diyarbakir (2009)::Drama
 1410295::Beauty and the Beast (2009)::Fantasy
 1411232::13Hrs (2010)::Action|Horror
@@ -17568,7 +17570,7 @@
 1433108::Faster (2010)::Action|Crime|Drama
 1433207::The Details (2011)::Comedy|Drama
 1433343::The Eves (2012)::Thriller
-1433528::L'enfer d'Henri-Georges Clouzot (2009)::
+1433528::L'enfer d'Henri-Georges Clouzot (2009)::Documentary
 1433540::Panique au village (2009)::Animation|Adventure|Comedy
 1433562::Vertige (2009)::Adventure|Horror
 1433811::Disconnect (2012)::Drama|Thriller
@@ -17591,7 +17593,7 @@
 1436568::Assassination Games (2011)::Action|Thriller
 1437357::Faust (2011)::Drama|Fantasy
 1437358::Mientras duermes (2011)::Drama|Horror|Thriller
-1437362::Saat yan faan (2009)::
+1437362::Saat yan faan (2009)::Crime|Drama|Mystery
 1437366::Svinalängorna (2010)::Drama
 1437367::Thanks Maa (2009)::Comedy|Drama
 1437849::Le Donk & Scor-zay-zee (2009)::Comedy
@@ -17685,7 +17687,7 @@
 1454505::Napapiirin sankarit (2010)::Comedy|Drama|Romance
 1454523::Pa negre (2010)::Crime|Drama
 1454910::Copacabana (2010)::Comedy
-1455061::In 500 Words or Less (2009)::
+1455061::In 500 Words or Less (2009)::Documentary
 1455151::La tête en friche (2010)::Comedy|Drama
 1455811::Khatta Meetha (2010)::Action|Comedy|Crime
 1456060::Boy Wonder (2010)::Action|Crime|Drama
@@ -17829,7 +17831,7 @@
 1485749::Mr. Pip (2012)::Drama|War
 1485761::No God, No Master (2012)::Crime|Drama|History
 1485763::Wan pisu firumu: sutorongu warudo (2009)::Animation|Action|Adventure
-1485796::The Greatest Showman (2017)::
+1485796::The Greatest Showman (2017)::Biography|Drama|Musical
 1486185::Red Riding Hood (2011)::Fantasy|Horror|Mystery
 1486186::Meeting Spencer (2010)::Comedy
 1486190::Tamara Drewe (2010)::Comedy|Drama|Romance
@@ -18586,7 +18588,7 @@
 1620446::Day & Night (2010)::Animation|Short
 1620449::Konferenz der Tiere (2010)::Animation|Comedy|Family
 1620604::Somos lo que hay (2010)::Drama|Horror
-1620680::A Wrinkle in Time (2018)::
+1620680::A Wrinkle in Time (2018)::Adventure|Family|Fantasy
 1620719::Dabangg (2010)::Action|Comedy|Crime
 1620785::How Much Does Your Building Weigh, Mr Foster? (2010)::Documentary|Biography
 1620907::Na Ghar Ke Na Ghaat Ke (2010)::Comedy|Drama
@@ -18890,7 +18892,7 @@
 1667150::I Know a Woman's Heart (2011)::Comedy|Romance|Sci-Fi
 1667307::Damsels in Distress (2011)::Comedy|Drama|Romance
 1667310::Deadfall (2012)::Crime|Drama|Thriller
-1667321::On Chesil Beach (2017)::
+1667321::On Chesil Beach (2017)::Drama|Romance
 1667353::Mirror Mirror (2012)::Adventure|Comedy|Drama
 1667355::3096 Tage (2013)::Biography|Crime|Drama
 1667416::Coffin (2011)::Crime|Horror|Mystery
@@ -19359,7 +19361,7 @@
 1737268::Yanoosak (2010)::Comedy
 1737680::Pulp (2013)::Comedy
 1737747::Something Ventured (2011)::Documentary|Biography|History
-1737798::The Love Patient (2011)::
+1737798::The Love Patient (2011)::Comedy|Romance
 1738293::Khichdi: The Movie (2010)::Comedy|Drama|Family
 1738351::Honour (2014)::Thriller
 1738366::The Dynamiter (2011)::Drama
@@ -19417,7 +19419,7 @@
 1748227::The Collection (2012)::Action|Horror|Thriller
 1748260::Tiger Eyes (2012)::Drama
 1753383::A Dog's Purpose (2017)::Adventure|Comedy|Drama
-1753433::American Ghost Hunter (2010)::
+1753433::American Ghost Hunter (2010)::Documentary
 1753460::August (2011)::Drama|Romance
 1753496::Biohazard: Damnation (2012)::Animation|Action|Horror
 1753518::Blarghaaahrgarg (2010)::Short|Comedy|Horror
@@ -19570,7 +19572,7 @@
 1773764::Ship of Theseus (2012)::Drama
 1774438::Kovasikajuttu (2012)::Documentary|Comedy|Drama
 1774531::Porfirio (2011)::Comedy|Drama
-1774591::Teenage Cocktail (2016)::
+1774591::Teenage Cocktail (2016)::Drama|Thriller
 1776086::Bettie Page Reveals All (2012)::Documentary
 1776125::Close-Up on Kuwait (1961)::Documentary|Short
 1776143::Daan gyun naam yu (2011)::Romance
@@ -19811,7 +19813,7 @@
 1820488::Rebelle (2012)::Drama|War
 1820762::Yakuza deka: Marifana mitsubai soshiki (1970)::Action|Crime|Drama
 1821313::A Millionaire Wanted (2010)::Comedy|Romance
-1821340::Bauhaus - Modell und Mythos (2009)::
+1821340::Bauhaus - Modell und Mythos (2009)::Documentary
 1821362::Case départ (2011)::Comedy
 1821426::Family Weekend (2013)::Comedy|Drama
 1821427::Offender (2012)::Thriller
@@ -20186,7 +20188,7 @@
 1880331::SoLa: Louisiana Water Stories (2010)::Documentary
 1880399::Kodachrome (2017)::Drama
 1880412::Yugamseureoyun Doshi (2009)::Action|Comedy
-1880415::Battlecreek (2017)::
+1880415::Battlecreek (2017)::Drama|Romance
 1880418::Newlyweds (2011)::Comedy|Drama
 1881002::Maggie (2015)::Drama|Thriller
 1881024::One in the Chamber (2012)::Action|Crime|Thriller
@@ -20242,6 +20244,7 @@
 1891974::Gyakuten saiban (2012)::Comedy|Crime|Drama
 1893195::A.C.A.B.: All Cops Are Bastards (2012)::Action|Crime|Drama
 1893256::Hummingbird (2013)::Action|Crime|Drama
+1893269::Kusama: Infinity (2018)::Documentary
 1893326::Scatter My Ashes at Bergdorf's (2013)::Documentary
 1893409::Ye Stupid Pyar (2011)::Romance
 1894461::Fear Me Not (2011)::Animation|Short|Romance
@@ -20284,7 +20287,7 @@
 1906329::As Cool as I Am (2013)::Comedy|Drama
 1906422::Marussia (2013)::Drama|Family
 1906426::Michael (2011)::Drama|Thriller
-1906470::Tannoura Maxi (2011)::
+1906470::Tannoura Maxi (2011)::Drama|Romance
 1906518::Yes or No: Yaak Rak Gaw Rak Loey (2010)::Comedy|Romance
 1907614::Alter Egos (2012)::Comedy
 1907639::Hardflip (2012)::Action|Drama
@@ -20521,7 +20524,7 @@
 1956669::The River Used to Be a Man (2011)::Drama
 1957867::Christmas in Compton (2012)::Comedy
 1957938::Narcopolis (2014)::Mystery|Sci-Fi|Thriller
-1957945::La Luna (2011)::
+1957945::La Luna (2011)::Animation|Short|Family
 1958007::Roadside (2013)::Drama|Horror|Mystery
 1958043::The Houses October Built (2014)::Horror|Thriller
 1959332::American Mary (2012)::Crime|Drama|Horror
@@ -20529,7 +20532,7 @@
 1959409::Imaginaerum (2012)::Drama|Fantasy|Musical
 1959438::Kiss of the Damned (2012)::Drama|Horror|Romance
 1959490::Noah (2014)::Action|Adventure|Drama
-1959563::The Hitman's Bodyguard (2017)::
+1959563::The Hitman's Bodyguard (2017)::Action|Comedy|Thriller
 1961175::American Assassin (2017)::Action|Thriller
 1961192::Marie Krøyer (2012)::Biography|Drama
 1961311::Fasel wa Na'ood (2011)::Drama|Mystery|Thriller
@@ -20550,7 +20553,7 @@
 1965162::Boys of Abu Ghraib (2014)::Drama|Thriller|War
 1965203::The Palace (2011)::Short|Drama|Thriller
 1965272::Velayudham (2011)::Action|Drama
-1966359::Father Figures (2017)::
+1966359::Father Figures (2017)::Comedy
 1966396::Dark Girls (2011)::Documentary
 1966465::Hell and Mr. Fudge (2012)::Drama
 1966566::Stalingrad (2013)::Action|Drama|War
@@ -20620,7 +20623,7 @@
 1981080::Tai Chi 0 (2012)::Action|Drama
 1981107::The Young and Prodigious T.S. Spivet (2013)::Action|Adventure|Drama
 1981115::Thor: The Dark World (2013)::Action|Adventure|Fantasy
-1981128::Geostorm (2017)::
+1981128::Geostorm (2017)::Action|Sci-Fi|Thriller
 1981140::Wasteland (2012)::Crime|Drama|Thriller
 1981142::Westwind (2011)::Comedy|Drama|Romance
 1981677::Pitch Perfect (2012)::Comedy|Music|Romance
@@ -21897,7 +21900,7 @@
 2231367::Lonely Boy (2013)::Comedy|Drama
 2231461::Rampage (2018)::Action|Adventure|Sci-Fi
 2231489::Seinto Seiya: Legend of Sanctuary (2014)::Animation
-2231500::Comedy Central Roast of Roseanne (2012)::
+2231500::Comedy Central Roast of Roseanne (2012)::Comedy
 2231554::Grave Encounters 2 (2012)::Horror|Thriller
 2231630::Avant l'hiver (2013)::Drama
 2231646::M.O.Zh. (2014)::Horror|Mystery|Thriller
@@ -22175,7 +22178,7 @@
 2282662::Our Nixon (2013)::Documentary|Biography|Crime
 2282849::Les Kaïra (2012)::Comedy
 2283057::Una canción (2012)::Drama
-2283362::Jumanji: Welcome to the Jungle (2017)::
+2283362::Jumanji: Welcome to the Jungle (2017)::Action|Adventure|Comedy
 2283748::OMG: Oh My God! (2012)::Comedy|Drama|Family
 2283864::The Green Lantern (2010)::Short
 2285481::Henge (2011)::Horror
@@ -22247,7 +22250,7 @@
 2296777::Sherlock Gnomes (2018)::Animation|Adventure|Comedy
 2296799::Highway to Dhampus (2014)::Drama|Romance
 2296819::Kara (2012)::Animation|Short|Drama
-2296835::Layla Fourie (2013)::
+2296835::Layla Fourie (2013)::Thriller
 2296909::Pink Floyd: The Story of Wish You Were Here (2012)::Documentary|Music
 2297063::Whitewash (2013)::Drama|Thriller
 2297164::In-lyu-myeol-mang-bo-go-seo (2012)::Comedy|Drama|Fantasy
@@ -22358,7 +22361,7 @@
 2318092::Endless Love (2014)::Drama|Romance
 2318268::Mantervention (2014)::Comedy
 2318360::Morgana (2012)::Horror
-2318405::Belyy tigr (2012)::
+2318405::Belyy tigr (2012)::Action|Adventure|Fantasy
 2318440::Echo Planet (2012)::Animation|Adventure
 2318527::Hell Baby (2013)::Comedy|Horror
 2318564::Chimères (2013)::Drama|Horror|Romance
@@ -22871,7 +22874,7 @@
 2394021::Kusursuzlar (2013)::Drama|Family|Mystery
 2394063::Too Late (2015)::Drama
 2395133::Adjust Your Tracking (2013)::Documentary
-2395146::Doomsdays (2013)::
+2395146::Doomsdays (2013)::Drama
 2395155::Birth Story: Ina May Gaskin and The Farm Midwives (2012)::Documentary|Biography|History
 2395199::Enemies Closer (2013)::Action|Thriller
 2395339::Mothers and Daughters (2016)::Drama
@@ -23041,7 +23044,7 @@
 2417540::36 (2012)::Drama
 2417560::Filmistaan (2012)::Comedy
 2417650::30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo (2013)::Comedy
-2417712::Goon: Last of the Enforcers (2017)::
+2417712::Goon: Last of the Enforcers (2017)::Comedy|Sport
 2417854::Lucky Bastard (2013)::Crime|Drama|Thriller
 2417970::Dead Within (2014)::Drama|Horror|Thriller
 2418264::Jim Seung (2011)::Action|Thriller
@@ -23095,7 +23098,7 @@
 2430104::After Tiller (2013)::Documentary|Biography|Drama
 2431286::Philomena (2013)::Biography|Drama
 2431576::Animus (2013)::Horror|Thriller
-2432918::Meet the Hitlers (2014)::
+2432918::Meet the Hitlers (2014)::Documentary|Comedy|Drama
 2433040::Beyond the Mask (2015)::Action|Drama
 2433190::Tensión sexual, Volumen 1: Volátil (2012)::Drama
 2433336::The Moo Man (2013)::Documentary|Comedy|Drama
@@ -23814,7 +23817,7 @@
 2648034::Annayum Rasoolum (2013)::Romance
 2649128::Metro (2013)::Action|Thriller
 2649152::Chto tvoryat muzhchiny! (2013)::Comedy
-2649194::I Am Steve McQueen (2014)::
+2649194::I Am Steve McQueen (2014)::Documentary|Biography
 2649274::The Ghost Army (2013)::Documentary
 2649554::Midnight Special (2016)::Adventure|Drama|Sci-Fi
 2649800::House Guest (2013)::Horror|Thriller
@@ -24140,7 +24143,7 @@
 2795414::Ladies and Gentleman (2013)::Comedy
 2796318::Mickey Virus (2013)::Comedy|Thriller
 2796678::The Opposite Sex (2014)::Comedy
-2796782::The Oscars (2014)::
+2796782::The Oscars (2014)::Comedy|Music
 2797106::Way Back Home (2013)::Drama
 2797242::Bombay Talkies (2013)::Drama
 2798456::Scintilla (2014)::Action|Sci-Fi
@@ -24456,7 +24459,7 @@
 2929890::L'homme qu'on aimait trop (2014)::Drama
 2930016::With Real Stars Above My Head (2014)::Drama
 2930428::Deadly Fast (2013)::Short|Action|Thriller
-2931140::New Life (2016)::
+2931140::New Life (2016)::Drama|Romance
 2931148::Mob Handed (2016)::Thriller
 2931194::Guns N' Roses Appetite for Democracy 3D Live at Hard Rock Las Vegas (2014)::Music
 2932536::In the Deep (2016)::Thriller
@@ -24719,7 +24722,7 @@
 3011874::Marvin Hamlisch: What He Did for Love (2013)::Documentary|Biography|Music
 3011894::Relatos salvajes (2014)::Comedy|Drama|Thriller
 3011934::Quiero ser fiel (2014)::Comedy|Romance
-3011960::Hangman (2017)::
+3011960::Hangman (2017)::Crime|Mystery|Thriller
 3013018::Eat (2014)::Drama|Horror|Thriller
 3013160::Arrowhead (2016)::Action|Adventure|Sci-Fi
 3013214::Dr. Easy (2013)::Short
@@ -24809,7 +24812,7 @@
 3043252::Parched (2015)::Drama
 3043542::Mr Hublot (2013)::Animation|Short|Comedy
 3043546::Trevor Noah: African American (2013)::Comedy
-3044032::SLR (2013)::
+3044032::SLR (2013)::Short|Drama|Thriller
 3044244::Le meraviglie (2014)::Drama
 3044248::Fei hu chu zheng (2013)::Comedy
 3044562::SHOT! The Psycho-Spiritual Mantra of Rock (2016)::Documentary|Biography|Music
@@ -24953,7 +24956,7 @@
 3097084::Camp Takota (2014)::Comedy
 3097204::The Inbetweeners 2 (2014)::Comedy
 3097578::You or a Loved One (2014)::Comedy|Drama
-3097956::Chasing Valentine (2015)::
+3097956::Chasing Valentine (2015)::Drama|Thriller
 3098306::Sous les jupes des filles (2014)::Comedy|Romance
 3099370::Sector 4 (2014)::Action|War
 3099498::Tusk (2014)::Comedy|Drama|Horror
@@ -25040,7 +25043,7 @@
 3121562::Spud 3: Learning to Fly (2014)::Comedy
 3121604::Duniyadari (2013)::Drama
 3121710::Not My Life (2011)::
-3122436::The Secret Path (2014)::
+3122436::The Secret Path (2014)::Fantasy|History|Mystery
 3122764::Southern Rites (2015)::Documentary
 3122842::The Automatic Hate (2015)::Comedy|Drama
 3123010::El cumple de la abuela (2015)::Comedy
@@ -25068,7 +25071,7 @@
 3132086::Giraffada (2013)::Drama
 3132632::Misery Loves Comedy (2015)::Documentary|Comedy
 3132714::Marie Heurtin (2014)::Biography|Drama
-3133246::The Last Time You Had Fun (2014)::
+3133246::The Last Time You Had Fun (2014)::Comedy|Drama
 3133722::No Way Jose (2015)::Comedy
 3134066::Power Rangers Megaforce: Ultimate Team Power (2013)::
 3134422::Gold (2014)::Comedy|Drama|Family
@@ -25306,7 +25309,7 @@
 3212408::Beautiful Something (2015)::Drama|Romance
 3212474::Assault on El Capitan (2013)::Documentary|Adventure|Sport
 3212568::Beltracchi: The Art of Forgery (2014)::Documentary|Biography|Crime
-3212670::Private Life (2012)::
+3212670::Private Life (2012)::Drama|Thriller
 3212904::Curve (2015)::Horror|Thriller
 3213062::Two Raging Grannies (2013)::Documentary
 3213622::Rise (2014)::Crime|Drama|News
@@ -25327,7 +25330,7 @@
 3215846::Dreamcatcher (2015)::Documentary|Crime|Family
 3216206::Habbet Loulou (2013)::Comedy|Drama
 3216348::Incarnate (2016)::Horror|Thriller
-3216866::Tom in America (2014)::
+3216866::Tom in America (2014)::Short|Drama|Fantasy
 3218368::Dorsvloer vol confetti (2014)::Drama
 3218580::Alléluia (2014)::Crime|Horror|Thriller
 3219080::El espacio entre las cosas (2013)::Drama|Fantasy
@@ -25344,7 +25347,7 @@
 3222852::Victor (2015)::Biography|Crime|Drama
 3223280::Câinele Japonez (2013)::Drama
 3223394::Shooting for Socrates (2014)::Comedy|Drama|Sport
-3224288::Beyond the Clouds (2017)::
+3224288::Beyond the Clouds (2017)::Drama|Family
 3225318::Wolf Mother (2016)::Crime|Thriller
 3225422::El Derechazo (2013)::Comedy
 3225558::American Weightlifting (2013)::Documentary|Biography|History
@@ -25471,7 +25474,7 @@
 3268668::Captive (2015)::Crime|Drama|Thriller
 3268850::Unrest (2017)::Documentary|Drama|History
 3269074::Darband (2013)::Drama
-3269932::Relative Happiness (2014)::
+3269932::Relative Happiness (2014)::Comedy|Romance
 3270108::Jackie &amp; Ryan (2014)::Drama|Music
 3270224::72nd Golden Globe Awards (2015)::Reality-TV
 3270472::Todos se van (2015)::Drama
@@ -25655,7 +25658,7 @@
 3336620::Stray Dog (2013)::Short|Comedy|Drama
 3336658::Los Fabulosos 7 (2013)::Drama|Music
 3337550::Rahasya (2015)::Mystery|Thriller
-3338188::Jia aur Jia (2017)::
+3338188::Jia aur Jia (2017)::Drama
 3338230::La semilla del silencio (2015)::Crime|Drama|Thriller
 3338480::Gong Fu Zhan Dou Ji (2013)::Action|Drama
 3339354::A Year and Change (2015)::Comedy|Drama
@@ -25668,7 +25671,7 @@
 3341582::Killa (2014)::Comedy|Drama
 3341832::Voodoo Possession (2014)::Drama|Horror|Mystery
 3342196::Tinta Sangre (2013)::Drama
-3342558::Talakjung vs Tulke (2014)::
+3342558::Talakjung vs Tulke (2014)::Drama
 3343784::Entertainment (2015)::Drama
 3343868::The Veil (2017)::Action|Adventure|Sci-Fi
 3344394::Damaged Goods (2013)::Drama
@@ -25691,7 +25694,7 @@
 3348102::Stereo (2014)::Thriller
 3348730::Jigsaw (2017)::Crime|Horror|Mystery
 3349578::Bad Kids of Crestview Academy (2017)::Action|Comedy|Thriller
-3350228::Killing Oswald (2013)::
+3350228::Killing Oswald (2013)::Documentary
 3350436::Fire Twister (2015)::Action|Adventure|Sci-Fi
 3350890::Starve (2014)::Horror|Thriller
 3351428::Stuk! (2014)::Crime|Drama|Thriller
@@ -26079,7 +26082,7 @@
 3500496::Without Charity (2013)::Documentary|Biography|Crime
 3500528::Khid thueng withaya (2014)::Drama
 3500544::Perdiendo el norte (2015)::Comedy
-3501112::Security (2017)::
+3501112::Security (2017)::Action|Crime|Thriller
 3501416::Assassination (2015)::Drama|History|Thriller
 3501590::Ithaca (2015)::Drama
 3501632::Thor: Ragnarok (2017)::Action|Adventure|Comedy
@@ -26295,7 +26298,7 @@
 3576060::Point and Shoot (2014)::Documentary
 3576072::Regarding Susan Sontag (2014)::Documentary
 3576084::Zero Motivation (2014)::Comedy|Drama
-3576352::Followed (2015)::
+3576352::Followed (2015)::Thriller
 3576728::Bilal: A New Breed of Hero (2015)::Animation|Action|Adventure
 3576842::Elvira, te daría mi vida pero la estoy usando (2014)::Comedy|Drama
 3577190::Hui guang zoumingqu (2014)::Comedy|Drama|Romance
@@ -26313,7 +26316,7 @@
 3582040::Boomerang (2015)::Drama|Romance
 3582084::2014 (2014)::
 3583370::The Bet (2016)::Comedy
-3584354::Man Vs. (2015)::
+3584354::Man Vs. (2015)::Horror|Sci-Fi|Thriller
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Documentary|Music
 3586930::Kill Kane (2016)::Crime|Thriller
 3587396::Only the Dead (2015)::Documentary|Biography|History
@@ -26355,7 +26358,7 @@
 3602144::Eun-mil-han Yu-hok (2015)::Thriller
 3603808::The Diabolical (2015)::Horror|Sci-Fi
 3604944::How to Steal a Wife (2013)::Comedy
-3605002::Lights Out (2013)::
+3605002::Lights Out (2013)::Short|Horror
 3605266::Everything Beautiful Is Far Away (2017)::Fantasy|Sci-Fi
 3605418::Knock Knock (2015)::Horror|Thriller
 3605606::Mr. Fraud (2014)::Action|Crime|Thriller
@@ -26717,7 +26720,7 @@
 3740778::Shan he gu ren (2015)::Drama
 3740916::16 Tons (2011)::Documentary
 3741150::Undercover Hooligan (2016)::Drama
-3741632::The Leisure Seeker (2017)::
+3741632::The Leisure Seeker (2017)::Adventure|Comedy|Drama
 3741834::Lion (2016)::Drama
 3741860::Awake: The Life of Yogananda (2014)::Documentary
 3742040::Katt Williams: Priceless: Afterlife (2014)::Comedy
@@ -26753,7 +26756,7 @@
 3757218::Baba Joon (2015)::Drama
 3758172::Jungle (2017)::Action|Adventure|Biography
 3758708::The Hippopotamus (2017)::Comedy
-3758852::Blood Money (2017)::
+3758852::Blood Money (2017)::Thriller
 3759416::Astérix: Le domaine des dieux (2014)::Animation|Adventure|Comedy
 3759434::Overfed &amp; Undernourished (2014)::Documentary
 3760922::My Big Fat Greek Wedding 2 (2016)::Comedy
@@ -26870,7 +26873,7 @@
 3810760::Minimalism: A Documentary About the Important Things (2016)::Documentary
 3810932::Drushyam (2014)::Drama|Family|Thriller
 3811428::Au plus près du soleil (2015)::Drama
-3811986::Une famille à louer (2015)::
+3811986::Une famille à louer (2015)::Comedy|Romance
 3812366::The International Market (2014)::Drama|Romance|War
 3812730::A Midsummer Night's Dream (2014)::Comedy
 3813310::Cop Car (2015)::Thriller
@@ -26974,7 +26977,7 @@
 3859980::Mohenjo Daro (2016)::Action|Adventure|Drama
 3860294::Ogni maledetto Natale (2014)::Comedy
 3860916::Cargo (2017)::Drama|Thriller
-3861876::The 100 Years Show (2015)::
+3861876::The 100 Years Show (2015)::Documentary|Short|Biography
 3862750::The Perfect Guy (2015)::Drama|Thriller
 3863484::King Jack (2015)::Adventure
 3863542::Tercer grado (2015)::Action|Drama|Romance
@@ -26995,7 +26998,7 @@
 3874544::The Boss Baby (2017)::Animation|Comedy|Family
 3876372::Sayonara kabukichô (2014)::Drama|Romance
 3876382::Kidnap Capital (2016)::Drama
-3876702::The Violators (2015)::
+3876702::The Violators (2015)::Drama
 3877296::The Cokeville Miracle (2015)::Drama|Family|History
 3877674::Mænd &amp; høns (2015)::Comedy|Drama|Mystery
 3877718::Tokyo Fiancée (2014)::Romance
@@ -27207,7 +27210,7 @@
 3983640::Wat Mannen Willen (2015)::Romance
 3983674::The Mask You Live In (2015)::Documentary|News
 3984320::Capital C (2014)::Documentary|Drama|News
-3985430::Legionario (2016)::
+3985430::Legionario (2016)::Drama|Thriller|War
 3985434::On a marché sur Bangkok (2014)::Comedy
 3985572::Un Natale stupefacente (2014)::Comedy|Romance
 3985648::Sta kala kathoumena (2014)::Comedy
@@ -27300,7 +27303,7 @@
 4044364::Citizenfour (2014)::Documentary|Biography|History
 4044464::Avouterie (2015)::Crime|Drama|Thriller
 4044970::Xingdong daihao: Sun Zongshan (2014)::Drama
-4045894::Get the Girl (2017)::
+4045894::Get the Girl (2017)::Action|Comedy|Crime
 4046282::An Alternative Reality: The Football Manager Documentary (2014)::Documentary
 4046784::Maze Runner: The Scorch Trials (2015)::Action|Sci-Fi|Thriller
 4047112::Jeeva (2014)::Drama|Sport
@@ -27426,7 +27429,7 @@
 4103724::Forever My Girl (2018)::Drama|Music|Romance
 4104022::People Places Things (2015)::Comedy
 4104054::Dad's Army (2016)::Comedy
-4105584::Deep (2017)::
+4105584::Deep (2017)::Animation|Adventure|Comedy
 4105970::They Look Like People (2015)::Drama|Mystery|Thriller
 4106306::Sky (2015)::Drama
 4106376::Renegades (2017)::Action|Adventure|Comedy
@@ -27663,7 +27666,7 @@
 4230796::Ma-nyeo (2014)::Horror
 4232130::Bloodlands (2017)::Drama|Horror|Thriller
 4232610::Antigang (2015)::Action|Drama
-4234740::Hayalet Dayi (2015)::
+4234740::Hayalet Dayi (2015)::Comedy|Fantasy
 4235342::Pendekar Tongkat Emas (2014)::Action|Drama
 4235644::Shisha no teikoku (2015)::Animation|Sci-Fi|Thriller
 4238858::The Fits (2015)::Drama
@@ -27730,7 +27733,7 @@
 4271820::OK Kanmani (2015)::Romance
 4272420::Kuch Kuch Locha Hai (2015)::Comedy|Drama
 4272866::Bakemono no ko (2015)::Animation|Action|Adventure
-4273104::Made in Bangkok (2015)::
+4273104::Made in Bangkok (2015)::Documentary|Comedy|Drama
 4273144::Kapila (2014)::Documentary|Biography|Music
 4273170::Caught (2015)::Crime|Drama|Mystery
 4273292::Under the Shadow (2016)::Horror|Thriller
@@ -27974,7 +27977,7 @@
 4428814::La loi du marché (2015)::Drama
 4429074::Dégradé (2015)::Drama
 4429128::Papanasam (2015)::Drama|Thriller
-4429194::Bonjour Anne (2016)::
+4429194::Bonjour Anne (2016)::Comedy|Drama|Romance
 4430002::Body Team 12 (2015)::Documentary|Short|News
 4430136::Pyaar Ka Punchnama 2 (2015)::Comedy|Drama|Romance
 4430212::Drishyam (2015)::Drama|Mystery|Thriller
@@ -27993,7 +27996,7 @@
 4437212::Bana Adini Sor (2015)::Drama
 4437216::Goat (2016)::Drama
 4438848::Neighbors 2: Sorority Rising (2016)::Comedy
-4439102::Officer Downe (2016)::
+4439102::Officer Downe (2016)::Action|Comedy|Sci-Fi
 4439120::Riaru onigokko (2015)::Horror
 4440036::Lost and Love (2015)::Drama
 4440114::Galaxy Kaidô (2015)::Comedy|Sci-Fi
@@ -28032,7 +28035,7 @@
 4458296::Lift the World (2014)::Documentary
 4458368::Ju-on: Za fainaru (2015)::Horror
 4459912::Luna de miel (2015)::Horror|Thriller
-4459982::Remembering the Man (2015)::
+4459982::Remembering the Man (2015)::Documentary|History|Romance
 4460786::Ask Olsun (2015)::Comedy
 4460854::Chronically Metropolitan (2016)::Comedy|Drama
 4463120::Down Under (2016)::Comedy
@@ -28064,7 +28067,7 @@
 4475992::Belly of the Bulldog (2015)::Action|Horror|Thriller
 4476736::National Theatre Live: Hamlet (2015)::Drama
 4477536::Fifty Shades Freed (2018)::Drama|Romance|Thriller
-4480398::Attack of the Killer Donuts (2016)::
+4480398::Attack of the Killer Donuts (2016)::Comedy|Horror
 4480568::That's Not Us (2015)::Comedy|Drama|Romance
 4481414::Gifted (2017)::Drama
 4481514::The House (2017)::Comedy
@@ -28146,9 +28149,9 @@
 4537170::Eaten Alive! The Rise and Fall of the Italian Cannibal Film (2015)::Documentary
 4537842::A Very Murray Christmas (2015)::Comedy|Music|Musical
 4537866::Rinkebysvenska (2015)::Short|Drama
-4537888::The Monster Project (2017)::
+4537888::The Monster Project (2017)::Action|Horror
 4537986::Manhunt (2017)::Action|Thriller
-4538916::Finding Your Feet (2017)::
+4538916::Finding Your Feet (2017)::Comedy|Drama|Romance
 4539114::Kyôkai no Kanata: mirai-hen (2015)::Animation|Action|Comedy
 4539508::Aap wong (2015)::Comedy|Drama|Romance
 4540242::James Bond: In Service of Nothing (2015)::Animation|Short|Action
@@ -28164,14 +28167,14 @@
 4547194::I Kill Giants (2017)::Drama|Fantasy|Thriller
 4547514::El elegido (2016)::Drama|History|Thriller
 4547938::Katie Says Goodbye (2016)::Drama
-4548864::Blackhearts (2017)::
+4548864::Blackhearts (2017)::Documentary|Music
 4549224::The Standoff (2016)::Comedy
 4550098::Nocturnal Animals (2016)::Drama|Thriller
 4550420::My Blind Brother (2016)::Comedy|Drama|Romance
 4551318::Ray (2016)::Drama
 4552524::Jeruzalem (2015)::Horror
 4555248::The Thoughts That Once We Had (2015)::Documentary
-4555426::Darkest Hour (2017)::
+4555426::Darkest Hour (2017)::Biography|Drama|History
 4555594::Heaven Sent (2015)::Drama|Fantasy
 4555674::El rei borni (2016)::Comedy|Drama
 4556370::Altitude (2017)::Action|Thriller
@@ -28214,7 +28217,7 @@
 4576612::Comment c'est loin (2015)::Comedy|Musical
 4577344::ClownTown (2016)::Horror|Thriller
 4577398::2015 MTV Movie Awards (2015)::Comedy|Music|Reality-TV
-4578050::Timm Thaler oder das verkaufte Lachen (2017)::
+4578050::Timm Thaler oder das verkaufte Lachen (2017)::Adventure|Comedy|Drama
 4578118::Rupture (2016)::Sci-Fi|Thriller
 4578590::Ilegal (2014)::Documentary|Drama|Family
 4580112::Mannenharten 2 (2015)::Comedy|Romance
@@ -28223,7 +28226,7 @@
 4585660::Klovn Forever (2015)::Comedy
 4586626::Showdown in Manila (2016)::Action
 4587366::Eliminators (2016)::Action
-4587656::The Star (2017)::
+4587656::The Star (2017)::Animation|Adventure|Comedy
 4590482::Karachi se Lahore (2015)::Comedy|Family
 4591310::Xi you ji zhi: Sun Wukong san da Baigu Jing (2016)::Action|Adventure|Fantasy
 4591840::A Christmas Star (2015)::Family
@@ -28234,7 +28237,7 @@
 4594836::Darc (2018)::Thriller
 4594936::Les amigues de l'Àgata (2015)::
 4596052::The Devil's Toy Box (2017)::Horror
-4596408::Nae sim-jang-eool sswa-la (2015)::
+4596408::Nae sim-jang-eool sswa-la (2015)::Drama
 4596784::Aswar al-Qamar (2015)::Action|Drama|Mystery
 4597840::Socially Omega (2016)::Short
 4600778::Chalk N Duster (2016)::Drama
@@ -28381,6 +28384,7 @@
 4680196::Planetarium (2016)::Drama|Fantasy|Mystery
 4680980::Lavender (2016)::Drama|Thriller
 4681414::Ore Monogatari!! (2015)::Comedy|Romance
+4682136::The Seagull (2018)::Drama
 4682562::O piseu (2015)::Thriller
 4682780::Josie (2018)::Drama|Thriller
 4682786::Collateral Beauty (2016)::Drama
@@ -28496,7 +28500,7 @@
 4746370::Death of a Gentleman (2015)::Documentary
 4746484::L'économie du couple (2016)::Drama
 4746506::Fai bei sogni (2016)::Drama|Romance
-4758646::War Machine (2017)::
+4758646::War Machine (2017)::Comedy|Drama|War
 4760714::L'humour à mort (2015)::Documentary
 4761270::Orlean (2015)::Comedy|Drama|Thriller
 4763168::Kindergarten Cop 2 (2016)::Comedy
@@ -28553,7 +28557,7 @@
 4801604::Taiyang de haizi (2015)::Drama
 4802214::Chihayafuru Part II (2016)::Comedy|Drama|Romance
 4805316::A Dark Song (2016)::Drama|Horror
-4807830::Lipstick Under My Burkha (2016)::
+4807830::Lipstick Under My Burkha (2016)::Drama
 4809238::You &amp; I (2014)::Drama
 4809458::Renesse (2016)::Comedy
 4810104::Pekak (2015)::Drama
@@ -28784,11 +28788,11 @@
 4943322::The Ottoman Lieutenant (2016)::Drama|War
 4943558::Saheb Bibi Golaam (2016)::Action|Crime|Drama
 4943594::The Search for Freedom (2015)::Documentary
-4943706::Les derniers Parisiens (2016)::
+4943706::Les derniers Parisiens (2016)::Drama
 4944352::Heneral Luna (2015)::Action|History
 4944506::La academia de las musas (2015)::Drama
 4944596::Que Dios nos perdone (2016)::Thriller
-4944644::Vientos de la Habana (2016)::
+4944644::Vientos de la Habana (2016)::Crime|Drama|Thriller
 4944658::El faro de las orcas (2016)::Drama
 4944924::Chaharshanbeh, 19 Ordibehesht (2015)::Drama
 4947672::Caffè (2016)::Drama
@@ -28864,7 +28868,7 @@
 4997830::Gonchi la película (2015)::Documentary
 4998184::Girl Night Stand (2015)::Short|Comedy|Romance
 4998222::American Folk (2017)::Drama|Musical
-4998772::Bedeviled (2016)::
+4998772::Bedeviled (2016)::Horror|Thriller
 5000002::Hooligan Legacy (2016)::Crime
 5000250::In fondo al bosco (2015)::Thriller
 5000724::Building Jerusalem (2015)::Documentary|Sport
@@ -28886,13 +28890,13 @@
 5011290::Zhi qingchun 2: Yuánlái ni hái zài zhèli (2016)::Drama|Romance
 5011440::Fukushû shitai (2016)::Mystery
 5012620::No Resolution (2016)::Drama
-5012994::Abby Sen (2015)::
+5012994::Abby Sen (2015)::Comedy|Drama|Sci-Fi
 5013056::Dunkirk (2017)::Action|Drama|History
 5013688::Shelley (2016)::Drama|Horror
 5016946::Handsome Devil (2016)::Drama|Sport
 5017008::My Grandmother Fanny Kaplan (2016)::Drama|History
 5017928::Dance Camp (2016)::Comedy|Drama
-5017936::Prodigy (2017)::
+5017936::Prodigy (2017)::Drama|Sci-Fi|Thriller
 5019254::Pria (2017)::Short|Drama
 5019800::Urge (2015)::Short|Drama|Thriller
 5019884::Monakh i bes (2016)::Comedy|Mystery
@@ -28902,7 +28906,7 @@
 5022680::All Hallows' Eve 2 (2015)::Horror
 5022702::Hush (2016)::Horror|Thriller
 5023260::The Last Word (2017)::Comedy|Drama
-5023566::Tough Guys (2017)::
+5023566::Tough Guys (2017)::Documentary|Action|Sport
 5026038::Reza a Lenda (2016)::Action|Adventure|Drama
 5027162::Aurora Borealis: Északi fény (2017)::Drama
 5027202::Colombia magia salvaje (2015)::Documentary
@@ -29118,7 +29122,7 @@
 5153236::Hampstead (2017)::Comedy|Drama|Romance
 5153288::Backstabbing for Beginners (2018)::Drama|History|Thriller
 5154288::Prevenge (2016)::Comedy|Drama|Fantasy
-5154310::Frágil equilibrio (2016)::
+5154310::Frágil equilibrio (2016)::Documentary
 5154896::Der geilste Tag (2016)::Comedy
 5155780::The Discovery (2017)::Drama|Mystery|Romance
 5156274::Cardboard Gangsters (2017)::Crime|Drama
@@ -29129,7 +29133,7 @@
 5157030::Keeper of Darkness (2015)::Horror|Thriller
 5157052::Nightworld (2017)::Horror|Thriller
 5157456::Viking (2016)::Action|Drama|History
-5157682::L'ascension (2017)::
+5157682::L'ascension (2017)::Adventure|Comedy|Romance
 5158522::The Levelling (2016)::Drama
 5159414::Escape Room (2017)::Horror|Thriller
 5160154::The Pass (2016)::Drama
@@ -29155,7 +29159,7 @@
 5174234::Below the Surface (2016)::Thriller
 5174792::Yalla Aa'belkon: Single, Married, Divorced (2014)::Romance
 5175274::Le passé devant nous (2016)::Drama
-5175450::Mark Felt: The Man Who Brought Down the White House (2017)::
+5175450::Mark Felt: The Man Who Brought Down the White House (2017)::Biography|Drama|History
 5176052::La helada negra (2015)::Drama
 5176252::La llamada (2017)::Musical
 5176390::Non-Transferable (2017)::Comedy
@@ -29183,7 +29187,7 @@
 5192090::Director's Cut (2015)::Short|Comedy|Horror
 5193466::The Crossing (2015)::Documentary
 5193784::Brotherhood (2016)::Drama
-5193790::Another Mother's Son (2017)::
+5193790::Another Mother's Son (2017)::Biography|Drama|War
 5194226::Scoop! (2016)::Mystery
 5195412::Wakefield (2016)::Drama
 5197544::Baar Baar Dekho (2016)::Action|Comedy|Drama
@@ -29196,7 +29200,7 @@
 5205814::La Familia Reyna (2015)::Comedy|Drama
 5205966::RINGwhispers (2015)::Short|Horror|Thriller
 5207204::Dvadtsat vosem panfilovtsev (2016)::Action|Drama|History
-5207262::Hostages (2017)::
+5207262::Hostages (2017)::Crime|Drama
 5207320::Sweet, Sweet Lonely Girl (2016)::Drama|Horror|Thriller
 5208216::Wonderstruck (2017)::Drama|Family|Mystery
 5208950::Kickboxer: Retaliation (2018)::Action|Drama
@@ -29205,12 +29209,12 @@
 5212918::A Bad Idea Gone Wrong (2017)::Comedy
 5213534::Supersonic (2016)::Documentary|Music
 5213870::Pray for Rain (2017)::Drama|Mystery|Thriller
-5214394::Su Su Sudhi Vathmeekam (2015)::
+5214394::Su Su Sudhi Vathmeekam (2015)::Drama
 5214690::Yeol-jeong-gat-eun-so-ri-ha-go-it-ne (2015)::Comedy|Romance
-5215110::Le voyageur (2016)::
+5215110::Le voyageur (2016)::Comedy|Drama
 5215486::Dawson City: Frozen Time (2016)::Documentary|History
 5215952::Goksung (2016)::Mystery|Thriller
-5216534::Dejimon adobenchâ tri 2: Ketsui (2016)::
+5216534::Dejimon adobenchâ tri 2: Ketsui (2016)::Animation|Action|Adventure
 5216810::Bollywood Diaries (2016)::Drama
 5217644::Dobbiamo parlare (2015)::Comedy
 5220252::Double Play (2017)::Drama
@@ -29237,7 +29241,7 @@
 5233510::Auf Einmal (2016)::Drama
 5233554::Qabl Zahmet al-Saif (2016)::Drama
 5233558::The Death and Life of Marsha P. Johnson (2017)::Documentary
-5234428::Ajin: Shôdô (2015)::
+5234428::Ajin: Shôdô (2015)::Animation|Adventure|Horror
 5234458::Ajin: Shôtotsu (2016)::Animation|Adventure|Horror
 5235880::A Flying Jatt (2016)::Action|Comedy|Fantasy
 5236900::Nuts! (2016)::Documentary
@@ -29343,7 +29347,7 @@
 5304614::Aaradhu Sinam (2016)::Action|Crime|Thriller
 5304874::Incerta glòria (2017)::Drama
 5305246::93 Days (2016)::Drama
-5305262::Las plantas (2015)::
+5305262::Las plantas (2015)::Drama
 5307018::Spymasters: CIA in the Crosshairs (2015)::Documentary|Drama|War
 5308322::Happy Death Day (2017)::Horror|Mystery|Thriller
 5309954::Sadako v Kayako (2016)::Horror
@@ -29377,7 +29381,7 @@
 5329376::Beware the Slenderman (2016)::Documentary
 5329852::Armero (2017)::Drama
 5331594::Blue (2017)::Documentary
-5331878::Theater of Life (2016)::
+5331878::Theater of Life (2016)::Documentary
 5332158::Como una novia sin sexo (2016)::Comedy|Romance
 5333110::Zjednoczone stany milosci (2016)::Drama
 5333612::Actor in Law (2016)::Comedy|Drama|Romance
@@ -29386,7 +29390,7 @@
 5335128::Kali (2016)::Romance|Thriller
 5337758::Jheronimus Bosch, Touched by the Devil (2015)::Documentary
 5338222::Boku wa asu, kinou no kimi to dêto suru (2016)::Drama
-5338644::Madame Hyde (2017)::
+5338644::Madame Hyde (2017)::Drama
 5338832::Brüder der Nacht (2016)::Documentary
 5339418::Ryde (2016)::Horror|Thriller
 5340300::Lean on Pete (2017)::Adventure|Drama
@@ -29441,11 +29445,11 @@
 5389916::Tekerleme (1984)::Drama
 5390066::Permission (2017)::Comedy|Drama|Romance
 5390430::Accidental Courtesy: Daryl Davis, Race &amp; America (2016)::Documentary|Biography|History
-5390504::Detroit (2017)::
+5390504::Detroit (2017)::Crime|Drama|Thriller
 5396724::Run Boy Run (2014)::Short|Thriller
 5397194::Anon (2018)::Sci-Fi|Thriller
 5419398::Theta States (2017)::Horror
-5420886::Walking Out (2017)::
+5420886::Walking Out (2017)::Adventure|Drama|Mystery
 5423310::Ola Bola (2016)::Drama|History
 5424802::The Shining Star of Losers Everywhere (2016)::Documentary|Short
 5424972::How to Lose Weight in 4 Easy Steps (2016)::Short|Drama
@@ -29482,7 +29486,7 @@
 5456546::Judwaa 2 (2017)::Action|Comedy
 5456798::Mythica: The Iron Crown (2016)::Action|Adventure|Fantasy
 5457078::Love After Love (2017)::Drama
-5457484::Cabin 28 (2017)::
+5457484::Cabin 28 (2017)::Horror
 5458458::Se mi lasci non vale (2016)::Comedy
 5458566::Dræberne fra Nibe (2017)::Comedy|Crime|Drama
 5460276::Kaabil (2017)::Action
@@ -29509,7 +29513,7 @@
 5465370::Naam Hai Akira (2016)::Action|Crime|Drama
 5465868::Me casé con un boludo (2016)::Comedy|Romance
 5466186::Entebbe (2018)::Crime|Drama|History
-5467554::Daphne (2017)::
+5467554::Daphne (2017)::Comedy|Drama
 5467928::Veneno (2018)::Biography
 5468014::Digimon Adventure Tri. 3: Confession (2016)::Animation|Action|Adventure
 5468300::Khashm Va Hayahoo (2016)::Drama
@@ -29568,7 +29572,7 @@
 5513770::Kung Fu Panda: Secrets of the Scroll (2016)::Animation|Short|Action
 5514296::My Stupid Boss (2016)::Comedy
 5514846::Am sik tin tong (2016)::Drama
-5516328::Ghost Stories (2017)::
+5516328::Ghost Stories (2017)::Drama|Horror
 5517438::7 años (2016)::Drama
 5518022::Houston, We Have a Problem (2016)::Documentary|Drama
 5518128::Love Games (2016)::Thriller
@@ -29584,7 +29588,7 @@
 5529712::Sign (2016)::Short|Drama|Music
 5532370::Two Pigeons (2017)::Comedy|Horror|Thriller
 5534122::Alamet-i Kiyamet (2016)::Horror
-5534434::Victor Crowley (2017)::
+5534434::Victor Crowley (2017)::Comedy|Horror
 5535726::Generation Startup (2016)::Documentary
 5536316::National Theatre Live: Les Liaisons Dangereuses (2016)::Romance
 5536398::Versus: The Life and Films of Ken Loach (2016)::Documentary
@@ -29600,7 +29604,7 @@
 5538984::The Plug (2016)::Drama
 5539052::The Polka King (2017)::Biography|Comedy|Drama
 5539054::You Get Me (2017)::Thriller
-5540188::The Nile Hilton Incident (2017)::
+5540188::The Nile Hilton Incident (2017)::Crime|Drama|Thriller
 5541240::To the Bone (2017)::Drama
 5541848::What the Health (2017)::Documentary
 5542802::Raabta (2017)::Action|Comedy|Drama
@@ -29645,7 +29649,7 @@
 5586310::Tarla (2015)::Drama
 5587488::Sabtu Bersama Bapak (2016)::Drama
 5588328::Siyah karga (2016)::Drama
-5588416::2Eleven (2015)::
+5588416::2Eleven (2015)::Action
 5588506::Kasap havasi (2015)::Drama
 5588850::Chris Brown: Welcome to My Life (2017)::Documentary
 5589768::Soof 2 (2016)::Comedy|Romance
@@ -29742,7 +29746,7 @@
 5653514::Bad Day for the Cut (2017)::Crime|Drama|Thriller
 5655222::The Hero (2017)::Comedy|Drama|Romance
 5655954::Vetrivel (2016)::Action|Drama|Romance
-5657846::Daddy's Home 2 (2017)::
+5657846::Daddy's Home 2 (2017)::Comedy
 5657856::Brawl in Cell Block 99 (2017)::Crime|Drama
 5658296::Sperm Whale: Roya's Selection (2017)::Comedy
 5659172::High &amp; Low: The Movie (2016)::Action
@@ -29757,7 +29761,7 @@
 5667052::Fashionista (2016)::Drama|Mystery|Thriller
 5667516::Black Site Delta (2017)::Action
 5668242::Sia: Cheap Thrills (2016)::Short|Music
-5669936::The Recall (2017)::
+5669936::The Recall (2017)::Horror|Sci-Fi|Thriller
 5670152::Traffik (2018)::Thriller
 5672048::Shigatsu wa kimi no uso (2016)::Drama|Music|Romance
 5674842::Villaviciosa de al lado (2016)::Comedy
@@ -29794,7 +29798,7 @@
 5698748::Willy 1er (2016)::
 5698834::Jimmie (2018)::Drama
 5699060::The Changeover (2017)::Thriller
-5699154::Le sens de la fête (2017)::
+5699154::Le sens de la fête (2017)::Comedy
 5700224::Doua lozuri (2016)::Comedy
 5700496::Pet Fooled (2016)::Documentary
 5700648::Nam-gwa yeo (2016)::Drama
@@ -29807,7 +29811,7 @@
 5702964::Le corps des anges (2016)::
 5704748::Becoming Cary Grant (2017)::Documentary|Biography
 5707304::Madre (2016)::Thriller
-5708028::Cocote (2017)::
+5708028::Cocote (2017)::Drama
 5708172::Porta dos Fundos: Contrato Vitalício (2016)::Comedy
 5709506::Wizard Mode (2016)::Documentary|Biography
 5710042::Mercy (2016)::Thriller
@@ -29820,7 +29824,7 @@
 5715874::The Killing of a Sacred Deer (2017)::Drama|Mystery|Thriller
 5716380::Thumper (2017)::Crime|Drama|Thriller
 5716464::Breathe (2017)::Biography|Drama|Romance
-5716624::Tokyo Project (2017)::
+5716624::Tokyo Project (2017)::Short|Drama|Romance
 5716848::Where's the Money (2017)::Comedy
 5717110::Tum Bin 2 (2016)::Drama|Romance
 5717492::Small Crimes (2017)::Thriller
@@ -29834,7 +29838,7 @@
 5723272::Aus dem Nichts (2017)::Crime|Drama
 5723286::Wheelman (2017)::Action|Crime|Mystery
 5723416::The Beyond (2017)::Sci-Fi
-5726086::Insidious: The Last Key (2018)::
+5726086::Insidious: The Last Key (2018)::Horror|Mystery|Thriller
 5726616::Call Me by Your Name (2017)::Drama|Romance
 5727282::Borg McEnroe (2017)::Biography|Drama|Sport
 5728684::Sour Grapes (2016)::Documentary
@@ -29853,14 +29857,14 @@
 5740806::Coin Heist (2017)::Action|Crime|Drama
 5741304::Jailbreak (2017)::Action|Comedy
 5741902::Zoku Shinya shokudô (2016)::Drama
-5742304::Paramedics (2016)::
-5742306::Raftan (2016)::
+5742304::Paramedics (2016)::Horror
+5742306::Raftan (2016)::Drama|Romance
 5742374::You Were Never Really Here (2017)::Drama|Mystery|Thriller
 5742782::En El Mismo Equipo (2014)::Short|Drama
 5742874::Sarkar 3 (2017)::Crime|Drama
 5743656::Phobia (2016)::Thriller
 5744102::Abu Shanab (2016)::Comedy
-5745450::Chef (2017)::
+5745450::Chef (2017)::Comedy|Drama|Family
 5746178::Il permesso - 48 ore fuori (2017)::Crime|Drama|Thriller
 5747466::Lost in France (2016)::Documentary
 5748392::Escape Room (2017)::Horror
@@ -29869,9 +29873,9 @@
 5749956::Voor Elkaar Gemaakt (2017)::Comedy|Romance
 5751588::Alan Partridge's Scissored Isle (2016)::Comedy
 5751998::Small Town Crime (2017)::Crime|Mystery|Thriller
-5752360::The Female Brain (2017)::
+5752360::The Female Brain (2017)::Comedy
 5752606::Maze (2017)::Adventure|Crime|Drama
-5753552::Moglie e marito (2017)::
+5753552::Moglie e marito (2017)::Comedy
 5756058::Política, manual de instrucciones (2016)::Documentary
 5758404::Step (2017)::Documentary
 5758802::Literally, Right Before Aaron (2017)::Comedy|Drama
@@ -29897,7 +29901,7 @@
 5777628::One More Time with Feeling (2016)::Documentary|Music
 5777700::Sexo, maracas y chihuahuas (2016)::Documentary
 5777802::Sadie's Last Days on Earth (2016)::Comedy
-5778384::Blokbaster (2017)::
+5778384::Blokbaster (2017)::Comedy|Crime
 5778646::Todd Sloane (2016)::Short|Horror|Thriller
 5779540::Coup d'Etat (2017)::Comedy
 5783112::Sanyang (2016)::Thriller
@@ -29927,7 +29931,7 @@
 5809020::Handsome: A Netflix Mystery Movie (2017)::Comedy
 5810122::Let Her Out (2016)::Horror
 5811242::Firegate (2016)::Adventure|Fantasy|Horror
-5811808::The Revival (2017)::
+5811808::The Revival (2017)::Drama|Romance
 5813194::Le Ciel Flamand (2016)::Drama
 5813366::Bleeding Steel (2017)::Action|Sci-Fi|Thriller
 5813916::Dag II (2016)::Drama|War
@@ -29956,7 +29960,7 @@
 5838806::Ann Mariya Kalippilanu (2016)::Comedy|Drama
 5840448::Rat Film (2016)::Documentary
 5840988::Yolki 5 (2016)::Comedy
-5842218::Seat in Shadow (2016)::
+5842218::Seat in Shadow (2016)::Comedy|Drama
 5842624::Call of Heroes (2016)::Action
 5842890::Jupiter holdja (2017)::Drama|Sci-Fi
 5843670::The Stakelander (2016)::Action|Horror
@@ -29975,7 +29979,7 @@
 5850440::The 89th Annual Academy Awards (2017)::Comedy|Music
 5851014::Savage Dog (2017)::Action
 5858972::Yo Soy Un Político (2016)::Comedy
-5859238::Lucky (2017)::
+5859238::Lucky (2017)::Comedy|Drama
 5860084::Cô Haû Gaí (2016)::Horror|Romance
 5860550::Vico C: La Vida Del Filósofo (2017)::Drama
 5860940::I'll Be Home for Christmas (2016)::Family
@@ -29986,7 +29990,7 @@
 5867800::Aruvi (2016)::Drama
 5869350::Morran &amp; Tobias - Som en skänk från ovan (2016)::Comedy
 5871080::A Viszkis (2017)::Action|Adventure|Crime
-5872506::Dark Chocolate (2016)::
+5872506::Dark Chocolate (2016)::Crime|Thriller
 5873150::Strong Island (2017)::Documentary
 5873216::They (2017)::Drama
 5874502::Rudy Habibie (2016)::Drama|Romance
@@ -30019,7 +30023,7 @@
 5896468::Dog Star Man (1964)::Documentary
 5896962::Line Walker (2016)::Action|Drama
 5897288::Smetto quando voglio: Masterclass (2017)::Comedy
-5897292::Smetto quando voglio: Ad honorem (2017)::
+5897292::Smetto quando voglio: Ad honorem (2017)::Comedy
 5897636::Estiu 1993 (2017)::Drama|Family
 5900208::La reconquista (2016)::Drama
 5902484::Kaatru Veliyidai (2017)::Romance
@@ -30052,7 +30056,7 @@
 5929796::The Rolling Stones Havana Moon (2016)::Music
 5930038::Out of Iraq (2016)::Documentary
 5932358::Beauty Mark (2016)::Short|Comedy
-5933664::Samarpanam (2017)::
+5933664::Samarpanam (2017)::Drama
 5933840::Dorst (2018)::Comedy
 5934788::The Ouija Possession (2016)::Horror
 5934894::Dharma Durai (2016)::Drama
@@ -30115,12 +30119,12 @@
 5988966::King Arthur: Excalibur Rising (2017)::Action
 5990066::Bad Match (2017)::Thriller
 5990342::The Incredible Jessica James (2017)::Comedy
-5990474::Columbus (2017)::
+5990474::Columbus (2017)::Drama
 5991206::Laavor et hakir (2016)::Comedy|Romance
 5991410::Señor, dame paciencia (2017)::Comedy
 5991948::La niebla y la doncella (2017)::Thriller
 5991974::El último traje (2017)::Drama
-5992138::The Game Changer (2017)::
+5992138::The Game Changer (2017)::Action
 5993456::Mission Pays Basque (2017)::Comedy
 5996202::The Net (2016)::Drama
 5997666::Jab Harry met Sejal (2017)::Comedy|Drama|Romance
@@ -30140,7 +30144,7 @@
 6013182::Nour (2017)::Drama|Romance
 6014428::Macht Liebe Tod (2016)::Comedy|Drama
 6014472::S.W.A.T.: Under Siege (2017)::Action|Crime|Thriller
-6015328::Chui lung (2017)::
+6015328::Chui lung (2017)::Action|Biography|Crime
 6016012::Swingers (2016)::Comedy
 6017594::The Darkest Dawn (2016)::Sci-Fi
 6018036::Hide the Monster (2016)::Horror
@@ -30191,7 +30195,7 @@
 6063050::Tyler Perry's Acrimony (2018)::Thriller
 6067832::Batman &amp; Bill (2017)::Documentary|Animation|Mystery
 6068960::Hatred (2016)::Drama|History|War
-6069126::The Escape (2017)::
+6069126::The Escape (2017)::Drama
 6069442::Kékszakállú (2016)::Drama
 6071534::Gringo: The Dangerous Life of John McAfee (2016)::Documentary|Crime
 6073176::The White Helmets (2016)::Documentary|Short
@@ -30212,8 +30216,8 @@
 6083230::Little Forest (2018)::Drama
 6083388::Dang kou feng yun (2017)::Action|History
 6083648::Looking Glass (2018)::Thriller
-6084472::Casi leyendas (2017)::
-6085482::7 minuti (2016)::
+6084472::Casi leyendas (2017)::Comedy|Drama|Music
+6085482::7 minuti (2016)::Drama
 6085872::Poveri ma ricchi (2016)::Comedy
 6085926::Abu: Father (2017)::Documentary
 6086614::Letters from Baghdad (2016)::Documentary
@@ -30227,7 +30231,7 @@
 6095056::Padre (2016)::Drama
 6095090::Nevesta (2017)::Horror|Mystery|Thriller
 6095616::Mr &amp; Mme Adelman (2017)::Drama
-6096194::Different Flowers (2017)::
+6096194::Different Flowers (2017)::Comedy
 6096424::99 Cahaya di Langit Eropa (2013)::Drama
 6097300::Bill Viola: The Road to St Paul's (2017)::Documentary|Biography
 6097798::Radius (2017)::Sci-Fi|Thriller
@@ -30248,13 +30252,14 @@
 6108178::Disobedience (2017)::Drama|Romance
 6109862::Rock Bro (2016)::Comedy
 6111250::Ear Buds: The Podcasting Documentary (2016)::Documentary
+6112534::Ramiro (2017)::Drama
 6113488::The Case for Christ (2017)::Drama
 6113688::Nowhere to Hide (2016)::Documentary
 6114606::Botticelli Inferno (2016)::Documentary
 6117702::Munna Michael (2017)::Action|Drama|Musical
 6118732::Yom lel-Sittat (2016)::Drama
 6119504::REALITYHIGH (2017)::Comedy|Drama|Romance
-6119856::Irreplaceable You (2018)::
+6119856::Irreplaceable You (2018)::Comedy|Drama|Romance
 6121428::Relife (2017)::Comedy|Drama|Romance
 6121444::Mektoub, My Love: Canto Uno (2017)::Drama|Romance
 6123206::Zer (2017)::Drama
@@ -30272,7 +30277,7 @@
 6135036::Canola (2016)::Drama
 6135042::Birdshot (2016)::Drama|Mystery|Thriller
 6135348::120 battements par minute (2017)::Drama
-6135800::A Present from the Past: 20 September (2015)::
+6135800::A Present from the Past: 20 September (2015)::Documentary|Adventure|Biography
 6136778::Double Date (2017)::Comedy|Horror
 6138228::Downrange (2017)::Thriller
 6138688::Once Upon a Time (2017)::
@@ -30286,7 +30291,7 @@
 6148156::Vikram Vedha (2017)::Action|Crime|Thriller
 6149802::The Relationtrip (2017)::Comedy
 6151042::Rush: Time Stand Still (2016)::Documentary|Music
-6152546::Pariente (2016)::
+6152546::Pariente (2016)::Drama|Thriller|Western
 6152554::Do You Trust this Computer? (2018)::Documentary
 6153126::Crash and Burn (2016)::Sport
 6156350::HyperNormalisation (2016)::Documentary
@@ -30407,7 +30412,7 @@
 6273736::Vanishing Time: A Boy Who Returned (2016)::Fantasy
 6275334::Northern Disco Lights (2016)::Documentary
 6277440::Badrinath Ki Dulhania (2017)::Romance
-6278008::Bolshoy (2017)::
+6278008::Bolshoy (2017)::Drama
 6278192::Körfez (2017)::Drama
 6279726::4.1 Miles (2016)::Documentary|Short
 6280810::Love Me Not (2017)::Drama
@@ -30439,8 +30444,8 @@
 6302160::Pandora (2016)::Thriller
 6303866::Beach Rats (2017)::Drama
 6304046::Thelma (2017)::Drama|Fantasy|Mystery
-6304162::Nelyubov (2017)::
-6304800::Terjebak Nostalgia (2016)::
+6304162::Nelyubov (2017)::Drama
+6304800::Terjebak Nostalgia (2016)::Drama
 6306400::Fortunata (2017)::Drama
 6312796::Welaane (2016)::
 6313734::Sinterklaas &amp; Het Gouden Hoefijzer (2017)::Family
@@ -30469,7 +30474,7 @@
 6333086::Menashe (2017)::Drama
 6333090::Oklahoma City (2017)::Documentary|History
 6333096::The Mars Generation (2017)::Documentary
-6333284::Plan B: Scheiß auf Plan A (2016)::
+6333284::Plan B: Scheiß auf Plan A (2016)::Action
 6333422::Watu Wote: All of us (2017)::Short|Drama
 6334884::Hickok (2017)::Western
 6335734::Yoru wa mijikashi aruke yo otome (2017)::Animation
@@ -30502,7 +30507,7 @@
 6386352::Jen Kirkman: Just Keep Livin? (2017)::Comedy
 6388082::Hyeong (2016)::Comedy
 6389316::Bao lie wu sheng (2017)::Thriller
-6391374::The Robbery (2017)::
+6391374::The Robbery (2017)::Short|Action|Comedy
 6396080::Elastico (2016)::Drama|Sport
 6397762::Las hijas de Abril (2017)::Drama
 6398054::I am Jane Doe (2017)::Documentary
@@ -30546,8 +30551,8 @@
 6449504::Diep Vu Chan Dai (2016)::
 6449684::Tia Tui La Cao Thu (2016)::
 6450162::Helm Al Omr (2009)::
-6450186::I Can Only Imagine (2018)::
-6450752::Puppy (2017)::
+6450186::I Can Only Imagine (2018)::Drama|Family
+6450752::Puppy (2017)::Animation|Short|Comedy
 6452332::Yoake tsugeru Rû no uta (2017)::Animation|Adventure|Family
 6455992::Love Blossoms (2017)::Drama|Romance
 6456222::Nostalgia (2018)::Drama
@@ -30581,8 +30586,8 @@
 6512784::Haseena Parkar (2017)::Biography|Crime|Thriller
 6515342::Knock (2017)::Comedy
 6518270::An Evening with Beverly Luff Linn (2018)::Comedy
-6519356::Edith+Eddie (2017)::
-6520568::Cactus Flower (2017)::
+6519356::Edith+Eddie (2017)::Documentary|Short
+6520568::Cactus Flower (2017)::Adventure|Drama|Fantasy
 6522634::El otro hermano (2017)::Crime|Drama
 6522646::Our Wonderful Nature - The Common Chameleon (2016)::Animation|Short
 6522846::Grillo vs Grillo (2017)::Comedy|Talk-Show
@@ -30625,7 +30630,7 @@
 6599742::El cuaderno de Sara (2018)::Thriller
 6601954::Cantábrico (2017)::Documentary
 6605812::Örök tél (2018)::Drama|History|Romance
-6608034::Mike Birbiglia: Thank God for Jokes (2017)::
+6608034::Mike Birbiglia: Thank God for Jokes (2017)::Comedy
 6608132::Yuen Loeng Taa 77 Chi (2017)::Drama|Romance
 6608138::Kita kita (2017)::Romance
 6612630::Deadpool: No Good Deed (2017)::Short|Comedy|Sci-Fi
@@ -30648,7 +30653,7 @@
 6667360::Carnage: Swallowing the Past (2017)::Comedy
 6671244::Wij (2018)::
 6673840::Vremya Pervyh (2017)::Adventure
-6675244::Transit (2018)::
+6675244::Transit (2018)::Drama
 6675400::Con Man (2018)::Drama
 6678874::Incoming (2018)::Action|Sci-Fi|Thriller
 6679360::On vam ne Dimon (2017)::Documentary
@@ -30758,14 +30763,14 @@
 6917314::Io sono Tempesta (2018)::
 6926486::Daddy (2017)::Action|Biography|Crime
 6930708::Kalki (2017)::Short|Drama|Sci-Fi
-6947294::Les ex (2017)::
+6947294::Les ex (2017)::Comedy
 6951892::Samson (2018)::Action|Drama
 6952604::Aritmiya (2017)::Drama
 6953076::Sheikh Jackson (2017)::Drama
 6958212::Sweet Country (2017)::Adventure|Crime|Drama
 6963760::If You're Not in the Obit, Eat Breakfast (2017)::Documentary
 6964150::Silvana - Väck mig när ni vaknat (2017)::Documentary|Biography
-6967980::Bareilly Ki Barfi (2017)::
+6967980::Bareilly Ki Barfi (2017)::Comedy|Romance
 6969946::In a Heartbeat (2017)::Animation|Short|Family
 6971752::Shubh Mangal Saavdhan (2017)::Comedy|Romance
 6972140::Blackmail (2018)::Action|Comedy|Thriller
@@ -30780,11 +30785,11 @@
 6998626::Ringan (2017)::Drama
 7006426::Oh Baby (2017)::Comedy
 7010412::The Great Buddha + (2017)::Drama
-7012864::Lowlife (2017)::
+7012864::Lowlife (2017)::Drama
 7013286::Sweet 20 (2017)::Comedy|Drama|Family
 7014110::Bring It On: Worldwide Cheersmack (2017)::Comedy|Romance|Sport
 7018010::Santa &amp; Cie (2017)::Comedy|Family
-7022034::CounterPunch (2017)::
+7022034::CounterPunch (2017)::Documentary
 7022404::Benedetta follia (2018)::Comedy
 7025210::The Cell (2017)::Action|Drama|Thriller
 7026672::Every Day (2018)::Drama|Fantasy|Romance
@@ -30793,11 +30798,11 @@
 7046826::Jang-san-beom (2017)::Drama|Fantasy|Horror
 7048622::L'insulte (2017)::Drama|Thriller
 7051286::Sing Song (2017)::Family|Musical
-7056732::Chungnyeon gyungchal (2017)::
+7056732::Chungnyeon gyungchal (2017)::Action|Comedy|Crime
 7057496::Gi-eok-ui Bam (2017)::Mystery|Thriller
 7060460::Theeran Adhigaaram Ondru (2017)::Action|Crime|Thriller
 7063210::The Place (2017)::Comedy|Drama
-7064766::Tisbah ala Khair (2017)::
+7064766::Tisbah ala Khair (2017)::Drama
 7064776::Khamis wa Jumah: Huroob Ijbari (2017)::
 7068818::The Houses October Built 2 (2017)::Horror
 7068896::Chris D'Elia: Man on Fire (2017)::Documentary|Comedy
@@ -30807,7 +30812,7 @@
 7076834::Pengabdi Setan (2017)::Drama|Horror|Mystery
 7078780::Zygote (2017)::Short|Horror|Sci-Fi
 7080960::Michael Inside (2017)::Drama
-7081404::Lei tou (1982)::
+7081404::Lei tou (1982)::Thriller
 7085164::Karp otmorozhennyy (2017)::Comedy|Drama
 7086706::Deep Blue Sea 2 (2018)::Action|Horror|Sci-Fi
 7087842::Stabat Mater (2016)::Short|Comedy|Drama
@@ -30828,17 +30833,17 @@
 7131870::Wolf Warriors II (2017)::Action|Drama|Thriller
 7133352::Black Sabbath the End of the End (2017)::Documentary
 7133384::3/4 (2017)::Drama
-7133554::Cicha noc (2017)::
-7134690::I Like Me (2018)::
+7133554::Cicha noc (2017)::Drama
+7134690::I Like Me (2018)::Comedy
 7137846::Breaking In (2018)::Action|Crime|Drama
 7138190::Filosofi Kopi 2: Ben &amp; Jody (2017)::Drama
 7148254::Scary Mother (2017)::Drama
 7149134::Respeto (2017)::Drama
 7153766::Unsane (2018)::Horror|Thriller
-7160070::Singwa hamgge (2017)::
+7160070::Singwa hamgge (2017)::Action|Drama|Fantasy
 7162324::The 69th Primetime Emmy Awards (2017)::News
 7164714::Maz Jobrani: Immigrant (2017)::Documentary|Comedy
-7166310::Dhananjay (2017)::
+7166310::Dhananjay (2017)::Drama
 7180392::Po.Ju (2017)::Crime
 7180544::Mukkabaaz (2017)::Drama
 7184744::All Families Have Secrets: Patrick Gale's Art of Fiction (2017)::
@@ -30891,7 +30896,8 @@
 7320560::Cuba and the Cameraman (2017)::Documentary
 7321274::Kingdom of Us (2017)::Documentary|Drama
 7323600::Hagazussa (2017)::Horror
-7332500::Disneynature: Ghost of the Mountains (2017)::
+7329858::Pari (2018)::Horror|Mystery
+7332500::Disneynature: Ghost of the Mountains (2017)::Documentary
 7336012::Takara - La Nuit où j'ai nagé (2017)::Drama
 7341406::Rukh (2017)::Drama|Mystery
 7342204::I Can Speak (2017)::Comedy|Drama
@@ -30927,7 +30933,7 @@
 7500946::NXT TakeOver: WarGames (2017)::
 7501144::Keluarga Tak Kasat Mata (2017)::Horror
 7502214::Seven Sundays (2017)::Drama
-7509586::Yin bao zhe (2017)::
+7509586::Yin bao zhe (2017)::Action|Thriller
 7512512::UFC Fight Night: Poirier vs. Pettis (2017)::Sport
 7517054::Una Mujer Sin Filtro (2018)::Comedy
 7518346::Kuyt (2017)::
@@ -30953,13 +30959,13 @@
 7588790::Voyeur (2017)::Documentary
 7599050::The Empty Hands (2017)::Drama
 7607502::Eugenia (2017)::Drama
-7608028::The Open House (2018)::
+7608028::The Open House (2018)::Horror|Thriller
 7608418::A Christmas Prince (2017)::Comedy|Romance
 7608534::Christmas Inheritance (2017)::Romance
 7614404::89 (2017)::Sport
 7628068::Eternal Wave (2017)::Action|Drama
 7628458::Hadi Be Oglum (2018)::Drama
-7642326::Honor Up (2018)::
+7642326::Honor Up (2018)::Action|Adventure
 7642558::Four Christmases and a Wedding (2017)::Romance
 7642818::Aile Arasinda (2017)::Comedy
 7645502::Namiya (2017)::Drama|Fantasy
@@ -30973,11 +30979,11 @@
 7683696::Die Tomorrow (2017)::Drama
 7689226::Doctor Who: Shada (2017)::Sci-Fi
 7689924::Seeing Allred (2018)::Documentary
-7689960::King in the Wilderness (2018)::
+7689960::King in the Wilderness (2018)::Documentary
 7691572::Cyborgs: Heroes Never Die (2017)::War
 7693434::I Am Sam Kinison (2017)::Documentary
 7695134::Juice (2017)::
-7697712::Sharing Christmas (2017)::
+7697712::Sharing Christmas (2017)::Romance
 7700730::October (2018)::Comedy|Drama|Romance
 7738550::Judd Apatow: The Return (2017)::Comedy
 7744802::Fala Sério, Mãe! (2017)::Comedy
@@ -30985,7 +30991,7 @@
 7752054::Katt Williams: Great America (2018)::Comedy
 7752142::Todd Glass: Act Happy (2018)::Comedy
 7752454::Tang ren jie tang an 2 (2018)::Action|Comedy
-7761204::WWE Royal Rumble (2018)::
+7761204::WWE Royal Rumble (2018)::Sport
 7762882::Stare Into the Lights My Pretties (2017)::
 7763020::Dovlatov (2018)::Biography|Drama
 7768848::Wild Wild Country (2018)::Documentary|Crime
