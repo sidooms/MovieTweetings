@@ -2187,7 +2187,7 @@
 0053183::Pork Chop Hill (1959)::War|Drama|Action
 0053198::Les quatre cents coups (1959)::Crime|Drama
 0053219::Return of the Fly (1959)::Drama|Fantasy|Horror
-0053220::Ride Lonesome (1959)::
+0053220::Ride Lonesome (1959)::Drama|Western
 0053221::Rio Bravo (1959)::Comedy|Drama|Western
 0053241::Santa Claus (1959)::Comedy|Family|Fantasy
 0053242::Sapphire (1959)::Crime|Drama|Mystery
@@ -3022,6 +3022,7 @@
 0061852::The Jungle Book (1967)::Animation|Adventure|Family
 0061856::Kaijûtô no kessen: Gojira no musuko (1967)::Action|Adventure|Family
 0061868::Kingu Kongu no gyakushû (1967)::Adventure|Sci-Fi
+0061876::Komissar (1967)::Drama|War
 0061882::Koroshi no rakuin (1967)::Action|Crime|Drama
 0061931::Mad Monster Party? (1967)::Animation|Comedy|Family
 0061934::Made in Italy (1965)::Comedy
@@ -3263,6 +3264,7 @@
 0064638::Misdaadjager Marlowe (1969)::Mystery|Crime|Drama
 0064652::Medium Cool (1969)::Drama
 0064665::Midnight Cowboy (1969)::Drama
+0064680::Vedreba (1967)::Drama
 0064689::Monterey Pop (1968)::Documentary|History|Music
 0064694::More (1969)::Drama|Romance|Crime
 0064699::Mosquito Squadron (1969)::War|Drama
@@ -8836,7 +8838,7 @@
 0119590::Ma vie en rose (1997)::Drama
 0119592::Mad City (1997)::Crime|Drama|Thriller
 0119594::Twilight (1998)::Crime|Drama|Mystery
-0119629::Al-massir (1997)::
+0119629::Al-massir (1997)::Comedy|Drama|History
 0119630::Masterminds (1997)::Action|Thriller|Comedy
 0119632::The MatchMaker (1997)::Comedy|Romance
 0119640::McHale's Navy (1997)::Action|Comedy
@@ -11290,6 +11292,7 @@
 0288729::Perro callejero (1980)::Crime|Drama
 0288861::Van God Los (2003)::Crime|Drama|Thriller
 0289043::28 Days Later... (2002)::Horror|Sci-Fi|Thriller
+0289054::Akai hashi no shita no nurui mizu (2001)::Comedy|Drama|Fantasy
 0289055::Alias (2002)::Drama|Horror|Romance
 0289181::Failan (2001)::Drama|Romance
 0289229::Hukkle (2002)::Crime|Mystery|Drama
@@ -16079,7 +16082,7 @@
 1143148::Cinco días sin Nora (2008)::Comedy|Drama
 1143155::Treeless Mountain (2008)::Drama
 1143896::Holy Rollers (2010)::Biography|Crime|Drama
-1144487::Dang wo men tong zai yi qi (2006)::
+1144487::Dang wo men tong zai yi qi (2006)::Comedy|Drama
 1144539::Best Worst Movie (2009)::Documentary|Comedy|Drama
 1144804::Kambakkht Ishq (2009)::Action|Comedy|Romance
 1144815::Son of Morning (2011)::Comedy|Drama
@@ -18258,7 +18261,7 @@
 1563719::Hunt to Kill (2010)::Action|Thriller
 1563725::Logorama (2009)::Animation|Short|Action
 1563738::One Day (2011)::Drama|Romance
-1563742::Overboard (2018)::
+1563742::Overboard (2018)::Comedy|Romance
 1564349::Dolphin Tale (2011)::Drama|Family
 1564367::Just Go with It (2011)::Comedy|Romance
 1564368::Remnants (2012)::Action|Thriller
@@ -23411,7 +23414,7 @@
 2527050::Cairo Drive (2013)::Documentary|Comedy|Drama
 2527186::All Cheerleaders Die (2013)::Comedy|Horror
 2527192::Desert Runners (2013)::Documentary|Adventure|Drama
-2527336::Star Wars: The Last Jedi (2017)::
+2527336::Star Wars: The Last Jedi (2017)::Action|Adventure|Fantasy
 2527560::Quito 2023 (2013)::Sci-Fi|Thriller
 2527734::The Nomads of Oz (2012)::Family|Fantasy|Music
 2528786::Bobby en de Geestenjagers (2013)::Family
@@ -24204,7 +24207,7 @@
 2825854::Labyrinthus (2014)::Family
 2825894::Daire (2014)::Drama
 2825924::Revelation Road 2: The Sea of Glass and Fire (2013)::Action
-2827058::Mississippi Murder (2017)::
+2827058::Mississippi Murder (2017)::Crime|Mystery|Thriller
 2827320::Fandry (2013)::Drama|Family
 2827388::Nedunchalai (2014)::Drama
 2828840::Fists of Legend (2013)::Action
@@ -28247,7 +28250,7 @@
 4601292::De Helleveeg (2016)::Comedy|Drama
 4602818::Köpek (2015)::Drama
 4603640::The Silence (2015)::Drama
-4604246::Kill Pen (2016)::
+4604246::Kill Pen (2016)::Documentary|Drama
 4606514::Bobby (2016)::Documentary
 4607228::Le secret des banquises (2016)::Comedy|Drama|Romance
 4607722::Blame (2017)::Drama
@@ -29433,7 +29436,7 @@
 5374070::A World Unseen: The Revenant (2016)::Documentary|Short
 5374830::Ja-ba-ya san-da (2016)::Action|Comedy
 5375040::Cameraperson (2016)::Documentary
-5375512::Credence (2015)::
+5375512::Credence (2015)::Short|Sci-Fi
 5376196::Wilde Maus (2017)::Comedy|Crime|Drama
 5376232::Jacobinte Swargarajyam (2016)::Biography|Drama|Family
 5377130::Hidden Colors 4: The Religion of White Supremacy (2016)::Documentary
@@ -29783,6 +29786,7 @@
 5689068::Killing Gunther (2017)::Action|Comedy
 5689610::50 Kilo Albaloo (2016)::Comedy
 5690142::Mom (2017)::Drama|Thriller
+5691024::Show Dogs (2018)::Action|Adventure|Comedy
 5691226::Pashupati Prasad (2016)::Drama
 5691550::Jeffrey (2016)::Documentary|Drama|Family
 5692390::Status Update (2018)::Comedy|Fantasy
@@ -30280,7 +30284,7 @@
 6135800::A Present from the Past: 20 September (2015)::Documentary|Adventure|Biography
 6136778::Double Date (2017)::Comedy|Horror
 6138228::Downrange (2017)::Thriller
-6138688::Once Upon a Time (2017)::
+6138688::Once Upon a Time (2017)::Drama
 6139626::Devil's Domain (2016)::Horror
 6140580::Off the Menu (2018)::Comedy|Romance
 6141048::Kurt Braunohler: Trust Me (2017)::Comedy
@@ -31032,6 +31036,7 @@
 8080268::Rock 'n' Roll Guns for Hire: The Story of the Sidemen (2017)::
 8080556::The Director and The Jedi (2018)::Documentary
 8088944::Ban-deu-si Jab-neun-da (2017)::Drama|Thriller
+8092252::Be with You (2018)::Fantasy|Romance
 8106570::The Rachel Divide (2018)::Documentary
 8123286::Dizájneren (2016)::
 8144778::The Redeemed and the Dominant: Fittest on Earth (2018)::Documentary
