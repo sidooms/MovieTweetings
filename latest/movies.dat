@@ -1085,6 +1085,7 @@
 0038458::Deadline at Dawn (1946)::Film-Noir|Mystery|Romance
 0038461::Deception (1946)::Crime|Drama|Film-Noir
 0038492::Dragonwyck (1946)::Drama|Thriller|Mystery
+0038494::Dressed to Kill (1946)::Crime|Mystery
 0038505::Easy to Wed (1946)::Comedy|Romance
 0038510::Enamorada (1946)::Drama|Romance|War
 0038559::Gilda (1946)::Drama|Film-Noir|Romance
@@ -2297,6 +2298,7 @@
 0054038::The Lost World (1960)::Adventure|Fantasy|Sci-Fi
 0054042::Macario (1960)::Drama|Fantasy|Mystery
 0054047::The Magnificent Seven (1960)::Action|Adventure|Western
+0054049::Make Mine Mink (1960)::Comedy
 0054050::The Making of the President 1960 (1963)::Documentary
 0054059::Manzil (1960)::Comedy|Drama|Romance
 0054067::La maschera del demonio (1960)::Horror
@@ -8382,6 +8384,7 @@
 0113936::National Lampoon's Senior Trip (1995)::Adventure|Comedy
 0113947::Nelly et Mr. Arnaud (1995)::Drama
 0113957::The Net (1995)::Action|Crime|Drama
+0113967::New Jersey Drive (1995)::Crime|Drama
 0113972::Nick of Time (1995)::Action|Crime|Drama
 0113973::Nico Icon (1995)::Documentary|Biography|Music
 0113986::Nine Months (1995)::Comedy|Romance
@@ -24410,6 +24413,7 @@
 2782844::Take Down (2016)::Thriller
 2783020::Jay and Silent Bob's Super Groovy Cartoon Movie (2013)::Animation|Comedy
 2783136::Extra-Ordinary (2013)::Short|Comedy
+2783862::Xibalba (2017)::Action|Horror|Sci-Fi
 2783910::Los ilusos (2013)::Drama
 2784054::É o Amor (2013)::
 2784134::Battle for Skyark (2015)::Action|Adventure|Family
@@ -27897,6 +27901,7 @@
 4148400::Birlesen Gonuller (2014)::Drama|History
 4150494::Efterskalv (2015)::Drama
 4151192::The Condemned 2 (2015)::Action|Thriller
+4153328::Dance Iranian Style (2015)::Documentary|Drama
 4154728::Speed Sisters (2015)::Documentary|Adventure|Drama
 4154756::Avengers: Infinity War (2018)::Action|Adventure|Fantasy
 4156152::El apóstata (2015)::Comedy
@@ -28907,6 +28912,7 @@
 4738776::Half Magic (2018)::Comedy|Romance
 4738802::That's Not Me (2017)::Comedy
 4741170::Babai (2015)::Drama
+4741354::La peur (2015)::Drama|War
 4741708::Le fils de Jean (2016)::Drama
 4741714::Five (2016)::Comedy
 4741774::Le fils de Joseph (2016)::Drama
@@ -30379,6 +30385,7 @@
 5723272::Aus dem Nichts (2017)::Crime|Drama
 5723286::Wheelman (2017)::Action|Crime|Mystery
 5723416::The Beyond (2017)::Sci-Fi
+5725368::Boggy Creek Monster (2016)::Documentary
 5726086::Insidious: The Last Key (2018)::Horror|Mystery|Thriller
 5726616::Call Me by Your Name (2017)::Drama|Romance
 5727282::Borg McEnroe (2017)::Biography|Drama|Sport
@@ -31420,6 +31427,7 @@
 6777370::Bulhandang (2017)::Action|Crime|Drama
 6781498::No Stone Unturned (2017)::Documentary
 6781982::Night School (2018)::Comedy
+6787076::Niemand in de stad (2018)::Drama
 6788942::Bad Genius (2017)::Thriller
 6789126::Ruben Blades Is Not My Name (2018)::Documentary
 6789386::Posto (2017)::Drama|Family
@@ -31605,6 +31613,7 @@
 7109844::Neat: The Story of Bourbon (2018)::Documentary
 7110904::Desiderata (2017)::Short|Drama
 7111402::Oxidan (2017)::Comedy
+7112154::Netemo sametemo (2018)::Drama|Romance
 7112162::Furikuri 3 (2018)::Animation|Action|Comedy
 7119062::The Uncomfortable Truth (2017)::Documentary
 7121252::Sulla mia pelle (2018)::Drama
@@ -31640,6 +31649,7 @@
 7170950::Like Father (2018)::Comedy
 7180392::Po.Ju (2017)::Crime
 7180544::Mukkabaaz (2017)::Drama
+7183826::Invasion on Chestnut Ridge (2017)::Documentary
 7184124::Night Comes On (2018)::Drama
 7184744::All Families Have Secrets: Patrick Gale's Art of Fiction (2017)::
 7186092::Nico, 1988 (2017)::Biography|Drama|Music
@@ -31844,6 +31854,7 @@
 7630164::Big Time: Historien om Bjarke Ingels (2017)::Documentary
 7632930::Trener (2018)::Drama|Sport
 7638094::Ravers (2018)::Comedy|Horror
+7638344::Dhadak (2018)::Drama|Romance
 7642326::Honor Up (2018)::Action|Adventure
 7642558::Four Christmases and a Wedding (2017)::Romance
 7642818::Aile Arasinda (2017)::Comedy
@@ -31853,6 +31864,7 @@
 7653006::Baltimore Rising (2017)::Documentary
 7655590::Marlon Wayans: Woke-ish (2018)::Comedy
 7655884::Meth Storm (2017)::Documentary
+7658384::La quietud (2018)::Drama|Thriller
 7659376::Evil online: Il Male in Diretta (2017)::
 7664504::Three Identical Strangers (2018)::Documentary
 7666792::Michelle Wolf: Nice Lady (2017)::Comedy
@@ -31961,6 +31973,7 @@
 7987138::Back to the Taj Mahal Hotel (2017)::
 8005338::Chris Rock: Tamborine (2018)::Comedy
 8012820::The Flatwoods Monster: A Legacy of Fear (2018)::Short
+8013280::Wad: Overleven op de Grens van Water en Land (2018)::Documentary
 8015080::Gojira: kessen kidô zôshoku toshi (2018)::Animation
 8023734::Kadai Kutty Singam (2018)::Action|Drama|Romance
 8030952::Working With Weinstein (2018)::Documentary
@@ -32037,6 +32050,7 @@
 8465676::Hannah Gadsby: Nanette (2018)::Comedy
 8467788::W. Kamau Bell: Private School Negro (2018)::Comedy
 8499212::Stalked by My Doctor: Patient's Revenge (2018)::Thriller
+8512746::Kuntilanak (2018)::Comedy|Horror
 8529186::Hello Mr. Billionaire (2018)::Comedy
 8591986::Uma Quase Dupla (2018)::Comedy
 8594656::Karma (2018)::
@@ -32047,6 +32061,7 @@
 8697266::Iliza: Elder Millennial (2018)::Comedy
 8710128::The Day After Valentine's (2018)::Romance
 8731842::Odu Raja Odu (2018)::Comedy|Crime|Drama
+8744094::Gogol. Strashnaya mest (2018)::Adventure|Mystery|Thriller
 8755316::The Island (2018)::Comedy|Drama
 8757960::Hantu Kak Limah (2018)::Comedy|Horror
 8765496::Sebelum Iblis Menjemput (2018)::Horror
