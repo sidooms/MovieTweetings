@@ -3,8 +3,8 @@
 
 Metric | Value
 --- | ---
-Total number of ratings                 | 755,471
-Number of unique users                  | 56,106
-Number of unique items                  | 32,685
-These stats were last autocalculated on Tue Jan 15 00:55:24 CET 2019  ([more stats here](./stats.md))
+Total number of ratings                 | 755,644
+Number of unique users                  | 56,112
+Number of unique items                  | 32,688
+These stats were last autocalculated on Wed Jan 16 00:53:18 CET 2019  ([more stats here](./stats.md))
 
