@@ -52,6 +52,7 @@
 0009678::Take a Chance (1918)::Comedy|Short
 0009893::Die Austernprinzessin (1919)::Comedy
 0009968::Broken Blossoms or The Yellow Man and the Girl (1919)::Drama|Romance
+0010180::Godovshchina revolyutsii (1918)::Documentary
 0010193::The Greatest Question (1919)::Drama
 0010247::Herr Arnes pengar (1919)::Drama|History
 0010258::His Royal Slyness (1920)::Comedy|Short
@@ -102,6 +103,7 @@
 0014872::Entr'acte (1924)::Short
 0014972::He Who Gets Slapped (1924)::Drama|Romance|Thriller
 0015002::Hot Water (1924)::Comedy
+0015039::Kinoglaz (1924)::Documentary
 0015064::Der letzte Mann (1924)::Drama
 0015163::The Navigator (1924)::Action|Comedy|Romance
 0015174::Die Nibelungen: Kriemhilds Rache (1924)::Adventure|Drama|Fantasy
@@ -6085,6 +6087,7 @@
 0089961::Santa Claus (1985)::Adventure|Family|Fantasy
 0089964::Savage Island (1985)::Action|Drama|Horror
 0089981::Secret Admirer (1985)::Comedy|Romance
+0089984::The Secret of the Sword (1985)::Animation|Action|Adventure|Comedy|Family|Fantasy|Sci-Fi
 0090015::Shoah (1985)::Documentary|History|War
 0090021::Silver Bullet (1985)::Horror
 0090022::Silverado (1985)::Action|Crime|Drama|Romance|Western
@@ -18123,6 +18126,7 @@
 1414382::You Again (2010)::Comedy|Family|Romance
 1414449::Awful Nice (2013)::Comedy
 1414465::Buraddo (2009)::Action|Horror
+1414494::Hari untuk Amanda (2010)::Drama
 1415228::Soranin (2010)::Drama
 1415265::Hotdog Casserole (2008)::Comedy
 1415283::Nanny McPhee and the Big Bang (2010)::Comedy|Family|Fantasy
@@ -27114,6 +27118,7 @@
 3530978::La corrispondenza (2016)::Drama|Romance
 3531176::Big Sonia (2016)::Documentary|Family|History
 3531202::Pilgrimage (2017)::Adventure|Drama|Mystery|Thriller
+3531496::Rastakhiz: Rooze Rastakhiz (2014)::History
 3531578::Traders (2015)::Thriller
 3531604::Gang of Ghosts (2014)::Comedy|Drama
 3531824::Nerve (2016)::Action|Adventure|Crime|Drama|Mystery|Thriller
@@ -27968,6 +27973,7 @@
 3863632::Little Pink House (2017)::Drama
 3863870::Ich bin dann mal weg (2015)::Comedy
 3864024::Lazer Team (2015)::Action|Comedy|Sci-Fi
+3864056::The Goldfinch (2019)::Drama
 3864096::Marionetes (2015)::Mystery|Thriller
 3864758::Mei Gaau Siu Nui (2014)::Drama
 3865478::11 minut (2015)::Drama|Thriller
@@ -30743,6 +30749,7 @@
 5427194::The Miracle Season (2018)::Drama|Sport
 5430888::Mayor Grom (2017)::Action
 5431082::Underverden (2017)::Action|Crime|Drama|Thriller
+5431890::Official Secrets (2019)::Biography|Drama|Romance|Thriller|War
 5432188::Kater (2016)::Drama
 5433114::Diego Maradona (2019)::Documentary|Sport
 5433758::Arrival (2016)::Animation|Short
@@ -31829,6 +31836,7 @@
 6126346::Thi Mai, rumbo a Vietnam (2017)::Comedy
 6126428::Hep Yek 2 (2017)::Comedy|Crime
 6126506::Salvaje despertar (2016)::Drama
+6127004::Paradise Hills (2019)::Fantasy
 6127024::Mawlana (2016)::Drama|Mystery
 6129128::Bai yi (2016)::Drama
 6129302::Bhavesh Joshi Superhero (2018)::Action|Drama
@@ -33547,6 +33555,7 @@
 8178958::Generation Iron 3 (2018)::Documentary
 8179388::Rim of the World (2019)::Action|Adventure|Comedy|Sci-Fi
 8184202::Over the Limit (2017)::Documentary|Sport
+8186318::Overcomer (2019)::Drama|Sport
 8191502::So-gong-nyeo (2017)::Drama|Romance
 8193790::Le daim (2019)::Comedy
 8201170::The Perfect Date (2019)::Comedy|Romance
@@ -33760,6 +33769,7 @@
 8783042::One Small Step (2018)::Animation|Short|Adventure|Family|Fantasy
 8785426::Jabariya Jodi (2019)::Action|Comedy|Drama|Romance
 8786466::Bert Kreischer: Secret Time (2018)::Documentary|Comedy
+8793990::Evelyn (2018)::Documentary
 8795582::Posledice (2018)::Drama
 8798112::Loone Zanboor (2017)::Comedy|Crime|Drama
 8805486::El Badla (2018)::Action|Comedy
@@ -33936,10 +33946,11 @@
 9629026::xiao zhu pei qi guo da nian (2019)::Animation|Family
 9648942::Dilan 1991 (2019)::Drama
 9652730::National Theatre Live: All About Eve (2019)::Drama
+9652782::Bait (2019)::
 9657764::Yi wen ding qing (2019)::Comedy|Romance
 9657904::The Long Good-Bye (2019)::
 9663702::The Secret Men Club (2019)::
-9668594::Aidiyet (2019)::
+9668594::Aidiyet (2019)::Crime|Drama|Romance
 9675192::Quiet Storm: The Ron Artest Story (2019)::
 9685644::Soul: Rooh (2019)::Short|Drama
 9690762::Yang tai shang (2019)::Drama|Romance
