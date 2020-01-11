@@ -1,7 +1,12 @@
 # MovieTweetings
 ## Some stats
 
-These stats were last autocalculated on Fri Jan 10 01:08:22 CET 2020  ([more stats here](./stats.md))
+Metric | Value
+--- | ---
+Total number of ratings                 | 392,949
+Number of unique users                  | 28,979
+Number of unique items                  | 25,532
+These stats were last autocalculated on Sat Jan 11 01:12:38 CET 2020  ([more stats here](./stats.md))
 
 ## A Movie Rating Dataset Collected From Twitter
 
