@@ -22,6 +22,7 @@
 0004101::His New Profession (1914)::Short|Comedy
 0004210::Laughing Gas (1914)::Short|Comedy
 0004395::The New Janitor (1914)::Short|Comedy
+0004413::The Ocean Waif (1916)::Short|Comedy|Drama
 0004457::The Patchwork Girl of Oz (1914)::Adventure|Family|Fantasy
 0004518::Recreation (1914)::Comedy|Short
 0004546::The Rounders (1914)::Comedy|Short
@@ -3031,6 +3032,7 @@
 0059927::De gele rolls-royce (1964)::Comedy|Drama|Romance
 0059934::Yoyo (1965)::Comedy|Drama|Family
 0059936::Yûkoku (1966)::Drama|Short
+0059956::Viva Maria! (1965)::Adventure|Comedy|Romance|Western
 0060050::7 Women (1966)::Drama
 0060074::Agent for H.A.R.M. (1966)::Adventure|Action|Drama
 0060082::Ai no kawaki (1966)::Drama
@@ -5132,6 +5134,7 @@
 0080346::The Alien Dead (1980)::Comedy|Horror|Sci-Fi
 0080354::Alligator (1980)::Horror|Sci-Fi|Thriller
 0080360::Altered States (1980)::Horror|Sci-Fi|Thriller
+0080362::L'altro inferno (1981)::Horror|Thriller
 0080365::American Gigolo (1980)::Crime|Drama|Mystery|Romance|Thriller
 0080376::Barsaat Ki Ek Raat (1981)::Action|Thriller
 0080377::Any Which Way You Can (1980)::Action|Comedy
@@ -6713,6 +6716,7 @@
 0094048::Straight to Hell (1986)::Action|Comedy|Western
 0094056::Street Smart (1987)::Crime|Drama|Thriller
 0094057::Street Trash (1987)::Comedy|Horror
+0094059::Strike Commando (1987)::Action|War|Adventure
 0094068::Sufre mamón (1987)::Comedy|Musical
 0094070::Summer Camp Nightmare (1987)::Drama|Thriller
 0094072::Summer School (1987)::Comedy|Romance
@@ -7216,6 +7220,7 @@
 0098309::She-Devil (1989)::Comedy
 0098319::Shirley Valentine (1989)::Comedy|Drama|Romance
 0098320::Shocker (1989)::Comedy|Horror|Thriller
+0098321::Terminator II (1989)::Action|Adventure|Horror|Sci-Fi|Thriller
 0098322::Shôgun Iemitsu no ranshin - Gekitotsu (1989)::Action|Adventure|Drama
 0098327::Der siebente Kontinent (1989)::Drama
 0098328::The Siege of Firebase Gloria (1989)::Action|Drama|War
@@ -7229,6 +7234,7 @@
 0098382::Star Trek V: The Final Frontier (1989)::Action|Adventure|Fantasy|Sci-Fi|Thriller
 0098384::Steel Magnolias (1989)::Comedy|Drama|Romance
 0098385::Stepfather II (1989)::Horror|Thriller
+0098398::Trappola diabolica (1988)::Action|Adventure|War
 0098404::Stuff Stephanie in the Incinerator (1989)::Comedy|Horror
 0098412::Sundown: The Vampire in Retreat (1989)::Comedy|Horror|Western
 0098414::Surname Viet Given Name Nam (1989)::Documentary|History|Romance
@@ -12688,6 +12694,7 @@
 0343996::The Lost City (2005)::Drama|Romance
 0344128::Nu (2003)::Drama|Short
 0344273::Rois et reine (2004)::Comedy|Drama|Romance
+0344450::This Is John (2003)::Short|Drama
 0344510::Un long dimanche de fiançailles (2004)::Drama|Mystery|Romance|War
 0344554::Whatever We Do (2003)::Short
 0344838::Ang dalubhasa (2000)::Action|Drama
@@ -15507,7 +15514,7 @@
 0821640::Ghosts of Girlfriends Past (2009)::Comedy|Fantasy|Romance
 0821642::The Soloist (2009)::Biography|Drama|Music
 0822389::Kenny (2006)::Comedy
-0822832::Marley & Me (2008)::Comedy|Drama|Family
+0822832::Marley &amp; Me (2008)::Comedy|Drama|Family
 0822847::Priest (2011)::Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller
 0822849::Rails & Ties (2007)::Drama
 0822854::Shooter (2007)::Action|Drama|Thriller
@@ -19803,7 +19810,7 @@
 1666354::Hangnail (2011)::Short|Drama
 1666549::Aayesh (2010)::Short|Drama
 1666800::Taiheiyou no kiseki: Fokkusu to yobareta otoko (2011)::Drama|War
-1666801::The DUFF (2015)::Comedy|Romance
+1666801::The Duff (2015)::Comedy|Romance
 1667076::F.A.L.T.U (2011)::Comedy|Drama
 1667079::Food Stamped (2010)::Documentary|News
 1667100::La chance de ma vie (2011)::Comedy|Romance
@@ -24877,7 +24884,7 @@
 2639254::A Little Chaos (2014)::Drama|Romance
 2639336::Greta (2018)::Drama|Mystery|Thriller
 2639344::Love Is Strange (2014)::Drama|Romance
-2639664::Ala Gothety (2013)::Comedy|Drama|Fantasy
+2639664::Ala Gothety (2012)::Comedy|Drama|Fantasy
 2640120::Where I Am (2013)::Documentary|Biography
 2640444::Romans (2013)::Comedy
 2640460::Kurmanjan datka (2014)::Action|Biography|Drama
@@ -30569,6 +30576,7 @@
 5078274::Chouf (2016)::Crime|Drama
 5078326::Médecin de campagne (2016)::Comedy|Drama
 5078354::Cézanne et moi (2016)::Biography|Drama
+5078372::Casablancas, l'homme qui aimait les femmes (2016)::Documentary
 5079382::Froning: The Fittest Man in History (2015)::Documentary
 5079620::Siempreviva (2015)::Drama
 5080556::2.0 (2018)::Action|Sci-Fi|Thriller
@@ -31828,7 +31836,7 @@
 5847016::El-Talatah Yishtaghaloonha (2010)::Comedy
 5847286::Shock Wave (2017)::Action|Thriller
 5847760::Liberation Day (2016)::Documentary|Music
-5848272::Ralph 2.0 (2018)::Animation|Adventure|Comedy|Family|Fantasy
+5848272::Ralph Breaks the Internet (2018)::Animation|Adventure|Comedy|Family|Fantasy
 5848362::Evolution of Organic (2016)::Documentary|History|News
 5848416::Walk. Ride. Rodeo. (2019)::Drama
 5848714::American Violence (2017)::Crime|Drama|Thriller
@@ -34277,7 +34285,7 @@
 8284860::The Huntress: Rune of the Dead (2019)::Action|Horror|Thriller
 8286894::Rafiki (2018)::Drama|Romance
 8286974::Cerdita (2018)::
-8288450::Away (2019)::
+8288450::Away (2019)::Animation|Adventure|Family|Fantasy|Mystery
 8289196::John McCain: For Whom the Bell Tolls (2018)::Documentary
 8290698::Gongjak (2018)::Drama
 8291224::Uri: The Surgical Strike (2019)::Action|Drama|War
@@ -34726,6 +34734,7 @@
 9225192::Seongnan hwangso (2018)::Action|Crime
 9225564::WWE Survivor Series (2018)::Action|Sport
 9225568::NXT TakeOver: WarGames 2 (2018)::Action|Sport
+9226154::Krymskiy most. Sdelano s lyubovyu! (2018)::Romance
 9228950::Malibu Rescue (2019)::Action|Adventure|Comedy|Family
 9231040::First Cow (2019)::Drama
 9231140::A Man Called Ahok (2018)::
@@ -35121,6 +35130,7 @@
 10867768::A Dark-Dark Man (2019)::Drama
 10871460::The 9th Precinct (2019)::Action|Drama|Fantasy
 10883004::Bikram: Yogi, Guru, Predator (2019)::Documentary|Crime
+10883506::A Sun (2019)::Crime|Drama
 10895830::Sixer (2019)::Comedy
 10915286::Tell Me Who I Am (2019)::Documentary|Drama|Mystery
 10925770::Himeul naeyo, Miseuteo Lee (2019)::Comedy|Drama
