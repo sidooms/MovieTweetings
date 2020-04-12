@@ -3891,7 +3891,7 @@
 0067983::Whoever Slew Auntie Roo? (1972)::Horror|Thriller
 0067989::Wild Rovers (1971)::Western
 0067991::Willard (1971)::Horror|Sci-Fi
-0067992::Willy Wonka & the Chocolate Factory (1971)::Family|Fantasy|Musical
+0067992::Willy Wonka &amp; the Chocolate Factory (1971)::Family|Fantasy|Musical
 0068005::You'll Like My Mother (1972)::Drama|Horror|Thriller
 0068021::Zycie rodzinne (1971)::Drama
 0068024::¡Mátalo! (1970)::Action|Drama|Thriller
@@ -6271,6 +6271,7 @@
 0090322::Wild beasts - Belve feroci (1984)::Horror
 0090327::Witchboard (1986)::Horror|Mystery|Thriller
 0090329::Witness (1985)::Crime|Drama|Romance|Thriller
+0090333::Wizards of the Lost Kingdom (1985)::Action|Adventure|Family|Fantasy
 0090349::Yasha (1985)::Crime|Drama
 0090350::Year of the Dragon (1985)::Action|Crime|Drama|Thriller
 0090357::Young Sherlock Holmes (1985)::Adventure|Fantasy|Mystery|Thriller
@@ -7181,6 +7182,7 @@
 0097773::Lola (1989)::
 0097778::Look Who's Talking (1989)::Comedy
 0097780::Loos (1989)::Crime|Mystery|Thriller
+0097781::Lords of the Deep (1989)::Sci-Fi|Thriller
 0097814::Majo no takkyûbin (1989)::Animation|Adventure|Drama|Family|Fantasy
 0097815::Major League (1989)::Comedy|Sport
 0097843::Mashgh-e Shab (1989)::Documentary|Drama
@@ -24214,7 +24216,7 @@
 2435076::Dead Man Talking (2012)::Comedy|Drama
 2435514::Sader Ridge (2013)::Horror|Thriller
 2436046::Antboy (2013)::Adventure|Comedy|Family
-2436328::Istanbul Aku Datang (2012)::Comedy|Romance
+2436328::Istanbul Aku Datang! (2012)::Comedy|Romance
 2436386::Project Almanac (2014)::Drama|Mystery|Sci-Fi|Thriller
 2436452::Exhibition (2013)::Drama
 2436516::Go Goa Gone (2013)::Action|Adventure|Comedy|Horror
@@ -27587,6 +27589,7 @@
 3583370::The Bet (2016)::Comedy
 3583688::Tashi and the Monk (2014)::Documentary|Biography|Family
 3584354::Man Vs. (2015)::Horror|Sci-Fi|Thriller
+3584496::Mermaid Down (2019)::Fantasy|Horror|Mystery|Thriller
 3586076::Pink: The Truth About Love Tour - Live from Melbourne (2013)::Documentary|Music|Musical
 3586930::Kill Kane (2016)::Crime|Thriller
 3587396::Only the Dead (2015)::Documentary|Biography|History|War
@@ -31961,7 +31964,7 @@
 5888276::Ghatel-e ahli (2017)::
 5889456::Magyar csapat - '...még 50 perc...' (2016)::Documentary|Sport
 5889462::Guppy (2016)::Comedy|Drama|Family
-5890000::Sabaibaru famirî (2017)::Adventure|Comedy|Family
+5890000::Sabaibaru famirî (2016)::Adventure|Comedy|Family
 5890038::Hema Hema: Sing Me a Song While I Wait (2016)::Drama|Mystery
 5891492::Moleman 4: Longplay (2017)::Documentary|Animation|History|Sci-Fi
 5892746::Ezra (2017)::Horror|Mystery|Thriller
@@ -31986,6 +31989,7 @@
 5910170::Inconceivable (2016)::Drama|Thriller
 5910280::Teo-neol (2016)::Action|Drama
 5910344::The House of Tomorrow (2017)::Comedy|Drama
+5912150::Huisvrouwen bestaan niet (2017)::Comedy
 5912454::Blue Jay (2016)::Drama
 5912470::Eiga Doraemon: Nobita no nankyoku kachikochi daibouken (2017)::Animation|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi
 5913184::Spitfire (2018)::Documentary|History|War
@@ -33276,6 +33280,7 @@
 6921496::A Bluebird in My Heart (2018)::Drama
 6921996::Johnny English Strikes Again (2018)::Action|Adventure|Comedy
 6922018::Harry Styles: Behind the Album (2017)::Biography
+6922972::Bank El Hazz (2017)::Comedy
 6923462::Manto (2018)::Biography|Drama
 6923740::Stella's Last Weekend (2018)::Comedy|Romance
 6924650::Midway (2019)::Action|Drama|History|War
@@ -33573,6 +33578,7 @@
 7242142::Blindspotting (2018)::Comedy|Crime|Drama
 7243686::Kkun (2017)::Action|Crime
 7243750::Heesaeng boohwalja (2017)::Action|Mystery|Thriller
+7243754::Dirty Work (2018)::Drama|Romance
 7245176::Sha po lang: taam long (2017)::Action
 7248248::Lucky Day (2019)::Action|Crime|Thriller
 7249784::To Love or Not to Love (2017)::Comedy|Romance
@@ -33894,6 +33900,7 @@
 7609180::Chim-muk (2017)::Crime|Drama
 7609436::Hasta los dientes (2018)::Documentary|Crime|Thriller
 7611352::Alive (2018)::Horror|Thriller
+7612748::The Ghost Who Walks (2019)::Crime
 7613996::The Intent 2: The Come Up (2018)::Crime
 7614404::89 (2017)::Sport
 7615052::Daughter of the Wolf (2019)::Action|Thriller
@@ -34630,6 +34637,7 @@
 8775960::Black Hat (2019)::Short|Drama
 8781414::Freaks (2018)::Drama|Sci-Fi|Thriller
 8783042::One Small Step (2018)::Animation|Short|Adventure|Family|Fantasy
+8783532::La vie scolaire (2019)::Comedy|Drama
 8785426::Jabariya Jodi (2019)::Action|Comedy|Drama|Romance
 8786466::Bert Kreischer: Secret Time (2018)::Documentary|Comedy
 8792898::L'amour flou (2018)::Comedy
@@ -34837,6 +34845,7 @@
 9248972::Mission Mangal (2019)::Drama|History
 9251748::Parallel World Love Story (2019)::Mystery|Romance
 9252508::Tall Girl (2019)::Comedy
+9253760::Dongeng Mistis (2018)::
 9257484::Rattlesnake (2019)::Drama|Horror|Mystery|Thriller
 9260446::Ma cosa ci dice il cervello (2019)::Comedy
 9260636::Bigil (2019)::Action|Drama|Sport
@@ -34891,6 +34900,7 @@
 9404442::Juo ren mi mi (2019)::Drama
 9412098::Fyre (2019)::Documentary|Music
 9412268::Hai Phuong (2019)::Action
+9418812::Hello World (2019)::Animation|Romance|Sci-Fi
 9418878::Kiz Kardesler (2019)::Drama
 9419834::Secret Obsession (2019)::Drama|Thriller
 9419838::Panic: The Untold Story of the 2008 Financial Crisis (2018)::Documentary|History
@@ -35205,6 +35215,7 @@
 10656240::Bebas (2019)::Comedy|Drama
 10662450::Enter the Anime (2019)::Documentary
 10675136::Hell House LLC III: Lake of Fire (2019)::Horror
+10682000::Sound &amp; Fury (2019)::Animation|Short
 10687158::Western Stars (2019)::Documentary|Music
 10695638::Superstar (2019)::Drama|Musical|Romance
 10696882::Khayal Maata (2019)::Comedy|Drama
@@ -35293,6 +35304,7 @@
 11187956::Abracadabra (2019)::Comedy|Drama
 11197082::Margaret Atwood: A Word after a Word after a Word is Power (2019)::Documentary
 11212096::In Search of the Earth-Mother of Anatolia (2019)::Documentary|History
+11238048::Black Money (2019)::Crime|Drama|Thriller
 11240996::Darah Daging (2019)::Action|Crime|Drama
 11248800::Ronny Chieng: Asian Comedian Destroys America (2019)::Comedy
 11265724::Dan Soder: Son of a Gary (2019)::Comedy
@@ -35344,4 +35356,5 @@
 11916278::The Scheme (2020)::
 11953628::Maska (2020)::Comedy
 12036052::Elephant (2020)::Documentary|Adventure|Biography|Family
+12058882::Coachella: 20 Years in the Desert (2020)::
 12078990::Money Heist: The Phenomenon (2020)::Documentary
