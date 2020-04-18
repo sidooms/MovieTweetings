@@ -473,7 +473,7 @@
 0026040::Aerograd (1935)::Drama
 0026123::The Black Room (1935)::Crime|Horror
 0026132::Boys Will Be Boys (1935)::Comedy
-0026138::Bride of Frankenstein (1935)::Drama|Horror|Sci-Fi
+0026138::The Bride of Frankenstein (1935)::Drama|Horror|Sci-Fi
 0026174::Captain Blood (1935)::Action|Adventure
 0026202::Cheer Up (1936)::Musical
 0026221::Clive of India (1935)::Action|Adventure|Biography
@@ -4431,6 +4431,7 @@
 0073018::French Connection II (1975)::Action|Crime|Drama|Thriller
 0073019::Friday Foster (1975)::Action
 0073026::Funny Lady (1975)::Biography|Comedy|Drama|Musical|Romance
+0073042::The Ghoul (1975)::Horror|Thriller
 0073043::The Giant Spider Invasion (1975)::Horror|Sci-Fi
 0073045::Giliap (1975)::Crime|Drama
 0073073::The Great Lester Boggs (1974)::Drama
@@ -5024,6 +5025,7 @@
 0079013::Cuba (1979)::Adventure|Romance|Thriller|War
 0079020::¡Que Viva Mexico! - Da zdravstvuyet Meksika! (1979)::Documentary|Drama|Western
 0079027::The Dark (1979)::Horror|Sci-Fi|Thriller
+0079067::Istintaq (1979)::Crime|Drama
 0079073::Dracula (1979)::Horror|Romance
 0079080::Dreamer (1979)::Drama|Sport
 0079082::The Driller Killer (1979)::Drama|Horror|Thriller
@@ -8076,7 +8078,7 @@
 0106375::Beethoven's 2nd (1993)::Comedy|Family|Romance
 0106379::Being Human (1994)::Comedy|Drama
 0106384::Glocken aus der Tiefe - Glaube und Aberglaube in Rußland (1993)::Documentary
-0106387::Benny & Joon (1993)::Comedy|Drama|Romance
+0106387::Benny &amp; Joon (1993)::Comedy|Drama|Romance
 0106393::Best of the Best 2 (1993)::Action|Crime|Drama|Thriller
 0106400::The Beverly Hillbillies (1993)::Comedy|Family
 0106408::Bhaji on the Beach (1993)::Comedy|Drama
@@ -20832,6 +20834,7 @@
 1822302::Sassy Pants (2012)::Comedy|Drama
 1822311::Sparrows Dance (2012)::Comedy|Drama|Romance
 1822381::Évocateur: The Morton Downey Jr. Movie (2012)::Documentary
+1822382::Reagan (2011)::Documentary|Biography
 1822406::White Out (2011)::Drama
 1823059::A Perfect Ending (2012)::Drama|Romance
 1823067::Always 3 chôme no yûhi '64 (2012)::Drama
@@ -26276,6 +26279,7 @@
 3137630::David Brent: Life on the Road (2016)::Comedy|Music
 3137764::Staten Island Summer (2015)::Comedy
 3138104::The Hungover Games (2014)::Comedy
+3138122::Into the Ashes (2019)::Crime|Drama|Mystery|Thriller
 3138344::Baked in Brooklyn (2016)::Comedy|Crime|Drama|Romance
 3138376::Joy Ride 3 (2014)::Crime|Horror|Thriller
 3138558::Preservation (2014)::Horror|Thriller
@@ -31835,6 +31839,7 @@
 5805252::Budhia Singh: Born to Run (2016)::Biography|Drama|Sport
 5805470::Gintama (2017)::Action|Adventure|Comedy|History|Sci-Fi
 5805752::Brigsby Bear (2017)::Comedy|Drama
+5805768::Abe (2019)::Family
 5805876::Zombie with a Shotgun (2019)::Action|Horror|Romance
 5806506::Dementia 13 (2017)::Fantasy|Horror|Thriller
 5806646::The Archer (2017)::Drama|Thriller
@@ -32118,7 +32123,7 @@
 5978822::The Wedding Party (2016)::Comedy|Romance
 5979312::7:19 (2016)::Drama|History
 5979872::Bleach (2018)::Action|Adventure|Fantasy
-5979874::Godzilla: Monster Planet (2017)::Animation|Action|Sci-Fi
+5979874::Gojira: Kaijû Wakusei (2017)::Animation|Action|Sci-Fi
 5979920::Wrong Side Raju (2016)::Drama|Thriller
 5980232::Kaashmora (2016)::Action|Comedy|Fantasy|Horror
 5980798::Félicité (2017)::Drama|Music
@@ -33649,6 +33654,7 @@
 7297960::Fen bei ren sheng (2017)::Drama
 7298400::Jiang hu er nü (2018)::Drama|Romance
 7299346::Leo-beu-seul-ling (2018)::Drama
+7304802::Legado en los huesos (2019)::Crime|Thriller
 7308092::Entre Irmãs (2017)::Drama|Western
 7309654::Ilk Öpücük (2017)::Comedy|Romance
 7310906::Jerry Before Seinfeld (2017)::Documentary|Comedy
@@ -33696,6 +33702,7 @@
 7344246::Allá en el Rancho (2018)::Comedy
 7347846::The Lodge (2019)::Drama|Horror|Thriller
 7349662::BlacKkKlansman (2018)::Biography|Crime|Drama
+7349896::Inherit the Viper (2019)::Crime|Drama|Thriller
 7349910::Nightmare Cinema (2018)::Horror
 7349950::It Chapter Two (2019)::Horror
 7350614::Head Count (2018)::Horror|Mystery|Thriller
@@ -33772,7 +33779,7 @@
 7466370::Yol kenari (2017)::Drama|Thriller
 7467324::Ferrugem (2018)::Drama
 7467476::Fauve (2018)::Short|Drama
-7468056::The Outlaws (2017)::Action|Crime
+7468056::Beomjoidosi (2017)::Action|Crime
 7468616::The Boat (2018)::Thriller
 7469204::Doris (2018)::Comedy
 7469726::Shaadi Mein Zaroor Aana (2017)::Drama|Family|Romance
@@ -34162,6 +34169,7 @@
 7946216::Depraved (2019)::Drama|Horror|Thriller
 7946422::Prospect (2018)::Drama|Sci-Fi|Thriller
 7946836::Animal World (2018)::Action|Fantasy|Sci-Fi|Thriller
+7948540::Ya Veremos (2018)::Drama
 7949046::Paradox (2018)::Fantasy|Music
 7952000::Acusada (2018)::Crime|Drama|Thriller
 7957694::The Last Summer (2019)::Comedy
