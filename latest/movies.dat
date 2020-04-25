@@ -85,7 +85,7 @@
 0013140::Foolish Wives (1922)::Drama|Thriller
 0013257::Häxan (1922)::Documentary|Fantasy|Horror
 0013427::Nanook of the North (1922)::Documentary
-0013442::Nosferatu, eine Symphonie des Grauens (1922)::Fantasy|Horror
+0013442::Nosferatu (1922)::Fantasy|Horror
 0013486::Pay Day (1922)::Comedy|Short
 0013571::Salomé (1922)::Biography|Drama|History|Horror
 0013626::La souriante Madame Beudet (1923)::Drama
@@ -3830,7 +3830,7 @@
 0067388::Man in the Wilderness (1971)::Adventure|Drama|Western
 0067402::Mary, Queen of Scots (1971)::Biography|Drama|History
 0067403::Maryada (1971)::Family|Romance
-0067411::McCabe & Mrs. Miller (1971)::Drama|Western
+0067411::McCabe &amp; Mrs. Miller (1971)::Drama|Western
 0067418::Melody (1971)::Comedy|Drama|Romance
 0067421::Mere Apne (1971)::Drama
 0067429::Milano calibro 9 (1972)::Action|Crime|Thriller
@@ -4795,6 +4795,7 @@
 0076277::Kodiyettam (1977)::Drama
 0076286::Oi kynigoi (1977)::Drama
 0076295::The Last House on Dead End Street (1977)::Horror
+0076297::The Last Remake of Beau Geste (1977)::Adventure|Comedy|War
 0076299::The Last Wave (1977)::Drama|Fantasy|Mystery|Thriller
 0076310::Let's Get Laid (1978)::Comedy
 0076312::Die Liebesbriefe einer portugiesischen Nonne (1977)::Drama|Adventure|Horror
@@ -10889,6 +10890,7 @@
 0206921::Mann (1999)::Drama|Romance
 0206963::My First Mister (2001)::Comedy|Drama|Romance
 0207036::Luck of the Draw (2000)::Thriller|Crime|Drama
+0207061::Rollergator (1996)::Family
 0207198::Was tun, wenn's brennt? (2001)::Action|Comedy|Drama|Romance|Thriller
 0207201::What Women Want (2000)::Comedy|Fantasy|Romance
 0207341::Biwi No. 1 (1999)::Comedy|Drama|Romance
@@ -30922,6 +30924,7 @@
 5205256::Non è un paese per giovani (2017)::Comedy
 5205814::La Familia Reyna (2015)::Comedy|Drama
 5205966::RINGwhispers (2015)::Short|Horror|Thriller
+5206260::The Willoughbys (2020)::Animation|Comedy|Family
 5207116::X: Past Is Present (2015)::Drama|Mystery|Romance
 5207204::Dvadtsat vosem panfilovtsev (2016)::Action|Drama|History|War
 5207262::Hostages (2017)::Crime|Drama
@@ -32279,6 +32282,7 @@
 6054846::Amundsen (2019)::Drama
 6054874::Legenda o Kolovrate (2017)::Action|History
 6057032::Gook (2017)::Drama
+6058136::Sólo se vive una vez (2017)::Action|Comedy|Crime|Thriller
 6058394::Anaarkali of Aarah (2017)::Drama
 6059074::Jomonte Suvisheshangal (2017)::Comedy|Drama|Family
 6059142::Revolution: New Art for a New World (2016)::Documentary
@@ -34615,6 +34619,7 @@
 8615478::Animal Behaviour (2018)::Animation|Short|Comedy|Family
 8615732::Bratstvo (2019)::Action|Drama|War
 8617844::Jim Jefferies: This Is Me Now (2018)::Comedy
+8618118::Plagi Breslau (2018)::Action|Crime|Thriller
 8619812::Minha Vida em Marte (2018)::Comedy
 8620646::An Affair to Die For (2019)::Thriller
 8621438::Anandi Gopal (2019)::Biography
@@ -34769,6 +34774,7 @@
 8919194::Genius (2018)::
 8919396::Muklawa (2019)::Drama
 8923482::Born in China (2019)::Documentary|History
+8936646::Extraction (2020)::Action|Drama
 8946378::Knives Out (2019)::Comedy|Crime|Drama|Mystery|Thriller
 8948208::Foxtrot Six (2019)::Action|Drama|Sci-Fi
 8948614::Reversing Roe (2018)::Documentary
@@ -34786,6 +34792,7 @@
 8976032::Student Athlete (2018)::Documentary
 8976710::Sextuplets (2019)::Comedy
 8976832::¿A quién te llevarías a una isla desierta? (2019)::Drama
+8977122::Bikeman (2018)::Comedy
 8980868::Purl (2019)::Animation|Short
 8983166::Panga (2020)::Romance
 8983168::Commando 3 (2019)::Action|Thriller
@@ -35120,6 +35127,7 @@
 10017680::P fung bou (2019)::Action|Crime
 10023024::Love Aaj Kal (2020)::Romance
 10039344::Countdown (2019)::Horror|Thriller
+10039468::My Stupid Boss 2 (2019)::Comedy|Drama
 10048556::Staged Killer (2019)::Thriller
 10050766::Brené Brown: The Call to Courage (2019)::Documentary|Drama
 10050780::Anthony Jeselnik: Fire in the Maternity Ward (2019)::Comedy
@@ -35141,6 +35149,7 @@
 10127562::Dragon Quest: Your Story (2019)::Animation|Adventure|Fantasy
 10131230::Geek, and You Shall Find (2019)::Documentary
 10140138::Krocken (2018)::
+10147382::Wo he wo de zu guo (2019)::Drama
 10147546::Homecoming: A Film by Beyoncé (2019)::Documentary|Music
 10149080::La Liga de los 5 (2020)::Animation|Action|Comedy
 10150694::Arsenio Hall: Smart and Classy (2019)::Comedy
@@ -35425,6 +35434,7 @@
 11576692::Every Week Has A Friday (2020)::Drama
 11614472::A feltaláló (2020)::Drama
 11615038::After Truth: Disinformation and the Cost of Fake News (2020)::Documentary
+11615290::Beastie Boys Story (2020)::Documentary
 11642302::cats_the_mewvie (2020)::Documentary
 11644096::What Did Jack Do? (2017)::Short|Comedy|Mystery
 11644170::What Did Jack Do? (2017)::Short|Comedy|Crime|Drama|Fantasy|Music|Mystery|Thriller
@@ -35436,6 +35446,7 @@
 11738792::Taylor Tomlinson: Quarter-Life Crisis (2020)::Comedy
 11744784::Barrymore: The Body in the Pool (2020)::Documentary|Crime
 11749480::Shooter (2020)::Action
+11777040::Sanyangeui sigan (2020)::Crime|Drama|Sci-Fi|Thriller
 11777308::Murder Death Koreatown (2020)::Crime|Horror|Mystery
 11810418::Marc Maron: End Times Fun (2020)::Comedy
 11810424::Bert Kreischer: Hey Big Boy (2020)::Comedy
