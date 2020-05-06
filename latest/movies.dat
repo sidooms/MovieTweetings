@@ -4338,7 +4338,7 @@
 0071746::Lenny (1974)::Biography|Drama
 0071762::The Little Prince (1974)::Family|Fantasy|Musical|Sci-Fi
 0071771::The Longest Yard (1974)::Comedy|Crime|Drama|Sport
-0071772::The Lord's of Flatbush (1974)::Comedy|Drama|Romance
+0071772::The Lords of Flatbush (1974)::Comedy|Drama|Romance
 0071782::Lucky Luciano (1973)::Biography|Crime|Drama
 0071790::Madhouse (1974)::Crime|Horror|Mystery|Thriller
 0071797::Mahler (1974)::Biography|Drama|Music
@@ -6968,6 +6968,7 @@
 0095687::My Stepmother Is an Alien (1988)::Comedy|Sci-Fi
 0095690::Mystic Pizza (1988)::Comedy|Drama|Romance
 0095705::The Naked Gun: From the Files of Police Squad! (1988)::Comedy|Crime
+0095709::The Navigator: A Mediaeval Odyssey (1988)::Action|Adventure|Drama|Fantasy|Mystery|Thriller
 0095715::Neco z Alenky (1988)::Animation|Adventure|Fantasy|Horror|Thriller
 0095719::The Nest (1988)::Horror|Sci-Fi
 0095730::The Night Before (1988)::Comedy
@@ -7045,7 +7046,7 @@
 0096273::Tin Toy (1988)::Animation|Short|Family|Fantasy
 0096283::Tonari no Totoro (1988)::Animation|Family|Fantasy
 0096287::Top Line (1988)::Sci-Fi
-0096288::Topio stin omichli (1988)::Drama
+0096288::Topio stin omihli (1988)::Drama
 0096289::Torch Song Trilogy (1988)::Comedy|Drama|Romance
 0096294::Track 29 (1988)::Drama|Mystery
 0096310::Troma's War (1988)::Action|Adventure|Comedy
@@ -8472,7 +8473,7 @@
 0110071::Hua qi Shao Lin (1994)::Action|Fantasy|Romance
 0110074::The Hudsucker Proxy (1994)::Comedy|Drama|Fantasy
 0110076::Hum Aapke Hain Koun...! (1994)::Comedy|Drama|Musical|Romance
-0110081::Huozhe (1994)::Drama|War
+0110081::Huo zhe (1994)::Drama|War
 0110093::I Love Trouble (1994)::Action|Comedy|Romance
 0110099::I.Q. (1994)::Comedy|Romance
 0110115::Imaginary Crimes (1994)::Biography|Drama
@@ -10574,6 +10575,7 @@
 0179477::Storm Catcher (1999)::Action|Thriller
 0179544::De ydmygede (1999)::Documentary
 0179626::15 Minutes (2001)::Action|Crime|Drama|Thriller
+0179634::I Aliki sto Naftiko (1961)::Comedy|Musical|Romance
 0179835::G:MT Greenwich Mean Time (1999)::Drama|Music|Crime
 0179955::Macskafogó (1986)::Animation|Adventure|Comedy|Crime|Family|Sci-Fi
 0180033::Paja i Jare (1973)::Comedy
@@ -11849,6 +11851,7 @@
 0278731::Spider (2002)::Drama|Mystery|Thriller
 0278736::Stanley Kubrick: A Life in Pictures (2001)::Documentary|Biography
 0278823::Hollywood Ending (2002)::Comedy|Romance
+0278891::Aaahh Belinda (1986)::Comedy|Fantasy
 0279064::Elling (2001)::Comedy|Drama
 0279065::L'emploi du temps (2001)::Drama
 0279111::Gods and Generals (2003)::Biography|Drama|History|War
@@ -20729,6 +20732,7 @@
 1793931::Les Tuche (2011)::Comedy
 1794779::Eco-Pirate: The Story of Paul Watson (2011)::Documentary
 1794886::Nobels testamente (2012)::Drama|Mystery|Thriller
+1795369::National Theatre Live: Frankenstein (2011)::Drama
 1795665::Suryavamsam (1998)::Drama
 1795702::Wild Bill (2011)::Drama
 1796395::Alzheimer's (2010)::Comedy|Drama
@@ -20797,6 +20801,7 @@
 1808691::Ya Sonra? (2011)::Comedy|Drama|Romance
 1809231::Arme Riddere (2011)::Action|Comedy|Crime
 1809287::Irvine Welsh's Ecstasy (2011)::Drama|Romance
+1809315::Nick Kroll: Thank You Very Cool (2011)::Documentary|Comedy
 1809387::The War You Don't See (2010)::Documentary|War
 1809398::Unbroken (2014)::Biography|Drama|Sport|War
 1810510::4-kyo-si Choo-ri-yeong-yeok (2009)::Action|Crime|Drama|Mystery|Thriller
@@ -31555,6 +31560,7 @@
 5599818::Kor (2016)::Drama
 5599826::91.1 (2016)::Comedy|Drama
 5599918::Pearl (2016)::Animation|Short|Music
+5600714::Laal Rang (2016)::Action|Crime|Drama|Thriller
 5601914::Where have the flowers gone? (2016)::Animation|Drama|Mystery
 5602204::Blurred Lines: Inside the Art World (2017)::Documentary
 5602568::WrestleMania (2017)::Action|Sport
@@ -34187,6 +34193,7 @@
 7876510::My Thoughts Are Silent (2019)::Comedy
 7879350::End Game (2018)::Documentary|Short
 7880466::Meitantei Conan: Zero no Shikkônin (2018)::Animation|Action|Adventure|Crime|Family|Mystery|Thriller
+7881550::Kaamyaab (2018)::
 7882406::Dört Köse (2017)::Comedy
 7885874::Keluarga Cemara (2018)::Family
 7886442::Death Kiss (2018)::Action|Crime|Drama
@@ -34450,6 +34457,7 @@
 8242084::My Spy (2020)::Action|Comedy|Family
 8242160::4 latas (2019)::Comedy|Drama
 8244784::The Hunt (2020)::Action|Horror|Thriller
+8246392::Furie (2019)::Thriller
 8247470::Rosie (2018)::Drama
 8254556::Girl (2018)::Drama
 8255452::Snezhnaya koroleva. Zazerkale (2018)::Animation|Adventure|Comedy|Family|Fantasy
@@ -34553,6 +34561,7 @@
 8404272::Chao shi kong tong ju (2018)::Romance
 8404614::The Two Popes (2019)::Biography|Comedy|Drama
 8405810::El amor menos pensado (2018)::Comedy|Romance
+8407418::Netflix vs. the World (2019)::Documentary
 8408848::Más sabe el Diablo por Viejo (2018)::Comedy
 8413338::Kumbalangi Nights (2019)::Comedy|Drama|Romance
 8415352::The Murder of Nicole Brown Simpson (2019)::Crime|Thriller
@@ -34867,6 +34876,7 @@
 9048786::L'immortale (2019)::Crime|Drama
 9049042::Tunnelen (2019)::Thriller
 9049540::LKG (2019)::
+9050898::Murder to Mercy: The Cyntoia Brown Story (2020)::
 9052870::Chhichhore (2019)::Comedy|Drama
 9055926::National Theatre Live: King Lear (2018)::Drama
 9056192::Zombi Child (2019)::Fantasy
@@ -35517,6 +35527,7 @@
 12069864::The Real Michael Jackson (2020)::Documentary
 12078990::Money Heist: The Phenomenon (2020)::Documentary
 12079068::Sol Levante (2020)::Short|Animation
+12117854::Jerry Seinfeld: 23 Hours to Kill (2020)::Comedy
 12131262::Out of Shadows (2020)::Documentary
 12192654::Planet of the Humans (2019)::Documentary
 12235234::Feya (2020)::
