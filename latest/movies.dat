@@ -1330,6 +1330,7 @@
 0040652::The Noose Hangs High (1948)::Comedy
 0040662::Oliver Twist (1948)::Drama
 0040665::On an Island with You (1948)::Comedy|Musical|Romance
+0040679::The Paleface (1948)::Comedy|Family|Western
 0040695::Pitfall (1948)::Crime|Film-Noir|Thriller
 0040705::Portrait of Jennie (1948)::Drama|Romance|Fantasy|Mystery
 0040712::Professor Tom (1948)::Animation|Short|Comedy|Family
@@ -3377,6 +3378,7 @@
 0062909::Dracula Has Risen from the Grave (1968)::Drama|Fantasy|Horror|Romance
 0062916::Duett för kannibaler (1969)::
 0062952::Faces (1968)::Drama
+0062970::Filmmaker (1968)::Documentary|Short
 0062975::Firecreek (1968)::Drama|Romance|Western
 0062981::Flickorna (1968)::Comedy|Drama
 0062994::Funny Girl (1968)::Biography|Comedy|Drama|Musical|Romance
@@ -9843,7 +9845,7 @@
 0127311::Tabutta rövasata (1996)::Drama
 0127349::Waking the Dead (2000)::Drama|Mystery|Romance|Thriller
 0127353::En dag til i solen (1998)::Drama
-0127357::Wo shi shei (1998)::Action|Adventure|Comedy|Sci-Fi|Thriller
+0127357::Ngo si seoi (1998)::Action|Adventure|Comedy|Sci-Fi|Thriller
 0127505::Des majorettes dans l'espace (1997)::Short
 0127536::Elizabeth (1998)::Biography|Drama|History
 0127710::La vieille dame et les pigeons (1997)::Animation|Short|Comedy|Drama
@@ -12188,6 +12190,7 @@
 0300471::Shanghai Knights (2003)::Action|Adventure|Comedy
 0300532::Blue Crush (2002)::Drama|Romance|Sport
 0300556::Timeline (2003)::Action|Adventure|Sci-Fi
+0300620::Xi yang tian shi (2002)::Action|Adventure|Comedy|Crime|Drama|Romance|Sci-Fi|Thriller
 0300673::Worm (2001)::Short|Comedy
 0300902::Absolon (2003)::Sci-Fi|Action|Thriller
 0301181::Deliver Us from Eva (2003)::Comedy|Drama|Romance
@@ -15557,6 +15560,7 @@
 0815244::Sydney White (2007)::Comedy|Drama|Romance
 0815245::The Uninvited (2009)::Drama|Horror|Mystery|Thriller
 0815447::Clandestinos (2007)::Crime|Drama|Romance
+0815456::Jim Gaffigan: Beyond the Pale (2006)::Documentary|Comedy
 0816362::Card Subject to Change (2010)::Documentary
 0816435::Bill Engvall: Here's Your Sign Live (2004)::Comedy
 0816436::Black Water (2007)::Action|Adventure|Drama|Horror|Thriller
@@ -16012,6 +16016,7 @@
 0920470::MR 73 (2008)::Crime|Drama|Thriller
 0920473::Un baiser s'il vous plaît (2007)::Comedy|Romance
 0920739::Lekcja bialoruskiego (2006)::Documentary
+0921777::Ana alati tahmol azouhour ila qabriha (2006)::Documentary
 0922366::Blanche Neige, la suite (2007)::Animation|Comedy
 0922424::Falafel (2006)::
 0922547::Parasomnia (2008)::Horror|Thriller
@@ -17685,6 +17690,7 @@
 1264914::Zift (2008)::Crime|Drama|Mystery
 1265990::The Roommate (2011)::Drama|Thriller
 1266029::Nowhere Boy (2009)::Biography|Drama|Music|Romance
+1266036::Valley Girl (2020)::Comedy|Musical|Romance
 1266047::The Boy with the Sun in His Eyes (2009)::Comedy|Drama|Thriller
 1266112::Tahmina (1993)::Drama|Romance
 1266115::Un monde à nous (2008)::Crime|Drama|Thriller
@@ -28533,7 +28539,7 @@
 3920890::Heartland (2017)::Drama|Family|Romance
 3921136::Hard to Get (2014)::Action|Romance
 3921164::Tusen bitar (2014)::Documentary
-3921314::Muhammad: The Messenger of God (2015)::Biography|Drama|History
+3921314::Mohammad Rasoolollah (2015)::Biography|Drama|History
 3921348::Dark Exorcism (2015)::Drama|Horror|Mystery|Thriller
 3921418::L for Leisure (2014)::Comedy
 3922764::Out of My Hand (2015)::Drama
@@ -33595,7 +33601,7 @@
 7157574::Ellen DeGeneres: Relatable (2018)::Comedy
 7158430::Hearts Beat Loud (2018)::Comedy|Drama|Music
 7158686::No dormirás (2018)::Horror|Mystery|Thriller
-7160070::Singwa hamgge (2017)::Action|Drama|Fantasy
+7160070::Sin-gwa ham-kke: Jwi-wa beol (2017)::Action|Drama|Fantasy
 7160176::Namhansanseong (2017)::Action|Drama|History|War
 7160762::Icarus (2018)::Drama
 7162324::The 69th Primetime Emmy Awards (2017)::News
@@ -35303,6 +35309,7 @@
 10443808::The Passage (2019)::Biography|Drama|War
 10443844::Psycho-Pass: Sinners of the System Case 1 Crime and Punishment (2019)::Sci-Fi
 10446722::Long libeu mokpo king yeongung (2019)::Crime
+10446930::Hareket Sekiz (2019)::
 10452036::Wo de qing chun dou shi ni (2019)::Drama
 10452480::Kettiyollaanu Ente Maalakha (2019)::Comedy
 10463030::Bhoot: Part One - The Haunted Ship (2020)::Horror
@@ -35514,6 +35521,7 @@
 11708788::Mekah I'm Coming (2020)::Comedy
 11709306::Piremardha nemimirand (2019)::Comedy|Drama
 11727052::The Closet (2020)::Horror|Mystery
+11736170::Whitmer Thomas: The Golden One (2020)::Comedy
 11738792::Taylor Tomlinson: Quarter-Life Crisis (2020)::Comedy
 11744784::Barrymore: The Body in the Pool (2020)::Documentary|Crime
 11749480::Shooter (2020)::Action
@@ -35537,4 +35545,5 @@
 12117854::Jerry Seinfeld: 23 Hours to Kill (2020)::Comedy
 12131262::Out of Shadows (2020)::Documentary
 12192654::Planet of the Humans (2019)::Documentary
+12221748::Becoming (2020)::Documentary
 12235234::Feya (2020)::
