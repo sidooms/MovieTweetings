@@ -5839,7 +5839,7 @@
 0086006::Never Say Never Again (1983)::Action|Adventure|Thriller
 0086013::Nightbeast (1982)::Horror|Sci-Fi
 0086014::Nightmares (1983)::Horror|Sci-Fi
-0086022::Nostalghia (1983)::Drama
+0086022::Nostalgia (1983)::Drama
 0086026::Los nuevos extraterrestres (1983)::Fantasy|Horror|Sci-Fi
 0086034::Octopussy (1983)::Action|Adventure|Thriller
 0086036::Of Unknown Origin (1983)::Horror
@@ -7321,7 +7321,7 @@
 0098524::True Believer (1989)::Drama|Crime
 0098528::True Love (1989)::Comedy|Romance
 0098532::Tulitikkutehtaan tyttö (1990)::Drama|Comedy
-0098536::Turner & Hooch (1989)::Comedy|Crime|Drama|Thriller
+0098536::Turner &amp; Hooch (1989)::Comedy|Crime|Drama|Thriller
 0098545::Túsztörténet (1989)::Drama
 0098546::UHF (1989)::Comedy|Drama
 0098554::Uncle Buck (1989)::Comedy
@@ -21183,6 +21183,7 @@
 1861334::Fuga de cerebros 2 (2011)::Comedy|Romance
 1861343::Hayride (2012)::Crime|Drama|Horror
 1861375::La guerre des boutons (2011)::Adventure|Family
+1861421::Sien lui yau wan (2011)::Fantasy|Horror
 1861445::The Projectionist (2014)::Crime|Drama|Thriller
 1861982::A-i-deul... (2011)::Crime|Thriller
 1862020::Geu-dae-leul sa-rang-hab-ni-da (2011)::Drama|Romance
@@ -25398,7 +25399,7 @@
 2801746::Hawaii (2013)::Drama|Romance
 2802136::Home Sweet Hell (2015)::Comedy|Crime|Thriller
 2802144::Kingsman: The Secret Service (2014)::Action|Adventure|Comedy|Thriller
-2802154::Leviathan (2014)::Crime|Drama
+2802154::Leviafan (2014)::Crime|Drama
 2802172::Los chicos del puerto (2013)::Adventure|Drama|History
 2804026::Aurangzeb (2013)::Action|Drama|Thriller
 2806788::Fukrey (2013)::Comedy|Drama|Romance
@@ -35127,6 +35128,7 @@
 9547338::David Cross: Oh Come On (2019)::Comedy
 9552258::The Confidence Man: The Movie (2019)::Comedy|Crime
 9552562::Shiba Park (2019)::
+9554316::The Flowers of Evil (2019)::Drama|Romance|Thriller
 9562694::Alien Warfare (2019)::Action|Sci-Fi
 9563632::Bâsudê wandârando (2019)::Animation|Fantasy
 9572674::Desert Wolf (2019)::Horror
@@ -35350,6 +35352,7 @@
 10376844::Adam Devine: Best Time of Our Lives (2019)::Comedy
 10376958::Mike Epps: Only One Mike (2019)::Comedy
 10377036::Jo Koy: Comin' in Hot (2019)::Comedy
+10380084::I Am Easy to Find (2019)::Short|Music
 10381126::Jackpot (2019)::Action|Comedy
 10384744::La odisea de los giles (2019)::Adventure|Comedy|Crime|Drama|History|Thriller
 10385460::Shakuhachi: One Sound One Life (2019)::Documentary
@@ -35594,8 +35597,10 @@
 11777040::Sanyangeui sigan (2020)::Crime|Drama|Sci-Fi|Thriller
 11777298::DAU. Degeneratsiya (2020)::Drama
 11777308::Murder Death Koreatown (2020)::Crime|Horror|Mystery
+11801494::Climbing Blind (2020)::Documentary
 11810418::Marc Maron: End Times Fun (2020)::Comedy
 11810424::Bert Kreischer: Hey Big Boy (2020)::Comedy
+11835270::My Truth (2020)::Documentary
 11861072::Tom Segura: Ball Hog (2020)::Comedy
 11898442::Playdate with Destiny (2020)::Animation|Short|Adventure|Comedy
 11903004::Hotel Belgrade (2020)::Comedy|Romance
