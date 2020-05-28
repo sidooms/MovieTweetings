@@ -1,7 +1,7 @@
 # MovieTweetings
 ## Some stats
 
-These stats were last autocalculated on Thu May 28 00:50:12 CEST 2020  ([more stats here](./stats.md))
+These stats were last autocalculated on Fri May 29 00:50:34 CEST 2020  ([more stats here](./stats.md))
 
 ## A Movie Rating Dataset Collected From Twitter
 
