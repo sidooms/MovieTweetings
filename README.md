@@ -7,8 +7,6 @@ Total number of ratings                 | 871,059
 Number of unique users                  | 67,918
 Number of unique items                  | 35,717
 These stats were last autocalculated on Sat Jun 6 01:16:44 CEST 2020  ([more stats here](./stats.md))
-=======
-These stats were last autocalculated on Thu Jun 4 00:53:15 CEST 2020  ([more stats here](./stats.md))
 
 ## A Movie Rating Dataset Collected From Twitter
 
