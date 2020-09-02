@@ -112,7 +112,7 @@
 0015163::The Navigator (1924)::Action|Comedy|Romance
 0015174::Die Nibelungen: Kriemhilds Rache (1924)::Adventure|Drama|Fantasy
 0015175::Die Nibelungen: Siegfried (1924)::Adventure|Drama|Fantasy
-0015233::En piga bland pigor (1924)::
+0015233::En piga bland pigor (1924)::Comedy|Drama
 0015310::The Sea Hawk (1924)::Adventure|Drama|Romance
 0015324::Sherlock Jr. (1924)::Action|Comedy|Romance
 0015361::Stachka (1925)::Drama
@@ -8016,7 +8016,7 @@
 0104418::Highway to Hell (1991)::Adventure|Comedy|Fantasy|Horror
 0104427::Hoffa (1992)::Biography|Crime|Drama
 0104431::Home Alone 2: Lost in New York (1992)::Adventure|Comedy|Family
-0104437::Honey I Blew Up the Kid (1992)::Adventure|Comedy|Family|Romance|Sci-Fi
+0104437::Honey, I Blew Up the Kid (1992)::Adventure|Comedy|Family|Romance|Sci-Fi
 0104438::Honeymoon in Vegas (1992)::Comedy|Romance|Thriller
 0104452::HouseSitter (1992)::Comedy|Romance
 0104454::Howards End (1992)::Drama|Romance
@@ -8388,6 +8388,7 @@
 0108052::Schindler's List (1993)::Biography|Drama|History
 0108065::Searching for Bobby Fischer (1993)::Biography|Drama
 0108071::The Secret Garden (1993)::Drama|Family|Fantasy
+0108074::Se diu ying hung: Dung sing sai jau (1993)::Action|Comedy|Fantasy
 0108101::Shadowlands (1993)::Biography|Drama|Romance
 0108122::Short Cuts (1993)::Comedy|Drama
 0108147::Sister Act 2: Back in the Habit (1993)::Comedy|Family|Music
@@ -13072,6 +13073,7 @@
 0358456::Earthlings (2005)::Documentary|Horror
 0358500::H.H. Holmes: America's First Serial Killer (2004)::Documentary|Crime|History
 0358551::Julie and Jack (2003)::Romance|Sci-Fi
+0358981::El banat waal saif (1960)::
 0358987::Bayn el samaa wa el ard (1960)::Comedy
 0359013::Blade: Trinity (2004)::Action|Horror|Sci-Fi|Thriller
 0359045::Cachorro (2004)::Comedy|Drama
@@ -35446,6 +35448,7 @@
 9179230::Ser du månen, Daniel (2019)::Drama
 9179260::Tôkyô gûru 'S' (2019)::Action|Drama|Fantasy|Horror|Thriller
 9185066::Human Capital (2019)::Crime|Drama
+9185316::I Am Woman (2019)::Biography|Drama|Music|Romance
 9190740::Bhajjo Veero Ve (2018)::
 9193612::Kimi to, nami ni noretara (2019)::Animation|Comedy|Drama|Family|Fantasy|Romance
 9195844::Little Miss Sumo (2018)::Documentary|Short|Biography|Sport
@@ -35687,6 +35690,7 @@
 9784048::Jandar (2019)::
 9784456::The Kissing Booth 2 (2020)::Comedy|Romance
 9789686::Un rubio (2019)::Drama|Romance
+9794630::Hour of Lead (2020)::Action|Mystery|Thriller
 9800034::Heidi (2019)::
 9801736::Hvítur, Hvítur Dagur (2019)::Drama
 9805504::Otryv (2019)::Thriller
