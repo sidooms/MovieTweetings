@@ -2207,6 +2207,7 @@
 0050792::Oedipus Rex (1957)::Drama
 0050798::Old Yeller (1957)::Adventure|Drama|Family|Western
 0050815::Pal Joey (1957)::Drama|Musical|Romance
+0050817::Pane, amore e..... (1955)::Comedy|Romance
 0050818::Sailor Beware (1956)::Comedy
 0050825::Paths of Glory (1957)::Drama|War
 0050839::Peyton Place (1957)::Drama|Romance
@@ -3721,7 +3722,7 @@
 0065988::Little Big Man (1970)::Adventure|Comedy|Drama|Western
 0065989::Little Fauss and Big Halsy (1970)::Drama
 0065999::Long hu dou (1970)::Action|Crime|Drama
-0066001::The Looking Glass War (1969)::Action|Drama|Thriller
+0066001::The Looking Glass War (1970)::Action|Drama|Thriller
 0066011::Love Story (1970)::Drama|Romance
 0066026::MASH (1970)::Comedy|Drama|War
 0066030::Un detective (1969)::Crime|Drama
@@ -5583,6 +5584,7 @@
 0082926::Polyester (1981)::Comedy
 0082933::Possession (1981)::Drama|Horror
 0082934::The Postman Always Rings Twice (1981)::Crime|Drama|Romance|Thriller
+0082935::Pour la peau d'un flic (1981)::Action|Crime|Romance|Thriller
 0082945::Prince of the City (1981)::Crime|Drama
 0082949::Le professionnel (1981)::Action|Crime|Drama|Thriller
 0082951::The Prowler (1981)::Horror|Mystery|Thriller
@@ -7036,6 +7038,7 @@
 0095441::Kholodnoe leto pyatdesyat tretego (1987)::Action|Crime|Drama|Thriller
 0095444::Killer Klowns from Outer Space (1988)::Comedy|Horror|Sci-Fi
 0095448::Kimagure orenji rôdo: Ano hi ni kaeritai (1988)::Animation|Comedy|Drama
+0095452::Kingsajz (1988)::Adventure|Comedy|Fantasy|Sci-Fi
 0095454::The Kiss (1988)::Drama|Fantasy|Horror
 0095467::Krótki film o milosci (1988)::Drama|Romance
 0095468::Krótki film o zabijaniu (1988)::Crime|Drama
@@ -10170,6 +10173,7 @@
 0141716::Party Monster (1998)::Documentary|Biography
 0141759::Un ragazzo e una ragazza (1984)::Romance|Comedy
 0141897::Terror (1978)::Horror
+0141914::Der Transport (1961)::Drama|War
 0141926::U-571 (2000)::Action|War
 0141974::The War Zone (1999)::Drama|Thriller
 0141986::Wild Man Blues (1997)::Documentary|Music|Romance
@@ -10200,7 +10204,7 @@
 0143338::Killer Crocodile (1989)::Horror
 0143428::Kozure Ôkami: Meifumadô (1973)::Action|Crime|Drama|Thriller
 0143861::Scratch (2001)::Documentary|Music
-0144020::Xiao Wu (1997)::Drama
+0144020::Xiao Wu (1998)::Drama
 0144084::American Psycho (2000)::Crime|Drama
 0144110::Blockade (1993)::Documentary
 0144117::The Boondock Saints (1999)::Action|Crime|Thriller
@@ -10953,7 +10957,7 @@
 0200720::The House of Mirth (2000)::Romance|Drama
 0200740::Irezumi (1966)::Drama
 0200768::Kedamono no ken (1965)::Action|Drama
-0200769::Ken ki (1965)::
+0200769::Ken ki (1965)::Action|Drama
 0200849::Mein liebster Feind - Klaus Kinski (1999)::Documentary|Biography
 0200856::Mi desconocida esposa (1958)::Comedy|Drama
 0201265::Tomten är far till alla barnen (1999)::Comedy
@@ -11197,6 +11201,7 @@
 0217975::1992: El descubrimiento (1993)::Documentary
 0218000::Another Life (2001)::Crime|Drama
 0218043::Beyond the Mat (1999)::Documentary|Biography|Sport
+0218088::Cementerio del terror (1985)::Horror|Fantasy|Thriller
 0218107::Circuit (2001)::Drama|Romance
 0218378::The Claim (2000)::Drama|Romance|Western
 0218553::Ringu 2 (1999)::Horror|Mystery|Sci-Fi
@@ -11365,7 +11370,7 @@
 0235604::Moodupani (1980)::
 0235607::Mounam Sammadham (1989)::Crime
 0235609::Mullum Malarum (1978)::Drama
-0235617::Nenjathai Killathe (1981)::
+0235617::Nenjathai Killathe (1981)::Drama|Romance
 0235679::Gekijô-ban poketto monsutâ: Kesshô-tô no teiô (2000)::Animation|Action|Adventure|Family|Fantasy|Sci-Fi
 0235712::Ringu 0: Bâsudei (2000)::Horror|Thriller
 0235737::The Salton Sea (2002)::Crime|Drama|Mystery|Thriller
@@ -12089,7 +12094,7 @@
 0283530::The Emperor's Club (2002)::Drama
 0283534::The Parole Officer (2001)::Comedy|Crime
 0283632::They (2002)::Horror|Mystery|Thriller
-0283653::Ueru tamashii (1956)::
+0283653::Ueru tamashii (1956)::Drama|Romance
 0283742::Inspiración (2001)::Comedy|Romance
 0283832::8 femmes (2002)::Comedy|Crime|Musical|Romance
 0283870::Céline Dion: All the Way... A Decade of Song &amp; Video (2001)::Music
@@ -12622,7 +12627,7 @@
 0320194::Occident (2002)::Comedy
 0320241::Particles of Truth (2003)::Drama
 0320244::Party Monster (2003)::Biography|Crime|Drama|Thriller
-0320262::Per Sollum Pillai (1987)::
+0320262::Per Sollum Pillai (1987)::Action|Drama|Family|Romance
 0320512::The Smashing Machine (2002)::Documentary|Sport
 0320661::Kingdom of Heaven (2005)::Action|Adventure|Drama|History|War
 0320691::Underworld (2003)::Action|Fantasy|Thriller
@@ -12844,7 +12849,7 @@
 0337960::Danny Deckchair (2003)::Comedy|Romance
 0337961::Dans ma peau (2002)::Drama|Horror
 0337971::Deewangee (2002)::Crime|Drama|Mystery
-0337978::Live Free or Die Hard (2007)::Action|Thriller
+0337978::Die Hard 4.0 (2007)::Action|Thriller
 0338001::Emile (2003)::Drama
 0338013::Eternal Sunshine of the Spotless Mind (2004)::Drama|Romance|Sci-Fi
 0338077::Grind (2003)::Adventure|Comedy|Sport
@@ -13810,6 +13815,7 @@
 0401383::Le scaphandre et le papillon (2007)::Biography|Drama
 0401420::Fierce People (2005)::Drama|Thriller
 0401445::A Good Year (2006)::Comedy|Drama|Romance
+0401696::Non aprite quella porta 3 (1990)::Horror|Mystery|Thriller
 0401711::Paris, je t'aime (2006)::Comedy|Drama|Romance
 0401729::John Carter (2012)::Action|Adventure|Sci-Fi
 0401792::Sin City (2005)::Crime|Thriller
@@ -14216,7 +14222,7 @@
 0425326::Outsourced (2006)::Comedy|Drama|Romance
 0425333::Pardon (2005)::Comedy|Drama
 0425350::Perumazhakkalam (2004)::Drama
-0425379::Pusher 3 (2005)::Crime|Drama|Thriller
+0425379::Pusher III (2005)::Crime|Drama|Thriller
 0425395::Relative Strangers (2006)::Comedy
 0425413::Run Fatboy Run (2007)::Comedy|Romance|Sport
 0425430::The Messengers (2007)::Horror|Mystery|Thriller
@@ -15661,6 +15667,7 @@
 0805576::Mýrin (2006)::Crime|Drama|Mystery|Thriller
 0805602::Inga tårar (2006)::
 0805640::Vacuum Killer (2006)::Comedy|Fantasy|Horror
+0805647::The Witches (2020)::Adventure|Comedy|Family|Fantasy|Horror|Mystery
 0806027::Blood: The Last Vampire (2009)::Action|Horror|Thriller
 0806088::Heyy Babyy (2007)::Comedy|Drama
 0806102::Jeff Dunham: Arguing with Myself (2006)::Documentary|Comedy
@@ -16598,6 +16605,7 @@
 1020558::Centurion (2010)::Action|Adventure|Drama|History|Thriller|War
 1020773::Copie conforme (2010)::Drama|Romance
 1020885::Lesbian Vampire Killers (2009)::Action|Comedy|Fantasy|Horror
+1020889::Mayak (2006)::Drama
 1020904::Takedowns and Falls (2010)::Documentary|Sport
 1020937::Awarapan (2007)::Action|Crime|Drama|Romance|Thriller
 1020955::Fuera de carta (2008)::Comedy|Romance
@@ -16736,7 +16744,7 @@
 1045772::I Love You Phillip Morris (2009)::Biography|Comedy|Crime|Drama|Romance
 1045778::Year One (2009)::Adventure|Comedy
 1045797::3 Hari Untuk Selamanya (2007)::Comedy|Drama
-1045831::Denias, Senandung di atas awan (2006)::
+1045831::Denias, Senandung di atas awan (2006)::Drama|Family
 1045889::Steal a Pencil for Me (2007)::Documentary|Romance
 1046163::My Best Friend's Girl (2008)::Comedy|Romance
 1046173::G.I. Joe: The Rise of Cobra (2009)::Action|Adventure|Sci-Fi|Thriller
@@ -16852,6 +16860,7 @@
 1069246::Habana Eva (2010)::Comedy|Romance
 1070855::Sailap jap baan lek (2007)::Comedy|Romance
 1070858::The Secrets of Jonathan Sperry (2008)::Drama
+1070874::The Trial of the Chicago 7 (2020)::Drama|History|Thriller
 1071203::Reflections (2008)::Crime|Drama|Horror
 1071211::Elvis & Madona (2010)::Comedy|Romance
 1071800::Kang Chul-jung: Gonggongui jeog 1-1 (2008)::Action|Comedy|Crime
@@ -17753,7 +17762,7 @@
 1235166::Un prophète (2009)::Crime|Drama
 1235170::The Future (2011)::Drama|Fantasy|Romance
 1235187::Where Hands Touch (2018)::Drama|Romance|War
-1235189::Wild Target (2009)::Action|Comedy|Crime
+1235189::Wild Target (2010)::Action|Comedy|Crime
 1235425::Glory at Sea (2008)::Short|Adventure
 1235448::The Thaw (2009)::Horror|Sci-Fi|Thriller
 1235522::Broken City (2013)::Crime|Drama|Thriller
@@ -19520,7 +19529,7 @@
 1568798::15 Till Midnight (2010)::Drama|Mystery|Sci-Fi
 1568799::All the Wrong Reasons (2013)::Comedy|Drama
 1568815::En familie (2010)::Drama
-1568863::Memory Lane (2010)::
+1568863::Memory Lane (2010)::Drama
 1568911::War Horse (2011)::Drama|History|War
 1568921::Kari-gurashi no Arietti (2010)::Animation|Adventure|Family|Fantasy
 1568929::The Mooring (2012)::Horror|Thriller
@@ -21228,6 +21237,7 @@
 1838475::Tomorrow You're Gone (2012)::Thriller
 1838520::Emanuel and the Truth about Fishes (2013)::Drama|Thriller
 1838544::Gone (2012)::Action|Adventure|Drama|Horror|Mystery|Thriller
+1838556::Honest Thief (2020)::Action|Crime|Drama|Romance|Thriller
 1838571::Juan de los Muertos (2011)::Action|Comedy|Horror
 1838588::La vallée des larmes (2012)::Drama
 1838603::Mr. Morgan's Last Love (2013)::Comedy|Drama|Romance
@@ -23229,6 +23239,7 @@
 2221648::Return to Nim's Island (2013)::Adventure|Family|Fantasy
 2221714::Volti (2013)::Short|Drama
 2221784::Shepard & Dark (2012)::Documentary|Drama
+2222042::Love and Monsters (2020)::Action|Adventure|Comedy
 2222142::Of Souls+ Water: The Nomad (2012)::Documentary|Adventure|Sport
 2222206::Dear Mr. Watterson (2013)::Documentary
 2222394::Nosotros los Nobles (2013)::Comedy
@@ -23305,6 +23316,7 @@
 2235248::Andre Gregory: Before and After Dinner (2013)::Documentary|Biography|Drama
 2235428::Til ungdommen (2012)::Documentary
 2235515::Fear Lives Here (2012)::Horror|Sci-Fi|Thriller
+2235695::Rebecca (2020)::Drama|Mystery|Romance|Thriller
 2235779::The Quiet Ones (2014)::Horror|Mystery|Thriller
 2235783::The Sheik and I (2012)::Documentary|Comedy
 2235902::Geography Club (2013)::Comedy
@@ -23646,6 +23658,7 @@
 2298384::Amour & turbulences (2013)::Comedy|Romance
 2298394::Free the Nipple (2014)::Comedy|Drama
 2298416::Suzanne (2013)::Drama
+2298465::Simdiki Zaman (2012)::Drama
 2298537::Water on the Road (2011)::Documentary|Music
 2298738::Fröken Julie (2013)::Drama|Romance
 2298766::Survivor Type (2012)::Short|Drama|Horror
@@ -26004,6 +26017,7 @@
 2948166::Dnevnik masinovodje (2016)::Comedy|Drama
 2948266::Dealin' with Idiots (2013)::Comedy
 2948356::Zootopia (2016)::Animation|Adventure|Comedy|Crime|Family|Mystery
+2948372::Soul (2020)::Animation|Adventure|Comedy|Family|Fantasy|Music
 2948426::ETXR (2014)::Adventure|Music|Sci-Fi
 2948472::Corazón de león (2013)::Comedy|Drama|Romance
 2948530::Wild for the Night (2016)::Crime|Music|Thriller
@@ -27295,7 +27309,7 @@
 3370702::Camp Death III in 2D! (2018)::Comedy|Horror
 3371366::Transformers: The Last Knight (2017)::Action|Adventure|Sci-Fi
 3374816::Wild in Blue (2014)::Romance|Thriller
-3374966::La Mafia Uccide solo d'Estate (2013)::Comedy|Crime
+3374966::La mafia uccide solo d'estate (2013)::Comedy|Crime
 3375108::Bebo Wa Bashir (2011)::Comedy|Drama
 3375154::Mangalashtak Once More (2013)::Drama|Romance
 3375370::The Gunfighter (2014)::Short|Comedy|Western
@@ -28688,6 +28702,7 @@
 3864056::The Goldfinch (2019)::Drama
 3864096::Marionetes (2015)::Mystery|Thriller
 3864758::Mei Gaau Siu Nui (2014)::Drama
+3864934::Los que aman odian (2017)::Drama
 3865478::11 minut (2015)::Drama|Thriller
 3865850::The Evil That Men Do (2015)::Thriller
 3867086::Made in Egypt: Soneia Fe Misr (2014)::Comedy|Family
@@ -29244,7 +29259,7 @@
 4131856::The Stowaway (2014)::Short|Sci-Fi
 4132250::Johnny Cash: American Rebel (2015)::Documentary
 4132518::Apopse trome stis Iokastis (2015)::Comedy
-4134712::Get Back Up (2020)::
+4134712::Get Back Up (2020)::Documentary|Biography|Music
 4134784::Lucent (2014)::Documentary
 4135076::Jätten (2016)::Drama|Sport
 4135844::Ixcanul (2015)::Drama
@@ -29283,6 +29298,7 @@
 4151320::Always at The Carlyle (2018)::Documentary
 4153324::Tjuvheder (2015)::Crime|Drama
 4153328::Dance Iranian Style (2015)::Documentary|Drama
+4153828::Manou the Swift (2019)::Animation|Adventure|Comedy|Family
 4154664::Captain Marvel (2019)::Action|Adventure|Sci-Fi
 4154728::Speed Sisters (2015)::Documentary|Adventure|Drama
 4154756::Avengers: Infinity War (2018)::Action|Adventure|Sci-Fi
@@ -29831,6 +29847,7 @@
 4438848::Neighbors 2: Sorority Rising (2016)::Comedy
 4439102::Officer Downe (2016)::Action|Comedy|Sci-Fi
 4439120::Riaru onigokko (2015)::Action|Fantasy|Horror|Mystery
+4439620::Redemption Day (2021)::Action|Romance
 4440036::Lost and Love (2015)::Drama
 4440114::Galaxy Kaidô (2015)::Comedy|Sci-Fi
 4440488::Achter de wolken (2016)::Drama
@@ -30006,7 +30023,7 @@
 4530804::Côpusu pâtî (2015)::Horror
 4530884::I Spit on Your Grave 3: Vengeance Is Mine (2015)::Horror|Thriller
 4532038::The War with Grandpa (2020)::Comedy|Family
-4532606::Buffalo (2015)::
+4532606::Buffalo (2015)::Drama|Mystery
 4532634::Califórnia (2015)::Drama|Romance
 4532818::Sophie and the Rising Sun (2016)::Drama
 4532826::Robin Hood (2018)::Action|Adventure|Thriller
@@ -31166,6 +31183,7 @@
 5143586::The Swaying Waterlily (2015)::Drama
 5143704::Green is Gold (2016)::Crime|Drama
 5144072::A Girl in the River: The Price of Forgiveness (2015)::Documentary|Short
+5144174::The Dry (2020)::Crime|Drama|Mystery|Thriller
 5144348::Burden (2016)::Documentary|Biography
 5144374::Liebmann (2016)::Drama|Romance|Thriller
 5146068::Wszystkie nieprzespane noce (2016)::Documentary|Drama
@@ -31270,6 +31288,7 @@
 5195412::Wakefield (2016)::Comedy|Drama
 5197544::Baar Baar Dekho (2016)::Comedy|Drama|Romance|Sci-Fi
 5197742::Chubby Funny (2016)::Comedy|Drama
+5198068::WolfWalkers (2020)::Animation|Adventure|Family|Fantasy
 5198670::Where Is Kyra? (2017)::Drama
 5198796::Izzy Gets the Fuck Across Town (2017)::Comedy|Drama|Music|Romance
 5199588::View from a Blue Moon (2015)::Action
@@ -31565,6 +31584,7 @@
 5361326::The Ninth Passenger (2018)::Action|Comedy|Horror|Thriller
 5362940::Eternal Beauty (2019)::Comedy|Drama|Romance
 5362988::Wind River (2017)::Crime|Drama|Mystery|Thriller
+5363618::Sound of Metal (2019)::Drama|Music
 5369246::Whitney Cummings: I'm Your Girlfriend (2016)::Comedy
 5369484::24 Wochen (2016)::Drama
 5370376::Fen shou zai shuo wo ai ni (2015)::Romance
@@ -32700,6 +32720,7 @@
 6075366::Kalb Balady (2016)::Comedy
 6075948::Maria per Roma (2016)::Comedy
 6076004::Love Birds (2017)::Drama
+6076194::Rom Boys: 40 Years of Rad (2020)::Documentary|Sport
 6076226::Rise of the Footsoldier 3 (2017)::Action|Comedy|Crime|Drama|Horror|Thriller
 6076366::Aandavan Kattalai (2016)::Drama
 6076810::Skid Row Marathon (2017)::Documentary
@@ -32718,6 +32739,7 @@
 6083230::Liteul poreseuteu (2018)::Drama
 6083388::Dang kou feng yun (2017)::Action|History
 6083648::Looking Glass (2018)::Mystery|Thriller
+6084030::Limitless (2017)::Documentary
 6084472::Casi leyendas (2017)::Comedy|Drama|Music
 6085308::Qualcosa di nuovo (2016)::Comedy
 6085482::7 minuti (2016)::Drama
@@ -32869,6 +32891,7 @@
 6170262::A Haunting at Silver Falls 2 (2019)::Horror
 6170506::Beast of Burden (2018)::Action|Crime|Drama|Thriller
 6170954::Naam Shabana (2017)::Action|Thriller
+6173484::Standing Up, Falling Down (2019)::Comedy|Drama
 6173644::Doo namja (2016)::Action
 6173902::Hulk: Where Monsters Dwell (2016)::Animation|Action|Fantasy|Sci-Fi
 6173990::Gold (2018)::Drama|History|Sport
@@ -33314,6 +33337,7 @@
 6472116::Bayoneta (2018)::Drama
 6472742::Darken (2017)::Fantasy|Horror|Sci-Fi
 6472976::Five Feet Apart (2019)::Drama|Romance
+6473066::Clouds (2020)::Drama|Music
 6474040::Stockholm (2018)::Biography|Comedy|Crime|Drama|History
 6474626::Corpo Elétrico (2017)::Drama
 6476140::Serenity (2019)::Drama|Mystery|Sci-Fi|Thriller
@@ -33451,6 +33475,7 @@
 6597612::Júlia ist (2017)::Drama
 6597824::Madre (2017)::Short|Drama|Thriller
 6598072::The Ranger (2018)::Horror
+6598238::Life in a Year (2020)::Drama|Romance
 6598290::My Nephew Emmett (2017)::Short|Drama|History
 6598626::Take Me (2017)::Comedy|Crime
 6599340::Bluebeard (2017)::Thriller
@@ -33468,6 +33493,7 @@
 6613812::Angrezi Mein Kehte Hain (2018)::Drama
 6613814::Solo (2017)::Action|Drama|Thriller
 6613878::Clara (2018)::Sci-Fi
+6613952::Encounter (2018)::Drama|Sci-Fi
 6616074::Amy Schumer: The Leather Special (2017)::Comedy
 6620846::Wasati (2016)::Short|Adventure|Comedy
 6622186::Ferrari: Race to Immortality (2017)::Documentary
@@ -33604,6 +33630,7 @@
 6770758::Daddy You, Daughter Me (2017)::Comedy|Drama|Fantasy
 6771444::Peppa Pig: My First Cinema Experience (2017)::Animation
 6772524::Trouble (2019)::Animation|Comedy|Family
+6772802::Hillbilly Elegy (2020)::Drama
 6772804::Escape Plan: The Extractors (2019)::Action|Thriller
 6772874::This Is Not What I Expected (2017)::Comedy|Drama|Romance
 6772950::Truth or Dare (2018)::Horror|Thriller
@@ -33673,6 +33700,7 @@
 6830412::El habitante (2017)::Horror
 6830780::Loosideu deurim (2017)::Sci-Fi|Thriller
 6832388::The Dark (2018)::Drama|Fantasy|Horror
+6834916::Legacy of Lies (2020)::Action|Thriller
 6835498::Khrustal (2018)::Drama
 6835804::Sakamichi no Apollon (2018)::Drama
 6838570::Walking Past the Future (2017)::Drama
@@ -33983,6 +34011,7 @@
 7125774::Ballon (2018)::Drama|History|Thriller
 7125860::If Beale Street Could Talk (2018)::Drama|Romance
 7126776::Stillwater (2018)::Mystery|Thriller
+7126948::Wonder Woman 1984 (2020)::Action|Adventure|Fantasy
 7127344::Love You to the Stars and Back (2017)::Adventure|Comedy|Drama|Romance
 7127652::Ayat-Ayat Cinta 2 (2017)::Drama
 7127700::Bonehill Road (2017)::Horror|Thriller
@@ -34040,6 +34069,7 @@
 7177720::Re loca (2018)::Comedy
 7178102::The Perception (2018)::Mystery|Thriller
 7178226::The Cave (2019)::Documentary|War
+7178640::Superintelligence (2020)::Comedy|Romance|Sci-Fi
 7179784::Irumbu Thirai (2018)::Action|Thriller
 7180392::Po.Ju (2017)::Crime
 7180544::Mukkabaaz (2017)::Action|Drama|Sport
@@ -34088,7 +34118,7 @@
 7221896::Cumali Ceber: Allah Seni Alsin (2017)::Comedy
 7223050::Kuang shou (2017)::Action|Crime|Thriller
 7227742::Plug Love (2017)::Drama
-7230054::Weight (2017)::
+7230054::Weight (2017)::Drama
 7230828::Doggy See Evil (2017)::Short|Horror
 7231342::La chute de l'empire américain (2018)::Comedy|Crime
 7231572::Not Cinderella's Type (2018)::Romance
@@ -34159,6 +34189,7 @@
 7292964::Manson: The Voice of Madness (2017)::Documentary
 7293168::Wasteland No.1 - Ardent, Verdant (2017)::Short
 7293380::Aos Teus Olhos (2017)::Drama
+7294150::Ba Bai (2020)::Action|Drama|History|War
 7294400::Mirreyes contra Godinez (2019)::Comedy
 7294534::Arjun Reddy (2017)::Action|Drama|Romance
 7295450::Between Worlds (2018)::Fantasy|Thriller
@@ -34175,6 +34206,7 @@
 7309654::Ilk Öpücük (2017)::Comedy|Romance
 7310906::Jerry Before Seinfeld (2017)::Documentary|Comedy
 7310916::Latin History for Morons: John Leguizamo's Road to Broadway (2018)::Documentary|Comedy
+7311036::Clementine (2019)::Drama
 7311634::Foreman (2017)::Documentary|Sport
 7312940::Singularity (2017)::Action|Adventure|Drama|Sci-Fi
 7313348::Them That Follow (2019)::Thriller
@@ -34735,6 +34767,7 @@
 7942736::Spider in the Web (2019)::Thriller
 7942742::Her Smell (2018)::Drama|Music
 7943040::Savarakathi (2018)::Comedy|Drama
+7945440::Between Earth and Sky (2018)::Crime|Drama|Horror|Mystery|Thriller
 7945596::Sacudete Las Penas (2018)::Drama
 7946216::Depraved (2019)::Drama|Horror|Thriller
 7946422::Prospect (2018)::Drama|Sci-Fi|Thriller
@@ -34766,6 +34799,7 @@
 7981492::Sabrina (2018)::Horror|Thriller
 7983794::Operation Odessa (2018)::Documentary
 7983844::Take Your Pills (2018)::Documentary
+7983894::Ammonite (2020)::Biography|Drama|Romance
 7984734::The Lighthouse (2019)::Drama|Fantasy|Horror|Mystery
 7984766::The King (2019)::Biography|Drama|History|Romance|War
 7985692::After the Wedding (2019)::Drama
@@ -34775,6 +34809,7 @@
 8000718::The Operative (2019)::Thriller
 8000908::Robert the Bruce (2019)::History
 8001346::Astérix: Le secret de la potion magique (2018)::Animation|Adventure|Comedy|Family|Fantasy
+8004664::Come Play (2020)::Drama|Horror|Mystery|Thriller
 8005338::Chris Rock: Tamborine (2018)::Documentary|Comedy
 8006460::Rashid &amp; Rajab (2019)::Comedy
 8009314::Burn (2019)::Thriller
@@ -34895,6 +34930,7 @@
 8137124::Masters of Resonance (2018)::Documentary|Music|Musical
 8139850::Mercury 13 (2018)::Documentary
 8140564::My Perfect You (2018)::Drama|Romance
+8143990::Kajillionaire (2020)::Crime|Drama
 8144778::The Redeemed and the Dominant: Fittest on Earth (2018)::Documentary
 8144834::Section 375 (2019)::Crime|Drama
 8144868::Pailalim (2017)::Crime|Drama
@@ -34955,7 +34991,7 @@
 8226904::Yakiniku Doragon (2018)::Drama|Family
 8228172::The Furies (2019)::Action|Horror|Thriller
 8228288::El hoyo (2019)::Horror|Sci-Fi|Thriller
-8228894::Djamilia (2018)::
+8228894::Djamilia (2018)::Documentary
 8228906::Eine Kleine Nachtmusik (2019)::Romance
 8230872::The Body Remembers When the World Broke Open (2019)::Drama
 8232648::A Christmas Carol (2018)::
@@ -34992,7 +35028,7 @@
 8282042::Donbass (2018)::Drama
 8284860::The Huntress: Rune of the Dead (2019)::Action|Horror|Thriller
 8286894::Rafiki (2018)::Drama|Romance
-8286974::Cerdita (2018)::
+8286974::Cerdita (2018)::Short|Drama
 8288450::Away (2019)::Animation|Adventure|Family|Fantasy|Mystery
 8289196::John McCain: For Whom the Bell Tolls (2018)::Documentary
 8290698::Gongjak (2018)::Drama
@@ -35039,6 +35075,7 @@
 8333746::Pinocchio (2019)::Fantasy
 8333792::Aarudhra (2018)::Drama
 8335880::Loro 2 (2018)::Biography
+8338762::The Nest (2020)::Drama|Romance
 8342680::The Burnt Orange Heresy (2019)::Action|Drama|Thriller
 8342748::Hari Kondabolu: Warn Your Relatives (2018)::Comedy
 8342946::Tig Notaro: Happy To Be Here (2018)::Comedy
@@ -35103,6 +35140,7 @@
 8426594::The Wind (2018)::Horror|Western
 8427036::Helicopter Eela (2018)::Drama
 8430598::Shirley (2020)::Biography|Drama|Thriller
+8431078::Friendsgiving (2020)::Comedy|Drama
 8434152::The Garden of Evening Mists (2019)::Drama|Romance
 8434380::Hidden Man (2018)::Action|Crime|Drama|History
 8435268::Soltera Codiciada (2018)::Comedy
@@ -35150,6 +35188,7 @@
 8503618::Hamilton (2020)::History|Musical
 8504014::Good Newwz (2019)::Comedy|Drama
 8510174::Brothers (2018)::Short|Drama
+8510324::Iyi Oyun (2018)::Comedy|Drama|Sport
 8510350::Satanic Panic (2019)::Comedy|Horror
 8510488::Christmas in the Wild (2019)::Comedy|Drama|Romance
 8512746::Kuntilanak (2018)::Comedy|Horror
@@ -35213,6 +35252,7 @@
 8629748::Spenser Confidential (2020)::Crime|Drama|Mystery|Thriller
 8630282::Azali (2018)::Drama
 8632862::Fahrenheit 11/9 (2018)::Documentary
+8633478::Run (2020)::Horror|Mystery|Thriller
 8633560::Lazy Susan (2020)::Comedy
 8637428::The Farewell (2019)::Comedy|Drama
 8637504::Disclosure: Trans Lives on Screen (2020)::Documentary
@@ -35244,12 +35284,14 @@
 8696440::Sibel (2018)::Drama
 8697266::Iliza: Elder Millennial (2018)::Comedy
 8698956::Lupt (2018)::Horror|Thriller
+8706884::Prassthanam (2019)::Action|Drama
 8707374::Hell House LLC II: The Abaddon Hotel (2018)::Horror
 8707922::Can You Keep a Secret? (2019)::Comedy|Romance
 8708304::I Trapped the Devil (2019)::Drama|Horror|Mystery
 8708802::Archimedes no Taisen (2019)::Action|Drama|Mystery|War
 8709036::A Christmas Prince: The Royal Wedding (2018)::Drama|Romance
 8710128::The Day After Valentine's (2018)::Romance
+8710596::Jungleland (2019)::Drama
 8712750::A.M.I. (2019)::Horror
 8713190::Ditte &amp; Louise (2018)::Comedy
 8717446::Blackbird (2019)::Drama
@@ -35285,7 +35327,7 @@
 8748256::Yol Arkadasim 2 (2018)::Comedy
 8748608::Deliler (2018)::Action|History|War
 8750570::Sergio (2020)::Drama
-8750702::Rewind (2019)::
+8750702::Rewind (2019)::Documentary|Drama
 8751804::Anons (2017)::Drama
 8751928::Palm Beach (2019)::Comedy|Drama
 8752440::Batman: Hush (2019)::Animation|Action|Adventure|Sci-Fi
@@ -35355,7 +35397,7 @@
 8866064::10 Days Before the Wedding (2018)::Comedy|Drama|Musical|Romance
 8869978::Batla House (2019)::Action|Crime|Thriller
 8875366::Guo chun tian (2018)::Drama
-8879396::Pariah Dog (2019)::
+8879396::Pariah Dog (2019)::Documentary
 8879946::Maiden (2018)::Documentary|Sport
 8880116::Hot Box (2019)::Comedy
 8882390::Tiffany Haddish: Black Mitzvah (2019)::Comedy
@@ -35395,6 +35437,7 @@
 8919194::Genius (2018)::
 8919396::Muklawa (2019)::Drama
 8923482::Born in China (2019)::Documentary|History
+8925540::Racetime (2018)::Animation|Adventure|Musical
 8936646::Extraction (2020)::Action|Drama
 8945942::Centigrade (2020)::Drama|Thriller
 8946378::Knives Out (2019)::Comedy|Crime|Drama|Mystery|Thriller
@@ -35478,6 +35521,7 @@
 9060526::Mo Amer: The Vagabond (2018)::Documentary|Comedy
 9063106::Paskal: The Movie (2018)::Action|Drama
 9063902::Vivir dos veces (2019)::Drama
+9067182::Rocks (2019)::Drama
 9068100::Répertoire des villes disparues (2019)::Drama|Fantasy
 9071322::Dark Waters (2019)::Biography|Drama|History
 9072352::Relic (2020)::Drama|Horror
@@ -35527,7 +35571,7 @@
 9150970::A pesar de todo (2019)::Comedy
 9151704::Burn the Stage: The Movie (2018)::Documentary|Music
 9163340::Khabsa - What Did I Mess (2018)::Comedy|Romance
-9168816::The Oscars (2019)::
+9168816::The Oscars (2019)::Music
 9169592::Wanda Sykes: Not Normal (2019)::Comedy
 9170648::Trevor Noah: Son of Patricia (2018)::Comedy
 9172422::La Belle Époque (2019)::Comedy|Drama
@@ -35540,7 +35584,7 @@
 9179260::Tôkyô gûru 'S' (2019)::Action|Drama|Fantasy|Horror|Thriller
 9185066::Human Capital (2019)::Crime|Drama
 9185316::I Am Woman (2019)::Biography|Drama|Music|Romance
-9190740::Bhajjo Veero Ve (2018)::
+9190740::Bhajjo Veero Ve (2018)::Comedy|Drama|Romance
 9193612::Kimi to, nami ni noretara (2019)::Animation|Comedy|Drama|Family|Fantasy|Romance
 9195844::Little Miss Sumo (2018)::Documentary|Short|Biography|Sport
 9196192::Mignonnes (2020)::Drama
@@ -35568,7 +35612,7 @@
 9226154::Krymskiy most. Sdelano s lyubovyu! (2018)::Romance
 9228950::Malibu Rescue (2019)::Action|Adventure|Comedy|Family
 9231040::First Cow (2019)::Drama
-9231140::A Man Called Ahok (2018)::
+9231140::A Man Called Ahok (2018)::Biography|Drama
 9239888::Lo spietato (2019)::Crime|Drama
 9243946::El Camino: A Breaking Bad Movie (2019)::Action|Drama
 9247314::Spiral (2019)::Thriller
@@ -35592,6 +35636,7 @@
 9275202::Breslin and Hamill: Deadline Artists (2018)::Documentary
 9279172::Ni xiang you guai (2018)::Crime|Mystery
 9282616::Wu ming zhi bei (2018)::Comedy
+9283920::The Rescue (2020)::Action
 9285882::Blue Story (2019)::Crime|Drama
 9288776::Baishe: Yuanqi (2019)::Animation|Fantasy|Romance
 9296808::Echo (2019)::Drama
@@ -35607,9 +35652,10 @@
 9319896::Airaa (2019)::Drama|Horror
 9327004::Perfect (2018)::Short|Comedy
 9328744::L'amore a domicilio (2019)::Comedy|Drama
+9340860::Let Him Go (2020)::Crime|Drama|Thriller
 9342846::Beyond The Spectrum - Being Taken (2018)::Documentary
 9345754::Hogar (2020)::Drama
-9345778::Douze mille (2019)::
+9345778::Douze mille (2019)::Drama
 9348296::Oh Baby... (2019)::Drama|Fantasy|Musical
 9348720::Der kleine Rabe Socke - Suche nach dem verlorenen Schatz (2019)::Animation|Family
 9349942::Russell Brand: Re:Birth (2018)::Comedy
@@ -35618,7 +35664,7 @@
 9353436::Mike Wallace Is Here (2019)::Documentary|Biography
 9354842::To All the Boys: P.S. I Still Love You (2020)::Drama|Romance
 9354944::Jexi (2019)::Comedy
-9355200::Koko-di Koko-da (2019)::Comedy|Horror
+9355200::Koko-di koko-da (2019)::Comedy|Horror
 9356952::The Death of Dick Long (2019)::Comedy|Crime|Drama
 9357242::Raving riot (2019)::Documentary
 9358044::Hail Satan? (2019)::Documentary
@@ -35634,7 +35680,7 @@
 9363602::WrestleMania 36 (2020)::
 9364210::Scare BNB (2019)::Thriller
 9368628::The New King of Comedy (2019)::Comedy|Drama
-9371780::Gun No 6 (2018)::
+9371780::Gun No 6 (2018)::Documentary|Crime
 9376172::The Least of These: The Graham Staines Story (2019)::Drama
 9378320::Watchman (2019)::Thriller
 9378850::Wu lin guai shou (2018)::Action|Fantasy
@@ -35710,6 +35756,7 @@
 9584814::Gloria Mundi (2019)::Drama
 9586294::Shao nian de ni (2019)::Drama|Romance
 9597190::Pegasus (2019)::Comedy|Sport
+9601220::Black Bear (2020)::Drama
 9612680::Human Nature (2019)::Documentary
 9614090::I Love You, Now Die: The Commonwealth v. Michelle Carter (2019)::Documentary
 9614460::Chhapaak (2020)::Drama
@@ -35720,8 +35767,9 @@
 9617712::The Chills: The Triumph and Tragedy of Martin Phillipps (2019)::
 9617716::Everybody's Everything (2019)::Documentary
 9619798::The Wrong Missy (2020)::Comedy
+9620292::Promising Young Woman (2020)::Comedy|Crime|Drama|Thriller
 9624470::Gromkaya svyaz (2019)::Comedy
-9625632::Mes jours de gloire (2019)::
+9625632::Mes jours de gloire (2019)::Comedy
 9625664::Trauma Center (2019)::Action|Crime|Thriller
 9626278::Fourteen (2019)::Drama
 9629026::xiao zhu pei qi guo da nian (2019)::Animation|Family
@@ -35743,7 +35791,7 @@
 9663702::The Secret Men Club (2019)::Comedy
 9664078::American Son (2019)::Drama
 9668594::Aidiyet (2019)::Crime|Drama|Romance
-9668966::Firardayiz (2017)::
+9668966::Firardayiz (2017)::Comedy
 9671828::Ghosts of Sugar Land (2019)::Documentary|Short
 9675192::Quiet Storm: The Ron Artest Story (2019)::
 9680136::Pati Patni Aur Woh (2019)::Comedy|Romance
@@ -35774,6 +35822,7 @@
 9765144::Gimyohan gajok (2019)::Comedy|Horror
 9766280::Bhangra Paa Le (2020)::Comedy|Drama|Music
 9766310::Kanpuriye (2019)::Drama
+9770150::Nomadland (2020)::Drama
 9770590::Amy Schumer Growing (2019)::Comedy
 9775360::Batman vs. Teenage Mutant Ninja Turtles (2019)::Animation|Action|Adventure|Comedy|Crime|Fantasy|Sci-Fi
 9777644::Da 5 Bloods (2020)::Drama|War
@@ -35787,7 +35836,7 @@
 9784456::The Kissing Booth 2 (2020)::Comedy|Romance
 9789686::Un rubio (2019)::Drama|Romance
 9794630::Hour of Lead (2020)::Action|Mystery|Thriller
-9800034::Heidi (2019)::
+9800034::Heidi (2019)::Drama
 9801736::Hvítur, hvítur dagur (2019)::Drama
 9805504::Otryv (2019)::Thriller
 9806192::J'ai perdu mon corps (2019)::Animation|Drama
@@ -35796,6 +35845,7 @@
 9806370::The Owners (2020)::Action|Thriller
 9809140::Todas las pecas del mundo (2019)::Comedy
 9810090::Kyô mo iyagarase bentô (2019)::Family
+9812614::Håp (2019)::Drama|Romance
 9815714::The Hard Way (2019)::Action
 9815998::Hooking Up (2020)::Comedy|Drama
 9816396::Kaguya-sama wa kokurasetai ~ Tensai tachi no ren'ai zunô sen ~ (2019)::Comedy|Drama|Romance
@@ -35806,23 +35856,27 @@
 9817760::Jai Mummy Di (2020)::Comedy|Drama|Romance
 9818102::Yowis Ben 2 (2019)::Comedy|Drama
 9820352::Villain (2020)::Crime
+9820556::Breach (2020)::Action|Sci-Fi
 9820594::Misteri Dilaila (2019)::Horror|Thriller
 9822474::Into the Canyon (2019)::Documentary
 9822706::Wet Season (2019)::Drama
+9827834::Sylvie's Love (2020)::Drama|Music|Romance
 9831136::The Banana Splits Movie (2019)::Comedy|Horror|Sci-Fi|Thriller
 9845110::Deux (2019)::Comedy|Drama
 9845398::Fin de siglo (2019)::Drama
 9850370::AnneFrank - Parallel Stories (2019)::Documentary|Drama|History
+9850386::The Bee Gees: How Can You Mend a Broken Heart (2020)::Documentary
 9855978::Drømmebyggerne (2020)::Animation
 9860728::Falling Inn Love (2019)::Comedy|Romance
 9866700::Paranormal Investigation (2018)::Horror|Thriller
 9866736::Rise: Ini Kalilah (2018)::
 9870402::Oprah Winfrey Presents: After Neverland (2019)::Talk-Show
-9876288::Zero Impunity (2019)::
+9876288::Zero Impunity (2019)::Documentary
 9877170::Malang - Unleash the Madness (2020)::Action|Romance
 9878598::Huisvrouwen bestaan niet 2 (2019)::Comedy
 9880982::Dulce Familia (2019)::Comedy
 9882084::Chasing Happiness (2019)::Documentary
+9892094::Mogul Mowgli (2020)::Drama
 9894470::VFW (2019)::Action|Horror
 9894894::Kaviar (2019)::Comedy
 9898858::Coffee &amp; Kareem (2020)::Action|Comedy
@@ -35860,6 +35914,7 @@
 10066162::Lao shi · Hao (2019)::Drama
 10068916::Made in Abyss: Fukaki Tamashî no Reimei (2020)::Animation|Adventure|Fantasy|Mystery|Sci-Fi|Thriller
 10077998::Le Miracle du Saint Inconnu (2019)::Comedy|Crime
+10081762::Breaking Surface (2020)::Action|Drama|Thriller
 10084190::Chandigarh amritsar chandigarh (2019)::Comedy|Drama|Romance
 10090796::Game of Thrones: The Last Watch (2019)::Documentary
 10091530::Holiday Rush (2019)::Comedy|Romance
@@ -35884,9 +35939,11 @@
 10154910::In the Time It Takes to Get There (2019)::Short|Comedy
 10161238::Geolkapseu (2019)::Comedy|Crime
 10161398::The 71st Primetime Emmy Awards (2019)::News|Reality-TV
+10161886::The Prom (2020)::Comedy|Drama|Musical
 10182822::Loro (2018)::Biography|Drama
 10183542::Firincinin Karisi (2019)::Comedy
 10183816::Dangerous Lies (2020)::Horror|Thriller
+10192566::Alone (2020)::Horror|Thriller
 10194676::Drop (2019)::Animation|Short
 10194686::Elephant in the Room (2019)::Animation|Short
 10194696::Exchange Student (2019)::Animation|Short
@@ -35897,6 +35954,7 @@
 10199586::Atlantique (2019)::Drama
 10199590::Les misérables (2019)::Drama
 10199640::Dylda (2019)::Drama
+10199914::The Boys in the Band (2020)::Drama
 10204366::Trois jours et une vie (2019)::Drama|Thriller
 10206614::Chiisana koi no uta (2019)::
 10208194::Family Romance, LLC (2019)::Drama
@@ -35912,6 +35970,7 @@
 10229054::Hair-Jitsu (2019)::Animation|Short
 10229066::Jing Hua (2019)::Animation|Short
 10229080::Just a Thought (2019)::Animation|Short
+10229558::The Dark and the Wicked (2020)::Horror
 10230404::Ghost Stories (2019)::Horror|Thriller
 10230422::Class of 83 (2020)::Crime|Drama|Thriller
 10230426::Mrs. Serial Killer (2020)::Drama|Crime
@@ -35934,6 +35993,8 @@
 10275440::K-13 (2019)::Mystery|Thriller
 10276470::Work It (2020)::Comedy|Music
 10279010::Chui lung II (2019)::Action|Biography|Crime|Thriller
+10280276::Coolie No. 1 (2020)::Comedy
+10288566::Druk (2020)::Comedy|Drama
 10289996::The Black Godfather (2019)::Documentary
 10291544::Cetto c'è senzadubbiamente (2019)::Comedy
 10295602::Shi tu xing zhe 2: Die ying xing dong (2019)::Action|Crime|Thriller
@@ -35941,7 +36002,7 @@
 10300174::Lynn + Lucy (2019)::Drama
 10303324::Survive the Night (2020)::Action|Thriller
 10305932::The Oscars (2020)::Music
-10306228::This Is Paris (2020)::
+10306228::This Is Paris (2020)::Documentary
 10307440::Jusqu'au déclin (2020)::Thriller
 10308928::Force of Nature (2020)::Action|Drama
 10309218::Burûawâ ni buttobasu (2019)::Drama
@@ -35982,6 +36043,7 @@
 10384208::Olla (2019)::Short
 10384744::La odisea de los giles (2019)::Adventure|Comedy|Crime|Drama|History|Thriller
 10385460::Shakuhachi: One Sound One Life (2019)::Documentary
+10394738::I Am Greta (2020)::Documentary|Biography
 10397734::The Set Up (2019)::Crime|Drama
 10407272::Deux moi (2019)::Comedy|Drama|Family|Romance
 10409498::Seules les bêtes (2019)::Thriller
@@ -36024,6 +36086,7 @@
 10508182::In Paradox (2019)::Mystery|Thriller
 10510654::The Battle: Roar to Victory (2019)::Action|Drama|History|War
 10511826::Parchís: El documental (2019)::Documentary
+10514222::Ma Rainey's Black Bottom (2020)::Drama|Music
 10515086::The Blue Elephant 2 (2019)::Drama|Horror|Mystery|Thriller
 10515526::Lootcase (2020)::Comedy
 10516086::Vernost (2019)::Drama
@@ -36034,11 +36097,14 @@
 10521638::Whitney Cummings: Can I Touch It? (2019)::Comedy
 10521814::K-12 (2019)::Fantasy|Horror|Musical
 10524262::Missing 411: The Hunted (2019)::Documentary
+10525672::Serebryanye konki (2020)::Adventure|Drama|Family|History|Romance
 10526632::Heat Singers (2019)::Documentary
+10530176::Kol (2020)::Horror|Mystery|Thriller
 10530286::Biseuteo (2019)::Action|Crime|Thriller
 10530392::Penalty (2019)::Sport
 10532840::Who Killed Garrett Phillips? (2019)::Documentary
 10535594::Rounds (2019)::Crime|Drama
+10539608::The Midnight Sky (2020)::Drama|Fantasy|Sci-Fi|Thriller
 10540024::Bumi Manusia (2019)::Drama|History
 10540242::The Main Event (2020)::Action|Comedy|Family
 10541028::Gotro (2019)::Drama
@@ -36062,13 +36128,17 @@
 10589914::Ai-naki mori de sakebe (2019)::Crime|Horror|Thriller
 10589924::Bridezilla (2019)::Comedy|Drama
 10598260::Mo (2019)::Drama
+10600398::We Can Be Heroes (2020)::Action|Comedy|Drama|Family|Fantasy
 10603466::A Febre (2019)::
 10608668::Vikrithi (2019)::Comedy
 10615388::Sedução da Carne (2018)::Drama
+10618286::Mank (2020)::Biography|Comedy|Drama
 10620868::Saraitda (2020)::Action|Drama|Horror|Thriller
 10621032::Lupin III: The First (2019)::Animation|Action|Adventure|Comedy|Family|Mystery
+10627584::La vita davanti a sé (2020)::Drama
 10627720::Ne Zha zhi mo tong jiang shi (2019)::Animation|Fantasy|Thriller
 10627858::Vai que Cola 2: O Começo (2019)::Comedy
+10633456::Minari (2020)::Drama
 10640766::Toko Barang Mantan (2020)::Comedy|Drama|Romance
 10643608::Apocalypse Now: Final Cut (2019)::Drama|Mystery|War
 10643918::Guru-Guru Gokil (2020)::Comedy|Drama
@@ -36077,6 +36147,7 @@
 10645308::Jeritan Malam (2019)::Horror
 10648440::Eksiteu (2019)::Adventure|Comedy
 10648648::Extraordinary: The Seeding (2019)::Documentary
+10649016::Safety (2020)::Biography|Drama|Sport
 10655608::David Foster: Off the Record (2019)::Documentary
 10655710::Long Time Ago (2019)::Drama|Mystery
 10656188::Ratu Ilmu Hitam (2019)::Horror|Mystery|Thriller
@@ -36087,13 +36158,14 @@
 10675392::Saezuru Tori Wa Habatakanai: The Clouds Gather (2020)::Animation|Crime|Drama|Romance
 10682000::Sound &amp; Fury (2019)::Animation|Short
 10687158::Western Stars (2019)::Documentary|Music
-10692888::Ponmagal Vandhal (2020)::
+10692888::Ponmagal Vandhal (2020)::Crime|Drama|Thriller
 10695638::Superstar (2019)::Drama|Musical|Romance
 10696882::Khayal Maata (2019)::Comedy|Drama
 10698426::Lampor: Keranda Terbang (2019)::Drama|Horror|Mystery
 10698468::Danur 3: Sunyaruri (2019)::Horror
 10699348::Rundfunk: Jachterwachter (2020)::Comedy
 10701384::Very Ralph (2019)::Documentary
+10701458::Castle Freak (2020)::Horror
 10702760::National Theatre Live: Fleabag (2019)::Comedy
 10711648::Comali (2019)::Comedy
 10714856::Feel the Beat (2020)::Drama
@@ -36102,11 +36174,12 @@
 10726604::Bad Guys: The Movie (2019)::Action
 10726756::Pretty Boys (2019)::Comedy|Drama
 10728764::Nadie Sabe Que Estoy Aquí (2020)::Drama
+10731386::Audrey (2020)::Documentary
 10731748::Modo Avião (2020)::Comedy|Romance
 10735778::Lethal Kittens or how we came to Love our Shovels during a Limited Anti-Terrorist Operation with Temporary Elements of a State of War (2020)::Comedy
 10736336::Ask, Buyu vs (2019)::Drama
 10737904::Kazhugu 2 (2019)::Comedy|Crime
-10749760::Bik Eneich: Un Fils (2019)::Drama
+10749760::Bik Eneich: Un fils (2019)::Drama
 10749998::The Money (2019)::Action|Comedy
 10756126::Downtown (2019)::Short
 10758534::One Day in the Life of Noah Piugattuk (2019)::Drama
@@ -36118,6 +36191,7 @@
 10767426::Tekst (2019)::Drama|Thriller
 10773114::Nanti Kita Cerita Tentang Hari Ini (2020)::Drama
 10776270::Sebelum Iblis Menjemput: Ayat Dua (2020)::Horror|Mystery|Thriller
+10779084::Red Penguins (2019)::Documentary|Sport
 10785310::Três Verões (2019)::Drama
 10795784::Leslie Jones: Time Machine (2020)::Comedy
 10799940::Love Is War (2019)::Drama
@@ -36129,7 +36203,9 @@
 10816484::18 regali (2020)::Drama
 10818938::Mariam (2019)::Drama
 10830086::Maria Bamford: Weakness Is the Brand (2020)::Comedy
+10831086::Pixie (2020)::Comedy|Crime|Thriller
 10843306::The Beach House (2019)::Horror
+10844816::Scandalous: The Untold Story of the National Enquirer (2019)::Documentary
 10845262::Miracle in Cell No. 7 (2019)::Drama
 10847138::Hello, Privilege. It's Me, Chelsea (2019)::Documentary
 10847194::Jeff Dunham: Beside Himself (2019)::Comedy
@@ -36185,6 +36261,7 @@
 11022284::Yangjamoolrihak (2019)::Action|Comedy|Crime|Thriller
 11023922::Spirits in the Forest (2019)::Documentary|Music
 11024272::The Babysitter: Killer Queen (2020)::Comedy|Horror
+11032374::Kimetsu no Yaiba: Mugen Ressha-Hen (2020)::Animation|Action|Adventure|Fantasy
 11032990::Malibu Rescue: The Next Wave (2020)::Action|Adventure|Comedy|Family
 11033952::Square One (2019)::Documentary
 11041584::Jesus Is King (2019)::Music
@@ -36213,6 +36290,7 @@
 11127878::Milea: Suara dari Dilan (2020)::Drama|Romance
 11151982::Goblin Slayer: Goblin's Crown (2020)::Animation
 11156614::Dead Kids (2019)::Thriller
+11161474::Pieces of a Woman (2020)::Drama
 11162992::Lorena, La de pies ligeros (2019)::Documentary|Short|Sport
 11163014::Mike Birbiglia: The New One (2019)::Comedy
 11163028::House Arrest (2019)::Comedy
@@ -36226,8 +36304,10 @@
 11187956::Abracadabra (2019)::Comedy|Drama
 11192608::Immortal (2019)::Documentary
 11197082::Margaret Atwood: A Word after a Word after a Word is Power (2019)::Documentary
+11204336::Bikeman 2 (2019)::Comedy
 11210032::Wu sha (2019)::Crime|Drama|Thriller
 11212096::In Search of the Earth-Mother of Anatolia (2019)::Documentary|History
+11213372::Azizler (2021)::
 11230868::Kappela (2020)::Comedy|Romance
 11238048::Black Money (2019)::Crime|Drama|Thriller
 11240996::Darah Daging (2019)::Action|Crime|Drama
@@ -36250,6 +36330,7 @@
 11342846::Reel Rock 14 (2019)::Documentary|Adventure|Sport
 11343842::Bozkir (2019)::Drama
 11353562::The Irishman: In Conversation (2019)::Documentary|Short
+11354168::The Perfect Weapon (2020)::Documentary
 11358398::Namsanui bujangdeul (2020)::History|Thriller
 11362470::E.T.: A Holiday Reunion (2019)::Short|Family|Sci-Fi
 11368696::I am the Sea (2020)::Drama
@@ -36259,6 +36340,7 @@
 11388406::Horse Girl (2020)::Drama
 11388580::Miss Americana (2020)::Documentary
 11390036::A Fall from Grace (2020)::Thriller
+11391604::Once Upon a Time in Venezuela (2020)::Documentary
 11394168::Be Water (2020)::Documentary
 11394188::Spaceship Earth (2020)::Documentary
 11394332::Spree (2020)::Comedy|Thriller
@@ -36306,16 +36388,19 @@
 11649428::Ras El Sana (2020)::Drama
 11649614::Hitman: Agent Jun (2020)::Action|Comedy
 11651780::Choked: Paisa Bolta Hai (2020)::Drama
+11651796::AK vs AK (2020)::Comedy|Drama|Thriller
+11656548::Mother: Mazâ (2020)::Drama|Thriller
 11697832::DAU. Natasha (2020)::Drama
 11698280::Pretending I'm a Superman: The Tony Hawk Video Game Story (2020)::Documentary
 11708788::Mekah I'm Coming (2020)::Comedy
 11709306::Piremardha nemimirand (2019)::Comedy|Drama
 11727052::The Closet (2020)::Horror|Mystery
-11734696::Sí mi amor, la película (2020)::
+11734696::Sí mi amor, la película (2020)::Comedy
 11736170::Whitmer Thomas: The Golden One (2020)::Comedy
 11738792::Taylor Tomlinson: Quarter-Life Crisis (2020)::Comedy
 11744784::Barrymore: The Body in the Pool (2020)::Documentary|Crime
 11749480::Shooter (2020)::Action
+11750282::Voces (2020)::Drama|Horror|Thriller
 11769162::Santana (2020)::Action
 11777040::Sanyangeui sigan (2020)::Crime|Drama|Sci-Fi|Thriller
 11777298::DAU. Degeneratsiya (2020)::Drama
@@ -36330,7 +36415,7 @@
 11812338::Honest Candidate (2020)::
 11833648::Shams al-Maaref (2020)::Comedy
 11835270::My Truth (2020)::Documentary
-11860624::Michael McIntyre: Showman (2020)::
+11860624::Michael McIntyre: Showman (2020)::Comedy
 11861072::Tom Segura: Ball Hog (2020)::Comedy
 11898442::Playdate with Destiny (2020)::Animation|Short|Adventure|Comedy
 11903004::Hotel Belgrade (2020)::Comedy|Romance
@@ -36351,9 +36436,11 @@
 12078990::Money Heist: The Phenomenon (2020)::Documentary
 12079068::Sol Levante (2020)::Short|Animation
 12093878::LEGO DC Shazam!: Magic and Monsters (2020)::Animation|Family
+12108272::Close Encounters of the Fifth Kind (2020)::Documentary
 12117854::Jerry Seinfeld: 23 Hours to Kill (2020)::Comedy
 12131262::Out of Shadows (2020)::Documentary
 12133722::Have a Good Trip: Adventures in Psychedelics (2020)::Documentary
+12137964::Anything for Jackson (2020)::Horror
 12146952::Patton Oswalt: I Love Everything (2020)::Comedy
 12179904::Magnum Dopus: The Making of Jay and Silent Bob Reboot (2020)::Documentary
 12192654::Planet of the Humans (2019)::Documentary
@@ -36367,6 +36454,7 @@
 12366826::Out (2020)::Animation|Short
 12393526::Bulbbul (2020)::Horror
 12397778::A Hundred Years of Happiness (2020)::Documentary
+12459520::De Familie Claus (2020)::Family|Fantasy
 12479746::John L. Waller: Striving for Equality (2010)::Documentary
 12498582::Bhanumathi &amp; Ramakrishna (2020)::Comedy|Drama|Romance
 12498618::8:46 (2020)::Comedy
@@ -36375,9 +36463,17 @@
 12587564::Coastal Elites (2020)::Comedy
 12588160::Jim Jefferies: Intolerant (2020)::Comedy
 12607910::Black Is King (2020)::Music
+12644232::Lie huang zhe (2020)::Drama
 12724622::Anelka: Misunderstood (2020)::Documentary|Sport
+12734800::The Plot Against the President (2020)::Documentary
 12749596::Host (2020)::Horror
 12762684::In My Room (2020)::Short|Drama
 12875782::Freaks: You're One of Us (2020)::Action|Drama|Fantasy|Sci-Fi
 12888462::My Octopus Teacher (2020)::Documentary
 12920708::Joker: Put on A Happy Face (2020)::Documentary
+12987894::American Murder: The Family Next Door (2020)::Documentary|Crime
+13055780::A California Christmas (2020)::Comedy|Drama|Romance
+13167288::Burrow (2020)::Animation|Short|Family
+13210996::Samjin Group Yeong-aw TOEIC-ban (2020)::Comedy|Drama
+13567480::Death to 2020 (2020)::Comedy
+13696668::Tony Parker: The Final Shot (2021)::Documentary|Biography|Sport
