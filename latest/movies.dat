@@ -283,6 +283,7 @@
 0021755::Come Clean (1931)::Short|Comedy
 0021785::Daughter of the Dragon (1931)::Crime|Drama
 0021814::Dracula (1931)::Fantasy|Horror
+0021815::Drácula (1931)::Drama|Fantasy|Horror
 0021861::Fighting Caravans (1931)::Romance|Western
 0021884::Frankenstein (1931)::Drama|Horror|Sci-Fi
 0021885::A Free Soul (1931)::Crime|Drama|Romance
@@ -6486,6 +6487,7 @@
 0091055::Firewalker (1986)::Action|Adventure|Comedy
 0091059::Flight of the Navigator (1986)::Adventure|Family|Sci-Fi
 0091064::The Fly (1986)::Drama|Horror|Sci-Fi
+0091069::Fortress (1985)::Action|Adventure|Thriller
 0091080::Friday the 13th Part VI: Jason Lives (1986)::Horror|Thriller
 0091081::The Fringe Dwellers (1986)::Drama
 0091083::From Beyond (1986)::Horror|Sci-Fi
@@ -13363,6 +13365,7 @@
 0371853::La monja (2005)::Drama|Horror|Thriller
 0371894::Preet Na Jane Reet (1966)::Romance
 0371908::Raja Saab (1969)::Romance
+0372122::Adam &amp; Steve (2005)::Comedy|Drama|Music|Romance
 0372183::The Bourne Supremacy (2004)::Action|Mystery|Thriller
 0372237::Guess Who (2005)::Comedy|Romance
 0372279::Festival Express (2003)::Documentary|History|Music
@@ -17202,6 +17205,7 @@
 1137455::Fire from Below (2009)::Adventure
 1137470::Accidental Love (2015)::Comedy|Romance
 1137481::Soo (2007)::Action|Drama|Thriller
+1137994::3-Day Weekend (2008)::Drama|Romance
 1138442::Moo-jeok-ja (2010)::Action|Drama
 1138481::Sonny Boy (2011)::Biography|Drama|Romance|War
 1138489::Personal Effects (2009)::Drama
@@ -23196,7 +23200,7 @@
 2210463::Battle of the Damned (2013)::Action|Adventure|Horror|Sci-Fi|Thriller
 2210479::Berserk: Ougon Jidai-hen I - Haou no Tamago (2012)::Animation|Action|Adventure|Drama|Fantasy|Horror|War
 2210509::Bolbol Hayran (2010)::Comedy|Romance
-2210581::Ellembi 8 Gega (2010)::
+2210581::Ellembi 8 Gega (2010)::Comedy|Drama
 2210769::Liza, a rókatündér (2015)::Comedy|Fantasy|Romance
 2210781::Lullaby (2014)::Drama
 2210834::Jimmy P. (2013)::Biography|Drama|Thriller
@@ -27497,7 +27501,7 @@
 3433358::Elle l'adore (2014)::Comedy|Drama|Thriller
 3433632::L'affaire SK1 (2014)::Crime|Drama
 3433668::Le jeu de la vérité (2014)::Comedy
-3437354::Ti offro da bere (2015)::
+3437354::Ti offro da bere (2015)::Comedy
 3437622::Thomas Bennett (2013)::Documentary|Short|Biography
 3437996::Five-O (2016)::Action|Comedy
 3438208::No Letting Go (2015)::Drama
@@ -33813,6 +33817,7 @@
 6900448::Mirai no Mirai (2018)::Animation|Adventure|Drama|Family|Fantasy
 6900644::Hasan Minhaj: Homecoming King (2017)::Documentary|Comedy
 6901252::Tueurs (2017)::Thriller
+6902332::The Marksman (2021)::Action|Thriller
 6902676::Guns Akimbo (2019)::Action|Comedy
 6902696::Gloria Bell (2018)::Comedy|Drama|Romance
 6903200::Maacher Jhol (2017)::Drama
@@ -35654,6 +35659,7 @@
 9231040::First Cow (2019)::Drama
 9231140::A Man Called Ahok (2018)::Biography|Drama
 9239888::Lo spietato (2019)::Crime|Drama
+9243442::Te jing dui (2019)::Action
 9243946::El Camino: A Breaking Bad Movie (2019)::Action|Drama
 9247314::Spiral (2019)::Thriller
 9248940::Dream Girl (2019)::Comedy|Romance
@@ -36068,6 +36074,7 @@
 10324144::Article 15 (2019)::Crime|Drama|Thriller
 10325030::Að sjá hið ósýnilega (2019)::Documentary
 10327712::LEGO DC: Batman - Family Matters (2019)::Animation
+10329134::The Name Engraved in Your Heart (2020)::Drama|Romance
 10332256::Hannah Gadsby: Douglas (2020)::Comedy
 10332672::Annem (2019)::Drama
 10333912::Gulabo Sitabo (2020)::Comedy|Drama
@@ -36096,6 +36103,7 @@
 10384744::La odisea de los giles (2019)::Adventure|Comedy|Crime|Drama|History|Thriller
 10385460::Shakuhachi: One Sound One Life (2019)::Documentary
 10394738::I Am Greta (2020)::Documentary|Biography
+10394822::Susi Susanti: Love All (2019)::Biography|Drama|Sport
 10397734::The Set Up (2019)::Crime|Drama
 10407272::Deux moi (2019)::Comedy|Drama|Family|Romance
 10409498::Seules les bêtes (2019)::Thriller
@@ -36489,6 +36497,7 @@
 11958344::Nakitai watashi wa neko wo kaburu (2020)::Animation
 11975230::The Skywalker Legacy (2020)::Documentary
 11987296::Chris D'Elia: No Pain (2020)::Comedy
+12011442::Burn the Witch (2020)::Animation|Action|Fantasy
 12027020::LA Originals (2020)::Documentary
 12036052::Elephant (2020)::Documentary|Adventure|Biography|Family
 12038300::The Speed Cubers (2020)::Documentary|Short
