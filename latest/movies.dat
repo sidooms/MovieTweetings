@@ -1725,7 +1725,7 @@
 0045183::Spartaco (1953)::Adventure|History
 0045186::The Star (1952)::Drama|Romance
 0045190::The Steel Trap (1952)::Crime|Drama|Film-Noir
-0045192::The Stooge (1952)::Comedy|Drama|Musical
+0045192::The Stooge (1951)::Comedy|Drama|Musical
 0045205::Sudden Fear (1952)::Film-Noir|Thriller
 0045223::One Way Ticket to Hell (1955)::Crime|Drama
 0045257::Treasure Hunt (1952)::Comedy
@@ -4084,6 +4084,7 @@
 0068863::Lisa e il diavolo (1973)::Horror|Mystery
 0068899::Les dupes (1972)::Drama
 0068909::Man of La Mancha (1972)::Drama|Fantasy|Musical|Romance
+0068918::Manson (1973)::Documentary|Biography|Crime
 0068931::The Mechanic (1972)::Action|Crime|Thriller
 0068935::Meng long guo jiang (1972)::Action|Adventure|Crime|Drama|Thriller
 0068938::Mere Jeevan Saathi (1972)::Drama|Adventure|Action
@@ -11665,7 +11666,7 @@
 0252592::Katma deger Saban (1985)::Comedy
 0252596::Keriz (1985)::Comedy|Romance
 0252597::Kibar Feyzo (1978)::Comedy|Drama
-0252600::Kilibik (1983)::
+0252600::Kilibik (1983)::Comedy|Drama
 0252602::Kiraci (1987)::Comedy|Drama
 0252607::Koltuk belasi (1990)::Comedy|Drama
 0252619::Köyden Indim Sehire (1974)::Adventure|Comedy|Drama
@@ -17743,7 +17744,7 @@
 1230194::De storm (2009)::Action|Drama|History
 1230204::Sammy's avonturen: De geheime doorgang (2010)::Animation|Adventure|Family
 1230211::Perkins' 14 (2009)::Horror|Thriller
-1230213::Reversal (2015)::Horror|Thriller
+1230213::Bound to Vengeance (2015)::Horror|Thriller
 1230215::Not Fade Away (2012)::Drama
 1230376::Hanah's Gift (2008)::Horror|Thriller
 1230385::Hwanghae (2010)::Action|Drama|Thriller
@@ -33367,7 +33368,7 @@
 6449336::Belle et Sébastien 3, le dernier chapitre (2017)::Adventure|Family
 6449504::Diep Vu Chan Dai (2016)::
 6449684::Tia Tui La Cao Thu (2016)::
-6450162::Helm Al Omr (2009)::
+6450162::Helm Al Omr (2009)::Sport
 6450186::I Can Only Imagine (2018)::Biography|Drama|Family|Music
 6450662::End Trip (2018)::Horror|Thriller
 6450752::Puppy (2017)::Animation|Short|Comedy|Family|Fantasy
@@ -34664,6 +34665,7 @@
 7694570::The Final Quarter (2019)::Documentary|Biography|History|Sport
 7695134::Juice (2017)::Short|Drama|Fantasy
 7697712::Sharing Christmas (2017)::Romance
+7698468::A Call to Spy (2019)::Biography|Crime|Drama|Thriller|War
 7700730::October (2018)::Drama|Romance
 7706168::The Spy Who Fell to Earth (2019)::Documentary|Mystery
 7707314::Lionheart (2018)::Comedy
@@ -34794,7 +34796,7 @@
 7887532::Tooth and Nail (2017)::Short
 7888070::Joueurs (2018)::Drama
 7888178::Jar of Ashes (2018)::Short|Drama
-7889414::The Man Behind the Microphone (2017)::
+7889414::The Man Behind the Microphone (2017)::Documentary|Biography
 7891970::Never Be Done: The Richard Glen Lett Story (2020)::Documentary|Biography|Comedy|Drama
 7892050::Chekka Chivantha Vaanam (2018)::Action|Crime|Drama|Thriller
 7893416::Une jeunesse dorée (2019)::Drama
@@ -35136,6 +35138,7 @@
 8322828::Aydede (2018)::
 8323104::Nancy Drew and the Hidden Staircase (2019)::Crime|Drama|Family|Mystery
 8323120::La vérité (2019)::Drama
+8323914::Russkie evrei. Film vtoroy. 1918-1948 (2017)::Documentary|History
 8324462::Cucuy: The Boogeyman (2018)::Horror|Thriller
 8324474::Hope Aur Hum (2018)::Comedy|Drama|Family
 8324576::Gatao 2: The New King (2018)::Crime
@@ -35767,6 +35770,7 @@
 9358200::Miles Davis: Birth of the Cool (2019)::Documentary|Music
 9358204::The Great Hack (2019)::Documentary
 9358228::Untouchable (2019)::Documentary|Biography
+9358256::Shooting the Mafia (2019)::Documentary|Biography
 9359344::Te quiero, imbécil (2020)::Comedy
 9359680::Sesuai Aplikasi (2018)::
 9363208::The Guest (2018)::Thriller
@@ -36059,6 +36063,7 @@
 10194686::Elephant in the Room (2019)::Animation|Short
 10194696::Exchange Student (2019)::Animation|Short
 10194740::Fetch (2019)::Animation|Short
+10195452::American Skin (2019)::Drama
 10195976::Zui hao de wo men (2019)::Drama|Romance
 10196142::Rahman 1400 (2019)::Comedy|Drama
 10198072::Don't Let Them In (2020)::Horror
@@ -36125,6 +36130,7 @@
 10310222::Storozh (2019)::Drama|Thriller
 10312140::Provence (2019)::Short
 10313218::Raising Kratos (2019)::Documentary
+10313876::The Art of Political Murder (2020)::Documentary|Crime
 10314450::Becky (2020)::Action|Thriller
 10320050::Aykut Eniste (2019)::Comedy|Family
 10323214::The Blackwell Ghost 3 (2019)::Horror
@@ -36249,7 +36255,7 @@
 10589924::Bridezilla (2019)::Comedy|Drama
 10598260::Mo (2019)::Drama
 10600398::We Can Be Heroes (2020)::Action|Comedy|Drama|Family|Fantasy
-10603466::A Febre (2019)::
+10603466::A Febre (2019)::Drama|Mystery|Thriller
 10608668::Vikrithi (2019)::Comedy
 10612922::One Night in Miami (2020)::Drama
 10615388::Sedução da Carne (2018)::Drama
@@ -36606,12 +36612,14 @@
 12592252::Songbird (2020)::Comedy|Drama|Romance|Thriller
 12607910::Black Is King (2020)::Music
 12644232::Lie huang zhe (2020)::Drama
+12676326::Malcolm &amp; Marie (2021)::Drama|Romance
 12724622::Anelka: Misunderstood (2020)::Documentary|Sport
 12734800::The Plot Against the President (2020)::Documentary
 12749596::Host (2020)::Horror
 12762684::In My Room (2020)::Short|Drama
 12763920::Daman akeseo goohasoseo (2020)::Action|Crime|Thriller
 12766862::Curfew (2020)::Drama|Family|History
+12838766::Seungriho (2021)::Action|Adventure|Drama|Fantasy|Sci-Fi
 12875782::Freaks: You're One of Us (2020)::Action|Drama|Fantasy|Sci-Fi
 12885852::Batman: Soul of the Dragon (2021)::Animation|Action|Adventure|Crime
 12888462::My Octopus Teacher (2020)::Documentary
