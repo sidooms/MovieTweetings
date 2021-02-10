@@ -859,7 +859,7 @@
 0033879::Man Made Monster (1941)::Drama|Horror|Sci-Fi
 0033891::Meet John Doe (1941)::Comedy|Drama|Romance
 0033902::Men of Boys Town (1941)::Drama
-0033922::Mr. & Mrs. Smith (1941)::Comedy|Romance
+0033922::Mr. &amp; Mrs. Smith (1941)::Comedy|Romance
 0033945::Never Give a Sucker an Even Break (1941)::Comedy|Musical
 0033948::Ni sangre, ni arena (1941)::Comedy
 0034012::Penny Serenade (1941)::Drama|Romance
@@ -15785,7 +15785,7 @@
 0814071::Davy and Stu (2006)::Short|Drama|Romance
 0814075::Deliver Us from Evil (2006)::Documentary|Crime
 0814130::The Hammer (2007)::Comedy|Romance|Sport
-0814255::Percy Jackson & the Olympians: The Lightning Thief (2010)::Adventure|Family|Fantasy
+0814255::Percy Jackson &amp; the Olympians: The Lightning Thief (2010)::Adventure|Family|Fantasy
 0814314::Seven Pounds (2008)::Drama|Romance
 0814331::Spring Breakdown (2009)::Comedy|Romance
 0814335::The Stepfather (2009)::Crime|Thriller
@@ -17824,6 +17824,7 @@
 1236484::Stoic (2009)::Crime|Drama
 1236958::Lost in Love (2008)::Drama|Romance
 1237838::Mystery Team (2009)::Comedy|Crime|Mystery
+1237958::Doroppu (2009)::Action|Comedy
 1238291::Five Minutes of Heaven (2009)::Drama|Thriller
 1238298::On the Other Hand, Death (2008)::Crime|Drama|Mystery
 1239242::Frank and Cindy (2015)::Comedy
@@ -18567,7 +18568,7 @@
 1386492::This Is Not a Movie (2011)::Comedy|Drama
 1386588::The Other Guys (2010)::Action|Comedy|Crime
 1386683::En ganske snill mann (2010)::Comedy|Crime|Drama
-1386691::Shimmer Lake (2016)::Crime|Drama|Mystery|Thriller
+1386691::Shimmer Lake (2017)::Crime|Drama|Mystery|Thriller
 1386697::Suicide Squad (2016)::Action|Adventure|Fantasy|Sci-Fi
 1386703::Total Recall (2012)::Action|Adventure|Mystery|Sci-Fi|Thriller
 1386925::The Dead (2010)::Horror
@@ -33786,6 +33787,7 @@
 6838918::Vault (2019)::Action|Crime|Drama|History|Thriller
 6841500::Kukhnya. Poslednyaya bitva (2017)::Comedy
 6842126::Don't Leave Home (2018)::Horror|Mystery|Thriller
+6842770::Wild Mountain Thyme (2020)::Drama|Romance
 6843446::Undercover Brother 2 (2019)::Comedy
 6843812::Baaghi 2 (2018)::Action|Thriller
 6846432::Yomeddine (2018)::Adventure|Comedy|Drama
@@ -35150,6 +35152,7 @@
 8323104::Nancy Drew and the Hidden Staircase (2019)::Crime|Drama|Family|Mystery
 8323120::La vérité (2019)::Drama
 8323914::Russkie evrei. Film vtoroy. 1918-1948 (2017)::Documentary|History
+8323918::Russkie evrei. Film tretiy. Posle 1948 goda (2017)::Documentary|History
 8324462::Cucuy: The Boogeyman (2018)::Horror|Thriller
 8324474::Hope Aur Hum (2018)::Comedy|Drama|Family
 8324576::Gatao 2: The New King (2018)::Crime
@@ -36121,6 +36124,7 @@
 10265000::Lucky Toupee (2019)::Animation|Short
 10265010::Puddles (2019)::Animation|Short
 10272386::The Father (2020)::Drama
+10272534::Lux Æterna (2019)::Drama|Thriller
 10274638::Eva: Stories (2019)::Drama
 10275440::K-13 (2019)::Mystery|Thriller
 10276470::Work It (2020)::Comedy|Music
@@ -36296,6 +36300,7 @@
 10656188::Ratu Ilmu Hitam (2019)::Horror|Mystery|Thriller
 10656222::Warkop DKI Reborn (2019)::Adventure|Comedy
 10656240::Bebas (2019)::Comedy|Drama
+10661710::Born a Champion (2021)::Action|Drama|Sport
 10662450::Enter the Anime (2019)::Documentary
 10675136::Hell House LLC III: Lake of Fire (2019)::Horror
 10675392::Saezuru Tori Wa Habatakanai: The Clouds Gather (2020)::Animation|Crime|Drama|Romance
@@ -36558,6 +36563,7 @@
 11744784::Barrymore: The Body in the Pool (2020)::Documentary|Crime
 11749480::Shooter (2020)::Action
 11750282::Voces (2020)::Drama|Horror|Thriller
+11767722::Khorshid (2020)::Drama
 11769162::Santana (2020)::Action
 11777040::Sanyangeui sigan (2020)::Crime|Drama|Sci-Fi|Thriller
 11777298::DAU. Degeneratsiya (2020)::Drama
@@ -36664,4 +36670,5 @@
 13696668::Tony Parker: The Final Shot (2021)::Documentary|Biography|Sport
 13723064::Wszyscy moi przyjaciele nie zyja (2020)::Comedy|Crime|Drama
 13728764::June &amp; Kopi (2021)::Comedy|Drama|Family
+13802658::What Would Sophia Loren Do? (2021)::Documentary|Short|Biography
 13886688::Affliction (2021)::Thriller
