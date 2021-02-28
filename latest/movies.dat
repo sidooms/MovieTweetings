@@ -2484,6 +2484,7 @@
 0053746::Dama s sobachkoj (1960)::Drama|Romance
 0053765::Devi (1960)::Drama
 0053772::Djävulens öga (1960)::Comedy|Drama|Fantasy
+0053775::Doctor in Love (1960)::Comedy
 0053779::La dolce vita (1960)::Comedy|Drama
 0053793::Elmer Gantry (1960)::Drama
 0053796::The Entertainer (1960)::Drama
@@ -11852,6 +11853,7 @@
 0263975::Selvi boylum, al yazmalim (1978)::Drama|Romance
 0264051::Sultan (1978)::Family|Comedy|Romance
 0264058::Survivor Series (1988)::Action|Sport
+0264059::Survivor Series (1989)::Action|Sport
 0264150::View from the Top (2003)::Comedy|Romance
 0264323::2001 Maniacs (2005)::Comedy|Horror
 0264344::Al-Kahira thalatin (1966)::Drama|Romance
@@ -11942,7 +11944,7 @@
 0268978::A Beautiful Mind (2001)::Biography|Drama
 0268995::The Majestic (2001)::Drama|Romance
 0269095::City by the Sea (2002)::Crime|Drama|Mystery|Thriller
-0269182::The Edge of Quarrel (2000)::
+0269182::The Edge of Quarrel (2000)::Drama
 0269341::Two Can Play That Game (2001)::Comedy|Romance
 0269347::The Hunted (2003)::Action|Crime|Drama|Thriller
 0269356::Ice Planet (2003)::Sci-Fi
@@ -12868,7 +12870,7 @@
 0333388::Edifício Master (2002)::Documentary
 0333445::Feast of Death (2001)::Documentary
 0333766::Garden State (2004)::Comedy|Drama|Romance
-0333780::Legally Blonde 2: Red, White & Blonde (2003)::Comedy
+0333780::Legally Blonde 2: Red, White &amp; Blonde (2003)::Comedy
 0334226::Remake (2003)::Drama
 0334405::Spellbound (2002)::Documentary|Comedy|Thriller
 0334754::Yossi &amp; Jagger (2002)::Drama|Romance|War
@@ -25367,6 +25369,7 @@
 2649274::The Ghost Army (2013)::Documentary|History
 2649554::Midnight Special (2016)::Action|Drama|Mystery|Sci-Fi|Thriller
 2649800::House Guest (2013)::Horror|Thriller
+2649882::Night Eyes (2014)::Thriller
 2650642::W imie... (2013)::Drama|Thriller
 2650718::Matterhorn (2013)::Comedy|Drama
 2650954::Dolgaya schastlivaya zhizn (2013)::Drama
@@ -26860,6 +26863,7 @@
 3184934::Une nouvelle amie (2014)::Drama
 3185602::Front Cover (2015)::Comedy|Drama|Romance
 3185772::Onaayum Aattukkuttiyum (2013)::Crime|Mystery|Thriller
+3186122::Remittance (2015)::Drama|Family
 3186318::Hellion (2014)::Drama|Thriller
 3186838::Fields of the Dead (2014)::Horror
 3186946::Xenia (2014)::Drama|Romance
@@ -35585,6 +35589,7 @@
 8903840::Alice et le maire (2019)::Comedy|Drama
 8906678::Brotherhood (2018)::Short|Drama
 8907986::Angrezi Medium (2020)::Drama
+8907992::The Girl on the Train (2021)::Crime|Drama|Mystery|Thriller
 8908002::Luka Chuppi (2019)::Comedy|Romance
 8908006::Trezor (2018)::Crime|History|Thriller
 8908024::Surkhi Bindi (2019)::Drama
@@ -36316,6 +36321,7 @@
 10516984::Anima (2019)::Short|Music
 10519182::Khandaani Shafakhana (2019)::Comedy|Drama
 10520800::The Comedy Central Roast of Alec Baldwin (2019)::Comedy
+10521020::Cubanas. Mujeres En Revolución (2018)::
 10521084::Suatu Ketika (2019)::Action|Drama|Sport
 10521638::Whitney Cummings: Can I Touch It? (2019)::Comedy
 10521814::K-12 (2019)::Fantasy|Horror|Musical
@@ -36425,6 +36431,7 @@
 10776270::Sebelum Iblis Menjemput: Ayat Dua (2020)::Horror|Mystery|Thriller
 10779084::Red Penguins (2019)::Documentary|Sport
 10785310::Três Verões (2019)::Drama
+10793644::The Vigil (2019)::Horror|Mystery|Thriller
 10795784::Leslie Jones: Time Machine (2020)::Comedy
 10796286::Dorogie tovarishchi (2020)::Drama|History
 10799940::Love Is War (2019)::Drama
@@ -36574,6 +36581,7 @@
 11316854::Gabriel's Inferno (2020)::Romance
 11318624::John Mulaney &amp; the Sack Lunch Bunch (2019)::Comedy|Family|Musical
 11318648::Rotpunkt (2019)::Documentary
+11320192::Andra sidan (2020)::Horror
 11323964::The Fear Footage 2: Curse of the Tape (2020)::Horror
 11327514::Uncle Frank (2020)::Comedy|Drama
 11342846::Reel Rock 14 (2019)::Documentary|Adventure|Sport
@@ -36609,6 +36617,7 @@
 11454718::Yin-Yang Master I (2020)::Action|Drama|Fantasy|Mystery|Sci-Fi
 11454944::The Physics of Sorrow (2019)::Animation|Short
 11456054::Run Hide Fight (2020)::Action
+11459366::Billie Eilish: The World's a Little Blurry (2021)::Documentary|Biography|Music
 11464826::The Social Dilemma (2020)::Documentary|Drama
 11469408::Bokura no nanoka-kan sensô (2019)::Animation
 11469660::Akhir Kisah Cinta Si Doel (2020)::Drama
@@ -36693,6 +36702,7 @@
 11975230::The Skywalker Legacy (2020)::Documentary
 11987296::Chris D'Elia: No Pain (2020)::Comedy
 11989890::David Attenborough: A Life on Our Planet (2020)::Documentary|Biography
+11994750::Made You Look: A True Story About Fake Art (2020)::Documentary
 12011442::Burn the Witch (2020)::Animation|Action|Fantasy
 12027020::LA Originals (2020)::Documentary
 12036052::Elephant (2020)::Documentary|Adventure|Biography|Family
@@ -36771,7 +36781,7 @@
 13446424::Wir können nicht anders (2020)::Comedy|Crime|Thriller
 13567480::Death to 2020 (2020)::Comedy
 13583144::The Minimalists: Less Is Now (2021)::Documentary
-13640382::Au Revoir, Chris Hemsworth (2020)::
+13640382::Au Revoir, Chris Hemsworth (2020)::Short|Comedy|Music
 13648184::El perro que no calla (2021)::Drama
 13648212::Hive (2021)::Drama
 13649700::Crack: Cocaine, Corruption &amp; Conspiracy (2021)::Documentary|Crime|History
