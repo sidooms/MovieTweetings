@@ -5524,7 +5524,7 @@
 0082220::Cutter's Way (1981)::Crime|Drama|Mystery|Thriller
 0082222::Czlowiek z zelaza (1981)::Drama|History
 0082237::Dawn of the Mummy (1981)::Horror
-0082242::Dead & Buried (1981)::Horror|Mystery
+0082242::Dead &amp; Buried (1981)::Horror|Mystery
 0082243::Strange Behavior (1981)::Horror|Mystery|Sci-Fi
 0082245::Deadly Blessing (1981)::Horror
 0082247::Death Hunt (1981)::Action|Adventure|Crime|Thriller|Western
@@ -6682,7 +6682,7 @@
 0092074::TerrorVision (1986)::Comedy|Horror|Sci-Fi
 0092076::The Texas Chainsaw Massacre 2 (1986)::Comedy|Horror
 0092085::Thrashin' (1986)::Action|Drama|Romance
-0092086::¡Three Amigos! (1986)::Comedy|Western
+0092086::Three Amigos! (1986)::Comedy|Western
 0092090::Thérèse (1986)::Drama
 0092099::Top Gun (1986)::Action|Drama
 0092105::Tough Guys (1986)::Comedy|Crime
@@ -11809,7 +11809,7 @@
 0258038::Pootie Tang (2001)::Action|Adventure|Comedy|Musical
 0258068::The Quiet American (2002)::Drama|Mystery|Romance|Thriller|War
 0258153::S1m0ne (2002)::Comedy|Drama|Sci-Fi
-0258302::WWF Backlash (1999)::
+0258302::WWF Backlash (1999)::Action|Sport
 0258431::Ashta Vinayak (1979)::Drama
 0258463::The Bourne Identity (2002)::Action|Mystery|Thriller
 0258470::Bubble Boy (2001)::Adventure|Comedy|Romance|Sci-Fi
@@ -18521,6 +18521,7 @@
 1360866::Gigante (2009)::Drama
 1361313::The Extra Man (2010)::Comedy
 1361318::Good People (2014)::Action|Crime|Thriller
+01361336::Tom and Jerry (2021)::Animation|Adventure|Comedy|Family
 1361336::Tom and Jerry (2021)::Animation|Adventure|Comedy|Family
 1361349::Nanga Parbat (2010)::Biography|Drama
 1361566::Tsumiki no ie (2008)::Animation|Short|Drama|Family
@@ -25856,6 +25857,7 @@
 2837574::The Old Man &amp; the Gun (2018)::Biography|Comedy|Crime|Drama|Romance
 2837694::The Burning Buddha Man (2013)::Animation|Fantasy|Horror
 2837866::I Will Be Murdered (2013)::Documentary|News|Romance
+2838568::The More You Ignore Me (2018)::Comedy
 2839030::World Peace (2013)::Short|Fantasy|Sci-Fi|Thriller
 2839312::Barrio Brawler (2013)::Action|Crime|Drama
 2842128::Cargo (2013)::Short|Drama|Horror|Sci-Fi
@@ -29011,6 +29013,7 @@
 3951908::Neither Wolf Nor Dog (2016)::Drama
 3952108::The Dead Room (2015)::Horror|Thriller
 3952614::NY84 (2016)::Drama|Music|Romance
+3952864::Tainted (2020)::Crime|Drama|Thriller
 3953626::A Country Called Home (2015)::Drama
 3953834::Ka-teu (2014)::Drama
 3954222::Männerhort (2014)::Comedy|Drama
@@ -33305,6 +33308,7 @@
 6302006::Yeo-gyo-sa (2016)::Drama|Romance|Thriller
 6302122::Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry (2016)::Documentary|Comedy
 6302160::Pan-dola (2016)::Action|Drama
+6302164::Game of Death (2017)::Horror|Thriller
 6303866::Beach Rats (2017)::Drama
 6304046::Thelma (2017)::Drama|Fantasy|Horror|Mystery|Romance|Thriller
 6304162::Nelyubov (2017)::Drama
@@ -36740,6 +36744,7 @@
 11388580::Miss Americana (2020)::Documentary
 11390036::A Fall from Grace (2020)::Thriller
 11391604::Once Upon a Time in Venezuela (2020)::Documentary
+11394166::A Thousand Cuts (2020)::Documentary
 11394168::Be Water (2020)::Documentary
 11394188::Spaceship Earth (2020)::Documentary
 11394200::Welcome to Chechnya (2020)::Documentary
@@ -36884,6 +36889,7 @@
 12274228::Rent-a-Pal (2020)::Horror|Thriller
 12282598::La Corazonada (2020)::Crime|Thriller
 12286896::Chelovek iz Podolska (2020)::Drama
+12326248::Uzy (2019)::Animation|Short
 12327104::Eric Andre: Legalize Everything (2020)::Comedy
 12357266::Jo Koy: In His Elements (2020)::Comedy
 12361974::Zack Snyder's Justice League (2021)::Action|Adventure|Fantasy|Sci-Fi
@@ -36936,6 +36942,7 @@
 13210996::Samjin Group Yeong-aw TOEIC-ban (2020)::Comedy|Drama
 13243898::The Mole: Undercover in North Korea (2020)::Documentary|Thriller
 13253228::Eden (2020)::Short|Drama
+13269536::Girl in the Basement (2021)::Crime|Thriller
 13316820::Boy Meets Boy (2021)::Drama|Romance
 13347818::Mu yu zhi wang (2020)::Comedy
 13364790::Hi, Mom (2021)::Drama
@@ -36955,6 +36962,7 @@
 13696668::Tony Parker: The Final Shot (2021)::Documentary|Biography|Sport
 13723064::Wszyscy moi przyjaciele nie zyja (2020)::Comedy|Crime|Drama
 13728764::June &amp; Kopi (2021)::Comedy|Drama|Family
+13773882::Madam Chief Minister (2021)::Drama
 13802658::What Would Sophia Loren Do? (2021)::Documentary|Short|Biography
 13842562::Pelé (2021)::Documentary|Biography|Sport
 13884166::Meitantei Conan: Hiiro no dangan (2021)::Animation
@@ -36967,4 +36975,6 @@
 14078164::Nate Bargatze: The Greatest Average American (2021)::Comedy
 14111734::Operation Varsity Blues: The College Admissions Scandal (2021)::Documentary|Crime|Drama
 14117288::Oprah with Meghan and Harry: A CBS Primetime Special (2021)::Talk-Show
-14219522::Dying Is Easy (2021)::
+14152756::Seaspiracy (2021)::Documentary
+14219522::Dying Is Easy (2021)::Short|Action
+14237412::Diablada (2020)::Drama|Thriller
