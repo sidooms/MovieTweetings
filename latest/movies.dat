@@ -10567,7 +10567,7 @@
 0154685::Johny Mera Naam (1970)::Action|Drama|Musical
 0154749::Kudrat (1981)::Drama|Mystery|Romance|Thriller
 0154909::Muddat (1986)::Action|Comedy|Crime|Drama
-0154912::Mulzim (1963)::
+0154912::Mulzim (1963)::Crime|Drama
 0155064::Pudhu Pudhu Arthangal (1989)::Comedy|Drama
 0155265::Thillu Mullu (1981)::Comedy
 0155267::The Thomas Crown Affair (1999)::Crime|Romance|Thriller
@@ -11404,7 +11404,7 @@
 0213682::Gohatto (1999)::Drama|History|Thriller
 0213790::The Ladies Man (2000)::Comedy
 0213847::Malèna (2000)::Comedy|Drama|Romance|War
-0213851::Al-manam (1988)::
+0213851::Al-manam (1988)::Documentary
 0213890::Mohabbatein (2000)::Musical|Drama|Romance
 0213969::Padaiyappa (1999)::Action|Comedy|Drama
 0213988::Patsy, mi amor (1969)::Drama|Romance
@@ -13339,7 +13339,7 @@
 0355477::Ghaltet habibi (1958)::Drama
 0355521::El haram (1965)::Drama
 0355526::Hekayat hub (1959)::Drama|Musical|Romance
-0355577::Irham hubbi (1959)::
+0355577::Irham hubbi (1959)::Drama|Romance
 0355674::La anam (1957)::Drama|Romance
 0355683::Ein Leben lang kurze Hosen tragen (2002)::Crime|Drama
 0355702::Lords of Dogtown (2005)::Biography|Drama|Sport
@@ -13370,7 +13370,7 @@
 0357282::O vasilias (2002)::Drama
 0357413::Anchorman: The Legend of Ron Burgundy (2004)::Comedy
 0357414::Adam &amp; Evil (2004)::Horror
-0357433::Apne Huye Paraye (1964)::
+0357433::Apne Huye Paraye (1964)::Drama|Family
 0357470::The Battle of Shaker Heights (2003)::Drama|Romance|Comedy
 0357507::Boogeyman (2005)::Drama|Horror|Mystery|Thriller
 0357585::Decoys (2004)::Comedy|Horror|Sci-Fi
@@ -24877,7 +24877,7 @@
 2422426::And Who Taught You to Drive? (2012)::Documentary|Comedy
 2423132::Akaash Vani (2013)::Drama|Romance
 2424538::Cheol-ham-gye-gok-eui hyeo-too (2011)::Drama
-2424752::Belenggu (2012)::
+2424752::Belenggu (2012)::Horror|Mystery|Thriller
 2424988::Gabbar is Back (2015)::Action
 2425466::Warren (2014)::Comedy|Drama|Romance
 2425486::Gloria (2012)::Comedy|Drama|Romance
@@ -33537,7 +33537,7 @@
 6229652::Benim Adim Feridun (2016)::Comedy
 6229786::Roza of Smyrna (2016)::Drama|Romance
 6229852::Deli Ask (2017)::Comedy|Romance
-6232854::Queen of Hearts (2016)::
+6232854::Queen of Hearts (2016)::Short
 6233154::El Silencio de los Fusiles (2017)::Documentary
 6234666::Never Said Goodbye (2016)::Romance
 6235786::Doroga (2016)::Documentary
@@ -33758,6 +33758,7 @@
 6363646::Swamp Ape (2017)::Adventure|Comedy|Horror
 6366854::Cek Toko Sebelah (2016)::Comedy|Drama|Family
 6367558::L&x27;amant double (2017)::Drama|Romance|Thriller
+6372694::Prisoners of the Ghostland (2021)::Action|Sci-Fi|Thriller
 6373590::Omicidio all'Italiana (2017)::Comedy
 6375308::David Bowie: The Last Five Years (2017)::Documentary
 6378710::Villains (2019)::Comedy|Drama|Horror|Thriller
@@ -33853,7 +33854,7 @@
 6446772::MIN &amp; MAX (2016)::Comedy|Romance
 6449336::Belle et Sébastien 3, le dernier chapitre (2017)::Adventure|Family
 6449504::Diep Vu Chan Dai (2016)::Comedy
-6449684::Tia Tui La Cao Thu (2016)::
+6449684::Tia Tui La Cao Thu (2016)::Comedy
 6450162::Helm Al Omr (2009)::Sport
 6450186::I Can Only Imagine (2018)::Biography|Drama|Family|Music
 6450662::End Trip (2018)::Horror|Thriller
@@ -35480,6 +35481,7 @@
 7986222::Kolamavu Kokila (2018)::Comedy|Crime|Drama
 7986672::Morto Não Fala (2018)::Horror|Mystery|Thriller
 7987138::Back to the Taj Mahal Hotel (2017)::Documentary
+7991608::Red Notice (2021)::Action|Comedy|Crime
 8000146::George Michael Freedom: The Director's Cut (2018)::Documentary|Biography|Music
 8000718::The Operative (2019)::Thriller
 8000908::Robert the Bruce (2019)::History
@@ -35520,6 +35522,7 @@
 8041916::Time Jumpers (2018)::Sci-Fi
 8042292::Kannum Kannum Kollaiyadithaal (2020)::Drama|Romance|Thriller
 8043254::Sirb al-Hamam (2018)::Action
+8045592::Later Days (2021)::Comedy
 8045906::Words on Bathroom Walls (2020)::Drama|Romance
 8046498::Don't Tell a Soul (2020)::Drama|Thriller
 8053258::Manyak (2018)::Comedy|Drama|Thriller
@@ -36185,6 +36188,7 @@
 8908024::Surkhi Bindi (2019)::Drama
 8914492::Game Over (2019)::Drama|Thriller
 8914698::Something in Between (2018)::Drama
+8917170::Rose Plays Julie (2019)::Drama
 8917752::Joy (2018)::Drama
 8918042::Dnyukha! (2018)::Comedy
 8918876::Vader: A Star Wars Theory Fan Series (2018)::
@@ -36534,7 +36538,7 @@
 9435162::DreadOut (2019)::Adventure|Fantasy|Horror|Mystery|Thriller
 9442842::In Search of Darkness (2019)::Documentary|Horror
 9445054::Bleed Out (2018)::Documentary|Drama|Romance|Thriller
-9448656::Plane Tree (2018)::
+9448656::Plane Tree (2018)::Drama
 9448932::Love Sarah (2020)::Comedy|Drama|Romance
 9449666::Playhouse (2020)::Horror|Thriller
 9458116::Magnetic (2018)::Documentary|Sport
@@ -37422,6 +37426,7 @@
 11284280::Kadaver (2020)::Drama|Horror|Thriller
 11285280::Together Together (2021)::Comedy
 11285908::Ashfall (2019)::Action
+11286640::Nowhere Special (2020)::Drama
 11289634::Homecoming (2019)::Drama
 11295300::Marvel Studios: Expanding the Universe (2019)::Documentary|Short
 11307724::John and the Hole (2021)::Drama|Thriller
