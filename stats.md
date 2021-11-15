@@ -4,21 +4,21 @@ Here are some MovieTweetings statistics. Note that these are autocalculated and 
 
 Metric | Value
 --- | ---
-Total number of ratings                 | 920,524
-Number of unique users                  | 71,671
-Number of unique items                  | 37,976
+Total number of ratings                 | 920,651
+Number of unique users                  | 71,676
+Number of unique items                  | 37,980
 Minimum rating value                    | 0.0
 Maximum rating value                    | 10.0
 Earliest rating time                    | 2013-02-28 15:38:27
-Last rating time                        | 2021-11-14 07:33:21
+Last rating time                        | 2021-11-15 07:50:49
 Maximum number of ratings per user      | 2,875
 Maximum number of ratings per item      | 3,104
-Number of users with minimum 50 ratings | 3,971
+Number of users with minimum 50 ratings | 3,974
 Number of users with minimum 40 ratings | 4,987
-Number of users with minimum 30 ratings | 6,595
+Number of users with minimum 30 ratings | 6,596
 Number of users with minimum 20 ratings | 9,290
-Number of users with minimum 10 ratings | 15,316
+Number of users with minimum 10 ratings | 15,320
 Average number of ratings per user      | 13
 Average number of ratings per item      | 24
-Stats calculation time                  | Sun Nov 14 02:30:55 2021
+Stats calculation time                  | Mon Nov 15 02:30:37 2021
 
